@@ -1,0 +1,33 @@
+name: Submit a Discord community
+description: Suggest a cybersecurity / hacking Discord server for the directory
+title: "[Submission] <server name>"
+labels: ["submission"]
+body:
+  - type: input
+    id: name
+    attributes: { label: Server name, placeholder: "e.g. Hak5" }
+    validations: { required: true }
+  - type: input
+    id: invite
+    attributes: { label: Permanent invite link, description: "A non-expiring discord.gg link. Vanity URLs are best.", placeholder: "https://discord.gg/..." }
+    validations: { required: true }
+  - type: input
+    id: website
+    attributes: { label: Website / GitHub / YouTube that links to this invite (proves it is official) }
+  - type: dropdown
+    id: category
+    attributes:
+      label: Best-fit category
+      options: [general, learning, ctf, creator, tool, hardware, blueteam, redteam, appsec, osint, careers, affinity, regional, conference, village, adjacent]
+    validations: { required: true }
+  - type: textarea
+    id: about
+    attributes: { label: What is it, who runs it, and who is it for?, description: "2-4 sentences. Is it beginner friendly? Any rules newcomers should know?" }
+    validations: { required: true }
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirm
+      options:
+        - label: This server is legal, non-NSFW, and not selling cheats, accounts, or illegal services
+          required: true

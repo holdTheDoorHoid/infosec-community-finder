@@ -1,0 +1,117 @@
+[
+ {
+  "id": "thotcon",
+  "name": "THOTCON",
+  "invite_url": "https://discord.gg/FtUAWTPA8e",
+  "discord_description": null,
+  "members": 824,
+  "online": 157,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "THOTCON",
+  "candidate_notes": "Official site links this bit.ly shortlink labeled 'Discord' in its social/mail section. Chicago, US. | shortlink https://bit.ly/47Jd2cU -> https://discord.com/invite/FtUAWTPA8e",
+  "category_hints": [
+   "conference"
+  ],
+  "sources": [
+   "https://www.thotcon.org/"
+  ]
+ },
+ {
+  "id": "simply-cyber",
+  "name": "SIMPLY CYBER",
+  "invite_url": "https://discord.gg/simplycyber",
+  "discord_description": "Simply Cyber is a supportive, inclusive cybersecurity community for anyone wanting to learn and work in cyber.",
+  "members": 19831,
+  "online": 2167,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Simply Cyber",
+  "candidate_notes": "Official site has a 'Join our Discord community' CTA (invite URL not visible in fetched content); this discord.gg/simplycyber link (~19,700 members) found via search matches the community name exactly. Year-round online community/brand (Gerald Auger) that also runs Simply Cyber Con, US-based, not itself an event-week-only server.",
+  "category_hints": [
+   "other"
+  ],
+  "sources": [
+   "https://simplycyber.io/",
+   "https://discord.com/servers/simply-cyber-829733892981522453"
+  ]
+ },
+ {
+  "id": "bsides312",
+  "name": "BSides312",
+  "invite_url": "https://discord.gg/uJbXBFjErQ",
+  "discord_description": "The official Discord of BSides312; Chicago's biggest little infosec and hacking conference! https://bsides312.org",
+  "members": 354,
+  "online": 61,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "BSides312 (Chicago)",
+  "candidate_notes": "Chicago, US. Own site has a 'Join our Discord!' link using a tinyurl redirect rather than a bare discord.gg link; captured exactly as written on the page. Appears to be a standing community link, not obviously event-week-only. | shortlink https://tinyurl.com/bsides312 -> https://discord.com/invite/uJbXBFjErQ",
+  "category_hints": [
+   "conference"
+  ],
+  "sources": [
+   "https://bsides312.org/"
+  ]
+ },
+ {
+  "id": "bsides-vilnius",
+  "name": "BSides Vilnius",
+  "invite_url": "https://discord.gg/sbVmP6B822",
+  "discord_description": null,
+  "members": 253,
+  "online": 34,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "EL BSides",
+  "candidate_notes": "Hamburg, Germany (Elbsides). Found via third-party search result citing their discord link.",
+  "category_hints": [
+   "conference"
+  ],
+  "sources": [
+   "https://www.elbsides.eu/2026/"
+  ]
+ },
+ {
+  "id": "hackers-guild",
+  "name": "Hackers Guild",
+  "invite_url": "https://discord.gg/8NeSyVVbpy",
+  "discord_description": null,
+  "members": 557,
+  "online": 115,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "GuildCon",
+  "candidate_notes": "Pittsburgh, US. Discord belongs to parent org Hackers Guild PGH (year-round community), which runs GuildCon; site itself returned 403 to fetch.",
+  "category_hints": [
+   "conference"
+  ],
+  "sources": [
+   "https://hackersguildpgh.com/"
+  ]
+ },
+ {
+  "id": "bsides-michigan",
+  "name": "BSides Michigan",
+  "invite_url": "https://discord.gg/VTxn4qWwdQ",
+  "discord_description": null,
+  "members": 362,
+  "online": 56,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "BSides Detroit",
+  "candidate_notes": "Official site has dedicated /discord.html page linking this invite. Detroit, MI, US. Appears to be a year-round community.",
+  "category_hints": [
+   "conference"
+  ],
+  "sources": [
+   "https://www.bsidesdetroit.org/discord.html"
+  ]
+ }
+]

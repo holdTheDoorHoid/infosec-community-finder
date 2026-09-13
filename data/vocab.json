@@ -1,0 +1,25 @@
+{
+ "categories": {
+  "general": "General infosec community",
+  "learning": "Learning & study focused",
+  "ctf": "CTF / wargames / challenge platform",
+  "creator": "YouTuber, streamer or podcast community",
+  "tool": "Open-source tool or project support",
+  "hardware": "Hardware, RF & gadget hacking",
+  "blueteam": "Blue team, SOC, DFIR & detection",
+  "redteam": "Red team & offensive",
+  "appsec": "Web app security & bug bounty",
+  "osint": "OSINT, privacy & investigations",
+  "careers": "Careers, certs & job hunting",
+  "affinity": "Affinity / identity group",
+  "regional": "Local or regional group",
+  "conference": "Conference server",
+  "village": "DEF CON village or similar",
+  "adjacent": "Adjacent hobby (SDR, homelab, maker...)"
+ },
+ "tags": ["red-team","pentesting","web-appsec","bug-bounty","blue-team","soc","dfir","malware-analysis","threat-intel","detection-engineering","ctf","wargames","reverse-engineering","binary-exploitation","hardware-hacking","rf-sdr","wireless","rfid-nfc","iot-embedded","car-hacking","ics-ot","lockpicking-physical","osint","privacy","cloud-security","ai-security","mobile-security","networking","linux","careers","certifications","study-group","mentorship","jobs","homelab","programming","general-infosec","hacker-culture","badgelife-maker","aviation-tracking","ham-radio","game-hacking","cryptography","students","conference","village","regional","affinity-women","affinity-veterans","affinity-lgbtq","affinity-bipoc","affinity-neurodivergent","youth","tool-support","vendor","flipper-zero","social-engineering","forensics","news-cve"],
+ "activities": ["chat","q-and-a","ctf-events","study-groups","job-board","voice-events","workshops","hardware-help","project-showcase","news-feed","mentorship","local-meetups","challenges","writeups","giveaways"],
+ "audience": ["beginner","intermediate","advanced"],
+ "regions": ["global","us","us-northeast","us-southeast","us-midwest","us-south","us-west","canada","uk-ireland","europe","india","asia","australia-nz","latin-america","africa","middle-east"],
+ "size_tiers": {"tiny": "<500", "small": "500-3k", "medium": "3k-15k", "large": "15k-50k", "huge": "50k+"}
+}

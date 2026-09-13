@@ -1,0 +1,115 @@
+[
+ {
+  "id": "wild-west-hackin-fest",
+  "name": "Wild West Hackin' Fest",
+  "invite_url": "https://discord.gg/wwhf",
+  "discord_description": null,
+  "members": 10428,
+  "online": 1589,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Wild West Hackin' Fest — Deadwood",
+  "candidate_notes": "",
+  "category_hints": [],
+  "sources": [
+   "lsoh-con-tracker",
+   "https://www.linkedin.com/posts/jordansnapper_17-cybersecurity-discord-servers-you-must-activity-7289533871006584832-IV-2/"
+  ]
+ },
+ {
+  "id": "blue-team-con",
+  "name": "Blue Team Con",
+  "invite_url": "https://discord.gg/qkmq6MdK48",
+  "discord_description": null,
+  "members": 1448,
+  "online": 186,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Blue Team Con",
+  "candidate_notes": "Chicago, US. Appears to be a year-round community server (1348+ members). Not confirmed on official site (site returned 403 to fetch) but discord.com/invite link is directly resolvable and widely listed.",
+  "category_hints": [
+   "conference"
+  ],
+  "sources": [
+   "https://discord.com/invite/qkmq6MdK48 (via web search, top.gg listing)"
+  ]
+ },
+ {
+  "id": "bsides-atlanta",
+  "name": "BSides Atlanta",
+  "invite_url": "https://discord.gg/vNHeg2Y9wg",
+  "discord_description": "Discord server for BSides Atlanta!",
+  "members": 959,
+  "online": 104,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "BSides Atlanta",
+  "candidate_notes": "Atlanta, GA, US. Link found in site nav labeled 'Discord' (shortened bit.ly URL, captured exactly as written). Likely year-round community. (This is a BSides regional conference, not a village/camp.) | shortlink https://bit.ly/bsidesatl-discord -> https://discord.com/invite/vNHeg2Y9wg",
+  "category_hints": [
+   "conference"
+  ],
+  "sources": [
+   "https://bsidesatl.info/"
+  ]
+ },
+ {
+  "id": "open-source-hardware-association",
+  "name": "Open Source Hardware Association",
+  "invite_url": "https://discord.gg/bMK7NqFWG9",
+  "discord_description": null,
+  "members": 2130,
+  "online": 197,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Open Hardware Summit",
+  "candidate_notes": "Official OSHWA/Open Hardware Summit Discord, used for online discussions during event and described as year-round community hub between events. 2026 event in Germany, org based in US.",
+  "category_hints": [
+   "conference"
+  ],
+  "sources": [
+   "https://2026.oshwa.org/attend/"
+  ]
+ },
+ {
+  "id": "recon-reality-escape-convention",
+  "name": "RECON | Reality Escape Convention",
+  "invite_url": "https://discord.gg/recon",
+  "discord_description": null,
+  "members": 2329,
+  "online": 255,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "REcon",
+  "candidate_notes": "No discord link on official recon.cx site itself; this appears to be a long-standing community-run REcon Discord (2100+ members) found via search, not confirmed on the official site. Montreal, Canada, reverse-engineering conference.",
+  "category_hints": [
+   "conference"
+  ],
+  "sources": [
+   "https://recon.cx/"
+  ]
+ },
+ {
+  "id": "rstcon",
+  "name": "RSTCON",
+  "invite_url": "https://discord.gg/va7PvCRN9g",
+  "discord_description": "Official RSTCON Discord",
+  "members": 339,
+  "online": 50,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "RSTCON (US)",
+  "candidate_notes": "Official rstcon.org page fetched empty/blank (could not verify on-site); invite found via search, described as the official RSTCON Discord (341 members). Savannah, GA, US hacking conference. Note: distinct from unrelated Romanian 'RST Con' (rstcon.com) which has its own separate Discord.",
+  "category_hints": [
+   "conference"
+  ],
+  "sources": [
+   "https://rstcon.org/"
+  ]
+ }
+]

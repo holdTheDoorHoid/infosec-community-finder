@@ -1,0 +1,586 @@
+[
+ {
+  "name": "nahamsec",
+  "invite_url": "https://discord.com/invite/nahamsec",
+  "source_url": "https://www.nahamcon.com/",
+  "category_hint": "conference",
+  "confidence": "official",
+  "notes": "Official NahamSec/NahamCon community Discord (~41k members), year-round, online conference/CTF community; not tied to a specific city."
+ },
+ {
+  "name": "Blue Team Con",
+  "invite_url": "https://discord.com/invite/qkmq6MdK48",
+  "source_url": "https://discord.com/invite/qkmq6MdK48 (via web search, top.gg listing)",
+  "category_hint": "conference",
+  "notes": "Chicago, US. Appears to be a year-round community server (1348+ members). Not confirmed on official site (site returned 403 to fetch) but discord.com/invite link is directly resolvable and widely listed.",
+  "confidence": "listed"
+ },
+ {
+  "name": "BSides Atlanta",
+  "invite_url": "https://bit.ly/bsidesatl-discord",
+  "source_url": "https://bsidesatl.info/",
+  "category_hint": "conference",
+  "notes": "Atlanta, GA, US. Link found in site nav labeled 'Discord' (shortened bit.ly URL, captured exactly as written). Likely year-round community. (This is a BSides regional conference, not a village/camp.)",
+  "confidence": "official"
+ },
+ {
+  "name": "BSides Charleston",
+  "invite_url": null,
+  "source_url": "https://www.bsideschs.com/ (via WebFetch)",
+  "category_hint": "conference",
+  "notes": "Charleston, SC, US. Site's Contact & Community section explicitly lists 'Slack, and Discord available' but no direct invite URL was present in fetched content; a Slack invite link was found via search but no Discord link. (BSides regional conference.)",
+  "confidence": "unverified"
+ },
+ {
+  "name": "Nullcon",
+  "invite_url": null,
+  "source_url": "https://nullcon.net/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "CTF and community pages reference Discord as primary chat channel for HackIM CTF/community, but no invite link found on official site or search. Goa, India, event-focused."
+ },
+ {
+  "name": "Open Hardware Summit",
+  "invite_url": "https://discord.gg/bMK7NqFWG9",
+  "source_url": "https://2026.oshwa.org/attend/",
+  "category_hint": "conference",
+  "confidence": "official",
+  "notes": "Official OSHWA/Open Hardware Summit Discord, used for online discussions during event and described as year-round community hub between events. 2026 event in Germany, org based in US."
+ },
+ {
+  "name": "REcon",
+  "invite_url": "https://discord.com/invite/recon",
+  "source_url": "https://recon.cx/",
+  "category_hint": "conference",
+  "confidence": "listed",
+  "notes": "No discord link on official recon.cx site itself; this appears to be a long-standing community-run REcon Discord (2100+ members) found via search, not confirmed on the official site. Montreal, Canada, reverse-engineering conference."
+ },
+ {
+  "name": "RSTCON (US)",
+  "invite_url": "https://discord.com/invite/va7PvCRN9g",
+  "source_url": "https://rstcon.org/",
+  "category_hint": "conference",
+  "confidence": "listed",
+  "notes": "Official rstcon.org page fetched empty/blank (could not verify on-site); invite found via search, described as the official RSTCON Discord (341 members). Savannah, GA, US hacking conference. Note: distinct from unrelated Romanian 'RST Con' (rstcon.com) which has its own separate Discord."
+ },
+ {
+  "name": "THOTCON",
+  "invite_url": "https://bit.ly/47Jd2cU",
+  "source_url": "https://www.thotcon.org/",
+  "category_hint": "conference",
+  "confidence": "official",
+  "notes": "Official site links this bit.ly shortlink labeled 'Discord' in its social/mail section. Chicago, US."
+ },
+ {
+  "name": "Security Fest",
+  "invite_url": "https://discord.gg/qcqzKHDjX7",
+  "source_url": "https://securityfest.com/",
+  "category_hint": "conference",
+  "confidence": "listed",
+  "notes": "Found via search tied to Security Fest CTF; not confirmed directly on securityfest.com homepage content fetched. Gothenburg, Sweden."
+ },
+ {
+  "name": "ToorCamp / ToorCon",
+  "invite_url": null,
+  "source_url": "https://chat.toorcon.net/",
+  "category_hint": "conference",
+  "confidence": "listed",
+  "notes": "ToorCon runs its own chat.toorcon.net (Discord-linked) service as official community chat rather than a plain discord.gg link; no discord.gg/invite code found on toorcon.net or toorcamp.org homepages. US event."
+ },
+ {
+  "name": "Simply Cyber",
+  "invite_url": "https://discord.com/invite/simplycyber",
+  "source_url": "https://simplycyber.io/",
+  "category_hint": "other",
+  "confidence": "official",
+  "notes": "Official site has a 'Join our Discord community' CTA (invite URL not visible in fetched content); this discord.gg/simplycyber link (~19,700 members) found via search matches the community name exactly. Year-round online community/brand (Gerald Auger) that also runs Simply Cyber Con, US-based, not itself an event-week-only server."
+ },
+ {
+  "name": "BSides312 (Chicago)",
+  "invite_url": "https://tinyurl.com/bsides312",
+  "source_url": "https://bsides312.org/",
+  "category_hint": "conference",
+  "confidence": "official",
+  "notes": "Chicago, US. Own site has a 'Join our Discord!' link using a tinyurl redirect rather than a bare discord.gg link; captured exactly as written on the page. Appears to be a standing community link, not obviously event-week-only."
+ },
+ {
+  "name": "BSidesSeaSides",
+  "invite_url": null,
+  "source_url": "",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "No website found; no discord invite located via search. UK-based BSides chapter, event-week community likely, but unverified."
+ },
+ {
+  "name": "BSidesSouthFlorida",
+  "invite_url": null,
+  "source_url": "https://bsidessouthflorida.org/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "South Florida, US. No discord link on site or in search results."
+ },
+ {
+  "name": "BSidesTC",
+  "invite_url": null,
+  "source_url": "https://bsidestc.org/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Minneapolis/Twin Cities, US. Site lists Bluesky/Mastodon/LinkedIn only, no discord found."
+ },
+ {
+  "name": "BSidesUmeå",
+  "invite_url": null,
+  "source_url": "",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "No website found; no discord invite located via search. Umeå, Sweden."
+ },
+ {
+  "name": "BSidesZadar",
+  "invite_url": null,
+  "source_url": "https://bsideszadar.org/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Zadar, Croatia. Site and search show only Twitter/Instagram/LinkedIn, no discord found."
+ },
+ {
+  "name": "Burning River Cyber Con",
+  "invite_url": null,
+  "source_url": "https://burningrivercybercon.com/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Cleveland, Ohio, US. No discord found; contact is via email/X only."
+ },
+ {
+  "name": "c0c0n",
+  "invite_url": null,
+  "source_url": "https://www.c0c0n.org/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Kochi, India. No discord link found on site or via search."
+ },
+ {
+  "name": "Chaos Communication Camp",
+  "invite_url": null,
+  "source_url": "https://events.ccc.de/camp/",
+  "category_hint": "village",
+  "confidence": "unverified",
+  "notes": "Germany. CCC community historically uses IRC/Mattermost/Fediverse rather than Discord; none found on site."
+ },
+ {
+  "name": "Chaos Communication Congress (40C3)",
+  "invite_url": null,
+  "source_url": "https://events.ccc.de/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Germany. No discord found; CCC traditionally uses IRC/Matrix, not Discord."
+ },
+ {
+  "name": "Counter Spy Conference",
+  "invite_url": null,
+  "source_url": "https://counterspy.zip/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Atlanta, US. No discord link found on site."
+ },
+ {
+  "name": "Dakota Con",
+  "invite_url": null,
+  "source_url": "https://dakotacon.org/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "South Dakota, US. No discord link found."
+ },
+ {
+  "name": "DEATHCon Dublin",
+  "invite_url": null,
+  "source_url": "https://deathcon.io/",
+  "category_hint": "conference",
+  "confidence": "listed",
+  "notes": "Dublin, Ireland. Site mentions 'Discord Access' as an online-ticket perk and 'Discord chat' for workshops, indicating a server exists, but no invite URL is public (behind ticket purchase)."
+ },
+ {
+  "name": "DeepSec",
+  "invite_url": null,
+  "source_url": "https://deepsec.net/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Vienna, Austria. Site fetch blocked (429); search found no discord."
+ },
+ {
+  "name": "DEF CON Singapore",
+  "invite_url": "https://discord.gg/defcon",
+  "source_url": "https://defcon.org/html/defcon-singapore/dc-singapore-communities.html",
+  "category_hint": "conference",
+  "confidence": "listed",
+  "notes": "Singapore (event, part of global DEF CON). Uses the main official DEF CON discord server (year-round, global) rather than an event-specific one."
+ },
+ {
+  "name": "Diana Initiative",
+  "invite_url": null,
+  "source_url": "https://www.dianainitiative.org/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Las Vegas, US. No discord link found on site."
+ },
+ {
+  "name": "Districtcon",
+  "invite_url": null,
+  "source_url": "https://www.districtcon.org/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Washington DC, US. No discord found."
+ },
+ {
+  "name": "Ekoparty",
+  "invite_url": null,
+  "source_url": "https://ekoparty.org/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Buenos Aires, Argentina. No discord link found on site."
+ },
+ {
+  "name": "Ekoparty Miami",
+  "invite_url": null,
+  "source_url": "https://ekoparty.org/miami/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Miami, US. Shares parent Ekoparty site; no discord link found."
+ },
+ {
+  "name": "EL BSides",
+  "invite_url": "https://discord.gg/sbVmP6B822",
+  "source_url": "https://www.elbsides.eu/2026/",
+  "category_hint": "conference",
+  "confidence": "listed",
+  "notes": "Hamburg, Germany (Elbsides). Found via third-party search result citing their discord link."
+ },
+ {
+  "name": "Electromagnetic Field (EMF)",
+  "invite_url": null,
+  "source_url": "https://www.emfcamp.org/",
+  "category_hint": "village",
+  "confidence": "unverified",
+  "notes": "UK. Site references Fediverse presence, no discord found. It's a camping festival, closest category is village."
+ },
+ {
+  "name": "GrrCON",
+  "invite_url": null,
+  "source_url": "https://grrcon.com/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Grand Rapids, Michigan, US. No discord link found."
+ },
+ {
+  "name": "GuildCon",
+  "invite_url": "https://discord.gg/8NeSyVVbpy",
+  "source_url": "https://hackersguildpgh.com/",
+  "category_hint": "conference",
+  "confidence": "listed",
+  "notes": "Pittsburgh, US. Discord belongs to parent org Hackers Guild PGH (year-round community), which runs GuildCon; site itself returned 403 to fetch."
+ },
+ {
+  "name": "Hack Glasgow",
+  "invite_url": null,
+  "source_url": "https://hackglasgow.live/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Glasgow, Scotland, UK. No discord found; site lists other socials only."
+ },
+ {
+  "name": "Hack Miami",
+  "invite_url": null,
+  "source_url": "https://www.hackmiami.com/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Miami, US. No discord link found."
+ },
+ {
+  "name": "Hack Red Con",
+  "invite_url": null,
+  "source_url": "http://www.hackredcon.com/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "US. Page fetch returned minimal content; no discord found."
+ },
+ {
+  "name": "Hack Space Con",
+  "invite_url": null,
+  "source_url": "https://www.hackspacecon.com/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "US. Page fetch returned minimal content; no discord found."
+ },
+ {
+  "name": "hack.lu",
+  "invite_url": null,
+  "source_url": "https://hack.lu/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "Luxembourg. No discord found; site lists Twitter/Mastodon only."
+ },
+ {
+  "name": "Hackaday Supercon",
+  "invite_url": null,
+  "source_url": "https://hackaday.io/superconference/",
+  "category_hint": "other",
+  "confidence": "unverified",
+  "notes": "Pasadena, California, US. No discord link found on the fetched page."
+ },
+ {
+  "name": "Hacker Halted",
+  "invite_url": null,
+  "source_url": "https://www.hackerhalted.com/",
+  "category_hint": "conference",
+  "confidence": "unverified",
+  "notes": "US (Atlanta-area, EC-Council event). No discord found."
+ },
+ {
+  "name": "Hackfest",
+  "invite_url": "https://discord.hackfest.ca",
+  "source_url": "https://hackfest.ca/",
+  "category_hint": "other",
+  "confidence": "official",
+  "notes": "Quebec City, Canada. Official discord link (custom domain redirect) found directly on their homepage news section."
+ },
+ {
+  "name": "BSides Detroit",
+  "invite_url": "https://discord.gg/VTxn4qWwdQ",
+  "source_url": "https://www.bsidesdetroit.org/discord.html",
+  "category_hint": "conference",
+  "notes": "Official site has dedicated /discord.html page linking this invite. Detroit, MI, US. Appears to be a year-round community.",
+  "confidence": "official"
+ },
+ {
+  "name": "BSides DSM",
+  "invite_url": null,
+  "source_url": "https://www.bsidesdsm.org/",
+  "category_hint": "conference",
+  "notes": "Des Moines, Iowa, US. No Discord found on site or in search; only Instagram/LinkedIn/X listed.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Edmonton",
+  "invite_url": null,
+  "source_url": "https://www.bsidesedmonton.org/",
+  "category_hint": "conference",
+  "notes": "Edmonton, Alberta, Canada. No Discord link found on site or via search; presence on X/Facebook/YouTube/Mastodon only.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Flood City",
+  "invite_url": null,
+  "source_url": "https://www.bsidesfloodcity.com/",
+  "category_hint": "conference",
+  "notes": "Johnstown, PA, US. No Discord found; social presence on Facebook/X/LinkedIn/YouTube only.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Frankfurt",
+  "invite_url": null,
+  "source_url": "https://bsidesfrankfurt.org/",
+  "category_hint": "conference",
+  "notes": "Frankfurt, Germany. No Discord found on site or via search.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Fredericton",
+  "invite_url": null,
+  "source_url": "https://bsidesfredericton.ca/",
+  "category_hint": "conference",
+  "notes": "Fredericton, New Brunswick, Canada. No Discord found; site presence on LinkedIn/X/Facebook/YouTube.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Galway",
+  "invite_url": null,
+  "source_url": "https://bsidesgalway.com/",
+  "category_hint": "conference",
+  "notes": "Galway, Ireland. Homepage returned HTTP 403 to fetch tool; search found no Discord link, only Instagram/LinkedIn/X/YouTube presence.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Greenville",
+  "invite_url": null,
+  "source_url": "https://www.bsidesgreenville.org/",
+  "category_hint": "conference",
+  "notes": "Greenville, SC, US. A search snippet referenced a LinkedIn short-link (lnkd.in/gR_9-52K) said to point to their Discord, but that is not itself a discord.gg/discord.com URL and the exact destination could not be confirmed without following a third-party redirect, so no invite_url is captured. Strong signal a server exists.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Groningen",
+  "invite_url": null,
+  "source_url": "https://bsidesgrunn.org/",
+  "category_hint": "conference",
+  "notes": "Groningen, Netherlands. No Discord found on site or via search; presence on LinkedIn/Mastodon/YouTube/GitHub only.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Hampton Roads",
+  "invite_url": null,
+  "source_url": "https://bsideshamptonroads.org/",
+  "category_hint": "conference",
+  "notes": "Norfolk/Hampton Roads, VA, US (inaugural 2026 event). No official Discord found; a generic '757 Hampton Roads' Discord exists on Disboard but is unrelated to the conference.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides HBG",
+  "invite_url": null,
+  "source_url": "https://bsideshbg.com/",
+  "category_hint": "conference",
+  "notes": "Harrisburg, PA, US. Site's TLS cert did not match the domain (fetch tool blocked by cert mismatch to a GitHub Pages cert), so content could not be checked; no independent Discord signal found.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Idaho Falls",
+  "invite_url": null,
+  "source_url": "https://bsidesif.org/",
+  "category_hint": "conference",
+  "notes": "Idaho Falls, ID, US. Site has a Slack invite (join.slack.com/t/bsidesidahofalls/...) but no Discord invite found.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Jacksonville",
+  "invite_url": null,
+  "source_url": "https://www.bsidesjax.org/",
+  "category_hint": "conference",
+  "notes": "Jacksonville, FL, US. No invite link found on site, but a search result (infosec.exchange/InfoSecMap-adjacent) explicitly said 'you can join their Discord and reach out to Kelly_Cornell#3070' — strong signal a server exists though the link itself is not published.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides KC",
+  "invite_url": null,
+  "source_url": "https://bsideskc.org/",
+  "category_hint": "conference",
+  "notes": "Kansas City, KS/MO, US. No dedicated BSidesKC Discord found; references point instead to the broader SecKC Discord community.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Kristiansand",
+  "invite_url": null,
+  "source_url": "https://bsideskrs.no/",
+  "category_hint": "conference",
+  "notes": "Kristiansand, Norway. No Discord found on site or via search.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Lancashire",
+  "invite_url": null,
+  "source_url": "https://www.bsideslancashire.org/",
+  "category_hint": "conference",
+  "notes": "Lancaster/Lancashire, UK. No Discord found on site or via search; only LinkedIn/X presence.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Las Vegas (BSidesLV)",
+  "invite_url": "https://discord.gg/YcCWqMW5",
+  "source_url": "https://x.com/BSidesLV/status/1421093567901179904",
+  "category_hint": "conference",
+  "notes": "Las Vegas, NV, US. Invite is from a 2021 BSidesLV tweet describing the Discord as 'open to the public' during event week; not found on the current bsideslv.org site, so this may be stale/event-week-only rather than a standing invite.",
+  "confidence": "listed"
+ },
+ {
+  "name": "BSides Limburg",
+  "invite_url": null,
+  "source_url": "https://www.bsides-limburg.be/",
+  "category_hint": "conference",
+  "notes": "Hasselt, Limburg, Belgium. No Discord found on site or via search.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides London",
+  "invite_url": null,
+  "source_url": "https://bsides.london/",
+  "category_hint": "conference",
+  "notes": "London, UK. No Discord found on site or via search; presence on X/Bluesky/LinkedIn/Flickr/YouTube only.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides London (Ontario)",
+  "invite_url": null,
+  "source_url": "https://bsides.london/",
+  "category_hint": "conference",
+  "notes": "Note: the listed URL (bsides.london) actually resolves to BSides London, UK, not London, Ontario, Canada — could not locate a distinct website or Discord for the Ontario event under this URL.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Luxembourg",
+  "invite_url": null,
+  "source_url": "https://bsides.lu/",
+  "category_hint": "conference",
+  "notes": "Belval, Luxembourg. No Discord found on site or via search; contact is via email/Mastodon.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Nashville (BSides Nash)",
+  "invite_url": "https://discord.gg/Hvw4wcE9YU",
+  "source_url": "https://x.com/bsidesnash",
+  "category_hint": "conference",
+  "notes": "Nashville, TN, US. Invite found via search referencing their official X account announcement alongside schedule/tickets/volunteer info; not independently confirmed on bsidesnash.org itself (no Discord content found there).",
+  "confidence": "listed"
+ },
+ {
+  "name": "BSides NOLA",
+  "invite_url": null,
+  "source_url": "https://nolabsides.com/",
+  "category_hint": "conference",
+  "notes": "New Orleans, LA, US. Site redirects to a Notion page with no Discord link; no Discord found via search either.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides NoVA",
+  "invite_url": null,
+  "source_url": "https://www.bsidesnova.org/",
+  "category_hint": "conference",
+  "notes": "Northern Virginia, US. No Discord found on site or via search; active on X/LinkedIn/Mastodon.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides NYC",
+  "invite_url": null,
+  "source_url": "https://bsidesnyc.org/about/",
+  "category_hint": "conference",
+  "notes": "New York City, US. Site links to a Slack workspace, not Discord; no Discord found via search either.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides OK",
+  "invite_url": null,
+  "source_url": "https://bsidesok.com/",
+  "category_hint": "conference",
+  "notes": "Tulsa, OK, US. No Discord found on site or via search (a generic 'Oklahoma Discord' community exists but is unrelated to the conference).",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Orlando",
+  "invite_url": "https://bsorl.org/discord",
+  "source_url": "https://bsidesorlando.org/discord/",
+  "category_hint": "conference",
+  "notes": "Orlando, FL, US. Official site has a dedicated /discord/ page with 'Join our Discord server!' linking this short URL, appearing twice on the page (main content and footer). Appears to be a year-round community.",
+  "confidence": "official"
+ },
+ {
+  "name": "BSides Peoria",
+  "invite_url": null,
+  "source_url": "https://bsidespeoria.com/",
+  "category_hint": "conference",
+  "notes": "Peoria, IL, US. No Discord found on site or via search.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Philly",
+  "invite_url": null,
+  "source_url": "https://bsidesphilly.org/",
+  "category_hint": "conference",
+  "notes": "Philadelphia, PA, US. Site content was minimal in fetch (title only); search notes that past events 'streamed live over Discord' but no current invite link found.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "BSides Pittsburgh",
+  "invite_url": null,
+  "source_url": "https://www.bsidespgh.com/",
+  "category_hint": "conference",
+  "notes": "Pittsburgh, PA, US. No invite link found on site; search indicates the affiliated 'BarSides' virtual meetup community (which grew into BSidesPGH's monthly events) has a Discord component, but no direct link was found — a signal of a year-round community without a captured link.",
+  "confidence": "unverified"
+ }
+]

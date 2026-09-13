@@ -1,0 +1,61 @@
+"""Re-check every community's invite and refresh live stats.
+
+Run:  python3 scripts/refresh.py            (updates data/communities.json in place)
+Used by the weekly GitHub Action. Never joins servers; only reads Discord's public invite preview.
+"""
+import json, sys, datetime, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).parent))
+from discordapi import lookup_invite, invite_code
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+DATA = ROOT / "data" / "communities.json"
+SIZE_TIERS = [(0, "tiny"), (500, "small"), (3000, "medium"), (15000, "large"), (50000, "huge")]
+
+def size_tier(n):
+    t = "unknown"
+    if n is None: return t
+    for floor, name in SIZE_TIERS:
+        if n >= floor: t = name
+    return t
+
+def main():
+    doc = json.loads(DATA.read_text())
+    today = datetime.date.today().isoformat()
+    ok = dead = err = 0
+    for c in doc["communities"]:
+        code = c.get("invite_code") or invite_code(c.get("invite_url"))
+        if not code:
+            c["invite_status"] = "missing"; continue
+        r = lookup_invite(code)
+        c["last_checked"] = today
+        if r["status"] == "ok":
+            ok += 1
+            c["invite_status"] = "ok"
+            c["guild_id"] = r["guild_id"]
+            c["discord_name"] = r["discord_name"]
+            c["discord_description"] = r["discord_description"]
+            c["members"] = r["members"]; c["online"] = r["online"]
+            c["size_tier"] = size_tier(r["members"])
+            c["verified"] = r["verified"]; c["partnered"] = r["partnered"]
+            c["discoverable"] = r["discoverable"]; c["community_features"] = r["community"]
+            c["verification_level"] = r["verification_level"]
+            c["vanity"] = r["vanity"]; c["icon_url"] = r["icon_url"]
+            c["invite_expires_at"] = r["expires_at"]
+            c["nsfw"] = r["nsfw"]
+            c.setdefault("history", []).append({"date": today, "members": r["members"], "online": r["online"]})
+            c["history"] = c["history"][-52:]
+        elif r["status"] == "dead":
+            dead += 1
+            c["invite_status"] = "dead"
+            c["dead_since"] = c.get("dead_since") or today
+        else:
+            err += 1
+            c["invite_status"] = c.get("invite_status", "unknown")  # keep last known state on transient errors
+            c["last_error"] = r.get("error")
+    doc["last_refresh"] = today
+    doc["stats"] = {"total": len(doc["communities"]), "ok": ok, "dead": dead, "errors": err}
+    DATA.write_text(json.dumps(doc, indent=1, ensure_ascii=False) + "\n")
+    print(f"refreshed {len(doc['communities'])}: ok={ok} dead={dead} errors={err}")
+
+if __name__ == "__main__":
+    main()
