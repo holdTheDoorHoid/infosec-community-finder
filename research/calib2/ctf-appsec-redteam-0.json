@@ -1,0 +1,2329 @@
+[
+{
+"id": "owasp-slack",
+"name": "OWASP Slack",
+"platform": "slack",
+"category": "appsec",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"web-appsec",
+"bug-bounty",
+"general-infosec",
+"careers",
+"certifications"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"job-board",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "OWASP Foundation",
+"red_flags": null,
+"summary": "This is the official Slack workspace of OWASP, the nonprofit behind projects like the OWASP Top 10, ZAP, and Dependency-Check. Members discuss application security research, coordinate local chapters and OWASP projects, and share job opportunities and event announcements. It suits anyone from students learning appsec basics to professionals leading security programs."
+},
+{
+"id": "hack-the-box-forum",
+"name": "Hack The Box Forum",
+"platform": "forum",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"pentesting",
+"binary-exploitation",
+"web-appsec",
+"certifications",
+"general-infosec"
+],
+"activities": [
+"writeups",
+"q-and-a",
+"chat",
+"challenges",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Hack The Box",
+"red_flags": null,
+"summary": "This is the official community forum for Hack The Box, the popular pentesting-practice platform, where members discuss active and retired machines, share write-ups and hints, and talk about HTB certifications and academy content. It draws everyone from newcomers working through beginner boxes to advanced players discussing tricky exploitation techniques."
+},
+{
+"id": "reverse-engineering-stack-exchange",
+"name": "Reverse Engineering Stack Exchange",
+"platform": "forum",
+"category": "redteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"binary-exploitation",
+"malware-analysis",
+"general-infosec"
+],
+"activities": [
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Stack Exchange, Inc.",
+"red_flags": null,
+"summary": "This is the reverse-engineering Q&A site in the Stack Exchange network, run by volunteer moderators under the standard Stack Exchange model. Members ask and answer specific technical questions about disassembling software and hardware, cracking obfuscation, and analyzing malware or binaries. It works best for people who already have some RE background and a concrete, well-formed question, rather than beginners looking for a learning path or open discussion."
+},
+{
+"id": "full-disclosure-mailing-list",
+"name": "Full Disclosure Mailing List",
+"platform": "forum",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"news-cve",
+"red-team",
+"threat-intel",
+"general-infosec"
+],
+"activities": [
+"news-feed",
+"writeups"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run (archived via SecLists.org)",
+"red_flags": "Unmoderated list has historically carried flame wars, spam, and occasional NSFW or abusive posts alongside legitimate disclosures.",
+"summary": "Full Disclosure is a decades-old, unmoderated public mailing list where security researchers post raw vulnerability advisories, exploit details, and disclosure disputes as soon as they have them, archived and indexed by SecLists.org. It suits people who already understand vulnerability research and want unfiltered, first-hand disclosures rather than a curated news feed or a beginner learning space."
+},
+{
+"id": "oss-security-mailing-list",
+"name": "oss-security Mailing List",
+"platform": "forum",
+"category": "appsec",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"web-appsec",
+"news-cve",
+"general-infosec",
+"linux",
+"programming"
+],
+"activities": [
+"news-feed",
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Openwall Project",
+"red_flags": null,
+"summary": "This is Openwall's long-running public mailing list where security researchers, distro maintainers, and open-source developers coordinate disclosure and discuss vulnerabilities as they're found. People post CVE writeups, patch discussions, and technical debates about flaws in widely-used open-source software; it suits practitioners who already understand vulnerability classes and want to follow real-world disclosure as it happens rather than learn fundamentals."
+},
+{
+"id": "r-hackthebox",
+"name": "r/hackthebox",
+"platform": "reddit",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"wargames",
+"pentesting",
+"binary-exploitation"
+],
+"activities": [
+"q-and-a",
+"writeups",
+"ctf-events"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This subreddit is the unofficial community hub for the Hack The Box hacking-practice platform, where members discuss machine walkthroughs, study strategies, and progress toward certifications like the CPTS. It works for beginners getting help on early boxes as well as more advanced players discussing harder challenges."
+},
+{
+"id": "r-tryhackme",
+"name": "r/tryhackme",
+"platform": "reddit",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"wargames",
+"students",
+"general-infosec"
+],
+"activities": [
+"q-and-a",
+"writeups",
+"ctf-events"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This subreddit is the community space for the TryHackMe learning platform, aimed at people working through its beginner-friendly guided rooms and paths in cybersecurity. Members ask for help getting unstuck, share progress, and discuss which learning paths to take next, making it a good fit for people brand new to security."
+},
+{
+"id": "r-securityctf",
+"name": "r/securityCTF",
+"platform": "reddit",
+"category": "ctf",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"wargames",
+"reverse-engineering",
+"binary-exploitation",
+"general-infosec"
+],
+"activities": [
+"writeups",
+"ctf-events",
+"chat"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This subreddit is a general hub for competitive capture-the-flag hacking, where people post CTF announcements, share writeups after events, and look for teammates. It leans toward players who already have some CTF or exploitation experience, though beginners can learn a lot by reading the writeups."
+},
+{
+"id": "r-redteamsec",
+"name": "r/redteamsec",
+"platform": "reddit",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"reverse-engineering",
+"binary-exploitation"
+],
+"activities": [
+"news-feed",
+"q-and-a",
+"chat"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A community-run subreddit for offensive security practitioners to share red team tradecraft, tooling, and technique write-ups. Discussion assumes some existing pentesting or red team background rather than walking newcomers through basics, and it suits people already doing offensive security work or advanced self-study."
+},
+{
+"id": "r-exploitdev",
+"name": "r/ExploitDev",
+"platform": "reddit",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"binary-exploitation",
+"reverse-engineering",
+"ctf",
+"programming"
+],
+"activities": [
+"q-and-a",
+"chat",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A community-run subreddit focused specifically on exploit development and vulnerability research: memory corruption, fuzzing, shellcoding, and binary exploitation techniques. It draws people who are already comfortable with C/assembly and low-level debugging, and is a narrower, more technical space than general CTF or pentesting subs."
+},
+{
+"id": "r-socialengineering",
+"name": "r/socialengineering",
+"platform": "reddit",
+"category": "redteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"social-engineering",
+"red-team",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A Reddit community for discussing social engineering techniques such as pretexting, phishing, vishing, and the psychology behind human-factor attacks. Members share articles, ask about SE certifications and CTF-style SE challenges (like the DEF CON SECTF), and debate ethics and defenses. Suits people already interested in the human side of security rather than absolute beginners to infosec."
+},
+{
+"id": "r-bugbounty",
+"name": "r/bugbounty",
+"platform": "reddit",
+"category": "appsec",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"careers"
+],
+"activities": [
+"chat",
+"q-and-a",
+"writeups",
+"job-board",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A Reddit forum where bug bounty hunters swap writeups, discuss platforms like HackerOne and Bugcrowd, and talk through payout disputes, tooling, and methodology. It's used by people already doing bug bounty work as well as newcomers asking how to get started, though the discussion often assumes basic web security knowledge. Good for keeping up with the bug bounty community and reading real vulnerability writeups."
+},
+{
+"id": "r-cloudsecurity",
+"name": "r/cloudsecurity",
+"platform": "reddit",
+"category": "appsec",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"cloud-security",
+"careers",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"job-board",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A smaller Reddit community focused on securing AWS, Azure, and GCP environments, covering topics like IAM misconfigurations, cloud security tooling, certifications (e.g., AWS Security Specialty), and job-hunting in cloud security roles. It attracts practitioners already working in or moving into cloud security rather than complete beginners. Useful for staying current on cloud-specific threats and vendor tools."
+},
+{
+"id": "r-devsecops",
+"name": "r/devsecops",
+"platform": "reddit",
+"category": "appsec",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"cloud-security",
+"web-appsec",
+"careers",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"job-board",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A Reddit community for people integrating security into CI/CD pipelines and development workflows, discussing SAST/DAST tooling, container and infrastructure-as-code security, and career paths that blend development and security. Posts assume familiarity with both software engineering and basic security concepts, so it's better suited to working practitioners than absolute newcomers. It's a niche but active spot for DevSecOps tooling recommendations and war stories."
+},
+{
+"id": "ritsec-ctf",
+"name": "RITSEC CTF",
+"platform": "discord",
+"category": "ctf",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"wargames",
+"reverse-engineering",
+"binary-exploitation",
+"cryptography"
+],
+"activities": [
+"ctf-events",
+"challenges",
+"writeups",
+"chat"
+],
+"members": 1411,
+"online": 247,
+"region": "us-northeast",
+"country": "US",
+"subdivision": "NY",
+"language": "en",
+"run_by": "RITSEC (RIT student club)",
+"red_flags": null,
+"summary": "This is the dedicated Discord for RITSEC CTF, RIT's annual Jeopardy-style Capture The Flag competition held online each spring, covering pwn, crypto, reversing, web, and forensics challenges for teams from beginner to advanced. It's run by RITSEC club members specifically to support that competition, with chat for hints, announcements, and community during the event window. Fits CTF players of any experience level looking to compete or follow the annual contest."
+},
+{
+"id": "psu-ccso",
+"name": "PSU CCSO",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"study-group",
+"general-infosec",
+"wargames"
+],
+"activities": [
+"chat",
+"ctf-events",
+"study-groups",
+"workshops",
+"challenges"
+],
+"members": 1614,
+"online": 195,
+"region": "us-northeast",
+"country": "US",
+"subdivision": "PA",
+"language": "en",
+"run_by": "Penn State University Park students",
+"red_flags": null,
+"summary": "The Competitive Cyber Security Organization is Penn State University Park's club for students who want to practice offensive and defensive security skills through CTFs. Members teach each other core concepts, run practice sessions, and field teams for national competitions, with the Discord serving as the club's main hangout and coordination channel."
+},
+{
+"id": "cyberdawgs-club",
+"name": "CyberDawgs Club",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"study-group",
+"general-infosec",
+"wargames"
+],
+"activities": [
+"chat",
+"ctf-events",
+"study-groups",
+"workshops",
+"challenges"
+],
+"members": 1396,
+"online": 200,
+"region": "us-northeast",
+"country": "US",
+"subdivision": "MD",
+"language": "en",
+"run_by": "UMBC students",
+"red_flags": null,
+"summary": "UMBC's student cybersecurity club brings together people interested in offense, defense, and forensics, and is best known for organizing the CyberPaws/DawgCTF competitions. The Discord is where members ask questions, share resources, and coordinate CTF practice and events, welcoming both newcomers and more experienced players."
+},
+{
+"id": "stevens-cyber-defense-team",
+"name": "Stevens Cyber Defense Team",
+"platform": "discord",
+"category": "ctf",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"blue-team",
+"wargames",
+"study-group"
+],
+"activities": [
+"chat",
+"ctf-events",
+"study-groups",
+"workshops",
+"challenges"
+],
+"members": 381,
+"online": 67,
+"region": "us-northeast",
+"country": "US",
+"subdivision": "NJ",
+"language": "en",
+"run_by": "Stevens Institute of Technology students",
+"red_flags": null,
+"summary": "Stevens Institute of Technology's competitive cyber defense team trains students for CCDC-style blue-team competitions and CTFs, practicing hands-on defensive and offensive skills together. The Discord's own casual tone ('we break things, do silly stuff') suggests an informal, tight-knit group best suited to students already comfortable with the basics who want competitive practice."
+},
+{
+"id": "hack-ucf",
+"name": "Hack@UCF",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"red-team",
+"blue-team",
+"general-infosec"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"study-groups",
+"project-showcase",
+"job-board"
+],
+"members": 4535,
+"online": 1028,
+"region": "us-southeast",
+"country": "US",
+"subdivision": "FL",
+"language": "en",
+"run_by": "University of Central Florida students",
+"red_flags": null,
+"summary": "This is the University of Central Florida's official student cybersecurity organization, covering both offensive and defensive security. Members run and compete in CTFs and CCDC-style defense competitions, attend workshops, and network around infosec careers; it's aimed at UCF students but welcomes newcomers to the field."
+},
+{
+"id": "greyhat-at-georgia-tech",
+"name": "GreyHat at Georgia Tech",
+"platform": "discord",
+"category": "ctf",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"binary-exploitation",
+"reverse-engineering",
+"general-infosec"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"study-groups"
+],
+"members": 2220,
+"online": 275,
+"region": "us-southeast",
+"country": "US",
+"subdivision": "GA",
+"language": "en",
+"run_by": "Georgia Tech students",
+"red_flags": null,
+"summary": "GreyHat is Georgia Tech's cybersecurity club, teaching exploitation and defense techniques and fielding a competitive CTF team that plays in national and international competitions. It suits Georgia Tech students who want hands-on technical practice beyond coursework, and skews toward those with some existing programming or security background."
+},
+{
+"id": "au-ethical-hacking-club",
+"name": "AU Ethical Hacking Club",
+"platform": "discord",
+"category": "redteam",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"red-team",
+"students",
+"pentesting",
+"ctf",
+"general-infosec"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"study-groups"
+],
+"members": 618,
+"online": 62,
+"region": "us-southeast",
+"country": "US",
+"subdivision": "AL",
+"language": "en",
+"run_by": "Auburn University students (Auburn ACM)",
+"red_flags": null,
+"summary": "The Auburn University Ethical Hacking Club, a student org under Auburn ACM, runs hands-on labs and competitions focused on offensive security techniques. It's built for Auburn students wanting practical ethical-hacking experience, from newcomers through more advanced members."
+},
+{
+"id": "masoncc",
+"name": "MasonCC",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"study-groups",
+"workshops",
+"chat"
+],
+"members": 1215,
+"online": 165,
+"region": "us-southeast",
+"country": "US",
+"subdivision": "VA",
+"language": "en",
+"run_by": "George Mason University students",
+"red_flags": null,
+"summary": "George Mason University's student-run competitive cybersecurity club hosts weekly meetings, beginner guides, and CTF competitions including their own PatriotCTF event. It suits GMU students who want hands-on practice with security challenges alongside a group that competes nationally."
+},
+{
+"id": "hacking-and-cyber-security-club-hacc",
+"name": "Hacking and Cyber Security Club (HACC)",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"study-groups",
+"ctf-events",
+"workshops",
+"chat"
+],
+"members": 544,
+"online": 82,
+"region": "us-midwest",
+"country": "US",
+"subdivision": "IA",
+"language": "en",
+"run_by": "Iowa State University students / Center for Cybersecurity Innovation & Outreach",
+"red_flags": null,
+"summary": "Iowa State University's Information Assurance Student Group (also known online as HACC) runs weekly conference-style talks on hacking, exploits, vulnerabilities, and general hacker topics like radio and networking, with guest speakers from industry. It offers introductory-level sessions specifically for people without a systems-design background, making it approachable for newcomers."
+},
+{
+"id": "sigpwny",
+"name": "SIGPwny",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"binary-exploitation",
+"cryptography",
+"reverse-engineering",
+"general-infosec"
+],
+"activities": [
+"study-groups",
+"ctf-events",
+"workshops",
+"chat"
+],
+"members": 2766,
+"online": 610,
+"region": "us-midwest",
+"country": "US",
+"subdivision": "IL",
+"language": "en",
+"run_by": "University of Illinois Urbana-Champaign students",
+"red_flags": null,
+"summary": "SIGPwny is UIUC's information security special interest group, teaching security from the ground up through weekly meetings on topics like binary exploitation and cryptography, and running competitive CTFs including the well-known UIUCTF. It explicitly designs its content for people of any major or experience level, then offers a path up to building international-scale competitions."
+},
+{
+"id": "cyber-uc",
+"name": "Cyber@UC",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec",
+"networking",
+"careers"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"local-meetups",
+"job-board"
+],
+"members": 654,
+"online": 92,
+"region": "us-midwest",
+"country": "US",
+"subdivision": "OH",
+"language": "en",
+"run_by": "community-run (University of Cincinnati students)",
+"red_flags": null,
+"summary": "A student-led cybersecurity club at the University of Cincinnati under the motto 'Hack. Dev. Defend.' Members learn security techniques, run CTFs and a Proxmox lab, do outreach to local high schools, and network with companies; Discord is the main hub with weekly general meetings."
+},
+{
+"id": "gopherhack",
+"name": "GopherHack",
+"platform": "discord",
+"category": "ctf",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"binary-exploitation",
+"cryptography",
+"reverse-engineering",
+"web-appsec",
+"students"
+],
+"activities": [
+"chat",
+"ctf-events",
+"local-meetups"
+],
+"members": 472,
+"online": 52,
+"region": "us-midwest",
+"country": "US",
+"subdivision": "MN",
+"language": "en",
+"run_by": "community-run (University of Minnesota students)",
+"red_flags": null,
+"summary": "An offensive-security-focused CTF team and student organization at the University of Minnesota Twin Cities. Members meet in person weekly and gather on Discord over weekends to compete in CTF competitions spanning binary exploitation, cryptography, reverse engineering, and web exploitation."
+},
+{
+"id": "dsu-computer-club",
+"name": "DSU Computer Club",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec",
+"programming",
+"networking"
+],
+"activities": [
+"ctf-events",
+"study-groups",
+"workshops",
+"chat",
+"project-showcase"
+],
+"members": 1092,
+"online": 214,
+"region": "us-midwest",
+"country": "US",
+"subdivision": "SD",
+"language": "en",
+"run_by": "Dakota State University Computer Club (student-run)",
+"red_flags": null,
+"summary": "This is the umbrella Discord for Dakota State University's Computer Club in Madison, South Dakota, hosting sub-clubs for CTF, defensive security, competitive programming, and ethical hacking. Members compete in internal events like CyberConquest and HiveCTF as well as external competitions such as CCDC, CPTC, and CyberForce, and use the server for meeting schedules and training materials. It suits current DSU students looking to get into CTFs or competitive cyber teams."
+},
+{
+"id": "root66tulsa-cyber-clubs",
+"name": "Root66Tulsa Cyber Clubs",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"blue-team",
+"general-infosec",
+"affinity-women"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"study-groups",
+"local-meetups",
+"mentorship"
+],
+"members": 368,
+"online": 53,
+"region": "us-south",
+"country": "US",
+"subdivision": "OK",
+"language": "en",
+"run_by": "University of Tulsa School of Cyber Studies (student clubs)",
+"red_flags": null,
+"summary": "Root66Tulsa is the hub Discord for all cyber-related student organizations at the University of Tulsa, run through the school's Cyber Studies program. It covers competitive teams (CCDC, CPTC), cyber defense training, CTF competitions, a Women in Cybersecurity (WiCyS) chapter, and alumni/community events, explicitly stating there's a place for any experience level. It suits Tulsa students from complete beginners through advanced competitive team members."
+},
+{
+"id": "cyber-jedis",
+"name": "Cyber Jedis",
+"platform": "discord",
+"category": "redteam",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"red-team",
+"pentesting",
+"ctf",
+"students",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"chat",
+"study-groups",
+"project-showcase"
+],
+"members": 1048,
+"online": 136,
+"region": "us-south",
+"country": "US",
+"subdivision": "TX",
+"language": "en",
+"run_by": "UTSA Cyber Jedis (student-run)",
+"red_flags": null,
+"summary": "Cyber Jedis is a student cybersecurity organization at UT San Antonio with a penetration-testing focus, listed on the university's official RowdyLink org portal. It bills itself as the premiere student cybersecurity organization on campus, giving members a space to collaborate and learn together through workshops and CTF-style activities. It suits UTSA students interested in offensive security and hands-on hacking skills."
+},
+{
+"id": "isss",
+"name": "ISSS",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec",
+"wargames",
+"study-group"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"study-groups",
+"mentorship"
+],
+"members": 1864,
+"online": 214,
+"region": "us-south",
+"country": "US",
+"subdivision": "TX",
+"language": "en",
+"run_by": "University of Texas at Austin students",
+"red_flags": null,
+"summary": "ISSS is the student-run security organization in UT Austin's Computer Science department, running biweekly CTF practice, weekly security talks, and beginner-oriented sessions every other week. They also host the annual international UTCTF competition and a Security Day conference, making it a strong hub for both newcomers and experienced CTF players at UT Austin."
+},
+{
+"id": "usc-tactics-prev-usc-ctf-team",
+"name": "USC TACTICS (prev. USC CTF Team)",
+"platform": "discord",
+"category": "ctf",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"wargames",
+"general-infosec"
+],
+"activities": [
+"chat",
+"ctf-events",
+"study-groups"
+],
+"members": 583,
+"online": 50,
+"region": "us-west",
+"country": "US",
+"subdivision": "CA",
+"language": "en",
+"run_by": "University of Southern California students",
+"red_flags": null,
+"summary": "TACTICS is the University of Southern California's competitive CTF team (formerly branded USC CTF Team), where students coordinate for jeopardy-style hacking competitions and practice offensive security skills together. It's aimed at students who want to compete, with the USC-CTF-Team GitHub hosting past challenge writeups and tooling."
+},
+{
+"id": "acm-cyber",
+"name": "ACM Cyber",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec",
+"study-group",
+"careers",
+"malware-analysis"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"study-groups",
+"mentorship"
+],
+"members": 1971,
+"online": 239,
+"region": "us-west",
+"country": "US",
+"subdivision": "CA",
+"language": "en",
+"run_by": "UCLA students (ACM chapter)",
+"red_flags": null,
+"summary": "ACM Cyber is UCLA's student-run cybersecurity organization, running a Cyber Academy that teaches beginner-through-advanced topics, a competitive CTF team (Psi Beta Rho), hands-on Cyber Lab projects, and the annual LA CTF competition. It aims to make security accessible to everyone regardless of prior experience, alongside career panels and social events."
+},
+{
+"id": "batman-s-kitchen",
+"name": "Batman's Kitchen",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"web-appsec",
+"binary-exploitation",
+"cryptography",
+"reverse-engineering"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"study-groups",
+"chat"
+],
+"members": 1241,
+"online": 147,
+"region": "us-west",
+"country": "US",
+"subdivision": "WA",
+"language": "en",
+"run_by": "University of Washington students",
+"red_flags": null,
+"summary": "This is the University of Washington's student CTF team, meeting weekly to run workshops and practice sessions on web, binary, and crypto exploitation ahead of live CTF competitions. It's run by UW students and welcomes any experience level, with a Discord that serves as the main hub for coordination."
+},
+{
+"id": "oresec-mines-cybersecurity-club",
+"name": "OreSec - Mines Cybersecurity Club",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"red-team",
+"blue-team",
+"networking"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"study-groups",
+"chat"
+],
+"members": 388,
+"online": 47,
+"region": "us-west",
+"country": "US",
+"subdivision": "CO",
+"language": "en",
+"run_by": "Colorado School of Mines students",
+"red_flags": null,
+"summary": "OreSec is Colorado School of Mines' cybersecurity club, competing in national CTFs, CSAW's Embedded Security Challenge, and the Rocky Mountain Collegiate Cyber Defense Competition. It's a student-run group organized around both offensive CTF practice and defensive team competitions, with a Discord for coordinating meetings and events."
+},
+{
+"id": "lobosec-ctf-team",
+"name": "LoboSec CTF Team",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"web-appsec",
+"reverse-engineering",
+"cryptography",
+"forensics",
+"blue-team"
+],
+"activities": [
+"ctf-events",
+"study-groups",
+"writeups",
+"chat",
+"mentorship"
+],
+"members": 62,
+"online": 6,
+"region": "us-west",
+"country": "US",
+"subdivision": "NM",
+"language": "en",
+"run_by": "University of New Mexico students",
+"red_flags": null,
+"summary": "LoboSec is the University of New Mexico's student-led CTF team, competing in web exploitation, reverse engineering, crypto, and forensics challenges, running practice sessions on retired challenges, and publishing writeups. It explicitly requires zero experience to join, pairs newcomers with experienced members, and has no application or interview."
+},
+{
+"id": "hackercats",
+"name": "HackerCats",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"study-groups",
+"chat",
+"local-meetups"
+],
+"members": 168,
+"online": 21,
+"region": "us-west",
+"country": "US",
+"subdivision": "MT",
+"language": "en",
+"run_by": "Montana State University students",
+"red_flags": null,
+"summary": "HackerCats is Montana State University's student cybersecurity club, running CTF competitions and cybersecurity education sessions and occasionally doing community outreach. It's a small, campus-based group suited to MSU students wanting hands-on security practice alongside coursework."
+},
+{
+"id": "sdsu-cyber-defense-team",
+"name": "SDSU Cyber Defense Team",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"students",
+"ctf",
+"blue-team",
+"red-team",
+"careers"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"study-groups",
+"job-board"
+],
+"members": 1011,
+"online": 119,
+"region": "us-west",
+"country": "US",
+"subdivision": "CA",
+"language": "en",
+"run_by": "San Diego State University students, faculty advisor Peter Bartoli",
+"red_flags": null,
+"summary": "San Diego State University's cyber defense and CTF club runs weekly Friday labs on attack/defense exercises, competes in events like CCDC and the National Cyber League, and organizes industry field trips and guest speakers. It explicitly says no experience is needed and welcomes students from outside SDSU too."
+},
+{
+"id": "acm-cyber-2",
+"name": "ACM Cyber",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"students",
+"ctf",
+"web-appsec",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"challenges",
+"local-meetups"
+],
+"members": 946,
+"online": 91,
+"region": "us-west",
+"country": "US",
+"subdivision": "CA",
+"language": "en",
+"run_by": "ACM at UCSD student organization",
+"red_flags": null,
+"summary": "ACM Cyber is UC San Diego's largest student cybersecurity group, running workshops on topics like phishing, network security, and lockpicking, plus social events, and it organizes the annual SDCTF competition open to teams worldwide. Membership is free and informal, so anyone showing up to events is considered a member regardless of skill level."
+},
+{
+"id": "tsip",
+"name": "TSIP",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"students",
+"ctf",
+"blue-team",
+"red-team",
+"homelab"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"study-groups",
+"chat",
+"project-showcase"
+],
+"members": 7380,
+"online": 753,
+"region": "us-west",
+"country": "US",
+"subdivision": "CA",
+"language": "en",
+"run_by": "UC Davis students (community-run club)",
+"red_flags": null,
+"summary": "UC Davis's Cyber Security Club runs weekly meetings with industry talks and faculty seminars, a competitions team (cowsay) for CTF and cyber-defense contests, and an infrastructure team (0xdeadbeef) that builds and experiments with club servers. It bills itself as an inclusive community for anyone interested in security, not just competitive players."
+},
+{
+"id": "slug-security",
+"name": "Slug Security",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"red-team",
+"blue-team",
+"reverse-engineering",
+"bug-bounty"
+],
+"activities": [
+"workshops",
+"ctf-events",
+"project-showcase",
+"study-groups",
+"chat"
+],
+"members": 880,
+"online": 152,
+"region": "us-west",
+"country": "US",
+"subdivision": "CA",
+"language": "en",
+"run_by": "community-run (UC Santa Cruz students)",
+"red_flags": null,
+"summary": "UC Santa Cruz's student-run cybersecurity organization runs its own practice range for hands-on training, fields CTF and cyber-defense competition teams (CCDC, MITRE eCTF), and does real projects like bug bounties and hardening university systems. It suits students at UCSC wanting workshops, competitive hacking, and applied security experience."
+},
+{
+"id": "cyber-uci",
+"name": "Cyber@UCI",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"red-team",
+"blue-team",
+"pentesting",
+"forensics",
+"reverse-engineering"
+],
+"activities": [
+"workshops",
+"ctf-events",
+"hardware-help",
+"chat",
+"project-showcase"
+],
+"members": 1246,
+"online": 131,
+"region": "us-west",
+"country": "US",
+"subdivision": "CA",
+"language": "en",
+"run_by": "community-run (UC Irvine students)",
+"red_flags": null,
+"summary": "UC Irvine's cybersecurity club runs competitive teams for CCDC, CPTC, and CTFs covering blue team, red team, pentesting, forensics, and reverse engineering, and maintains a physical HackerLab space where members practice and hang out. It's run by students and explicitly says newcomers of any experience level are welcome."
+},
+{
+"id": "maple-bacon",
+"name": "Maple Bacon",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"wargames",
+"reverse-engineering",
+"binary-exploitation",
+"cryptography"
+],
+"activities": [
+"ctf-events",
+"study-groups",
+"chat",
+"local-meetups"
+],
+"members": 983,
+"online": 150,
+"region": "canada",
+"country": "CA",
+"subdivision": "BC",
+"language": "en",
+"run_by": "community-run (University of British Columbia)",
+"red_flags": null,
+"summary": "Maple Bacon is the University of British Columbia's CTF team, founded in 2019 by a CS faculty member, and plays 40-plus jeopardy-style CTFs a year with a casual, no-obligation culture rather than a strictly competitive one. It's open to any UBC student, faculty, or alumni with no prior experience required, with weekly online and in-person meetings, and its top players have gone on to win DEF CON CTF."
+},
+{
+"id": "polycyber",
+"name": "PolyCyber",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec",
+"reverse-engineering",
+"web-appsec"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"study-groups",
+"chat"
+],
+"members": 1630,
+"online": 218,
+"region": "canada",
+"country": "CA",
+"subdivision": "QC",
+"language": "fr",
+"run_by": "PolyCyber (student club, Polytechnique Montréal)",
+"red_flags": null,
+"summary": "This is the cybersecurity club at Polytechnique Montréal, running weekly 'Hacker Nights' where members solve security challenges together, plus workshops ranging from beginner to advanced. A dedicated CTF team competes in events like NorthSec and HackFest, making it a fit for students wanting hands-on practice and a path from newcomer to competitor."
+},
+{
+"id": "csiul",
+"name": "CSIUL",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"osint",
+"reverse-engineering",
+"mobile-security",
+"ctf",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"chat",
+"writeups"
+],
+"members": 444,
+"online": 77,
+"region": "canada",
+"country": "CA",
+"subdivision": "QC",
+"language": "fr",
+"run_by": "CSIUL (student club, Université Laval, affiliated with CRTI)",
+"red_flags": null,
+"summary": "CSIUL is the student cybersecurity and hacking club at Université Laval, covering topics like mobile security, OSINT, and reverse engineering through articles and activities, with sponsorship support from firms like GoSecure. Membership is open to anyone interested via their Discord, making it approachable for students at any skill level."
+},
+{
+"id": "rhum",
+"name": "RHUM",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"chat",
+"study-groups"
+],
+"members": 182,
+"online": 20,
+"region": "canada",
+"country": "CA",
+"subdivision": "QC",
+"language": "fr",
+"run_by": "RHUM (student club, Université de Montréal / DIRO)",
+"red_flags": null,
+"summary": "RHUM is a computer science student club at Université de Montréal focused on security, organizing CTF-style challenges and competing in regional events like HackFest and NorthSec. It welcomes participants of all levels and is one of the partner clubs behind the UnitedCTF student competition."
+},
+{
+"id": "dci",
+"name": "DCI",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec",
+"programming"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"chat",
+"study-groups"
+],
+"members": 610,
+"online": 118,
+"region": "canada",
+"country": "CA",
+"subdivision": "QC",
+"language": "fr",
+"run_by": "DCI ÉTS (student club, École de technologie supérieure)",
+"red_flags": null,
+"summary": "DCI is the computing-competitions delegation at ÉTS (École de technologie supérieure) in Montreal, fielding teams for events like CS Games, NorthSec, and Coveo Blitz that span security, AI, and programming. Weekly meetings on Discord and occasional workshops make it a place for students to practice competitive problem-solving and meet others in the field."
+},
+{
+"id": "unitedctf",
+"name": "UnitedCTF",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"wargames",
+"cryptography",
+"reverse-engineering",
+"binary-exploitation"
+],
+"activities": [
+"ctf-events",
+"chat",
+"study-groups"
+],
+"members": 1133,
+"online": 199,
+"region": "canada",
+"country": "CA",
+"subdivision": "QC",
+"language": "fr",
+"run_by": "Joint committee of six Quebec university clubs (DCIETS, JDIS, SCS, CSIUL, PolyCyber, RHUM)",
+"red_flags": null,
+"summary": "UnitedCTF is an annual university CTF competition run jointly by six Quebec university computing/cybersecurity clubs (ETS, Sherbrooke, Concordia, Laval, Polytechnique Montreal, and Universite de Montreal). The Discord hosts announcements, team formation and challenge discussion around the yearly week-long event, which is explicitly aimed at beginners learning crypto, reverse engineering, Linux and networking basics."
+},
+{
+"id": "afnom",
+"name": "AFNOM",
+"platform": "discord",
+"category": "redteam",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"binary-exploitation",
+"reverse-engineering",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"chat",
+"study-groups"
+],
+"members": 1365,
+"online": 137,
+"region": "uk-ireland",
+"country": "GB",
+"subdivision": null,
+"language": "en",
+"run_by": "University of Birmingham AFNOM society (student-run)",
+"red_flags": null,
+"summary": "AFNOM (A Finite Number Of Monkeys) is the University of Birmingham's offensive-security and hacking club, meeting weekly in person to work through hacking challenges pitched at every skill level, plus CTF competitions. It explicitly welcomes newcomers with no prior experience and coordinates meeting locations and discussion through Discord."
+},
+{
+"id": "sigint",
+"name": "SIGINT",
+"platform": "discord",
+"category": "ctf",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"wargames",
+"students",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"chat",
+"challenges"
+],
+"members": 813,
+"online": 99,
+"region": "uk-ireland",
+"country": "GB",
+"subdivision": null,
+"language": "en",
+"run_by": "University of Edinburgh SIGINT society (student-run)",
+"red_flags": null,
+"summary": "SIGINT is the University of Edinburgh's cybersecurity society, running its own hosted challenge platform (pwnable.sigint.mx) alongside member events, and is backed by sponsors including Trail of Bits and Bugcrowd. It suits students who want ongoing CTF-style practice as well as networking with industry-adjacent sponsors."
+},
+{
+"id": "crackmes-one",
+"name": "crackmes.one",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"ctf",
+"wargames",
+"binary-exploitation"
+],
+"activities": [
+"chat",
+"q-and-a",
+"challenges",
+"writeups"
+],
+"members": 6717,
+"online": 1551,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This is the official community Discord for crackmes.one, a long-running site hosting thousands of user-submitted reverse-engineering challenges (crackmes) and writeups. People download challenges of varying difficulty, share solutions, and ask for help; the site itself has nearly 95,000 registered users. It suits anyone learning reverse engineering, from complete beginners working through easy crackmes up to advanced crackers."
+},
+{
+"id": "hacking-lab",
+"name": "Hacking-Lab",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"wargames",
+"students",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"chat",
+"news-feed"
+],
+"members": 2737,
+"online": 241,
+"region": "europe",
+"country": "CH",
+"subdivision": null,
+"language": "en",
+"run_by": "Hacking-Lab / Ivan Bütler (with Compass Security as a longtime partner)",
+"red_flags": null,
+"summary": "This is the Discord for Hacking-Lab, a Swiss-run online CTF and cyber-range training platform used by universities, the Swiss Army, and companies for offensive/defensive exercises, and tied to the Swiss and European Cyber Security Challenges. Members discuss training challenges, upcoming CTFs, and competition prep, with a DACH-region (German-Swiss) focus though content is largely in English."
+},
+{
+"id": "redrocket",
+"name": "RedRocket",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"writeups",
+"chat",
+"local-meetups"
+],
+"members": 517,
+"online": 62,
+"region": "europe",
+"country": "DE",
+"subdivision": null,
+"language": "de",
+"run_by": "RedRocket e.V. (community-run CTF team)",
+"red_flags": null,
+"summary": "RedRocket is a German CTF team and registered association based in Bonn that competes in capture-the-flag competitions, publishes write-ups of their exploits, and meets regularly to exchange infosec knowledge. Their site actively invites newcomers interested in applied infosec to join the Discord or an online meeting, making it a reasonable entry point for beginners in the German CTF scene."
+},
+{
+"id": "fluxfingers",
+"name": "FluxFingers",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"binary-exploitation",
+"reverse-engineering"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"writeups",
+"chat",
+"mentorship"
+],
+"members": 784,
+"online": 136,
+"region": "europe",
+"country": "DE",
+"subdivision": null,
+"language": "de",
+"run_by": "Ruhr University Bochum (Horst Görtz Institute) student CTF team",
+"red_flags": null,
+"summary": "FluxFingers is the official CTF team of Ruhr University Bochum's Horst Görtz Institute, best known for organizing the internationally renowned hack.lu CTF and running FluxRookies, a dedicated beginner course for practicing offensive security skills. The Discord is where the team and newcomers coordinate CTF practice, and its explicit newcomer track makes it especially approachable for people new to CTFs."
+},
+{
+"id": "hackerone-netherlands",
+"name": "Hackerone Netherlands",
+"platform": "discord",
+"category": "appsec",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"regional",
+"red-team"
+],
+"activities": [
+"ctf-events",
+"local-meetups",
+"chat",
+"mentorship"
+],
+"members": 86,
+"online": 16,
+"region": "europe",
+"country": "NL",
+"subdivision": null,
+"language": "en",
+"run_by": "HackerOne Community program (local ambassador-led chapter)",
+"red_flags": null,
+"summary": "This is the Discord for the Netherlands HackerOne Club, a regional chapter of HackerOne's community program led by ambassador Yoeri Vegt that runs bug-bounty meetups, CTFs, and represents Dutch hackers in HackerOne's global Ambassador World Cup. The chapter explicitly states no previous experience is required and welcomes hackers and learners of all levels interested in bug bounty and web app security."
+},
+{
+"id": "strix",
+"name": "Strix",
+"platform": "discord",
+"category": "redteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"ai-security",
+"web-appsec",
+"bug-bounty"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": 2417,
+"online": 255,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "usestrix (open-source project/company)",
+"red_flags": null,
+"summary": "This Discord supports Strix, an open-source AI pentesting agent that autonomously finds and validates web-application vulnerabilities and can open remediation pull requests. Members get help self-hosting the tool with Docker and an LLM API key, discuss detection results and OWASP Top 10 coverage, and follow development of the paid Strix Cloud offering. It's aimed at security engineers and developers already comfortable with pentesting concepts rather than absolute newcomers."
+},
+{
+"id": "keygraph-community",
+"name": "Keygraph Community",
+"platform": "discord",
+"category": "redteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"ai-security",
+"web-appsec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"job-board"
+],
+"members": 1293,
+"online": 144,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Keygraph (company)",
+"red_flags": null,
+"summary": "Run by Keygraph, the company behind the open-source AI pentester Shannon, this Discord brings together security professionals, developers, and red teamers using or building on the tool. Discussion covers running Shannon against web apps and APIs, interpreting its exploit reports, and Keygraph's commercial enterprise platform. It suits practitioners already familiar with pentesting workflows rather than people starting from zero."
+},
+{
+"id": "pentagi-community",
+"name": "PentAGI Community",
+"platform": "discord",
+"category": "redteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"ai-security",
+"networking"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": 1307,
+"online": 133,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "vxcontrol (open-source project/company)",
+"red_flags": null,
+"summary": "This Discord supports PentAGI, an open-source autonomous multi-agent AI system for penetration testing built by vxcontrol. Members discuss self-hosting the platform, configuring it with different LLM providers, and using its agents to automate offensive-security tasks, and get help from the developers and fellow professionals. It's geared toward security practitioners comfortable with pentesting concepts rather than newcomers to the field."
+},
+{
+"id": "basi",
+"name": "BASI",
+"platform": "discord",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"ai-security",
+"red-team",
+"social-engineering",
+"general-infosec"
+],
+"activities": [
+"chat",
+"challenges",
+"news-feed"
+],
+"members": 60669,
+"online": 8651,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run (associated with Pliny the Liberator / elder-plinius)",
+"red_flags": "Core content is jailbreak/prompt-injection material designed to bypass AI safety systems; some members may use techniques for harmful ends. Beginners should be aware the tone is irreverent/adversarial, not educational-first.",
+"summary": "BASI is the Discord hub built around Pliny the Liberator's L1B3RT4S jailbreak-prompt collection, where a large community trades AI jailbreaking techniques, prompt-injection tricks, and adversarial red-teaming of chatbots and image generators. It's an active, fast-moving space for people already interested in breaking AI safety guardrails, not a structured place to learn security fundamentals, and its core activity (publishing jailbreak prompts) is explicitly adversarial toward AI providers' safety measures."
+},
+{
+"id": "black-lantern-security",
+"name": "Black Lantern Security",
+"platform": "discord",
+"category": "redteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"osint",
+"bug-bounty"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": 358,
+"online": 67,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Black Lantern Security",
+"red_flags": null,
+"summary": "This is the official community Discord of Black Lantern Security, the pentesting company behind the open-source recon tool bbot (\"the recursive internet scanner for hackers\"). Members talk cybersecurity, attack surface management, bug bounty recon, and general tech, alongside bbot-specific support. It suits people with some pentesting or OSINT background more than absolute beginners."
+},
+{
+"id": "ctf-wiki",
+"name": "CTF Wiki",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"wargames",
+"study-group",
+"reverse-engineering",
+"cryptography",
+"students"
+],
+"activities": [
+"study-groups",
+"q-and-a",
+"writeups",
+"chat"
+],
+"members": 523,
+"online": 23,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run (ctf-wiki open-source project)",
+"red_flags": null,
+"summary": "CTF Wiki is a community-maintained, open-source knowledge base covering CTF topics like cryptography, web security, reverse engineering, and binary exploitation, with content in both English and Chinese. The Discord supports the wiki's contributors and readers, who discuss and expand its learning material and help each other work through CTF concepts. It suits people learning CTF fundamentals through structured reference material."
+},
+{
+"id": "viper-platform",
+"name": "Viper Platform",
+"platform": "discord",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"detection-engineering",
+"tool-support"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": 106,
+"online": 9,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "FunnyWolf",
+"red_flags": "A red-team adversary simulation tool; use is intended for authorized testing only.",
+"summary": "This is the community around Viper, an open-source adversary simulation and red-team platform maintained by developer FunnyWolf that covers phases of the MITRE ATT&CK framework with over 100 post-exploitation modules and an integrated LLM agent. People discuss deploying and extending the tool, share custom Python modules, and troubleshoot red-team engagements. It's aimed at working red teamers and security professionals rather than newcomers."
+},
+{
+"id": "windows-kernel-exploitation",
+"name": "Windows Kernel Exploitation",
+"platform": "discord",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"advanced"
+],
+"tags": [
+"binary-exploitation",
+"reverse-engineering",
+"red-team",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 566,
+"online": 66,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This Discord server is organized around Windows kernel exploitation: driver vulnerability research and exploit development on Windows. It looks community-run rather than tied to one company, product, or course, and no public description or site was found to confirm more detail. It suits people who already have exploit-development fundamentals rather than someone starting out."
+},
+{
+"id": "adscan-community",
+"name": "ADscan Community",
+"platform": "discord",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"networking",
+"tool-support",
+"certifications"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 85,
+"online": 19,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Yeray Martin Dominguez / ADScanPro",
+"red_flags": null,
+"summary": "This is the support community for ADscan, a free Active Directory pentesting tool built by Yeray Martin Dominguez, a working AD pentester, that automates enumeration, Kerberoasting, ASREPRoast, password spraying and related attack techniques. Members ask setup and usage questions and discuss AD attack techniques directly tied to the tool. It's aimed at penetration testers and red teamers already familiar with Active Directory attacks, not newcomers to security."
+},
+{
+"id": "packj-discord-community",
+"name": "Packj Discord Community",
+"platform": "discord",
+"category": "appsec",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"cloud-security",
+"programming",
+"tool-support",
+"threat-intel"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 52,
+"online": 1,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Ossillate Inc.",
+"red_flags": null,
+"summary": "This is the community server for Packj, a software supply-chain security tool from Ossillate Inc. (founded by researchers Ashish Bijlani, Devdutt Patnaik, and Ajinkya Rajput) that flags malicious, vulnerable, or typo-squatting packages in npm, PyPI, and RubyGems. The small, quiet server is mainly for tool users to ask setup questions and discuss supply-chain security findings. It suits developers and appsec practitioners interested in software supply-chain security rather than general security beginners."
+},
+{
+"id": "zypherion-technologies",
+"name": "Zypherion Technologies",
+"platform": "discord",
+"category": "redteam",
+"bf": 1,
+"audience": [
+"advanced"
+],
+"tags": [
+"malware-analysis",
+"reverse-engineering",
+"red-team"
+],
+"activities": [
+"chat",
+"project-showcase",
+"writeups"
+],
+"members": 52,
+"online": 20,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Zypherion Technologies",
+"red_flags": "Research touches dual-use offensive material (EDR evasion techniques, game-cheat/anti-tamper defeats); published openly for research purposes, not sold as a service.",
+"summary": "Discord for Zypherion Technologies, an independent reverse-engineering research group publishing open, no-paywall work on malware analysis, EDR/AV evasion detection, game-cheat and obfuscator internals, and anti-tamper systems. It's aimed at experienced reverse engineers and malware researchers, not people learning the basics."
+},
+{
+"id": "ctf-falcons",
+"name": "CTF Falcons",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"web-appsec",
+"cryptography",
+"reverse-engineering"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"study-groups",
+"chat"
+],
+"members": 127,
+"online": 24,
+"region": "uk-ireland",
+"country": "GB",
+"subdivision": null,
+"language": "en",
+"run_by": "UWE Students' Union (student-run society)",
+"red_flags": null,
+"summary": "CTF Falcons is the official cybersecurity and CTF society of the University of the West of England in Bristol, run by students under the UWE Students' Union. Members take part in internal and industry CTF competitions, guest talks, and beginner-oriented \"CyberNest\" bootcamps covering crypto, web exploitation, and vulnerability analysis."
+},
+{
+"id": "cyber-security-club",
+"name": "Cyber Security Club",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"local-meetups",
+"chat"
+],
+"members": 482,
+"online": 20,
+"region": "india",
+"country": "IN",
+"subdivision": null,
+"language": "en",
+"run_by": "IIIT Kottayam students (student-run club)",
+"red_flags": null,
+"summary": "This is the student-run Cyber Security Club at IIIT Kottayam in India, which organizes its own ApoorvCTF competition along with training sessions, workshops, and a gamified \"CyberPoints\" system for members. It explicitly welcomes all levels of expertise, from students just starting out to more experienced CTF players."
+},
+{
+"id": "cybertalents",
+"name": "CyberTalents",
+"platform": "discord",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"wargames",
+"careers",
+"students",
+"regional"
+],
+"activities": [
+"ctf-events",
+"study-groups",
+"job-board",
+"chat",
+"q-and-a"
+],
+"members": 2271,
+"online": 77,
+"region": "middle-east",
+"country": "EG",
+"subdivision": null,
+"language": "ar",
+"run_by": "CyberTalents",
+"red_flags": null,
+"summary": "Discord for CyberTalents, an Egypt-based platform (with offices in the UAE and US) that offers cybersecurity courses, practice challenges, CTF competitions, and job placement connecting companies with talent, largely serving the Arab/MENA region. Members come to learn, practice CTF-style challenges, and find career opportunities."
+},
+{
+"id": "downunderctf",
+"name": "DownUnderCTF",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"wargames",
+"reverse-engineering",
+"binary-exploitation",
+"cryptography"
+],
+"activities": [
+"ctf-events",
+"chat",
+"study-groups",
+"writeups"
+],
+"members": 5227,
+"online": 832,
+"region": "australia-nz",
+"country": "AU",
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "DownUnderCTF is a large annual jeopardy-style CTF competition run by a volunteer team of Australian and New Zealand cybersecurity students, originally created to give high school and university students in the region a beginner-accessible entry point into CTFs. The Discord hosts competition support, challenge discussion, and a broader year-round community for people learning offensive security skills, with challenges spanning a wide difficulty range including easy on-ramps for newcomers."
+},
+{
+"id": "hitcon-ctf",
+"name": "HITCON CTF",
+"platform": "discord",
+"category": "ctf",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"wargames",
+"reverse-engineering",
+"binary-exploitation",
+"cryptography"
+],
+"activities": [
+"ctf-events",
+"chat",
+"writeups"
+],
+"members": 4039,
+"online": 771,
+"region": "asia",
+"country": "TW",
+"subdivision": null,
+"language": "zh",
+"run_by": "HITCON (Hacks In Taiwan Conference)",
+"red_flags": null,
+"summary": "HITCON CTF is the flagship jeopardy-style Capture The Flag competition run by the organizers of HITCON, Taiwan's major hacker conference, drawing top international teams for a challenging 48-hour contest. The Discord is used for competition logistics and chat during the event and is aimed at experienced CTF players rather than newcomers, since HITCON's challenges are known for high difficulty."
+},
+{
+"id": "seccon-beginners-ctf",
+"name": "SECCON Beginners CTF",
+"platform": "discord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner"
+],
+"tags": [
+"ctf",
+"students",
+"wargames",
+"reverse-engineering",
+"cryptography"
+],
+"activities": [
+"ctf-events",
+"chat",
+"study-groups",
+"writeups"
+],
+"members": 6757,
+"online": 644,
+"region": "asia",
+"country": "JP",
+"subdivision": null,
+"language": "ja",
+"run_by": "SECCON",
+"red_flags": null,
+"summary": "SECCON Beginners CTF is the entry-level CTF track run by SECCON, Japan's largest domestic CTF and security conference organization, specifically designed for people who have never played a CTF before. The Discord supports the competition and ongoing discussion of easier challenges, making it a natural starting point for Japanese-speaking newcomers to offensive security."
+}
+]

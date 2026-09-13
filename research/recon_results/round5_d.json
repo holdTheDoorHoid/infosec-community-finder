@@ -1,0 +1,2172 @@
+[
+ {
+  "id": "gz-ctf",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "ctf",
+   "tool-support",
+   "programming",
+   "homelab"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the support and development Discord for GZ::CTF, an open-source ASP.NET Core platform used to host Capture The Flag competitions with dynamic scoring and container-based challenges. People here are mostly CTF organizers and developers discussing deployment, configuration, and contributing to the codebase rather than solving challenges themselves. It suits students and staff running university or club CTFs more than newcomers just learning to hack.",
+  "run_by": "GZTimeWalker and contributors",
+  "website": "https://gzctf.gzti.me/",
+  "github": "https://github.com/GZTimeWalker/GZCTF",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "cert-pl",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "malware-analysis",
+   "dfir",
+   "threat-intel",
+   "blue-team",
+   "news-cve"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is the community Discord run by CERT Polska, Poland's national computer emergency response team operating under the NASK research institute, covering malware analysis, incident response, and their open-source tools like the DRAKVUF sandbox. Discussion tends toward practicing analysts and researchers rather than newcomers. It's most useful for people already working in malware analysis or DFIR who want to follow CERT Polska's tooling and threat research.",
+  "run_by": "CERT Polska (NASK)",
+  "website": "https://cert.pl",
+  "github": "https://github.com/CERT-Polska",
+  "youtube": null,
+  "region": "europe",
+  "country": "PL",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "bluespawn-development",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "blue-team",
+   "detection-engineering",
+   "dfir",
+   "tool-support"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the development and support Discord for BLUESPAWN, an open-source active-defense and EDR tool built by the University of Virginia's Cyber Defense Team to help blue teams detect and respond to malicious activity mapped to MITRE ATT&CK. Members discuss detection coverage, bugs, and contributions to the tool rather than general blue-team learning. It fits people already doing detection engineering or defensive tooling work more than complete beginners.",
+  "run_by": "UVA Cyber Defense Team",
+  "website": "https://bluespawn.cloud",
+  "github": "https://github.com/ION28/BLUESPAWN",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "wgu-unofficial",
+  "include": false,
+  "exclude_reason": "General unofficial student community for Western Governors University covering all degree programs, not specifically a security/hacking community.",
+  "category": "general",
+  "tags": [
+   "students"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "study-groups"
+  ],
+  "summary": "This is an unofficial student-run Discord for Western Governors University covering coursework help and socializing across all of WGU's degree programs, including but not limited to its cybersecurity track. It's a general student hangout rather than a dedicated security community, though cybersecurity majors do talk shop there. It suits current or prospective WGU students more than security learners generally.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "us",
+  "country": "US",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "athena-os",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "linux",
+   "tool-support",
+   "pentesting",
+   "programming",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "This is the official Discord for Athena OS, an Arch/Nix-based Linux distribution built around pentesting and security tooling, aimed explicitly at students and newcomers as well as working infosec professionals. People get help installing and configuring the distro, packaging tools, and discuss general offensive-security workflows. Its stated goal of supporting people starting a cybersecurity journey makes it fairly welcoming to beginners.",
+  "run_by": "Athena-OS project",
+  "website": "https://athenaos.org",
+  "github": "https://github.com/Athena-OS/athena",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "signal-forge",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "hardware-hacking",
+   "rf-sdr",
+   "wireless",
+   "tool-support",
+   "homelab"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "This is a hobbyist Discord focused on WiFi Pineapple cloning projects (like the community WiFi Pineapple Cloner and Frieren firmware), OpenWrt, and building custom SIGINT/WiFi-security hardware on cheap commercial routers. Members share firmware builds, custom modules, and hardware labs for what is framed as authorized security research. It fits people already comfortable with OpenWrt and RF/WiFi hardware more than absolute beginners.",
+  "run_by": "community-run",
+  "website": null,
+  "github": "https://github.com/xchwarze/wifi-pineapple-cloner",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Framed as authorized security research only; misuse of cloning hardware for unauthorized access is out of scope.",
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "dissect",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "dfir",
+   "forensics",
+   "malware-analysis",
+   "blue-team"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official support Discord for Dissect, a modular digital forensics and incident response toolset built by Fox-IT (part of NCC Group) for parsing forensic artifacts across disk and filesystem formats without mounting them. Members get help using the toolset, discuss DFIR workflows, and follow project development; it suits practitioners already doing forensic or incident-response work rather than newcomers to security.",
+  "run_by": "Fox-IT (NCC Group)",
+  "website": null,
+  "github": "https://github.com/fox-it/dissect",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ai",
+  "include": false,
+  "exclude_reason": "Server name ('你也要玩AI吗？' — roughly 'Don't you want to play with AI too?') and available signals point to a general Chinese-language AI hobbyist chat, not a security community; it has no evident connection to the reverse-engineering tool repo it was scraped alongside.",
+  "category": "adjacent",
+  "tags": [
+   "programming"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat"
+  ],
+  "summary": "This small Chinese-language Discord appears from its name to be a general AI enthusiast chat rather than a security-focused space. No official page or description was found confirming any tie to reverse-engineering, CTFs, or security tooling, so it does not fit this directory's focus.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "asia",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "zh",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Candidate name/description ('open-reverselab') does not match the actual server name; likely a mismatched scrape rather than the tool's real community.",
+  "confidence": "low"
+ },
+ {
+  "id": "kunai",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "dfir",
+   "malware-analysis",
+   "linux",
+   "detection-engineering",
+   "blue-team"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the community Discord for Kunai, an eBPF-based Linux threat-hunting tool developed under the EU-funded NGSOTI project with partners including CIRCL and the University of Luxembourg. People here get help configuring and using the tool for security monitoring and correlate kernel-level events for threat hunting; it's aimed at blue-teamers and Linux security practitioners rather than beginners.",
+  "run_by": "kunai-project (NGSOTI consortium)",
+  "website": null,
+  "github": "https://github.com/kunai-project/kunai",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "vigolium",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "web-appsec",
+   "bug-bounty",
+   "ai-security",
+   "pentesting"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "This is the official Discord for Vigolium, an open-source web vulnerability scanner (created by security researcher j3ssie) that combines deterministic scanning modules with an AI-driven agentic scan mode, covering injection, access control, and other common web vulnerability classes. Members discuss usage, modules, and findings; it fits appsec practitioners and bug bounty hunters comfortable with scanner tooling rather than absolute beginners.",
+  "run_by": "j3ssie / community-run open-source project",
+  "website": "https://www.vigolium.com/",
+  "github": "https://github.com/vigolium/vigolium",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "wall-of-flippers",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "flipper-zero",
+   "wireless",
+   "hardware-hacking"
+  ],
+  "audience": [
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase",
+   "hardware-help"
+  ],
+  "summary": "This is the small support Discord for Wall of Flippers, a Python tool by developer k3yomi for detecting Flipper Zero devices and identifying Bluetooth Low Energy attack patterns nearby. Members use it to get help with the tool, share detections, and talk about BLE/Flipper Zero hardware hacking; it's a niche space centered on one project rather than broad security learning.",
+  "run_by": "k3yomi (community-run)",
+  "website": null,
+  "github": "https://github.com/k3yomi/Wall-of-Flippers",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "realhax-io",
+  "include": false,
+  "exclude_reason": "The server name 'realhax.io' matches branding used by sites/channels distributing cracked software and cheats, not the pentest-lab GitHub repo it was scraped alongside; no legitimate security community content was found under this name.",
+  "category": "general",
+  "tags": [
+   "pentesting"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 1,
+  "activities": [
+   "chat"
+  ],
+  "summary": "No official page could be found for this server beyond its name, which closely resembles well-known cracked-software/cheat distribution brands ('RealHax') rather than a legitimate security or pentesting community. It does not appear related to the penetration-testing lab repository it was paired with in scraping.",
+  "run_by": null,
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Name closely matches cracked-software/cheat distribution sites; likely unrelated or illegitimate despite the pentest-tool candidate match.",
+  "confidence": "low"
+ },
+ {
+  "id": "abdul-wahab-junaid",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "programming",
+   "hacker-culture",
+   "networking",
+   "students"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "This Discord is run by Abdul Wahab Junaid, the maintainer of large ethical-hacking and Kali Linux GitHub repositories, as a chat space for people learning cybersecurity, tech, AI, programming, and networking. Members ask questions, share resources, and discuss the tools from his repos. It suits self-taught beginners and hobbyists more than working professionals.",
+  "run_by": "Abdul Wahab Junaid",
+  "website": null,
+  "github": "https://github.com/aw-junaid/Hacking-Tools",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via public Discord invite link.",
+  "red_flags": "Linked GitHub repo also hosts malware samples alongside pentest tools, framed as for research/education only.",
+  "confidence": "medium"
+ },
+ {
+  "id": "goshs",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "tool-support",
+   "red-team",
+   "pentesting",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "This is the small support Discord for goshs, an open-source single-binary file server (HTTP/S, WebDAV, FTP/SFTP, SMB, LDAP, NTLM hash capture) built for red teamers and developers. It's a place to ask the maintainer and a handful of users about setup, bugs, and usage rather than a broad discussion community. Best suited to people already doing red team engagements who use the tool.",
+  "run_by": "goshs-labs (open-source project)",
+  "website": null,
+  "github": "https://github.com/goshs-labs/goshs",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Very small server (~16 members); mainly useful for direct tool support.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "yashab-cyber",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "tool-support",
+   "red-team",
+   "pentesting",
+   "ai-security"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "Run by Yashab Alam, this Discord supports HackGPT, an AI-powered penetration testing platform he develops, along with his other security projects. Members discuss setup, features, and use of the AI-driven pentest tooling. It's oriented toward practitioners already familiar with penetration testing concepts rather than newcomers.",
+  "run_by": "Yashab Alam",
+  "website": null,
+  "github": "https://github.com/yashab-cyber/HackGpt",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via public Discord invite link.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "horus",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "osint",
+   "forensics",
+   "tool-support",
+   "programming"
+  ],
+  "audience": [
+   "intermediate"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a"
+  ],
+  "summary": "This is the tiny support Discord for horus, an open-source OSINT and digital forensics tool written in Python by developer 6abd. It functions mainly as a place to report issues and ask usage questions about the tool directly to the maintainer. Suited to people already using or evaluating the tool rather than general learners.",
+  "run_by": "6abd (open-source project)",
+  "website": null,
+  "github": "https://github.com/6abd/horus",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Very small server (~15 members).",
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "carlasim",
+  "include": false,
+  "exclude_reason": "CARLA is an open-source autonomous-driving simulator; this Discord and its associated GitHub resource list are about robotics/self-driving simulation, not cybersecurity or a listed adjacent hobby.",
+  "category": "adjacent",
+  "tags": [
+   "programming",
+   "homelab"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "This Discord supports CARLA, an open-source simulator for autonomous driving research, and is tied to a curated GitHub list of CARLA tutorials and resources. Members discuss simulation setup, sensors, and self-driving algorithm development. It is not a security community.",
+  "run_by": "CARLA simulator community",
+  "website": null,
+  "github": "https://github.com/Amin-Tgz/awesome-CARLA",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "bluecapesecurity",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "dfir",
+   "blue-team",
+   "forensics",
+   "certifications",
+   "study-group"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "study-groups"
+  ],
+  "summary": "Run by Blue Cape Security, this Discord supports their free Practical Windows Forensics (PWF) training material and their paid Analyst 1 / PWFA certification track. Members work through hands-on DFIR labs, discuss forensic acquisition and analysis techniques, and ask questions about attack simulation exercises. It's aimed at people building blue team and digital forensics skills, from newcomers to the field through early-career analysts.",
+  "run_by": "Blue Cape Security",
+  "website": null,
+  "github": "https://github.com/bluecapesecurity/PWF",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via public Discord invite link; some advanced training/certification content is paid.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "openspool-community",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "iot-embedded",
+   "homelab",
+   "tool-support"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "hardware-help"
+  ],
+  "summary": "This is the support and discussion server for OpenSpool, an open-source RFID/NFC system that lets 3D-printer owners tag filament spools so printers (currently Bambu Lab) can auto-detect material settings. Members discuss ESP32 hardware builds, firmware setup, and troubleshooting rather than security research per se, though it touches RFID/NFC hacking territory as a maker project. It suits 3D-printing hobbyists and hardware tinkerers more than security beginners specifically.",
+  "run_by": "Spencer Owen (spuder) and open-source contributors",
+  "website": "https://openspool.io",
+  "github": "https://github.com/spuder/OpenSpool",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Self-service Discord invite; project is a maker/hardware tool, only tangentially security-relevant (RFID/NFC).",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ronin-rb",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "red-team",
+   "pentesting",
+   "reverse-engineering",
+   "binary-exploitation",
+   "programming",
+   "tool-support"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "This is the official Discord for ronin-rb, a free and open-source Ruby toolkit for security research, exploit development, and offensive tooling maintained by Hal Brodigan and the ronin-rb GitHub organization. People here discuss using and extending the Ronin libraries (scanning, fuzzing, exploit dev, DNS/web recon) and get support from the maintainers and other users. It fits developers and pentesters already comfortable with Ruby and offensive security concepts rather than absolute beginners.",
+  "run_by": "Hal Brodigan / ronin-rb project",
+  "website": "https://ronin-rb.dev",
+  "github": "https://github.com/ronin-rb/ronin",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "projet-fox",
+  "include": true,
+  "exclude_reason": null,
+  "category": "osint",
+  "tags": [
+   "osint",
+   "threat-intel",
+   "social-engineering",
+   "general-infosec",
+   "ctf"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "news-feed",
+   "challenges",
+   "q-and-a"
+  ],
+  "summary": "Projet FOX is a French pseudonymous collective founded in 2020 devoted to promoting intelligence analysis and OSINT techniques, especially applied to geopolitical crises, armed conflicts, and disinformation campaigns. On its Discord (about a thousand members) the community shares investigative analyses, debunks misinformation, discusses OSINT methodology, and has sponsored OSINT-flavored CTF events like FLAG4ALL. It suits French-speaking OSINT enthusiasts and geopolitics/intelligence watchers of varying experience levels.",
+  "run_by": "Projet FOX (community-run collective)",
+  "website": "https://projetfox.com",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": null,
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Members participate pseudonymously; content is French-language.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "adscan-community",
+  "include": true,
+  "exclude_reason": null,
+  "category": "redteam",
+  "tags": [
+   "red-team",
+   "pentesting",
+   "networking",
+   "tool-support",
+   "certifications"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the support community for ADscan, a free Active Directory pentesting tool built by Yeray Martin Dominguez, a working AD pentester, that automates enumeration, Kerberoasting, ASREPRoast, password spraying and related attack techniques. Members ask setup and usage questions and discuss AD attack techniques directly tied to the tool. It's aimed at penetration testers and red teamers already familiar with Active Directory attacks, not newcomers to security.",
+  "run_by": "Yeray Martin Dominguez / ADScanPro",
+  "website": "https://adscanpro.com",
+  "github": "https://github.com/ADScanPro/adscan",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "packj-discord-community",
+  "include": true,
+  "exclude_reason": null,
+  "category": "appsec",
+  "tags": [
+   "cloud-security",
+   "programming",
+   "tool-support",
+   "threat-intel"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the community server for Packj, a software supply-chain security tool from Ossillate Inc. (founded by researchers Ashish Bijlani, Devdutt Patnaik, and Ajinkya Rajput) that flags malicious, vulnerable, or typo-squatting packages in npm, PyPI, and RubyGems. The small, quiet server is mainly for tool users to ask setup questions and discuss supply-chain security findings. It suits developers and appsec practitioners interested in software supply-chain security rather than general security beginners.",
+  "run_by": "Ossillate Inc.",
+  "website": "https://packj.dev",
+  "github": "https://github.com/ossillate-inc/packj",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "softscale-web-agency-saas",
+  "include": false,
+  "exclude_reason": "This is a commercial web-development/SaaS agency's client and marketing Discord (websites, web apps, Discord bots, SEO), not a security or hacking community; the candidate GitHub project (flipper-zero-bad-usb) it was matched to does not correspond to this server's actual description.",
+  "category": "general",
+  "tags": [
+   "programming"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat"
+  ],
+  "summary": "SoftScale is a commercial web/app development and digital marketing agency's Discord server, used to discuss client projects like websites, SaaS apps, mobile apps, Discord bots, and SEO services. It is not focused on cybersecurity or hacking despite being paired with a Flipper Zero BadUSB script repository during data collection. It suits potential clients or the agency's own team, not security learners.",
+  "run_by": "SoftScale (company)",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "fr",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Mismatched candidate data: this server is unrelated to the flipper-zero-bad-usb GitHub repo it was scraped alongside.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "willy-firmware-v2",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "iot-embedded",
+   "hardware-hacking",
+   "flipper-zero",
+   "rf-sdr",
+   "wireless"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "This Discord supports Willy Firmware V2, an open-source ESP32-based alternative to the Flipper Zero built around a T-Display-S3 board and CC1101 radio module. Members discuss firmware features like sub-GHz signal capture/replay, IR control, BLE scanning, and Wi-Fi deauth, and get help flashing and using the device. It suits people already comfortable with hardware/RF hacking rather than total beginners.",
+  "run_by": "h-RAT (project maintainer)",
+  "website": null,
+  "github": "https://github.com/h-RAT/Willy_Firmware_V2_ESP32_Flipper_Zero_Alternative",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Firmware includes offensive features (deauth, jamming, BLE flooding) framed as security testing/education; usage may be illegal in some jurisdictions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wintergate",
+  "include": true,
+  "exclude_reason": null,
+  "category": "osint",
+  "tags": [
+   "osint",
+   "threat-intel",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "news-feed"
+  ],
+  "summary": "WinterGate Intelligence Collective is a small, membership-based OSINT group that runs a honeypot network, a Discord threat-actor tracking bot (GateKeeper), and log-monitoring tooling to research online abuse and support community defense. It describes itself as OSINT-only, with no hacking or deception, and operations are handled by a limited set of \"authenticated operators.\" It fits people already interested in OSINT/threat intel rather than newcomers looking for open discussion.",
+  "run_by": "community-run (WinterGate Intelligence Collective)",
+  "website": null,
+  "github": "https://github.com/WinterGate-IC/wintergate",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Describes itself as \"private, membership-based\"; deeper operator roles/tools require authentication beyond the public Discord join.",
+  "red_flags": "Operates a honeypot and tracks Discord users' threat-actor identifiers; small scale and self-described private/authenticated-operator structure limits transparency.",
+  "confidence": "medium"
+ },
+ {
+  "id": "evil-crow-rf",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "hardware-hacking",
+   "rf-sdr",
+   "wireless",
+   "flipper-zero",
+   "iot-embedded"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "This Discord supports users of Evil Crow RF, a CC1101-based sub-GHz radio hacking board, and its custom community firmware. Discussion covers signal recording/replay, frequency scanning, protocol brute-forcing, and advanced attacks like RollJam, plus a web control panel, aimed at people doing RF security testing. The maintainers pitch it at professionals and enthusiasts rather than absolute beginners.",
+  "run_by": "h-RAT (custom firmware maintainer) / Evil Crow RF community",
+  "website": null,
+  "github": "https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Firmware supports RF jamming, brute-forcing, and rolling-code attacks (RollJam/Rollback) — transmitting these signals is illegal in many places without authorization.",
+  "confidence": "high"
+ },
+ {
+  "id": "ctfnote",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "ctf",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official Discord for CTFNote, an open-source collaborative tool that helps CTF teams organize tasks, take shared notes, and track upcoming competitions. Members discuss development, request features, and get help self-hosting or configuring the tool. It's aimed at people already running or joining CTF teams rather than newcomers to security.",
+  "run_by": "TFNS (CTF team/project)",
+  "website": null,
+  "github": "https://github.com/TFNS/CTFNote",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "utmstack-virtual-hq",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "blue-team",
+   "soc",
+   "detection-engineering"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This Discord is the support community for UTMStack, an open-source SIEM/XDR platform that combines log management, real-time correlation, threat intelligence, and compliance reporting. Members ask deployment and configuration questions and discuss features with the maintaining team. It's geared toward blue-team practitioners and sysadmins evaluating or running the platform, not general security beginners.",
+  "run_by": "UTMStack (open-source project/company)",
+  "website": null,
+  "github": "https://github.com/utmstack/UTMStack",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "marine-biologist-lab",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "hardware-hacking",
+   "flipper-zero",
+   "rfid-nfc",
+   "iot-embedded"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "This is a community-run Discord centered on the Flipper Zero device, where longtime users and experienced members help newcomers learn the device, share custom firmware, animations, and profile graphics, and troubleshoot use cases like sub-GHz, RFID/NFC, and IR. It explicitly welcomes people who want a focused, active community to learn from experienced users. It's a good fit for anyone curious about Flipper Zero hardware, from first-time owners to longtime tinkerers.",
+  "run_by": "community-run",
+  "website": null,
+  "github": "https://github.com/Kuronons/FZ_graphics",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "cccs-aurora",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "malware-analysis",
+   "tool-support",
+   "blue-team",
+   "detection-engineering"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This Discord supports AssemblyLine, an open-source malware analysis and file-triage framework built by the Canadian Centre for Cyber Security (a government cybersecurity agency) and used to scale automated file scanning with Kubernetes/Docker. Members are users and contributors deploying or extending the framework, discussing configuration, plugins, and issues. It suits people already doing malware analysis or SOC/detection engineering work, not newcomers to security.",
+  "run_by": "Canadian Centre for Cyber Security (Cybercentre Canada)",
+  "website": "https://cybercentrecanada.github.io/assemblyline4_docs/",
+  "github": "https://github.com/CybercentreCanada/assemblyline",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via Discord invite link; discussion centers on deploying/using the AssemblyLine framework.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "futuresdr",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "rf-sdr",
+   "tool-support",
+   "programming",
+   "homelab"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This Discord supports FutureSDR, an open-source asynchronous software-defined radio (SDR) runtime for building high-performance radio applications across platforms. It's a small community-run support space where users and contributors get help building signal-processing flowgraphs, ask about the Rust-based API, and discuss the project's development. It's most useful to people already comfortable with SDR concepts and some programming, rather than absolute beginners.",
+  "run_by": "FutureSDR project (community-run open-source)",
+  "website": "https://www.futuresdr.org",
+  "github": "https://github.com/FutureSDR/FutureSDR",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via Discord invite link; discussion is focused on the FutureSDR runtime specifically, not general SDR/ham topics.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "zen-ai",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "red-team",
+   "pentesting",
+   "ai-security",
+   "tool-support"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This small Discord supports Zen-Ai-Pentest, an open-source AI-assisted penetration testing framework that combines LLMs with dozens of existing security tools for automated vulnerability scanning and reporting. The project states it is for authorized security testing only and includes guardrails like private-IP blocking. The community is tiny and appears to be mostly the solo maintainer and early adopters discussing setup and features, aimed at people who already do pentesting.",
+  "run_by": "SHAdd0WTAka (independent developer)",
+  "website": null,
+  "github": "https://github.com/SHAdd0WTAka/Zen-Ai-Pentest",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via Discord invite link; very small/new server (about 26 members).",
+  "red_flags": "AI-driven automated scanning tool with a solo maintainer and unverified track record; users should be cautious about running it against systems they don't own or lack authorization for.",
+  "confidence": "medium"
+ },
+ {
+  "id": "cervantessec",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "pentesting",
+   "red-team",
+   "tool-support",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This Discord supports Cervantes, an open-source collaborative platform for pentesters and red teams that centralizes project management, client data, vulnerability tracking, and report generation. It's run by its lead developer and used by teams adopting the tool to discuss deployment, features, and bugs. Best suited to working pentesters and red teamers already managing engagements, not newcomers.",
+  "run_by": "Ruben Mesquida Gomila / CervantesSec",
+  "website": "https://www.cervantessec.org",
+  "github": "https://github.com/CervantesSec/cervantes",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via Discord invite link; small server focused on the Cervantes platform.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "v0rt3x-s-workshop",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "hardware-hacking",
+   "wireless",
+   "tool-support",
+   "badgelife-maker"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "V0rT3x's Workshop is the community around Fancygotchi, a theme manager and GUI/tools framework for the Pwnagotchi Wi-Fi-hacking handheld device. People here get help installing and customizing themes/plugins for their Pwnagotchi units, show off builds, and chat with the solo developer. It suits hobbyists into hardware hacking and Wi-Fi deauth/handshake-capture gadgets, from newcomers tinkering with their first Pwnagotchi to more experienced modders.",
+  "run_by": "V0r-T3x (independent developer)",
+  "website": null,
+  "github": "https://github.com/V0r-T3x/Fancygotchi",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via Discord invite link; project accepts Patreon/PayPal support and notes it is for educational use.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "rf-swift",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "rf-sdr",
+   "hardware-hacking",
+   "tool-support",
+   "wireless"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This Discord supports RF Swift, an open-source multi-platform toolbox from PentHertz that packages over 200 RF and radio-security tools into containers so users can spin up an RF security lab without disrupting their main OS. Members are RF/SDR practitioners getting help with deployments, tool configuration, and hardware compatibility. It's geared toward people already working in radio/RF security rather than absolute beginners.",
+  "run_by": "PentHertz",
+  "website": "https://rfswift.io",
+  "github": "https://github.com/PentHertz/RF-Swift",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via Discord invite link; discussion is focused on the RF Swift toolbox and its supported hardware/tools.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "jones-inc",
+  "include": false,
+  "exclude_reason": "Discord's own description ('Jones' Chaotic Space' - tech enthusiasts, coding, design, cosmic vibes) does not match the candidate GitHub project (a Petlibro pet-feeder Home Assistant integration), and neither is security-related; this is a generic hobbyist/creator server with no infosec content.",
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "programming"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat"
+  ],
+  "summary": "A general-purpose Discord hangout for tech hobbyists interested in coding, design, and building side projects. There is no cybersecurity focus; it reads as a casual creator/maker chat space.",
+  "run_by": "community-run",
+  "website": null,
+  "github": "https://github.com/jjjonesjr33/petlibro",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Discord description and candidate GitHub project appear unrelated to each other, suggesting a mismatched or repurposed invite link.",
+  "confidence": "low"
+ },
+ {
+  "id": "iqengine",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "rf-sdr",
+   "wireless",
+   "tool-support",
+   "programming",
+   "homelab"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "workshops"
+  ],
+  "summary": "IQEngine is a web-based SDR toolkit for visualizing, filtering, and sharing RF recordings, backed by Microsoft, Qoherent, and Airbus support. The Discord server is where users get help with the tool, discuss features, and talk with the developers building it.",
+  "run_by": "IQEngine project",
+  "website": "https://iqengine.org",
+  "github": "https://github.com/IQEngine/IQEngine",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "bugtraceai",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "ai-security",
+   "red-team",
+   "web-appsec",
+   "tool-support",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "BugTraceAI's official Discord supports users of its open-source autonomous AI framework for vulnerability discovery and offensive security testing, led by developer Albert C. It's a small, early-stage server for people running or contributing to the scanner and its multi-agent security tooling.",
+  "run_by": "Albert C (BugTraceAI project)",
+  "website": null,
+  "github": "https://github.com/BugTraceAI/BugTraceAI",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Very small, brand-new server (8 members) — mostly the project author at this point.",
+  "confidence": "medium"
+ },
+ {
+  "id": "minigotchi",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "hardware-hacking",
+   "wireless",
+   "iot-embedded",
+   "tool-support",
+   "homelab"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "This server supports Minigotchi-ESP32, a Pwnagotchi-inspired WiFi wardriving/deauth tool ported to run on cheap ESP32 microcontrollers, maintained by a solo hobbyist developer. It's aimed at people already comfortable flashing and coding embedded hardware; the maintainer has described the server itself as mostly quiet.",
+  "run_by": "dj1ch (independent maintainer)",
+  "website": null,
+  "github": "https://github.com/dj1ch/minigotchi-ESP32",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Maintainer describes the Discord as mostly inactive.",
+  "confidence": "medium"
+ },
+ {
+  "id": "clawdstrike",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "blue-team",
+   "ai-security",
+   "detection-engineering",
+   "tool-support",
+   "programming"
+  ],
+  "audience": [
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "A very small, brand-new Discord for Clawdstrike, an open-source policy engine and EDR-style tool from Backbay Labs that evaluates AI agent actions alongside OS-level security events with cryptographically signed audit trails. Currently it's essentially the project's own early adopters and contributors.",
+  "run_by": "Backbay Labs",
+  "website": null,
+  "github": "https://github.com/backbay-labs/clawdstrike",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Only 3 members total — effectively unlaunched as a community.",
+  "confidence": "medium"
+ },
+ {
+  "id": "rctf",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "ctf",
+   "tool-support",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "ctf-events"
+  ],
+  "summary": "This Discord is the redpwnCTF team's hub, used for support on rCTF, their open-source CTF competition-hosting platform, via a dedicated help channel. It's aimed at CTF organizers standing up their own competitions rather than players looking for beginner guidance, and the codebase itself is noted as no longer actively maintained by redpwn.",
+  "run_by": "redpwn CTF team",
+  "website": "https://redpwn.net",
+  "github": "https://github.com/redpwn/rctf",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Use the #rctf-help channel for platform support questions.",
+  "red_flags": "The rCTF platform itself is marked no longer maintained by redpwn, with users redirected to a community fork.",
+  "confidence": "high"
+ },
+ {
+  "id": "rustchain-poa-coin-powered-by-sophia-core",
+  "include": false,
+  "exclude_reason": "Blockchain/cryptocurrency project (RustChain coin) plus an AI video platform and retro-gaming rewards scheme; no security or hacking focus.",
+  "category": "adjacent",
+  "tags": [
+   "programming"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "news-feed"
+  ],
+  "summary": "Run by Elyan Labs, this server centers on the RustChain cryptocurrency, an affiliated AI video platform called BoTTube, and retro-gaming reward mechanics. It is a crypto/project promotion hub rather than a security or hacking community.",
+  "run_by": "Elyan Labs",
+  "website": null,
+  "github": "https://github.com/Scottcjn/rustchain-bounties",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Crypto-token incentive structure (bounties paid in RTC coin) typical of small speculative blockchain projects.",
+  "confidence": "medium"
+ },
+ {
+  "id": "sdr-enthusiasts",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "rf-sdr",
+   "aviation-tracking",
+   "homelab",
+   "linux"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "A community built around the sdr-enthusiasts GitHub organization, which maintains Docker containers (readsb-protobuf, ADSB-Ultrafeeder) for feeding ADS-B aircraft-tracking data from RTL-SDR, bladeRF, and PlutoSDR hardware. Members discuss SDR hardware setup, antenna tuning, and running self-hosted flight-tracking feeders; it suits hobbyists into radio and aviation tracking rather than offensive security.",
+  "run_by": "community-run",
+  "website": null,
+  "github": "https://github.com/sdr-enthusiasts",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "refloow",
+  "include": false,
+  "exclude_reason": "General open-source software and Steam-bot/utility development studio community; while one of its 20+ repos is a forensics tool, the server's stated purpose is broad free/OSS tooling and business solutions, not security.",
+  "category": "tool",
+  "tags": [
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "giveaways",
+   "project-showcase"
+  ],
+  "summary": "Run by developer Veljko Vuckovic under the Refloow studio brand, this server supports a catalog of free open-source desktop apps, Discord/Steam bots, and automation scripts, with giveaways and direct developer support. It suits people looking for utility software and bot tools rather than a security-focused audience.",
+  "run_by": "Refloow (Veljko Vuckovic)",
+  "website": "https://refloow.com",
+  "github": "https://github.com/Refloow",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "justhack-it",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "students"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "A small, community-run Discord for people getting into cybersecurity to chat and ask questions. It has no distinct specialty (no CTF, no formal courses) and appears to be an early-stage general hangout for hobbyists rather than a structured learning program.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Very small and low online activity (126 members, 4 online) — may be quiet or inactive.",
+  "confidence": "medium"
+ },
+ {
+  "id": "securitylab",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "blue-team",
+   "soc",
+   "networking",
+   "linux",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "study-groups"
+  ],
+  "summary": "A community-run server focused on teaching networking basics, Linux fundamentals, and blue-team/SOC concepts from the ground up. It's aimed at people building defensive-security skills, from newcomers through intermediate practitioners studying for SOC-analyst-type roles.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "lxvelabs",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "hardware-hacking",
+   "iot-embedded",
+   "wireless",
+   "homelab",
+   "badgelife-maker"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "project-showcase",
+   "workshops"
+  ],
+  "summary": "A builder-focused community for custom firmware and hardware projects like ESP32-based tools (Marauder/Bruce/GhostESP), cyberdecks, and wardriving rigs, tied to the LxveAce cyber-controller GitHub project. The stated ethos is 'detect and defend, on your own gear,' making it a hands-on hardware-hacking space for hobbyists building and showing off gear rather than targeting others' networks.",
+  "run_by": "community-run",
+  "website": null,
+  "github": "https://github.com/LxveAce/cyber-controller",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Community norms emphasize using wardriving/RF tools only on your own gear.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "kiisu-io",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "hardware-hacking",
+   "iot-embedded",
+   "rfid-nfc",
+   "wireless",
+   "tool-support"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "summary": "Official Discord for KIISU, a credit-card-sized Flipper Zero-compatible dev board made by RainWalker OU, covering RFID/NFC, sub-GHz, IR, and Bluetooth hardware hacking. Members ask setup and firmware questions, share builds, and get support directly from the makers and other owners of the device.",
+  "run_by": "RainWalker OU",
+  "website": "https://kiisu.io",
+  "github": "https://github.com/kiisu-io/kiisu4",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "nullctf-support-server",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "ctf",
+   "tool-support",
+   "programming"
+  ],
+  "audience": [
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "Small support server for NullCTF, an open-source Discord bot that adds CTF collaboration tools (challenge tracking, team coordination) to a server. People here are mostly bot users asking setup questions or reporting issues to the maintainer.",
+  "run_by": "NullPxl",
+  "website": null,
+  "github": "https://github.com/NullPxl/NullCTF",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Mainly for support with the NullCTF bot rather than general CTF discussion.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "hardware-hacking-es",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "hardware-hacking",
+   "iot-embedded",
+   "reverse-engineering",
+   "students"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "workshops",
+   "project-showcase"
+  ],
+  "summary": "Spanish-language community built around a free educational repository on practical hardware hacking (UART/JTAG, SPI flash dumping, EEPROM reads, firmware extraction on routers and microcontrollers). It's run by an individual practitioner for learners who want hands-on hardware security skills, explicitly framed as legitimate technique-learning rather than illegal hacking.",
+  "run_by": "community-run",
+  "website": null,
+  "github": "https://github.com/therealdreg/hardware_hacking_es",
+  "youtube": null,
+  "region": "europe",
+  "country": "ES",
+  "subdivision": null,
+  "city": null,
+  "language": "es",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Spanish-speaking community; also has a parallel Telegram group.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "the-black-pearl",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "wireless",
+   "hardware-hacking",
+   "iot-embedded"
+  ],
+  "audience": [
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "summary": "Small Discord tied to developer cyberartemio's pwnagotchi plugins (wardriving, WiGLE upload, BadUSB payloads) and the 'Crew of the Black Pearl' WiGLE wardriving group. People here discuss pwnagotchi setups, wardriving results, and get support on the maintainer's plugins.",
+  "run_by": "cyberartemio",
+  "website": null,
+  "github": "https://github.com/cyberartemio/wardriver-pwnagotchi-plugin",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "the-dark-protocol",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "pentesting",
+   "tool-support",
+   "linux",
+   "red-team"
+  ],
+  "audience": [
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "Discord server linked to SecBuild, an open-source automation script that installs and manages 100+ popular pentesting and bug-bounty tools on Linux. Members are mostly users of the tool getting setup help and reporting issues to the maintainer.",
+  "run_by": "DonatoReis",
+  "website": null,
+  "github": "https://github.com/DonatoReis/Secbuild",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "zypherion-technologies",
+  "include": true,
+  "exclude_reason": null,
+  "category": "redteam",
+  "tags": [
+   "malware-analysis",
+   "reverse-engineering",
+   "red-team"
+  ],
+  "audience": [
+   "advanced"
+  ],
+  "beginner_friendly": 1,
+  "activities": [
+   "chat",
+   "project-showcase",
+   "writeups"
+  ],
+  "summary": "Discord for Zypherion Technologies, an independent reverse-engineering research group publishing open, no-paywall work on malware analysis, EDR/AV evasion detection, game-cheat and obfuscator internals, and anti-tamper systems. It's aimed at experienced reverse engineers and malware researchers, not people learning the basics.",
+  "run_by": "Zypherion Technologies",
+  "website": "https://www.zypherion.tech/",
+  "github": "https://github.com/Zypherion-Technologies",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Assumes strong reverse-engineering / Windows internals background.",
+  "red_flags": "Research touches dual-use offensive material (EDR evasion techniques, game-cheat/anti-tamper defeats); published openly for research purposes, not sold as a service.",
+  "confidence": "medium"
+ },
+ {
+  "id": "mimicry",
+  "include": false,
+  "exclude_reason": "The Discord invite (10 members, 0 online, no description) does not correspond to the chaitin/mimicry deception-tool project; searches tie this invite pattern to unrelated small/game-themed 'Mimicry' servers, not a security community.",
+  "category": "tool",
+  "tags": [
+   "tool-support"
+  ],
+  "audience": [
+   "intermediate"
+  ],
+  "beginner_friendly": 1,
+  "activities": [
+   "chat"
+  ],
+  "summary": "This tiny, inactive Discord invite does not appear to be tied to any active security project or community; it cannot be verified as related to the Mimicry deception tool on GitHub.",
+  "run_by": null,
+  "website": null,
+  "github": "https://github.com/chaitin/mimicry",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Server is essentially empty (10 members, 0 online) and its content could not be confirmed to relate to the named security tool.",
+  "confidence": "low"
+ },
+ {
+  "id": "fadsec-lab",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "privacy",
+   "tool-support",
+   "mobile-security",
+   "linux",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "summary": "FadSec Lab is a suite of ad-free, privacy-focused open-source apps (WiFade, FadCam, FadCrypt, Fadocx and others) built mainly by one developer known as anonfaded (Faded). The Discord is where users of these apps get support, report bugs, request features, and discuss privacy and security tooling for Android, Windows and Linux.",
+  "run_by": "anonfaded (Faded)",
+  "website": null,
+  "github": "https://github.com/anonfaded",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "weakpass-co",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "cryptography",
+   "pentesting",
+   "tool-support",
+   "red-team",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This Discord (named 'weakpass & co') is built around the weakpass.com password/hash-cracking wordlist and API service, where members discuss hash cracking, wordlists, and related password-security tooling. It suits people already doing penetration testing or CTFs who want cracking resources and peer discussion rather than newcomers to security.",
+  "run_by": "weakpass.com / community-run",
+  "website": null,
+  "github": "https://github.com/zzzteph/weakpass",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "dc604",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "general-infosec",
+   "hacker-culture",
+   "networking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "chat",
+   "news-feed"
+  ],
+  "summary": "DC604 is the DEF CON group for Vancouver, British Columbia, running monthly in-person meetups (last Thursday of the month) alongside Discord, Slack, and Telegram channels for ongoing chat. It's a general hacker/security meetup community open to locals interested in security, from curious newcomers to working professionals.",
+  "run_by": "community-run (DEF CON Group DC604)",
+  "website": "https://dc604.ca/",
+  "github": null,
+  "youtube": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "BC",
+  "city": "Vancouver",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Also active via Slack, Telegram, and Twitter; monthly meetup is last Thursday of the month.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "cybersecurity-sacramento-dc916",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "lockpicking-physical",
+   "ctf",
+   "reverse-engineering",
+   "ics-ot"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "ctf-events",
+   "hardware-help",
+   "chat"
+  ],
+  "summary": "Cybersecurity Sacramento / DC916 is the DEF CON group for the greater Sacramento area, bringing together hackers, makers, students and security professionals for monthly meetings (second Wednesday, in-person and via Discord) covering lock-picking, hardware/badge hacking, CTFs, reverse engineering, red-teaming and ICS security. It welcomes hobbyists and students alongside working practitioners.",
+  "run_by": "community-run (DEF CON Group DC916)",
+  "website": "https://dc916.com/",
+  "github": null,
+  "youtube": null,
+  "region": "us-west",
+  "country": "US",
+  "subdivision": "CA",
+  "city": "Sacramento",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Group maintains a published Code of Conduct; meetings are second Wednesday of the month, 7-8:30pm.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "dc757",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "pentesting",
+   "reverse-engineering",
+   "ctf",
+   "rf-sdr",
+   "ics-ot"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "local-meetups",
+   "ctf-events",
+   "chat",
+   "hardware-help"
+  ],
+  "summary": "DC757 (also covering the 948 area code) is the DEF CON group for Virginia's Hampton Roads region, describing itself as an inclusive, zero-elitism hacker community started by three local tech enthusiasts. Members meet online and in person to work on penetration testing, reverse engineering, CTFs, RF/Wi-Fi, ICS, physical security and even biohacking, explicitly welcoming curious people of all skill levels.",
+  "run_by": "community-run (DEF CON Group DC757/948)",
+  "website": "https://www.dc757.org/",
+  "github": null,
+  "youtube": null,
+  "region": "us-southeast",
+  "country": "US",
+  "subdivision": "VA",
+  "city": "Hampton Roads",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ }
+]

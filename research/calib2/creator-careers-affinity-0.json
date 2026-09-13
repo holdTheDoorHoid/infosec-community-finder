@@ -1,0 +1,383 @@
+[
+{
+"id": "r-securitycareeradvice",
+"name": "r/SecurityCareerAdvice",
+"platform": "reddit",
+"category": "careers",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"careers",
+"certifications",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"q-and-a",
+"job-board",
+"chat"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A smaller, more focused subreddit than r/cybersecurity dedicated to security-specific career questions - resume reviews, interview prep, certification value, and which specialization to pursue. It suits people already decided on security but unsure how to break in or move up, more than absolute beginners exploring the field."
+},
+{
+"id": "r-cybersecurityjobs",
+"name": "r/CyberSecurityJobs",
+"platform": "reddit",
+"category": "careers",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"careers",
+"jobs"
+],
+"activities": [
+"job-board",
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A smaller subreddit dedicated to cybersecurity job postings and hiring discussion, where recruiters and hiring managers share openings and job seekers ask career-entry questions. It suits people actively job-hunting in security more than those just browsing for general discussion."
+},
+{
+"id": "r-isc2",
+"name": "r/ISC2",
+"platform": "reddit",
+"category": "careers",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"certifications",
+"careers",
+"study-group"
+],
+"activities": [
+"study-groups",
+"q-and-a",
+"job-board"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A subreddit centered on ISC2 and its certifications (CISSP, SSCP, CC), where members discuss exam preparation, study resources, and membership/CPE requirements. It suits people pursuing or holding ISC2 certifications, from newcomers eyeing the entry-level CC to experienced CISSP holders."
+},
+{
+"id": "r-cissp",
+"name": "r/CISSP",
+"platform": "reddit",
+"category": "careers",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"certifications",
+"study-group",
+"careers",
+"general-infosec"
+],
+"activities": [
+"q-and-a",
+"study-groups",
+"chat",
+"job-board"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A subreddit dedicated to the (ISC)2 CISSP certification, where people study together, share exam experiences, ask about study materials, and discuss whether the credential is worth pursuing for a given career stage. It suits IT/security professionals with several years of experience since CISSP requires prior work history, rather than absolute beginners."
+},
+{
+"id": "micode",
+"name": "MICODE",
+"platform": "discord",
+"category": "creator",
+"bf": 5,
+"audience": [
+"beginner"
+],
+"tags": [
+"general-infosec",
+"hacker-culture",
+"programming",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 9,
+"online": 2,
+"region": "europe",
+"country": "FR",
+"subdivision": null,
+"language": "fr",
+"run_by": "Micode (Michaël de Mariliave) / Micorp",
+"red_flags": null,
+"summary": "This is the Discord for Micode (Michaël de Mariliave), a French YouTuber whose channel simplifies cybersecurity, tech news, and internet safety for a mass audience. Members discuss his videos, ask basic questions about online safety and digital literacy, and chat about tech topics; it suits French-speaking beginners with no prior security background rather than practitioners."
+},
+{
+"id": "hackndo",
+"name": "hackndo",
+"platform": "discord",
+"category": "creator",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"web-appsec",
+"reverse-engineering"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 1425,
+"online": 194,
+"region": "europe",
+"country": "FR",
+"subdivision": null,
+"language": "fr",
+"run_by": "Pixis (Romain Bentz)",
+"red_flags": null,
+"summary": "Hackndo is a French-language pentest and Active Directory security blog written primarily by Pixis (Romain Bentz), covering topics like NTLM relay, password spraying, EDR evasion and blockchain security. Its Discord is a discussion space for readers of the blog to ask questions and talk shop about offensive security techniques, mostly suited to people who already have some pentesting or AD background."
+},
+{
+"id": "comptoirsecu",
+"name": "comptoirsecu",
+"platform": "discord",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"news-cve",
+"blue-team"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 1184,
+"online": 193,
+"region": "europe",
+"country": "FR",
+"subdivision": null,
+"language": "fr",
+"run_by": "Le Comptoir Sécu team",
+"red_flags": null,
+"summary": "Le Comptoir Sécu is a French-language cybersecurity podcast and video series (SECompris, SEClair, PoC, weekly SecHebdo news roundups) made by a small team for IT and security professionals. Its Discord is where listeners discuss episodes, security news and general infosec topics, and it's approachable for French-speaking beginners as well as working practitioners."
+},
+{
+"id": "stacksmashing",
+"name": "stacksmashing",
+"platform": "discord",
+"category": "creator",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"reverse-engineering",
+"iot-embedded",
+"binary-exploitation",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": 4848,
+"online": 773,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Thomas Roth (stacksmashing) fan community",
+"red_flags": "Invite link not confirmed on stacksmashing's own site or official socials, only via third-party Discord listing aggregators; verify before promoting as official.",
+"summary": "This is the fan/community Discord built around Thomas Roth's (stacksmashing) YouTube channel, which covers hardware hacking, glitching, reverse engineering, and embedded security teardown videos. People chat about his videos, discuss their own hardware/RE projects, and ask questions, though the invite could only be confirmed through third-party Discord-listing sites rather than his own official channels."
+},
+{
+"id": "projectsecurity",
+"name": "ProjectSecurity",
+"platform": "discord",
+"category": "creator",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"careers",
+"homelab",
+"students",
+"mentorship"
+],
+"activities": [
+"chat",
+"q-and-a",
+"job-board",
+"study-groups",
+"mentorship",
+"project-showcase"
+],
+"members": 9311,
+"online": 767,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Grant Collins / ProjectSecurity",
+"red_flags": null,
+"summary": "Community built around Grant Collins (YouTuber collinsinfosec) and his ProjectSecurity.io homelab guides, aimed at people breaking into cybersecurity. Members discuss homelab projects, career advice, and general security topics, and help each other learn hands-on skills outside of formal courses."
+},
+{
+"id": "total-seminars",
+"name": "Total Seminars",
+"platform": "discord",
+"category": "careers",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"certifications",
+"study-group",
+"careers",
+"students"
+],
+"activities": [
+"study-groups",
+"job-board",
+"q-and-a",
+"chat",
+"voice-events"
+],
+"members": 1765,
+"online": 138,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Mike Meyers / Total Seminars",
+"red_flags": null,
+"summary": "Discord run by Mike Meyers' Total Seminars, the company behind popular CompTIA A+/Network+/Security+ prep books and courses. Members join live study halls and tech talks, get help with exam prep, and share IT job-hunting resources, making it geared heavily toward people studying for entry-level IT/security certifications."
+},
+{
+"id": "cyber-insecurity",
+"name": "Cyber Insecurity",
+"platform": "discord",
+"category": "creator",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"careers",
+"mentorship",
+"blue-team",
+"study-group"
+],
+"activities": [
+"chat",
+"mentorship",
+"job-board",
+"study-groups",
+"voice-events",
+"q-and-a"
+],
+"members": 4867,
+"online": 793,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Neal Bridges",
+"red_flags": null,
+"summary": "Community tied to Neal Bridges, a CISO and Twitch streamer (cyber_insecurity), aimed at helping people of any skill level find their place in the cybersecurity industry. Members get free career coaching, mentorship, group study rooms, and networking, with an explicit non-toxic, non-gatekeeping tone toward newcomers."
+},
+{
+"id": "bleepingcomputer",
+"name": "BleepingComputer",
+"platform": "discord",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"news-cve",
+"malware-analysis",
+"tool-support"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 1702,
+"online": 141,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "BleepingComputer",
+"red_flags": null,
+"summary": "Official Discord chat server for BleepingComputer, the long-running tech news site and support forum known for malware removal help and security news coverage. Members discuss breaking security/tech news and can get informal help with malware and PC issues, complementing the site's much larger forum."
+}
+]

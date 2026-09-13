@@ -1,0 +1,2258 @@
+[
+ {
+  "id": "polycyber",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "reverse-engineering",
+   "web-appsec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "study-groups",
+   "chat"
+  ],
+  "summary": "This is the cybersecurity club at Polytechnique Montréal, running weekly 'Hacker Nights' where members solve security challenges together, plus workshops ranging from beginner to advanced. A dedicated CTF team competes in events like NorthSec and HackFest, making it a fit for students wanting hands-on practice and a path from newcomer to competitor.",
+  "run_by": "PolyCyber (student club, Polytechnique Montréal)",
+  "website": "https://polycyber.io",
+  "github": null,
+  "youtube": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "QC",
+  "city": "Montreal",
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Primarily French-language club; Discord invite is the main signup path.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "dalhousie-cybersecurity-society",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "students",
+   "general-infosec",
+   "ctf",
+   "careers"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "study-groups",
+   "chat"
+  ],
+  "summary": "Run by students at Dalhousie University, this society organizes CTF competitions, cybersecurity workshops, and talks from industry professionals. It's aimed at students who want to build practical skills and hear from working security professionals rather than just chat casually.",
+  "run_by": "Dalhousie Cybersecurity Society (student-run)",
+  "website": "https://dalcyber.ca/",
+  "github": null,
+  "youtube": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "NS",
+  "city": "Halifax",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "uoft-cybersecurity-student-association",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "students",
+   "general-infosec",
+   "careers",
+   "networking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "workshops",
+   "study-groups",
+   "chat",
+   "job-board"
+  ],
+  "summary": "This student-led association at the University of Toronto runs technical workshops, industry panels with guest speakers, and networking events to introduce students to cybersecurity career paths. It's geared toward undergrads who are curious about the field and want an accessible entry point plus exposure to industry opportunities.",
+  "run_by": "UofT Cybersecurity Student Association (student-run, part of Skule)",
+  "website": "https://cssa.sa.utoronto.ca/",
+  "github": null,
+  "youtube": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "ON",
+  "city": "Toronto",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "csiul",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "students",
+   "osint",
+   "reverse-engineering",
+   "mobile-security",
+   "ctf",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "chat",
+   "writeups"
+  ],
+  "summary": "CSIUL is the student cybersecurity and hacking club at Université Laval, covering topics like mobile security, OSINT, and reverse engineering through articles and activities, with sponsorship support from firms like GoSecure. Membership is open to anyone interested via their Discord, making it approachable for students at any skill level.",
+  "run_by": "CSIUL (student club, Université Laval, affiliated with CRTI)",
+  "website": "https://csi.ift.ulaval.ca/",
+  "github": null,
+  "youtube": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "QC",
+  "city": "Quebec City",
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": "French-language club; join via Discord invite.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "rhum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "study-groups"
+  ],
+  "summary": "RHUM is a computer science student club at Université de Montréal focused on security, organizing CTF-style challenges and competing in regional events like HackFest and NorthSec. It welcomes participants of all levels and is one of the partner clubs behind the UnitedCTF student competition.",
+  "run_by": "RHUM (student club, Université de Montréal / DIRO)",
+  "website": "https://unitedctf.ca/club/rhum",
+  "github": null,
+  "youtube": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "QC",
+  "city": "Montreal",
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "dci",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "chat",
+   "study-groups"
+  ],
+  "summary": "DCI is the computing-competitions delegation at ÉTS (École de technologie supérieure) in Montreal, fielding teams for events like CS Games, NorthSec, and Coveo Blitz that span security, AI, and programming. Weekly meetings on Discord and occasional workshops make it a place for students to practice competitive problem-solving and meet others in the field.",
+  "run_by": "DCI ÉTS (student club, École de technologie supérieure)",
+  "website": "https://unitedctf.ca/club/dciets",
+  "github": null,
+  "youtube": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "QC",
+  "city": "Montreal",
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "unitedctf",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "cryptography",
+   "reverse-engineering",
+   "binary-exploitation"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "study-groups"
+  ],
+  "summary": "UnitedCTF is an annual university CTF competition run jointly by six Quebec university computing/cybersecurity clubs (ETS, Sherbrooke, Concordia, Laval, Polytechnique Montreal, and Universite de Montreal). The Discord hosts announcements, team formation and challenge discussion around the yearly week-long event, which is explicitly aimed at beginners learning crypto, reverse engineering, Linux and networking basics.",
+  "run_by": "Joint committee of six Quebec university clubs (DCIETS, JDIS, SCS, CSIUL, PolyCyber, RHUM)",
+  "website": "https://unitedctf.ca/",
+  "github": null,
+  "youtube": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "QC",
+  "city": "Montreal",
+  "language": "fr",
+  "year_round": false,
+  "event": "UnitedCTF",
+  "rules_note": "Main activity is a yearly week-long CTF event (mid/late September); Discord is used for team formation and event announcements.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "sucss-cyber-security-society",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "ctf",
+   "students",
+   "study-group",
+   "general-infosec",
+   "networking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "chat",
+   "study-groups"
+  ],
+  "summary": "SUCSS is the student-run Cyber Security Society at the University of Southampton, holding weekly in-person meetings with talks from external speakers, workshops, and CTF practice. The Discord is their main coordination hub alongside email and social media, aimed at students who want structured exposure to security topics and hands-on practice.",
+  "run_by": "University of Southampton Cyber Security Society (student-run)",
+  "website": "https://sucss.org/",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Southampton",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Weekly meetings Wednesdays 6pm during term; Discord invite is open, membership otherwise via university society signup.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "cambridge-cybersoc",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "ctf",
+   "students",
+   "study-group",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "chat",
+   "study-groups"
+  ],
+  "summary": "Cambridge CyberSoc is the University of Cambridge's student cybersecurity society, running expert talks and hands-on workshops including beginner-oriented Hack The Box sessions. It's aimed primarily at Cambridge students (mailing list signup via university email or a form for others), and coordinates events through Discord and its mailing list.",
+  "run_by": "University of Cambridge Cyber Security Society (student-run)",
+  "website": "https://cybersoc.soc.srcf.net/",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Cambridge",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Full mailing-list membership favors @cam.ac.uk emails; non-Cambridge members can email the committee to inquire about joining Discord/events.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "afnom",
+  "name_note": null,
+  "include": true,
+  "exclude_reason": null,
+  "category": "redteam",
+  "tags": [
+   "ctf",
+   "students",
+   "binary-exploitation",
+   "reverse-engineering",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "chat",
+   "study-groups"
+  ],
+  "summary": "AFNOM (A Finite Number Of Monkeys) is the University of Birmingham's offensive-security and hacking club, meeting weekly in person to work through hacking challenges pitched at every skill level, plus CTF competitions. It explicitly welcomes newcomers with no prior experience and coordinates meeting locations and discussion through Discord.",
+  "run_by": "University of Birmingham AFNOM society (student-run)",
+  "website": "https://afnom.net/",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Birmingham",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Weekly in-person meetups Wednesdays 3pm during term, room announced on Discord; has a Code of Conduct.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "cybersoc",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "study-group"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "chat"
+  ],
+  "summary": "CyberSoc is the University of Liverpool's cybersecurity society, focused on workshops, talks from industry professionals, and CTF competitions in what it describes as a welcoming environment for exploring security and hacking. Discord is their fastest way to reach the committee and coordinate events.",
+  "run_by": "University of Liverpool Cyber Security Society (student-run)",
+  "website": "https://cybersocuol.github.io/",
+  "github": "https://github.com/cybersocuol",
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Liverpool",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "sigint",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "wargames",
+   "students",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "challenges"
+  ],
+  "summary": "SIGINT is the University of Edinburgh's cybersecurity society, running its own hosted challenge platform (pwnable.sigint.mx) alongside member events, and is backed by sponsors including Trail of Bits and Bugcrowd. It suits students who want ongoing CTF-style practice as well as networking with industry-adjacent sponsors.",
+  "run_by": "University of Edinburgh SIGINT society (student-run)",
+  "website": "https://sigint.mx/",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Edinburgh",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "warwick-cyber-security-society",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "web-appsec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "chat",
+   "ctf-events",
+   "workshops",
+   "study-groups"
+  ],
+  "summary": "This is the student-run cybersecurity society at the University of Warwick, competing in CTFs (with several strong placings), hosting talks, and running social events. It explicitly welcomes newcomers to the field as well as more experienced members looking to compete.",
+  "run_by": "University of Warwick students (Warwick SU society)",
+  "website": "https://warwickcybersoc.com/",
+  "github": "https://github.com/warwickcybersoc/",
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Coventry",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Join via the Warwick Students' Union society page; Discord invite is on the official site.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "hacksoc-nottingham",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "ctf",
+   "students",
+   "programming",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "chat",
+   "workshops",
+   "ctf-events",
+   "study-groups"
+  ],
+  "summary": "HackSoc is the University of Nottingham's technology and recreational-programming society, running weekly workshops/talks at all skill levels, competing in hackathons, and organizing its own annual hackathon, HackNotts. It welcomes members regardless of prior programming or security experience, framing 'hacker' broadly as anyone who enjoys clever tinkering with computers.",
+  "run_by": "University of Nottingham students (Students' Union society)",
+  "website": "https://hacksocnotts.co.uk/",
+  "github": "https://github.com/hackSocNotts/",
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Nottingham",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Join via the University of Nottingham SU society page; Discord invite is linked from hacksoc.net/discord.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "enusec",
+  "name_note": null,
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "web-appsec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "chat",
+   "workshops",
+   "ctf-events",
+   "voice-events"
+  ],
+  "summary": "ENUSEC is Edinburgh Napier University's open cybersecurity community, founded in 2015, running weekly meetups, talks, and CTF challenges, plus its flagship annual event Le Tour Du Hack. The site states events are open to everyone whether new to security or already experienced, and the group also maintains a widely used directory of UK university cybersecurity societies.",
+  "run_by": "Edinburgh Napier University students, with academic support from Professor Bill Buchanan",
+  "website": "https://enusec.org/",
+  "github": null,
+  "youtube": "https://youtube.com/@ENUSEC",
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Edinburgh",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Discord invite is via discord.enusec.org, redirecting to the live invite link.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "dmu-hackers",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "ctf",
+   "students",
+   "web-appsec",
+   "binary-exploitation",
+   "reverse-engineering",
+   "lockpicking-physical"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "chat",
+   "workshops",
+   "ctf-events"
+  ],
+  "summary": "DMU Hackers is De Montfort University's cybersecurity society, running since 2015, with weekly meetups covering web app hacking, lock picking, binary exploitation, and reverse engineering, plus its own CTF event Pwn2Play (200 teams in 2026). The society explicitly says no experience is required and offers beginner-friendly challenges with mentor support alongside harder content, open to students of any discipline.",
+  "run_by": "De Montfort University students",
+  "website": "https://dmuhackers.com/",
+  "github": "https://github.com/DMUHackers",
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Leicester",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "cybersoc-2",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "ctf",
+   "students",
+   "web-appsec",
+   "cryptography",
+   "hardware-hacking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "workshops"
+  ],
+  "summary": "CyberSoc is the University of York's cybersecurity society, covering topics from cryptography and web vulnerabilities to hardware hacking through workshops and events. Participation and their Discord are open to anyone interested even without formal society membership, making it approachable for newcomers.",
+  "run_by": "University of York students (founded by Ben Silverman)",
+  "website": "https://cybersoc.co.uk/",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "York",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "You can join the Discord and get involved without buying membership.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ham-radio-crash-course",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "rf-sdr",
+   "ham-radio",
+   "hardware-hacking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "chat",
+   "voice-events",
+   "workshops",
+   "news-feed"
+  ],
+  "summary": "This is the community Discord for Ham Radio Crash Course, a YouTube/podcast/livestream project hosted by Josh Nass (KI6NAZ) dedicated to getting people licensed and engaged in amateur radio, SDR, and RF hardware. It's explicitly framed as inclusive and focused on normalizing the hobby for newcomers, alongside live streams and a biweekly Ham Nation talk show for more experienced operators.",
+  "run_by": "Josh Nass (KI6NAZ) / Ham Radio Crash Course",
+  "website": "https://www.hamradiocrashcourse.com",
+  "github": null,
+  "youtube": "https://www.youtube.com/c/HamRadioCrashCourse",
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "This is a ham radio / SDR hobby community, not a security-focused space; included as an adjacent hardware/RF hobby.",
+  "confidence": "high"
+ },
+ {
+  "id": "micode",
+  "include": true,
+  "exclude_reason": null,
+  "category": "creator",
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "programming",
+   "students"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is the Discord for Micode (Michaël de Mariliave), a French YouTuber whose channel simplifies cybersecurity, tech news, and internet safety for a mass audience. Members discuss his videos, ask basic questions about online safety and digital literacy, and chat about tech topics; it suits French-speaking beginners with no prior security background rather than practitioners.",
+  "run_by": "Micode (Michaël de Mariliave) / Micorp",
+  "website": null,
+  "github": null,
+  "youtube": "https://www.youtube.com/@Micode",
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": null,
+  "language": "fr",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via the public invite link; content and chat are in French.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "guia-an-nima",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "general-infosec",
+   "pentesting",
+   "programming",
+   "certifications",
+   "study-group"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "workshops",
+   "job-board",
+   "news-feed"
+  ],
+  "summary": "Guia Anônima is a Brazilian information-security education project (YouTube channel, courses, and podcast) that runs this Discord as its community hub. People come here to ask questions about getting started in ethical hacking/pentesting, discuss the project's Python-for-hackers and networking courses, and follow career tips in Portuguese; it is aimed squarely at newcomers to the field in Brazil.",
+  "run_by": "Guia Anônima (community-run education project)",
+  "website": "https://guiaanonima.com",
+  "github": "https://github.com/guiaanonima",
+  "youtube": "https://www.youtube.com/@guianonima",
+  "region": "latin-america",
+  "country": "BR",
+  "subdivision": null,
+  "city": null,
+  "language": "pt",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Server language is Brazilian Portuguese; joins via a public invite on the project's site.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "bc-security",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "red-team",
+   "pentesting",
+   "detection-engineering",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official Discord run by BC Security, maintainers of Empire (a post-exploitation C2 framework) and Starkiller. Users get support using and configuring Empire for red-team engagements, discuss modules and detections, and follow project updates; it assumes familiarity with offensive-security tooling rather than teaching fundamentals.",
+  "run_by": "BC Security",
+  "website": "https://www.bc-security.org",
+  "github": "https://github.com/BC-SECURITY/Empire",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Offensive C2 tooling; intended for authorized red-team/pentest use, not for beginners looking for how-to-hack guidance.",
+  "confidence": "high"
+ },
+ {
+  "id": "netexec",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "red-team",
+   "pentesting",
+   "networking",
+   "detection-engineering"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official support Discord for NetExec (formerly CrackMapExec), a network/Active Directory pentesting tool maintained by the Pennyw0rth team. Members ask usage and bug-support questions, discuss AD attack techniques the tool exercises, and follow release notes; it's aimed at people already doing internal network penetration testing rather than beginners.",
+  "run_by": "Pennyw0rth / NetExec maintainers",
+  "website": null,
+  "github": "https://github.com/Pennyw0rth/NetExec",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "projectdiscovery-community",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "web-appsec",
+   "bug-bounty",
+   "pentesting",
+   "cloud-security"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "Run by the ProjectDiscovery team, this Discord is the hub for Nuclei, Subfinder, httpx and their other open-source security-automation tools. People troubleshoot tool usage, share and discuss Nuclei templates, and talk vulnerability-scanning workflows for appsec and bug-bounty work; it suits practitioners already doing recon and scanning more than absolute beginners.",
+  "run_by": "ProjectDiscovery",
+  "website": "https://projectdiscovery.io",
+  "github": "https://github.com/projectdiscovery/nuclei",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "caido",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "web-appsec",
+   "bug-bounty",
+   "pentesting"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "This is the official Discord for Caido, a web-application security testing proxy positioned as a lighter, faster alternative to Burp Suite. Users get help using the proxy for manual web pentesting/bug bounty, discuss plugins and workflows with the developers, and share feedback on new features; both newcomers to web appsec tooling and experienced testers are active.",
+  "run_by": "Caido Labs",
+  "website": "https://caido.io",
+  "github": "https://github.com/caido/caido",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "adaptix-framework",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "red-team",
+   "pentesting",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "job-board"
+  ],
+  "summary": "This is the official Discord for AdaptixC2, an open-source, modular post-exploitation command-and-control (C2) framework aimed at red teamers and penetration testers. Members discuss framework internals, agents, extensions and bugs, and get help building or deploying the tool. It suits people already doing offensive security work or red-team tooling development rather than newcomers.",
+  "run_by": "Adaptix-Framework project",
+  "website": "https://adaptix-framework.gitbook.io/adaptix-framework",
+  "github": "https://github.com/Adaptix-Framework/AdaptixC2",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Discord invite is public; framework is a red-team/adversary-emulation tool so expect a technical, offense-focused crowd.",
+  "red_flags": "As a C2 framework, AdaptixC2 has been reported used in real-world malicious intrusions (per third-party threat research), which is typical of dual-use red-team tooling but worth noting.",
+  "confidence": "high"
+ },
+ {
+  "id": "parrot-security",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "linux",
+   "pentesting",
+   "red-team",
+   "general-infosec",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is the official Discord for Parrot OS (Parrot Security), a Debian-based Linux distribution built for penetration testing, digital forensics, and privacy-focused work, maintained by the Parrot Project team and community contributors. People come here for install/usage support, tool discussion, and general security chat around the distro. It works for newcomers setting up the OS as well as experienced pentesters who use it daily.",
+  "run_by": "Parrot Project / Parrot OS team",
+  "website": "https://www.parrotsec.org/",
+  "github": "https://github.com/ParrotSec",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "exegol",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "pentesting",
+   "red-team",
+   "linux",
+   "programming",
+   "homelab"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official Discord for Exegol, a community-maintained Docker-based hacking environment/toolbox popular in French and wider pentest circles as an alternative to full pentest distros. Members get help installing and configuring the containerized toolset, discuss included tools, and report issues to the maintainers. It suits people already comfortable with pentesting workflows and Docker rather than absolute beginners.",
+  "run_by": "Exegol project (community-maintained)",
+  "website": "https://exegol.com/",
+  "github": "https://github.com/ThePorgs/Exegol",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "x64dbg",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "reverse-engineering",
+   "binary-exploitation",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official Discord for x64dbg, a free and open-source x86/x64 debugger for Windows executables used heavily in reverse engineering and malware analysis. Members ask usage questions, discuss plugins/scripts, and contribute to development of the debugger itself. It's aimed at people already doing RE or debugging work rather than people new to security.",
+  "run_by": "x64dbg project",
+  "website": "https://x64dbg.com/",
+  "github": "https://github.com/x64dbg/x64dbg",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "pwndbg",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "binary-exploitation",
+   "reverse-engineering",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official Discord for pwndbg, a GDB/LLDB plugin that adds exploit-development and reverse-engineering features for low-level and CTF work, maintained by an open-source team. Users come here for setup help, bug reports, and discussion of exploit-dev workflows using the plugin. It's built for people already writing exploits or doing binary RE, not newcomers to security.",
+  "run_by": "pwndbg project (open-source maintainers)",
+  "website": "https://pwndbg.re/",
+  "github": "https://github.com/pwndbg/pwndbg",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "blahcats",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "binary-exploitation",
+   "reverse-engineering",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This Discord (branded BlahCats) is the official community server for GEF (GDB Enhanced Features), a GDB plugin adding exploit-development and reverse-engineering commands, maintained by developer hugsy. People use it to get support with GEF and its GEF-Extras add-ons, report bugs, and discuss exploit-dev/RE workflows built on GDB. It's aimed at people already doing binary exploitation or reverse engineering rather than newcomers.",
+  "run_by": "hugsy / GEF project",
+  "website": null,
+  "github": "https://github.com/hugsy/gef",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Server is branded 'BlahCats' rather than 'GEF', which can be confusing when looking for the project's official community.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "malcat",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "reverse-engineering",
+   "malware-analysis",
+   "binary-exploitation",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official support Discord for Malcat, a hex editor and disassembler built for malware analysts and reverse engineers to inspect binaries, disassemble code, and extract embedded files. People come here for tool usage questions, feature requests, and bug reports directly with the developer. It suits people already doing reverse engineering or malware triage work, not newcomers looking to learn the field from scratch.",
+  "run_by": "Malcat (independent developer/project)",
+  "website": "https://malcat.fr/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via the invite link on the official site; small server, mostly tool-specific discussion.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "crackmes-one",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "reverse-engineering",
+   "ctf",
+   "wargames",
+   "binary-exploitation"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "challenges",
+   "writeups"
+  ],
+  "summary": "This is the official community Discord for crackmes.one, a long-running site hosting thousands of user-submitted reverse-engineering challenges (crackmes) and writeups. People download challenges of varying difficulty, share solutions, and ask for help; the site itself has nearly 95,000 registered users. It suits anyone learning reverse engineering, from complete beginners working through easy crackmes up to advanced crackers.",
+  "run_by": "community-run",
+  "website": "https://crackmes.one/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Crackme downloads are password-protected (password: crackmes.one); Discord is for questions about the site and challenges.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "binary-golf",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "binary-exploitation",
+   "reverse-engineering",
+   "programming",
+   "ctf"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "challenges",
+   "project-showcase"
+  ],
+  "summary": "This is the community Discord for the Binary Golf Grand Prix (BGGP), an annual competition to craft the smallest possible files that are simultaneously valid in another file format (polyglots). Participants discuss file-format internals, share their golfed entries, and coordinate around the yearly themed challenge. It suits people who already understand binary file formats and low-level tricks rather than newcomers to security.",
+  "run_by": "community-run (Binary Golf Grand Prix organizers)",
+  "website": "https://binary.golf/",
+  "github": "https://github.com/binarygolf/BGGP",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Annual Binary Golf Grand Prix competition (making the smallest valid polyglot/malformed files); niche and technical, assumes file-format and binary knowledge.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "thehive-project",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "dfir",
+   "soc",
+   "blue-team",
+   "threat-intel"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official community Discord for TheHive and Cortex, an open-source security case-management platform and analysis engine run by the company StrangeBee (founded by TheHive's original creators). SOC analysts and incident responders use it to ask deployment and integration questions and discuss the tools with StrangeBee staff and other users. It suits people already working in DFIR/SOC roles rather than security newcomers.",
+  "run_by": "StrangeBee (company behind TheHive and Cortex)",
+  "website": "https://strangebee.com/",
+  "github": "https://github.com/TheHive-Project",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Community/support Discord for TheHive (case management) and Cortex (analysis engine); mostly deployment and usage questions from SOC/DFIR practitioners.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "crowdsec",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "blue-team",
+   "networking",
+   "linux",
+   "detection-engineering"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official support Discord for CrowdSec, an open-source, crowdsourced IDS/IPS/WAF that detects malicious behavior from logs and shares a community IP blocklist. Sysadmins and blue teamers ask setup and configuration questions, share detection scenarios, and get help from the CrowdSec team directly. It suits people deploying the tool on their own infrastructure more than security beginners.",
+  "run_by": "CrowdSec (company)",
+  "website": "https://www.crowdsec.net/",
+  "github": "https://github.com/crowdsecurity/crowdsec",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Official support Discord for the CrowdSec open-source IDS/IPS/WAF; audience is sysadmins and blue teamers deploying the agent and sharing blocklist data.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "shuffle-automation",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "blue-team",
+   "detection-engineering",
+   "soc",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the community Discord for Shuffle, an open-source SOAR (security orchestration, automation and response) platform built by and for security professionals. Security engineers here discuss building automation workflows, integrating tools via the platform's connectors, and get support from the lead maintainer and other users. It suits people already running or evaluating SOAR tooling rather than newcomers to security.",
+  "run_by": "Shuffle (open-source project, led by maintainer 'Frikky')",
+  "website": "https://shuffler.io/",
+  "github": "https://github.com/Shuffle/Shuffle",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Support/community Discord for the Shuffle open-source SOAR platform; audience is security engineers building automation workflows.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "tracecat-community",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "detection-engineering",
+   "soc",
+   "blue-team",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is the official community for Tracecat, an open-source security automation (SOAR) platform built by the YC-backed company TracecatHQ. People here are security engineers and SOC teams building automated detection and incident-response workflows, asking setup questions, and discussing integrations; it suits builders already comfortable with security tooling and workflow automation rather than newcomers.",
+  "run_by": "TracecatHQ",
+  "website": "https://tracecat.com",
+  "github": "https://github.com/TracecatHQ/tracecat",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Support-focused server for the Tracecat product; join via Discord invite link.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "tailscale-community",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "networking",
+   "privacy",
+   "linux",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "This is the official Discord for Tailscale, a company that makes a WireGuard-based mesh VPN for securely connecting devices. Members are mostly self-hosters, homelabbers, and network/infra engineers who use Tailscale for secure remote access, troubleshoot setups, and share projects; it's welcoming to newcomers setting up their first network as well as more advanced networking tinkerers.",
+  "run_by": "Tailscale Inc.",
+  "website": "https://tailscale.com",
+  "github": "https://github.com/tailscale/tailscale",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "wifipumpkin3",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "wireless",
+   "red-team",
+   "pentesting",
+   "social-engineering"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the community server for Wifipumpkin3, an open-source rogue access point / Wi-Fi phishing framework maintained by developer P0cL4bs. People here discuss using the tool for captive-portal attacks, DNS spoofing, and Wi-Fi man-in-the-middle testing during authorized penetration tests; it fits people already doing wireless red-teaming rather than complete beginners.",
+  "run_by": "P0cL4bs",
+  "website": "https://wifipumpkin3.github.io",
+  "github": "https://github.com/P0cL4bs/wifipumpkin3",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Tool is intended for authorized security testing only.",
+  "red_flags": "Wi-Fi phishing/rogue-AP tooling could be misused against networks without authorization; the tool itself is standard red-team kit but usage guidance should be respected.",
+  "confidence": "medium"
+ },
+ {
+  "id": "meshcore-io",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "rf-sdr",
+   "iot-embedded",
+   "hardware-hacking",
+   "homelab",
+   "badgelife-maker"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase",
+   "hardware-help"
+  ],
+  "summary": "This is the official Discord for MeshCore, an open-source C++ library and firmware for multi-hop LoRa mesh networking, similar in spirit to Meshtastic. Members are hobbyists and off-grid communication enthusiasts building LoRa nodes for emergency, outdoor, and tactical use, chatting with the developers, and getting setup help; it welcomes newcomers flashing their first node as well as firmware contributors.",
+  "run_by": "meshcore-dev (community project)",
+  "website": "https://meshcore.io",
+  "github": "https://github.com/meshcore-dev/MeshCore",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joins via a vanity redirect link (meshcore.gg) to the Discord invite.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "rhino-security-labs",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "cloud-security",
+   "red-team",
+   "pentesting"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the Discord for Pacu, the open-source AWS exploitation framework maintained by pentesting firm Rhino Security Labs. Members are cloud penetration testers and red teamers using Pacu to enumerate and exploit AWS misconfigurations, discussing modules and setup issues; it's aimed at people who already understand AWS and offensive security concepts rather than newcomers to security.",
+  "run_by": "Rhino Security Labs",
+  "website": "https://rhinosecuritylabs.com",
+  "github": "https://github.com/RhinoSecurityLabs/pacu",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "akto",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "web-appsec",
+   "cloud-security",
+   "ai-security",
+   "bug-bounty"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the community server for Akto, an open-source (now increasingly AI-agent-focused) security testing platform originally built for API discovery and testing, used by security engineers to find and test APIs, AI agents, and MCP tools for vulnerabilities. Discussion centers on setup, integrations, and findings from using the platform; it suits practicing appsec/API security engineers rather than people new to security.",
+  "run_by": "Akto",
+  "website": "https://akto.io",
+  "github": "https://github.com/akto-api-security/akto",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "garak-llm-vuln-scanner",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "ai-security",
+   "red-team",
+   "programming",
+   "tool-support"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This Discord is the support and development hub for garak, NVIDIA's open-source LLM vulnerability scanner that probes models for prompt injection, jailbreaks, hallucination, and data leakage. Members are AI red teamers, researchers, and developers who use or contribute to the tool, discuss scan results, and follow project updates. It suits people already working on LLM security rather than someone new to the field.",
+  "run_by": "NVIDIA / garak open-source project",
+  "website": null,
+  "github": "https://github.com/NVIDIA/garak",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via the public Discord invite link.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "pentesterlab",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "web-appsec",
+   "pentesting",
+   "bug-bounty",
+   "study-group",
+   "programming",
+   "linux"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "study-groups",
+   "workshops"
+  ],
+  "summary": "This is the official community for PentesterLab, a platform with hundreds of hands-on labs and videos teaching web application vulnerabilities, exploitation, and code review. People come here to get unstuck on a specific lab, discuss CVEs, and share tips without spoiling answers for others, and the platform explicitly markets itself to newcomers in web pentesting as well as working professionals. A free tier plus a paid subscription for deeper content make it approachable to start with.",
+  "run_by": "PentesterLab",
+  "website": "https://www.pentesterlab.com",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via the public Discord invite; some content requires a paid PentesterLab Pro subscription.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "hetty",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "web-appsec",
+   "pentesting",
+   "bug-bounty",
+   "tool-support",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "This Discord supports Hetty, an open-source HTTP toolkit built as a free alternative to Burp Suite Pro for intercepting, editing, and replaying web requests. Members are mostly bug bounty hunters and web pentesters using the tool day-to-day who come to ask setup questions, report bugs, or discuss features with maintainer dstotijn. It's a narrow tool-support space rather than a general learning community.",
+  "run_by": "dstotijn (Dennis Stotijn)",
+  "website": null,
+  "github": "https://github.com/dstotijn/hetty",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via the public Discord invite link.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "dirsearch",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "web-appsec",
+   "pentesting",
+   "bug-bounty",
+   "tool-support",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "This is the official Discord for dirsearch, a widely-used Python web path/directory brute-forcing tool for penetration testers and bug bounty hunters. It's run by the tool's maintainers, maurosoria and shelld3v, and is mainly used for support questions, bug reports, and coordination around development of the tool itself. It's a tool-support space rather than a general learning community, useful mainly to people already doing web recon work.",
+  "run_by": "maurosoria and shelld3v",
+  "website": null,
+  "github": "https://github.com/maurosoria/dirsearch",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via the public Discord invite link.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "malfrats-industries",
+  "include": true,
+  "exclude_reason": null,
+  "category": "osint",
+  "tags": [
+   "osint",
+   "privacy",
+   "tool-support",
+   "red-team",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "Malfrats Industries is the community/collective behind mxrch's OSINT and offensive-security tools, best known for GHunt (a Google account OSINT framework), and runs a blog at hideandsec.sh. The Discord gathers people who beta-test and use these tools to discuss OSINT techniques, report bugs, and share findings. It leans toward people already comfortable with OSINT tooling rather than absolute beginners.",
+  "run_by": "mxrch / Malfrats Industries collective",
+  "website": "https://hideandsec.sh",
+  "github": "https://github.com/mxrch/GHunt",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via the public Discord invite; tools are stated for educational and lawful investigative/pentesting use only.",
+  "red_flags": "Underlying tools (GHunt etc.) are offensive OSINT utilities that could be misused for stalking/doxxing if handled irresponsibly, though the project explicitly restricts use to lawful purposes.",
+  "confidence": "medium"
+ },
+ {
+  "id": "proton",
+  "include": false,
+  "exclude_reason": "Proton's Discord is the general community for its consumer privacy/productivity product suite (Mail, VPN, Drive, Pass), not a security/hacking community; it's a product-support and general chat space rather than an infosec learning or practice community.",
+  "category": "tool",
+  "tags": [
+   "privacy",
+   "tool-support"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is Proton's official Discord for users of its privacy-focused email, VPN, cloud storage, and password manager products. People mostly ask support questions, discuss features, and talk about privacy-preserving tech in general, aimed at everyday users rather than security professionals. It's a product community, not a hacking or infosec practice space.",
+  "run_by": "Proton AG",
+  "website": "https://proton.me",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via the public Discord invite link.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "hacking-y-seguridad-inform-tica-dragonjar",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "red-team",
+   "ctf",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed",
+   "local-meetups",
+   "job-board"
+  ],
+  "summary": "A large Spanish-language Discord run by the DragonJAR team, a well-known Colombian/Latin American offensive security company and the organizer of the long-running DragonJAR CTF and DragonJAR Security Conference. Members chat about hacking, pentesting, malware and general cybersecurity news, share courses and certification tips, and discuss the annual DragonJAR conference and CTF; it suits Spanish-speaking hobbyists through working security professionals.",
+  "run_by": "DragonJAR",
+  "website": "https://www.dragonjar.org",
+  "github": null,
+  "youtube": "https://www.youtube.com/user/DragonJAR",
+  "region": "latin-america",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "es",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Discord invite is reached via a redirect from DragonJAR's own site (dragonjar.org/comunidad); free to join.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "underc0de-2",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "programming",
+   "ctf",
+   "study-group"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "study-groups",
+   "news-feed",
+   "challenges"
+  ],
+  "summary": "Underc0de is a long-running Spanish-language hacking, security and programming community centered on its underc0de.org forum, now with an active Discord for real-time chat. People share courses, certification advice, CTF-style challenges and general hacking/programming discussion, aimed mainly at Spanish-speaking hobbyists and students in Spain and Latin America.",
+  "run_by": "community-run",
+  "website": "https://underc0de.org",
+  "github": null,
+  "youtube": null,
+  "region": "latin-america",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "es",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via free Discord invite (also linked from their Linktree) or register on the underc0de.org forum.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "hackndo",
+  "include": true,
+  "exclude_reason": null,
+  "category": "creator",
+  "tags": [
+   "red-team",
+   "pentesting",
+   "web-appsec",
+   "reverse-engineering"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "Hackndo is a French-language pentest and Active Directory security blog written primarily by Pixis (Romain Bentz), covering topics like NTLM relay, password spraying, EDR evasion and blockchain security. Its Discord is a discussion space for readers of the blog to ask questions and talk shop about offensive security techniques, mostly suited to people who already have some pentesting or AD background.",
+  "run_by": "Pixis (Romain Bentz)",
+  "website": "https://beta.hackndo.com/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": null,
+  "language": "fr",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Vanity link discord.hackndo.com is listed on the official site.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "comptoirsecu",
+  "include": true,
+  "exclude_reason": null,
+  "category": "creator",
+  "tags": [
+   "general-infosec",
+   "news-cve",
+   "blue-team"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "Le Comptoir Sécu is a French-language cybersecurity podcast and video series (SECompris, SEClair, PoC, weekly SecHebdo news roundups) made by a small team for IT and security professionals. Its Discord is where listeners discuss episodes, security news and general infosec topics, and it's approachable for French-speaking beginners as well as working practitioners.",
+  "run_by": "Le Comptoir Sécu team",
+  "website": "https://comptoirsecu.fr",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": null,
+  "language": "fr",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Vanity link discord.comptoirsecu.fr is listed on the official site.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "montr-hack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "ctf",
+   "study-group",
+   "regional",
+   "students"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "workshops",
+   "ctf-events",
+   "study-groups",
+   "local-meetups",
+   "voice-events"
+  ],
+  "summary": "MontréHack is a community-run monthly capture-the-flag and cybersecurity workshop series based in Montreal, run bilingually in French and English with sessions livestreamed on Twitch as well as held in person. Small groups work through CTF-style challenges together and presenters walk through solutions afterward, making it a good fit for beginners and intermediates who want hands-on practice with mentorship in the room.",
+  "run_by": "community-run",
+  "website": "https://www.montrehack.ca",
+  "github": "https://github.com/MontreHack",
+  "youtube": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "QC",
+  "city": "Montreal",
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": "In-person events are usually held at a Montreal venue (varies monthly), with virtual/Twitch participation also available.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "hack2g2",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "general-infosec",
+   "students",
+   "hacker-culture",
+   "regional"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "chat",
+   "challenges"
+  ],
+  "summary": "Hack2g2 is a French student-run hacking and tech association known for organizing the HitchHack event along with regular workshops, talks and meetups. Its Discord and community channels bring together students and hobbyists interested in hacking and cybersecurity, with a casual, event-driven culture typical of a university-adjacent association.",
+  "run_by": "Hack2g2 (student association)",
+  "website": "https://www.hack2g2.fr",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": null,
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Nonprofit funded partly through membership/donations via HelloAsso; join via their Discord invite.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "hacking-lab",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "wargames",
+   "students",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "chat",
+   "news-feed"
+  ],
+  "summary": "This is the Discord for Hacking-Lab, a Swiss-run online CTF and cyber-range training platform used by universities, the Swiss Army, and companies for offensive/defensive exercises, and tied to the Swiss and European Cyber Security Challenges. Members discuss training challenges, upcoming CTFs, and competition prep, with a DACH-region (German-Swiss) focus though content is largely in English.",
+  "run_by": "Hacking-Lab / Ivan Bütler (with Compass Security as a longtime partner)",
+  "website": "https://hacking-lab.com/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "CH",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "redrocket",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "writeups",
+   "chat",
+   "local-meetups"
+  ],
+  "summary": "RedRocket is a German CTF team and registered association based in Bonn that competes in capture-the-flag competitions, publishes write-ups of their exploits, and meets regularly to exchange infosec knowledge. Their site actively invites newcomers interested in applied infosec to join the Discord or an online meeting, making it a reasonable entry point for beginners in the German CTF scene.",
+  "run_by": "RedRocket e.V. (community-run CTF team)",
+  "website": "https://redrocket.club",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Bonn",
+  "language": "de",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "fluxfingers",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "binary-exploitation",
+   "reverse-engineering"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "writeups",
+   "chat",
+   "mentorship"
+  ],
+  "summary": "FluxFingers is the official CTF team of Ruhr University Bochum's Horst Görtz Institute, best known for organizing the internationally renowned hack.lu CTF and running FluxRookies, a dedicated beginner course for practicing offensive security skills. The Discord is where the team and newcomers coordinate CTF practice, and its explicit newcomer track makes it especially approachable for people new to CTFs.",
+  "run_by": "Ruhr University Bochum (Horst Görtz Institute) student CTF team",
+  "website": "https://fluxfingers.net",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Bochum",
+  "language": "de",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "muc-sec-munich-information-security",
+  "include": true,
+  "exclude_reason": null,
+  "category": "conference",
+  "tags": [
+   "conference",
+   "regional",
+   "general-infosec",
+   "ctf"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "local-meetups",
+   "news-feed",
+   "chat"
+  ],
+  "summary": "This is the official Discord for BSides Munich, an independently organized, free security conference that grew out of the MUC:SEC Meetup group and brings together local and international security professionals in Munich for talks, workshops, and a CTF. The server is used year-round for conference announcements and community chat between events, and welcomes both professionals and newcomers who want to get involved via talks or volunteering.",
+  "run_by": "MUC:SEC / BSides Munich organizers (community-run)",
+  "website": "https://www.bsidesmunich.org",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Munich",
+  "language": "en",
+  "year_round": true,
+  "event": "BSides Munich",
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "disobey-fi",
+  "include": true,
+  "exclude_reason": null,
+  "category": "conference",
+  "tags": [
+   "conference",
+   "regional",
+   "general-infosec",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "news-feed",
+   "chat",
+   "local-meetups"
+  ],
+  "summary": "Disobey is a Helsinki-based hacking and activism conference (running since 2016) that describes itself around communities built and knowledge shared, with a Community Village track alongside talks and challenges. The Discord is used to keep the community connected between yearly events, covering CFP updates, event news, and general chat for attendees and organizers.",
+  "run_by": "Disobey conference organizers (community-run, sponsored in part by UpCloud)",
+  "website": "https://disobey.fi/",
+  "github": null,
+  "youtube": "https://www.youtube.com/@disobeyfi",
+  "region": "europe",
+  "country": "FI",
+  "subdivision": null,
+  "city": "Helsinki",
+  "language": "en",
+  "year_round": true,
+  "event": "Disobey",
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "hackerone-netherlands",
+  "include": true,
+  "exclude_reason": null,
+  "category": "appsec",
+  "tags": [
+   "bug-bounty",
+   "web-appsec",
+   "regional",
+   "red-team"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "ctf-events",
+   "local-meetups",
+   "chat",
+   "mentorship"
+  ],
+  "summary": "This is the Discord for the Netherlands HackerOne Club, a regional chapter of HackerOne's community program led by ambassador Yoeri Vegt that runs bug-bounty meetups, CTFs, and represents Dutch hackers in HackerOne's global Ambassador World Cup. The chapter explicitly states no previous experience is required and welcomes hackers and learners of all levels interested in bug bounty and web app security.",
+  "run_by": "HackerOne Community program (local ambassador-led chapter)",
+  "website": "https://h1.community/netherlands-hackerone-club/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "NL",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Join via the HackerOne Community chapter page (h1.community), which links the Discord invite.",
+  "red_flags": null,
+  "confidence": "high"
+ }
+]

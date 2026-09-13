@@ -1,0 +1,35 @@
+[
+{
+"id": "open-hacker-gaming-community",
+"name": "Open Hacker & Gaming Community",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"study-group",
+"programming",
+"ctf"
+],
+"activities": [
+"chat",
+"q-and-a",
+"voice-events",
+"study-groups",
+"mentorship"
+],
+"members": 2989,
+"online": 251,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This is the official Discord for r/HowToHack, a long-running \"ask, answer, learn\" community focused on teaching offensive security and hacking fundamentals to newcomers. Members ask beginner questions about pentesting, exploitation, and security tooling, get pointed to learning resources, and also socialize over gaming and voice hangouts, making it a welcoming first stop for people new to hacking."
+}
+]

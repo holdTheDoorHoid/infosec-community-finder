@@ -1,0 +1,841 @@
+[
+{
+"id": "macadmins-slack",
+"name": "MacAdmins Slack",
+"platform": "slack",
+"category": "blueteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"cloud-security",
+"networking",
+"linux",
+"homelab"
+],
+"activities": [
+"chat",
+"q-and-a",
+"job-board",
+"workshops"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Mac Admins Foundation",
+"red_flags": null,
+"summary": "This is a huge, long-running Slack for IT and Mac/Apple-device administrators, run by the nonprofit Mac Admins Foundation, with an active #security channel among hundreds of others. Discussion there covers endpoint hardening, MDM configuration, and macOS/iOS security tooling for people managing real fleets of devices. It's most useful to working IT/security admins rather than newcomers with no admin experience, though questions are answered patiently."
+},
+{
+"id": "kubernetes-slack",
+"name": "Kubernetes Slack",
+"platform": "slack",
+"category": "blueteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"cloud-security",
+"detection-engineering",
+"networking",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Cloud Native Computing Foundation / Kubernetes project",
+"red_flags": null,
+"summary": "This is the official Kubernetes project Slack, home to hundreds of channels including #sig-security and the Falco runtime-security project's channel. People there discuss cluster hardening, workload security, and cloud-native detection tooling as part of the broader Kubernetes development and operations community. It's built for practitioners who already work with Kubernetes rather than as a general security learning space."
+},
+{
+"id": "wazuh-community-slack",
+"name": "Wazuh Community Slack",
+"platform": "slack",
+"category": "blueteam",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"soc",
+"detection-engineering",
+"dfir"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Wazuh Inc.",
+"red_flags": null,
+"summary": "Official community Slack for Wazuh, the open-source SIEM/XDR platform, run by Wazuh Inc. Members ask for help with installation, write and troubleshoot detection rules, and discuss integrations with other security tooling. It's aimed at users and admins of Wazuh, from people standing up their first instance to experienced blue teamers building out detections."
+},
+{
+"id": "cncf-slack",
+"name": "CNCF Slack",
+"platform": "slack",
+"category": "blueteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"cloud-security",
+"detection-engineering",
+"homelab",
+"networking"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Cloud Native Computing Foundation",
+"red_flags": null,
+"summary": "The Cloud Native Computing Foundation's giant Slack workspace hosting individual channels for its member projects, including security-relevant ones like Falco (runtime threat detection) and Cilium (eBPF-based networking/security). Most of the workspace is general cloud-native engineering, not security-specific, but the project channels give direct access to maintainers and experienced users. It's best suited to people already working with these tools rather than security beginners."
+},
+{
+"id": "bleepingcomputer-forums",
+"name": "BleepingComputer Forums",
+"platform": "forum",
+"category": "blueteam",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"malware-analysis",
+"dfir",
+"blue-team",
+"general-infosec",
+"forensics"
+],
+"activities": [
+"q-and-a",
+"writeups",
+"chat",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "BleepingComputer",
+"red_flags": null,
+"summary": "BleepingComputer Forums is a large, long-running peer-support community best known for free one-on-one malware-removal help, with active sections on ransomware, general security news, and everyday computing problems. It's aimed squarely at everyday users and beginners who need help cleaning an infected machine or understanding a threat, staffed by experienced volunteer helpers."
+},
+{
+"id": "malwaretips-forums",
+"name": "MalwareTips Forums",
+"platform": "forum",
+"category": "blueteam",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"blue-team",
+"malware-analysis",
+"tool-support"
+],
+"activities": [
+"q-and-a",
+"hardware-help"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A volunteer-run forum specializing in step-by-step malware removal guides, infection cleanup help, and security-software reviews. It's built for beginners who suspect their computer is infected and need patient, guided troubleshooting rather than deep technical security work."
+},
+{
+"id": "opnsense-forum",
+"name": "OPNsense Forum",
+"platform": "forum",
+"category": "blueteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"networking",
+"cloud-security",
+"homelab"
+],
+"activities": [
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Deciso B.V. / OPNsense project",
+"red_flags": null,
+"summary": "This is the official support forum for OPNsense, an open-source FreeBSD-based firewall/router distribution, run by the project's developers and community volunteers. People ask configuration questions, troubleshoot IDS/IPS and VPN setups, and discuss plugin development and release notes, with sub-forums split by language and topic. It's aimed at people already running or planning to run OPNsense - sysadmins, homelabbers, and network security practitioners - rather than general security beginners."
+},
+{
+"id": "netgate-pfsense-forum",
+"name": "Netgate / pfSense Forum",
+"platform": "forum",
+"category": "blueteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"networking",
+"homelab",
+"cloud-security"
+],
+"activities": [
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Netgate",
+"red_flags": null,
+"summary": "This is Netgate's official community forum for pfSense, a widely used open-source firewall/router platform, moderated by Netgate staff and community volunteers. Members troubleshoot firewall rules, VPN and IDS/IPS configuration, and hardware compatibility, with over a hundred thousand topics accumulated in the main pfSense category and separate language sub-forums. It suits network admins and homelabbers running or evaluating pfSense rather than security beginners with no networking background."
+},
+{
+"id": "r-blueteamsec",
+"name": "r/blueteamsec",
+"platform": "reddit",
+"category": "blueteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"detection-engineering",
+"threat-intel",
+"soc",
+"dfir"
+],
+"activities": [
+"news-feed",
+"q-and-a",
+"chat"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A community-run subreddit that curates and discusses defensive security content: detection engineering write-ups, threat intel reports, SOC tooling, and blue team research links. It functions more as a curated news feed with discussion than a beginner help desk, and suits people already working in or studying defensive security roles."
+},
+{
+"id": "r-malware",
+"name": "r/Malware",
+"platform": "reddit",
+"category": "blueteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"malware-analysis",
+"reverse-engineering",
+"dfir",
+"threat-intel"
+],
+"activities": [
+"q-and-a",
+"chat",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A long-running subreddit for malware analysis and reverse engineering, where people share sample write-ups, ask about unpacking or debugging techniques, and discuss detection. It leans toward people who already have some RE or programming background rather than absolute beginners, though basic tooling questions do get answered."
+},
+{
+"id": "r-computerforensics",
+"name": "r/computerforensics",
+"platform": "reddit",
+"category": "blueteam",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"dfir",
+"forensics",
+"careers",
+"certifications",
+"blue-team"
+],
+"activities": [
+"q-and-a",
+"chat",
+"job-board",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A community-run subreddit for digital forensics and incident response, where practitioners and students discuss tools, case techniques, certifications, and career paths into DFIR. It regularly fields \"how do I get into forensics\" and tool-recommendation questions, making it fairly approachable for people starting out in the field."
+},
+{
+"id": "r-threatintel",
+"name": "r/threatintel",
+"platform": "reddit",
+"category": "blueteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"threat-intel",
+"malware-analysis",
+"detection-engineering",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"writeups"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A subreddit focused on cyber threat intelligence: sharing reports, IOCs, tooling, and discussion about tracking threat actors and campaigns. It suits analysts and researchers already working in or studying CTI rather than absolute beginners, since posts assume some familiarity with the field."
+},
+{
+"id": "r-osint",
+"name": "r/OSINT",
+"platform": "reddit",
+"category": "osint",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"osint",
+"privacy",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A subreddit for people practicing or learning open-source intelligence, where members share investigative techniques, tools, and interesting OSINT finds and ask for help on specific research problems. It suits hobbyists, journalists, researchers, and security professionals who want to sharpen investigative skills using publicly available information."
+},
+{
+"id": "social-circl-lu",
+"name": "social.circl.lu",
+"platform": "mastodon",
+"category": "blueteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"dfir",
+"threat-intel",
+"blue-team",
+"general-infosec"
+],
+"activities": [
+"news-feed",
+"chat"
+],
+"members": 338,
+"online": null,
+"region": "europe",
+"country": "LU",
+"subdivision": null,
+"language": "en",
+"run_by": "CIRCL (Computer Incident Response Center Luxembourg)",
+"red_flags": null,
+"summary": "This Mastodon instance is operated by CIRCL, Luxembourg's government-run Computer Incident Response Center, and is used mainly by CERT staff and security researchers to share threat intelligence and incident-response information. It is small, application-gated, and oriented toward practitioners rather than newcomers."
+},
+{
+"id": "sleuth-kit-autopsy-discussion",
+"name": "Sleuth Kit / Autopsy Discussion",
+"platform": "forum",
+"category": "blueteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"dfir",
+"forensics",
+"tool-support"
+],
+"activities": [
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Basis Technology / Sleuth Kit project",
+"red_flags": null,
+"summary": "This is the official discussion forum for The Sleuth Kit, Autopsy, and Cyber Triage, the widely used open-source digital forensics tools, run by the tools' developer Basis Technology. Forensic examiners and DFIR practitioners use it to troubleshoot the software and discuss investigation techniques."
+},
+{
+"id": "discuss-the-elastic-stack",
+"name": "Discuss the Elastic Stack",
+"platform": "forum",
+"category": "blueteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"soc",
+"detection-engineering",
+"tool-support",
+"cloud-security"
+],
+"activities": [
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Elastic NV",
+"red_flags": null,
+"summary": "This is Elastic's official community forum, run by Elastic, covering Elasticsearch, Logstash, Kibana, Beats, and Elastic Security, the stack many SOC teams use for log analytics and detection. It suits engineers and analysts building or operating logging and security-monitoring pipelines, not general security beginners."
+},
+{
+"id": "graylog-community",
+"name": "Graylog Community",
+"platform": "forum",
+"category": "blueteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"soc",
+"detection-engineering",
+"tool-support"
+],
+"activities": [
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Graylog Inc.",
+"red_flags": null,
+"summary": "This is Graylog's official community forum, run by the Graylog project/company, for support and discussion around the open-source Graylog log-management and SIEM platform. It suits sysadmins and security engineers setting up centralized logging and alerting rather than newcomers to security."
+},
+{
+"id": "wazuh-mailing-list-google-group",
+"name": "Wazuh Mailing List (Google Group)",
+"platform": "forum",
+"category": "blueteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"soc",
+"detection-engineering",
+"general-infosec",
+"tool-support"
+],
+"activities": [
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Wazuh, Inc.",
+"red_flags": null,
+"summary": "This is the official mailing list/Google Group for Wazuh, the open-source SIEM and XDR platform, where the Wazuh team and users discuss deployment, rule tuning, and troubleshooting for log analysis, intrusion detection, and compliance monitoring. It suits people already running or evaluating a SIEM, more than complete newcomers to security. Joining is self-service through Google Groups."
+},
+{
+"id": "purdue-cyber-forensics-club",
+"name": "Purdue Cyber Forensics Club",
+"platform": "discord",
+"category": "blueteam",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"dfir",
+"forensics",
+"students",
+"networking",
+"general-infosec"
+],
+"activities": [
+"chat",
+"workshops",
+"ctf-events",
+"local-meetups",
+"job-board"
+],
+"members": 785,
+"online": 109,
+"region": "us-midwest",
+"country": "US",
+"subdivision": "IN",
+"language": "en",
+"run_by": "community-run (Purdue students)",
+"red_flags": null,
+"summary": "A student organization at Purdue University focused on digital forensics and incident response, with workshops that also touch on red-teaming and industry networking. It suits students building forensics and blue-team skills alongside a campus community."
+},
+{
+"id": "malfrats-industries",
+"name": "Malfrats Industries",
+"platform": "discord",
+"category": "osint",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"osint",
+"privacy",
+"tool-support",
+"red-team",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 448,
+"online": 29,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "mxrch / Malfrats Industries collective",
+"red_flags": "Underlying tools (GHunt etc.) are offensive OSINT utilities that could be misused for stalking/doxxing if handled irresponsibly, though the project explicitly restricts use to lawful purposes.",
+"summary": "Malfrats Industries is the community/collective behind mxrch's OSINT and offensive-security tools, best known for GHunt (a Google account OSINT framework), and runs a blog at hideandsec.sh. The Discord gathers people who beta-test and use these tools to discuss OSINT techniques, report bugs, and share findings. It leans toward people already comfortable with OSINT tooling rather than absolute beginners."
+},
+{
+"id": "world-monitor",
+"name": "World Monitor",
+"platform": "discord",
+"category": "osint",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"threat-intel",
+"osint",
+"news-cve",
+"homelab"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"news-feed"
+],
+"members": 11269,
+"online": 824,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Elie Habib (open-source project, GitHub: koala73)",
+"red_flags": null,
+"summary": "This Discord is the home for World Monitor, an open-source AI-powered global intelligence dashboard that aggregates news, tracks geopolitical instability, and monitors infrastructure in near real time. Members discuss the project's data sources, self-hosting the Tauri desktop app, and contribute code or feed ideas back to the maintainer. It suits people interested in OSINT-style situational awareness tooling rather than classic pentesting."
+},
+{
+"id": "user-scanner",
+"name": "User Scanner",
+"platform": "discord",
+"category": "osint",
+"bf": 3,
+"audience": [
+"intermediate"
+],
+"tags": [
+"osint",
+"privacy",
+"tool-support"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": 356,
+"online": 28,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "kaifcodec (open-source project)",
+"red_flags": "OSINT/breach-database lookup tool for emails and usernames — capable of misuse for stalking/doxxing if used outside its stated authorized-research purpose.",
+"summary": "This is the support and discussion community for User Scanner, an open-source OSINT tool that investigates emails and usernames across 550+ services, including infostealer breach-database pivoting. People here discuss using and extending the tool for authorized security research and defensive OSINT work, and it's aimed at OSINT practitioners and investigators rather than complete beginners."
+},
+{
+"id": "cert-pl",
+"name": "cert.pl",
+"platform": "discord",
+"category": "blueteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"malware-analysis",
+"dfir",
+"threat-intel",
+"blue-team",
+"news-cve"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 460,
+"online": 62,
+"region": "europe",
+"country": "PL",
+"subdivision": null,
+"language": "en",
+"run_by": "CERT Polska (NASK)",
+"red_flags": null,
+"summary": "This is the community Discord run by CERT Polska, Poland's national computer emergency response team operating under the NASK research institute, covering malware analysis, incident response, and their open-source tools like the DRAKVUF sandbox. Discussion tends toward practicing analysts and researchers rather than newcomers. It's most useful for people already working in malware analysis or DFIR who want to follow CERT Polska's tooling and threat research."
+},
+{
+"id": "bluecapesecurity",
+"name": "BlueCapeSecurity",
+"platform": "discord",
+"category": "blueteam",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"dfir",
+"blue-team",
+"forensics",
+"certifications",
+"study-group"
+],
+"activities": [
+"q-and-a",
+"chat",
+"study-groups"
+],
+"members": 3008,
+"online": 236,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Blue Cape Security",
+"red_flags": null,
+"summary": "Run by Blue Cape Security, this Discord supports their free Practical Windows Forensics (PWF) training material and their paid Analyst 1 / PWFA certification track. Members work through hands-on DFIR labs, discuss forensic acquisition and analysis techniques, and ask questions about attack simulation exercises. It's aimed at people building blue team and digital forensics skills, from newcomers to the field through early-career analysts."
+},
+{
+"id": "projet-fox",
+"name": "Projet FOX",
+"platform": "discord",
+"category": "osint",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"osint",
+"threat-intel",
+"social-engineering",
+"general-infosec",
+"ctf"
+],
+"activities": [
+"chat",
+"news-feed",
+"challenges",
+"q-and-a"
+],
+"members": 2302,
+"online": 244,
+"region": "europe",
+"country": "FR",
+"subdivision": null,
+"language": "fr",
+"run_by": "Projet FOX (community-run collective)",
+"red_flags": null,
+"summary": "Projet FOX is a French pseudonymous collective founded in 2020 devoted to promoting intelligence analysis and OSINT techniques, especially applied to geopolitical crises, armed conflicts, and disinformation campaigns. On its Discord (about a thousand members) the community shares investigative analyses, debunks misinformation, discusses OSINT methodology, and has sponsored OSINT-flavored CTF events like FLAG4ALL. It suits French-speaking OSINT enthusiasts and geopolitics/intelligence watchers of varying experience levels."
+},
+{
+"id": "wintergate",
+"name": "WinterGate",
+"platform": "discord",
+"category": "osint",
+"bf": 2,
+"audience": [
+"intermediate"
+],
+"tags": [
+"osint",
+"threat-intel",
+"general-infosec"
+],
+"activities": [
+"chat",
+"news-feed"
+],
+"members": 63,
+"online": 7,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run (WinterGate Intelligence Collective)",
+"red_flags": "Operates a honeypot and tracks Discord users' threat-actor identifiers; small scale and self-described private/authenticated-operator structure limits transparency.",
+"summary": "WinterGate Intelligence Collective is a small, membership-based OSINT group that runs a honeypot network, a Discord threat-actor tracking bot (GateKeeper), and log-monitoring tooling to research online abuse and support community defense. It describes itself as OSINT-only, with no hacking or deception, and operations are handled by a limited set of \"authenticated operators.\" It fits people already interested in OSINT/threat intel rather than newcomers looking for open discussion."
+},
+{
+"id": "securitylab",
+"name": "SecurityLab",
+"platform": "discord",
+"category": "blueteam",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"blue-team",
+"soc",
+"networking",
+"linux",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups"
+],
+"members": 170,
+"online": 12,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A community-run server focused on teaching networking basics, Linux fundamentals, and blue-team/SOC concepts from the ground up. It's aimed at people building defensive-security skills, from newcomers through intermediate practitioners studying for SOC-analyst-type roles."
+}
+]

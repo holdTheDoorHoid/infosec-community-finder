@@ -1,0 +1,2308 @@
+[
+{
+"id": "gnu-radio-matrix-chat",
+"name": "GNU Radio Matrix Chat",
+"platform": "matrix",
+"category": "hardware",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"rf-sdr",
+"hardware-hacking",
+"tool-support",
+"ham-radio",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "GNU Radio project (community-run open source)",
+"red_flags": null,
+"summary": "The official Matrix chat for the GNU Radio project, an open-source software-defined radio (SDR) toolkit used across signal-hacking, ham radio, and RF security research. People here discuss flowgraph design, block development, and SDR hardware integration; it's a technical support and dev space that assumes some DSP/programming background rather than a beginner tutorial channel."
+},
+{
+"id": "tor-project-tor-matrix",
+"name": "Tor Project #tor (Matrix)",
+"platform": "matrix",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"privacy",
+"networking",
+"tool-support",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "The Tor Project",
+"red_flags": null,
+"summary": "The Tor Project's official user-support room, bridged between Matrix and the long-running #tor IRC channel on OFTC, where volunteers and Tor Project staff answer questions about using the Tor Browser, running relays/bridges, and general anonymity/privacy troubleshooting. It welcomes newcomers asking basic \"how do I use Tor safely\" questions as well as relay operators discussing network health."
+},
+{
+"id": "qubes-os-forum",
+"name": "Qubes OS Forum",
+"platform": "forum",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"linux",
+"privacy",
+"tool-support",
+"homelab",
+"general-infosec"
+],
+"activities": [
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Qubes OS Project / Invisible Things Lab",
+"red_flags": null,
+"summary": "This is the official Discourse forum for Qubes OS, the security-focused compartmentalized operating system, where users get installation and hardware-compatibility help, discuss VM/qube configuration, and follow release announcements alongside project developers. It assumes some Linux and virtualization background, so it suits people already using or seriously evaluating Qubes rather than absolute beginners to security."
+},
+{
+"id": "qubes-os-matrix",
+"name": "Qubes OS Matrix",
+"platform": "matrix",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"linux",
+"privacy",
+"tool-support",
+"homelab"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Qubes OS Project / Invisible Things Lab",
+"red_flags": null,
+"summary": "This is the official real-time Matrix chat room for Qubes OS, bridged to the project's Libera IRC channel, used for live troubleshooting and discussion among users and some developers between forum posts. It's a faster-paced companion to the forum and best suited to people already running or actively installing Qubes."
+},
+{
+"id": "whonix-forum",
+"name": "Whonix Forum",
+"platform": "forum",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"privacy",
+"linux",
+"tool-support",
+"homelab"
+],
+"activities": [
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Whonix / Patrick Schleizer",
+"red_flags": null,
+"summary": "This is the official Discourse forum for Whonix, the Tor-based anonymity operating system, covering support for its Qubes, KVM, and VirtualBox variants as well as development and hardening discussion led by the project's maintainers. It's the project's primary community hub and works best for people already trying to set up or harden Whonix rather than general security beginners."
+},
+{
+"id": "keepassxc-matrix-user-support",
+"name": "KeePassXC (Matrix, user support)",
+"platform": "matrix",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"privacy",
+"tool-support",
+"linux"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "KeePassXC Team",
+"red_flags": null,
+"summary": "This is the official Matrix support room for KeePassXC, the open-source password manager, where users ask questions about vault setup, browser integration, and syncing and get help from the community and project contributors. It's bridged to IRC and kept separate from the developer-focused #keepassxc-dev room, making it approachable for everyday users, including newcomers to password managers."
+},
+{
+"id": "openwrt-forum",
+"name": "OpenWrt Forum",
+"platform": "forum",
+"category": "hardware",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"iot-embedded",
+"networking",
+"homelab",
+"linux",
+"tool-support"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "OpenWrt project",
+"red_flags": null,
+"summary": "This is the official community forum for OpenWrt, the open-source Linux firmware for routers and embedded devices, run by the OpenWrt project and its volunteer moderators. Members ask for help flashing devices, configuring networking and VPNs, troubleshooting hardware support, and discuss firmware development; while not security-focused per se, it's a common stop for people hardening or securing home routers. It suits hobbyists ranging from first-time flashers to embedded Linux developers."
+},
+{
+"id": "rizin-mattermost",
+"name": "Rizin Mattermost",
+"platform": "mattermost",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"binary-exploitation",
+"tool-support",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "rizinorg (open-source project)",
+"red_flags": null,
+"summary": "This is the primary chat community for Rizin, an open-source reverse-engineering framework forked from radare2, hosted on a self-service Mattermost instance. Developers and users discuss the disassembler/debugger internals, scripting, plugin development, and bug reports, alongside a parallel IRC presence on Libera.Chat. It's mainly useful to people already doing binary analysis or reverse engineering rather than newcomers to the field."
+},
+{
+"id": "radare2-matrix",
+"name": "radare2 Matrix",
+"platform": "matrix",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"binary-exploitation",
+"tool-support",
+"programming",
+"linux"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "radare2 project (community-run open source)",
+"red_flags": null,
+"summary": "This is the official Matrix room for radare2, the free and open-source command-line reverse-engineering and binary-analysis framework. People discuss usage, debug the tool, and talk development with the maintainers; it assumes you already have some reverse-engineering or low-level programming background."
+},
+{
+"id": "hackaday-io",
+"name": "Hackaday.io",
+"platform": "forum",
+"category": "hardware",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"iot-embedded",
+"reverse-engineering",
+"rf-sdr",
+"badgelife-maker",
+"programming"
+],
+"activities": [
+"project-showcase",
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Hackaday",
+"red_flags": null,
+"summary": "A large collaborative platform for documenting hardware and electronics projects, run by the Hackaday team, where makers log build progress, share reverse-engineering write-ups, and discuss embedded and IoT security among broader electronics content. It suits hobbyists and hardware hackers who want to publish projects and learn from others' builds rather than a dedicated security-only space."
+},
+{
+"id": "hackster-io",
+"name": "Hackster.io",
+"platform": "forum",
+"category": "hardware",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"iot-embedded",
+"hardware-hacking",
+"programming",
+"tool-support"
+],
+"activities": [
+"project-showcase",
+"q-and-a",
+"hardware-help"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Hackster.io / Avnet",
+"red_flags": null,
+"summary": "A maker-focused hardware and IoT community where users publish project tutorials and get forum help on embedded platforms, sometimes touching on IoT security topics. It's most useful for hobbyists and students building hardware projects who want tutorials and troubleshooting support, not a dedicated infosec forum."
+},
+{
+"id": "flipper-zero-forum",
+"name": "Flipper Zero Forum",
+"platform": "forum",
+"category": "hardware",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"flipper-zero",
+"rfid-nfc",
+"rf-sdr",
+"iot-embedded"
+],
+"activities": [
+"q-and-a",
+"hardware-help",
+"project-showcase",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Flipper Devices Inc.",
+"red_flags": null,
+"summary": "This is Flipper Devices' official support and development forum for the Flipper Zero multitool. Members ask setup and troubleshooting questions, discuss firmware builds (official and custom, like Unleashed/RogueMaster), and share Sub-GHz, NFC/RFID, and BadUSB projects, with a mix of first-time owners and experienced firmware tinkerers."
+},
+{
+"id": "r-lockpicking",
+"name": "r/lockpicking",
+"platform": "reddit",
+"category": "hardware",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"lockpicking-physical",
+"hacker-culture",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A large hobbyist subreddit for locksport and physical security, where people show off picks and locks, ask for beginner advice, and discuss defeating locking mechanisms; it overlaps heavily with the security conference scene (DEF CON, Bsides villages). Very welcoming to newcomers asking basic 'how do I start' questions."
+},
+{
+"id": "r-rtlsdr",
+"name": "r/RTLSDR",
+"platform": "reddit",
+"category": "hardware",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"rf-sdr",
+"hardware-hacking",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A hobbyist subreddit dedicated to software-defined radio, especially cheap RTL-SDR dongles, covering signal decoding, antenna building, and scanner projects. Useful adjacent community for people getting into RF and wireless security work, with lots of beginner troubleshooting help."
+},
+{
+"id": "r-flipperzero",
+"name": "r/flipperzero",
+"platform": "reddit",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"rfid-nfc",
+"flipper-zero",
+"iot-embedded"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "An unofficial fan/support subreddit for the Flipper Zero portable multi-tool, where owners share firmware tweaks, custom apps, RFID/sub-GHz experiments, and troubleshoot devices together. Popular entry point into hardware hacking for hobbyists rather than professionals."
+},
+{
+"id": "r-pwnagotchi",
+"name": "r/pwnagotchi",
+"platform": "reddit",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"wireless",
+"hardware-hacking",
+"iot-embedded"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A small subreddit for the Pwnagotchi project, an AI-themed companion device built on a Raspberry Pi that learns to capture Wi-Fi handshakes. Users discuss builds, firmware plugins, and troubleshooting; assumes some comfort with Raspberry Pi and Wi-Fi tooling."
+},
+{
+"id": "r-homelab",
+"name": "r/homelab",
+"platform": "reddit",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"homelab",
+"networking",
+"linux",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A very large subreddit for people building home server and networking labs, sharing rack builds, virtualization setups, and self-hosting projects. Not security-specific, but a common adjacent hangout for security folks who build labs to practice networking, hosting, and defense skills."
+},
+{
+"id": "r-privacy",
+"name": "r/privacy",
+"platform": "reddit",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"privacy",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A large general-purpose subreddit for discussing digital privacy: news about surveillance and data breaches, tool recommendations, and questions about protecting personal data online. It is adjacent to security rather than a hacking community, and suits anyone from casual users to privacy-focused professionals."
+},
+{
+"id": "r-privacyguides",
+"name": "r/PrivacyGuides",
+"platform": "reddit",
+"category": "adjacent",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"privacy",
+"tool-support",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Privacy Guides",
+"red_flags": null,
+"summary": "The community subreddit tied to the Privacy Guides project, where people discuss and recommend private and secure software, operating systems, and services, and ask for setup help. It's built for newcomers looking for practical, vetted privacy tool recommendations rather than deep technical security research."
+},
+{
+"id": "r-kalilinux",
+"name": "r/Kalilinux",
+"platform": "reddit",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"linux",
+"pentesting",
+"tool-support"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A support-focused subreddit for the Kali Linux penetration testing distribution, where users troubleshoot installation, driver, and tool issues and ask beginner questions about getting started with the OS. It's popular with people new to pentesting who are setting up their first Kali environment."
+},
+{
+"id": "r-sysadmin",
+"name": "r/sysadmin",
+"platform": "reddit",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"homelab",
+"networking",
+"linux",
+"general-infosec",
+"careers"
+],
+"activities": [
+"q-and-a",
+"chat",
+"job-board",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "One of Reddit's largest IT communities, run by volunteer moderators, where working sysadmins and IT generalists swap war stories, troubleshoot infrastructure problems, and discuss career moves. Security comes up constantly as part of day-to-day systems work (patching, hardening, incident response basics), making it a useful adjacent hangout for people heading into security from IT operations."
+},
+{
+"id": "r-networking",
+"name": "r/networking",
+"platform": "reddit",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"networking",
+"general-infosec",
+"careers",
+"certifications"
+],
+"activities": [
+"q-and-a",
+"chat",
+"job-board",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A large community of network engineers and IT professionals discussing routing, switching, network design, vendor gear (Cisco, Juniper, etc.), and certifications like CCNA/CCNP. It is not security-focused but networking fundamentals are foundational for most security roles, and questions from people learning the basics are generally well received."
+},
+{
+"id": "r-amateurradio",
+"name": "r/amateurradio",
+"platform": "reddit",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ham-radio",
+"rf-sdr",
+"hardware-hacking"
+],
+"activities": [
+"q-and-a",
+"chat",
+"project-showcase",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A general ham radio subreddit for licensed operators and newcomers, covering license exams, equipment, antenna builds, and on-air activity. It overlaps with security-relevant RF/SDR hacking interests but is primarily a hobbyist radio community rather than a security one, and is welcoming to people just getting their license."
+},
+{
+"id": "r-meshtastic",
+"name": "r/meshtastic",
+"platform": "reddit",
+"category": "hardware",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"rf-sdr",
+"iot-embedded",
+"homelab",
+"hardware-hacking"
+],
+"activities": [
+"q-and-a",
+"project-showcase",
+"chat",
+"hardware-help"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "The subreddit for the open-source Meshtastic LoRa mesh networking project, where users discuss firmware, node hardware, antenna setups, and building off-grid mesh networks. It's a hardware/RF hobbyist space rather than dedicated security research, but it draws people interested in radio protocols and decentralized comms who often also explore RF security topics."
+},
+{
+"id": "r-hardwarehacking",
+"name": "r/hardwarehacking",
+"platform": "reddit",
+"category": "hardware",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"iot-embedded",
+"reverse-engineering",
+"rf-sdr"
+],
+"activities": [
+"q-and-a",
+"project-showcase",
+"chat"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A smaller, niche subreddit for people taking apart, reverse-engineering, and modifying physical devices, embedded systems, and firmware. Posts range from JTAG/UART pinout discoveries to glitching and chip-level teardown, so it assumes some existing electronics or RE background more than a pure beginner space."
+},
+{
+"id": "r-hak5",
+"name": "r/Hak5",
+"platform": "reddit",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"pentesting",
+"tool-support",
+"networking"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This subreddit is a fan and user community for Hak5's line of penetration-testing hardware such as the USB Rubber Ducky, WiFi Pineapple, and Bash Bunny. People troubleshoot device setup, share payload scripts, and discuss firmware updates, and it also touches on the Hak5 video show. It suits hobbyists and pentesters who already own or are considering the hardware."
+},
+{
+"id": "r-rfid",
+"name": "r/RFID",
+"platform": "reddit",
+"category": "hardware",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"rfid-nfc",
+"hardware-hacking",
+"iot-embedded"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A small niche subreddit for discussing RFID and NFC technology, including access-control systems, tag cloning tools, and reader hardware. Posts range from consumer questions about key fobs to security-research angles like cloning and access-control weaknesses. It suits hardware tinkerers and physical-security researchers more than complete beginners."
+},
+{
+"id": "r-grapheneos",
+"name": "r/GrapheneOS",
+"platform": "reddit",
+"category": "adjacent",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"privacy",
+"mobile-security",
+"linux"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This is the official-adjacent community subreddit for GrapheneOS, a privacy- and security-hardened Android-based mobile operating system. Members discuss installation, hardening settings, sandboxed Google Play compatibility, and device compatibility, and developers sometimes participate directly. It suits privacy-focused users and mobile-security enthusiasts more than newcomers unfamiliar with Android internals."
+},
+{
+"id": "r-tor",
+"name": "r/TOR",
+"platform": "reddit",
+"category": "adjacent",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"privacy",
+"networking",
+"cryptography"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A general discussion subreddit about the Tor anonymity network, covering everyday usage of Tor Browser, running and operating relays or bridges, and privacy questions. It draws both curious newcomers asking basic how-to questions and experienced relay operators discussing network health, so quality is mixed. It suits anyone interested in anonymity and privacy tooling."
+},
+{
+"id": "r-degoogle",
+"name": "r/degoogle",
+"platform": "reddit",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"privacy",
+"linux",
+"mobile-security"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This subreddit is dedicated to helping people replace Google apps and services with privacy-respecting alternatives, covering custom Android ROMs, alternative app stores, email providers, and browsers. Discussion is oriented toward practical how-to guides and product recommendations rather than deep technical security research. It suits privacy-conscious general users and beginners looking for step-by-step de-Googling advice."
+},
+{
+"id": "fosstodon",
+"name": "Fosstodon",
+"platform": "mastodon",
+"category": "adjacent",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"linux",
+"programming",
+"homelab",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"news-feed",
+"project-showcase"
+],
+"members": 62697,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Fosstodon is a large, general-purpose Mastodon instance for people interested in free and open source software, Linux, and technology broadly rather than security specifically. It's a friendly place to follow FOSS project news and chat with developers, but joining currently requires an invite from an existing member rather than open signup."
+},
+{
+"id": "wireshark-q-a",
+"name": "Wireshark Q&A",
+"platform": "forum",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"networking",
+"tool-support",
+"programming"
+],
+"activities": [
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Wireshark project",
+"red_flags": null,
+"summary": "This is Wireshark's official Q&A site, run by the Wireshark project, where users ask and answer questions about packet capture, protocol analysis, and troubleshooting network traffic. It suits anyone using Wireshark, from students learning to read packet captures to network and security engineers debugging real issues."
+},
+{
+"id": "grapheneos-discussion-forum",
+"name": "GrapheneOS Discussion Forum",
+"platform": "forum",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"privacy",
+"mobile-security",
+"tool-support"
+],
+"activities": [
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "GrapheneOS project",
+"red_flags": null,
+"summary": "This is GrapheneOS's official Discourse forum, run by the GrapheneOS project, covering installation, usage, security hardening, and development discussion for the privacy- and security-focused Android-based operating system. It suits privacy-conscious users and developers already somewhat comfortable with Android internals rather than total beginners."
+},
+{
+"id": "bitwarden-community-forums",
+"name": "Bitwarden Community Forums",
+"platform": "forum",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"privacy",
+"tool-support"
+],
+"activities": [
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Bitwarden Inc.",
+"red_flags": null,
+"summary": "This is Bitwarden's official community forum, run by the Bitwarden company, for announcements, feature requests, and support around its open-source password manager. It suits everyday users setting up or troubleshooting Bitwarden as well as people interested in password security practices generally."
+},
+{
+"id": "proxmox-support-forum",
+"name": "Proxmox Support Forum",
+"platform": "forum",
+"category": "adjacent",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"homelab",
+"tool-support",
+"linux",
+"networking",
+"vendor"
+],
+"activities": [
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Proxmox Server Solutions GmbH",
+"red_flags": null,
+"summary": "This is the official Proxmox company forum where users get help installing and running Proxmox VE, Backup Server, and Mail Gateway, and where staff post release announcements. It's widely used by home-lab builders (including security hobbyists who run isolated VMs and pfSense/security tooling) but isn't itself security-focused. Registration is open and free via the XenForo site."
+},
+{
+"id": "truenas-community-forums",
+"name": "TrueNAS Community Forums",
+"platform": "forum",
+"category": "adjacent",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"homelab",
+"tool-support",
+"linux",
+"networking",
+"vendor"
+],
+"activities": [
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "iXsystems",
+"red_flags": null,
+"summary": "Run by iXsystems (the company behind TrueNAS), this is the official support forum for TrueNAS CORE/SCALE and TrueCommand, covering storage, virtualization, apps, and hardware questions. It's a staple for home-lab builders who host security tools or backups on NAS boxes, though it is a general storage/virtualization forum rather than a security community. Anyone can register and post."
+},
+{
+"id": "tor-project-forum",
+"name": "Tor Project Forum",
+"platform": "forum",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"privacy",
+"networking",
+"general-infosec"
+],
+"activities": [
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "The Tor Project",
+"red_flags": null,
+"summary": "This is the Tor Project's own Discourse forum, where staff and volunteers help users troubleshoot Tor Browser, discuss anti-censorship and relay operation, and mirror project mailing-list threads. It suits anyone interested in privacy, anonymity, and censorship circumvention, from first-time Tor Browser users to relay operators. Registration is open, and the community operates under Tor's published Code of Conduct."
+},
+{
+"id": "pi-hole-userspace-discourse",
+"name": "Pi-hole Userspace (Discourse)",
+"platform": "forum",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"networking",
+"tool-support",
+"homelab",
+"linux"
+],
+"activities": [
+"q-and-a",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Pi-hole project (open-source, community-run)",
+"red_flags": null,
+"summary": "This is the official Pi-hole Discourse forum, staffed by the open-source project's developers, where users get help setting up network-wide ad and tracker blocking, request features, and read announcements. It's a friendly, practical space that overlaps with privacy/home-lab interests rather than being a dedicated security community. Anyone can create a free account and post."
+},
+{
+"id": "ham-radio-crash-course",
+"name": "Ham Radio Crash Course",
+"platform": "discord",
+"category": "adjacent",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"rf-sdr",
+"ham-radio",
+"hardware-hacking"
+],
+"activities": [
+"chat",
+"voice-events",
+"workshops",
+"news-feed"
+],
+"members": 35538,
+"online": 4428,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Josh Nass (KI6NAZ) / Ham Radio Crash Course",
+"red_flags": "This is a ham radio / SDR hobby community, not a security-focused space; included as an adjacent hardware/RF hobby.",
+"summary": "This is the community Discord for Ham Radio Crash Course, a YouTube/podcast/livestream project hosted by Josh Nass (KI6NAZ) dedicated to getting people licensed and engaged in amateur radio, SDR, and RF hardware. It's explicitly framed as inclusive and focused on normalizing the hobby for newcomers, alongside live streams and a biweekly Ham Nation talk show for more experienced operators."
+},
+{
+"id": "bc-security",
+"name": "BC Security",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"detection-engineering",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 2534,
+"online": 296,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "BC Security",
+"red_flags": "Offensive C2 tooling; intended for authorized red-team/pentest use, not for beginners looking for how-to-hack guidance.",
+"summary": "This is the official Discord run by BC Security, maintainers of Empire (a post-exploitation C2 framework) and Starkiller. Users get support using and configuring Empire for red-team engagements, discuss modules and detections, and follow project updates; it assumes familiarity with offensive-security tooling rather than teaching fundamentals."
+},
+{
+"id": "netexec",
+"name": "NetExec",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"networking",
+"detection-engineering"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 1542,
+"online": 265,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Pennyw0rth / NetExec maintainers",
+"red_flags": null,
+"summary": "This is the official support Discord for NetExec (formerly CrackMapExec), a network/Active Directory pentesting tool maintained by the Pennyw0rth team. Members ask usage and bug-support questions, discuss AD attack techniques the tool exercises, and follow release notes; it's aimed at people already doing internal network penetration testing rather than beginners."
+},
+{
+"id": "projectdiscovery-community",
+"name": "ProjectDiscovery Community",
+"platform": "discord",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"web-appsec",
+"bug-bounty",
+"pentesting",
+"cloud-security"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": 8972,
+"online": 872,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "ProjectDiscovery",
+"red_flags": null,
+"summary": "Run by the ProjectDiscovery team, this Discord is the hub for Nuclei, Subfinder, httpx and their other open-source security-automation tools. People troubleshoot tool usage, share and discuss Nuclei templates, and talk vulnerability-scanning workflows for appsec and bug-bounty work; it suits practitioners already doing recon and scanning more than absolute beginners."
+},
+{
+"id": "caido",
+"name": "Caido",
+"platform": "discord",
+"category": "tool",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"web-appsec",
+"bug-bounty",
+"pentesting"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": 4727,
+"online": 822,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Caido Labs",
+"red_flags": null,
+"summary": "This is the official Discord for Caido, a web-application security testing proxy positioned as a lighter, faster alternative to Burp Suite. Users get help using the proxy for manual web pentesting/bug bounty, discuss plugins and workflows with the developers, and share feedback on new features; both newcomers to web appsec tooling and experienced testers are active."
+},
+{
+"id": "adaptix-framework",
+"name": "Adaptix-Framework",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"job-board"
+],
+"members": 452,
+"online": 73,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Adaptix-Framework project",
+"red_flags": "As a C2 framework, AdaptixC2 has been reported used in real-world malicious intrusions (per third-party threat research), which is typical of dual-use red-team tooling but worth noting.",
+"summary": "This is the official Discord for AdaptixC2, an open-source, modular post-exploitation command-and-control (C2) framework aimed at red teamers and penetration testers. Members discuss framework internals, agents, extensions and bugs, and get help building or deploying the tool. It suits people already doing offensive security work or red-team tooling development rather than newcomers."
+},
+{
+"id": "parrot-security",
+"name": "Parrot Security",
+"platform": "discord",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"linux",
+"pentesting",
+"red-team",
+"general-infosec",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 5896,
+"online": 607,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Parrot Project / Parrot OS team",
+"red_flags": null,
+"summary": "This is the official Discord for Parrot OS (Parrot Security), a Debian-based Linux distribution built for penetration testing, digital forensics, and privacy-focused work, maintained by the Parrot Project team and community contributors. People come here for install/usage support, tool discussion, and general security chat around the distro. It works for newcomers setting up the OS as well as experienced pentesters who use it daily."
+},
+{
+"id": "exegol",
+"name": "Exegol",
+"platform": "discord",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"pentesting",
+"red-team",
+"linux",
+"programming",
+"homelab"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 3037,
+"online": 725,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Exegol project (community-maintained)",
+"red_flags": null,
+"summary": "This is the official Discord for Exegol, a community-maintained Docker-based hacking environment/toolbox popular in French and wider pentest circles as an alternative to full pentest distros. Members get help installing and configuring the containerized toolset, discuss included tools, and report issues to the maintainers. It suits people already comfortable with pentesting workflows and Docker rather than absolute beginners."
+},
+{
+"id": "x64dbg",
+"name": "x64dbg",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"binary-exploitation",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 2862,
+"online": 787,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "x64dbg project",
+"red_flags": null,
+"summary": "This is the official Discord for x64dbg, a free and open-source x86/x64 debugger for Windows executables used heavily in reverse engineering and malware analysis. Members ask usage questions, discuss plugins/scripts, and contribute to development of the debugger itself. It's aimed at people already doing RE or debugging work rather than people new to security."
+},
+{
+"id": "pwndbg",
+"name": "pwndbg",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"binary-exploitation",
+"reverse-engineering",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 1030,
+"online": 157,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "pwndbg project (open-source maintainers)",
+"red_flags": null,
+"summary": "This is the official Discord for pwndbg, a GDB/LLDB plugin that adds exploit-development and reverse-engineering features for low-level and CTF work, maintained by an open-source team. Users come here for setup help, bug reports, and discussion of exploit-dev workflows using the plugin. It's built for people already writing exploits or doing binary RE, not newcomers to security."
+},
+{
+"id": "blahcats",
+"name": "BlahCats",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"binary-exploitation",
+"reverse-engineering",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 493,
+"online": 69,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "hugsy / GEF project",
+"red_flags": null,
+"summary": "This Discord (branded BlahCats) is the official community server for GEF (GDB Enhanced Features), a GDB plugin adding exploit-development and reverse-engineering commands, maintained by developer hugsy. People use it to get support with GEF and its GEF-Extras add-ons, report bugs, and discuss exploit-dev/RE workflows built on GDB. It's aimed at people already doing binary exploitation or reverse engineering rather than newcomers."
+},
+{
+"id": "malcat",
+"name": "Malcat",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"malware-analysis",
+"binary-exploitation",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 265,
+"online": 60,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Malcat (independent developer/project)",
+"red_flags": null,
+"summary": "This is the official support Discord for Malcat, a hex editor and disassembler built for malware analysts and reverse engineers to inspect binaries, disassemble code, and extract embedded files. People come here for tool usage questions, feature requests, and bug reports directly with the developer. It suits people already doing reverse engineering or malware triage work, not newcomers looking to learn the field from scratch."
+},
+{
+"id": "binary-golf",
+"name": "Binary Golf",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"binary-exploitation",
+"reverse-engineering",
+"programming",
+"ctf"
+],
+"activities": [
+"chat",
+"challenges",
+"project-showcase"
+],
+"members": 236,
+"online": 50,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run (Binary Golf Grand Prix organizers)",
+"red_flags": null,
+"summary": "This is the community Discord for the Binary Golf Grand Prix (BGGP), an annual competition to craft the smallest possible files that are simultaneously valid in another file format (polyglots). Participants discuss file-format internals, share their golfed entries, and coordinate around the yearly themed challenge. It suits people who already understand binary file formats and low-level tricks rather than newcomers to security."
+},
+{
+"id": "thehive-project",
+"name": "TheHive Project",
+"platform": "discord",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"dfir",
+"soc",
+"blue-team",
+"threat-intel"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 1896,
+"online": 128,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "StrangeBee (company behind TheHive and Cortex)",
+"red_flags": null,
+"summary": "This is the official community Discord for TheHive and Cortex, an open-source security case-management platform and analysis engine run by the company StrangeBee (founded by TheHive's original creators). SOC analysts and incident responders use it to ask deployment and integration questions and discuss the tools with StrangeBee staff and other users. It suits people already working in DFIR/SOC roles rather than security newcomers."
+},
+{
+"id": "crowdsec",
+"name": "CrowdSec",
+"platform": "discord",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"networking",
+"linux",
+"detection-engineering"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 7362,
+"online": 1339,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "CrowdSec (company)",
+"red_flags": null,
+"summary": "This is the official support Discord for CrowdSec, an open-source, crowdsourced IDS/IPS/WAF that detects malicious behavior from logs and shares a community IP blocklist. Sysadmins and blue teamers ask setup and configuration questions, share detection scenarios, and get help from the CrowdSec team directly. It suits people deploying the tool on their own infrastructure more than security beginners."
+},
+{
+"id": "shuffle-automation",
+"name": "Shuffle Automation",
+"platform": "discord",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"detection-engineering",
+"soc",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 2309,
+"online": 144,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Shuffle (open-source project, led by maintainer 'Frikky')",
+"red_flags": null,
+"summary": "This is the community Discord for Shuffle, an open-source SOAR (security orchestration, automation and response) platform built by and for security professionals. Security engineers here discuss building automation workflows, integrating tools via the platform's connectors, and get support from the lead maintainer and other users. It suits people already running or evaluating SOAR tooling rather than newcomers to security."
+},
+{
+"id": "tracecat-community",
+"name": "Tracecat Community",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"detection-engineering",
+"soc",
+"blue-team",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 864,
+"online": 94,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "TracecatHQ",
+"red_flags": null,
+"summary": "This is the official community for Tracecat, an open-source security automation (SOAR) platform built by the YC-backed company TracecatHQ. People here are security engineers and SOC teams building automated detection and incident-response workflows, asking setup questions, and discussing integrations; it suits builders already comfortable with security tooling and workflow automation rather than newcomers."
+},
+{
+"id": "tailscale-community",
+"name": "Tailscale Community",
+"platform": "discord",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"homelab",
+"networking",
+"privacy",
+"linux",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": 9458,
+"online": 1979,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Tailscale Inc.",
+"red_flags": null,
+"summary": "This is the official Discord for Tailscale, a company that makes a WireGuard-based mesh VPN for securely connecting devices. Members are mostly self-hosters, homelabbers, and network/infra engineers who use Tailscale for secure remote access, troubleshoot setups, and share projects; it's welcoming to newcomers setting up their first network as well as more advanced networking tinkerers."
+},
+{
+"id": "wifipumpkin3",
+"name": "Wifipumpkin3",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"wireless",
+"red-team",
+"pentesting",
+"social-engineering"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 1532,
+"online": 64,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "P0cL4bs",
+"red_flags": "Wi-Fi phishing/rogue-AP tooling could be misused against networks without authorization; the tool itself is standard red-team kit but usage guidance should be respected.",
+"summary": "This is the community server for Wifipumpkin3, an open-source rogue access point / Wi-Fi phishing framework maintained by developer P0cL4bs. People here discuss using the tool for captive-portal attacks, DNS spoofing, and Wi-Fi man-in-the-middle testing during authorized penetration tests; it fits people already doing wireless red-teaming rather than complete beginners."
+},
+{
+"id": "meshcore-io",
+"name": "MeshCore.io",
+"platform": "discord",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"rf-sdr",
+"iot-embedded",
+"hardware-hacking",
+"homelab",
+"badgelife-maker"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"hardware-help"
+],
+"members": 12543,
+"online": 2707,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "meshcore-dev (community project)",
+"red_flags": null,
+"summary": "This is the official Discord for MeshCore, an open-source C++ library and firmware for multi-hop LoRa mesh networking, similar in spirit to Meshtastic. Members are hobbyists and off-grid communication enthusiasts building LoRa nodes for emergency, outdoor, and tactical use, chatting with the developers, and getting setup help; it welcomes newcomers flashing their first node as well as firmware contributors."
+},
+{
+"id": "rhino-security-labs",
+"name": "Rhino Security Labs",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"cloud-security",
+"red-team",
+"pentesting"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 2055,
+"online": 181,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Rhino Security Labs",
+"red_flags": null,
+"summary": "This is the Discord for Pacu, the open-source AWS exploitation framework maintained by pentesting firm Rhino Security Labs. Members are cloud penetration testers and red teamers using Pacu to enumerate and exploit AWS misconfigurations, discussing modules and setup issues; it's aimed at people who already understand AWS and offensive security concepts rather than newcomers to security."
+},
+{
+"id": "akto",
+"name": "Akto",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"web-appsec",
+"cloud-security",
+"ai-security",
+"bug-bounty"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 510,
+"online": 15,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Akto",
+"red_flags": null,
+"summary": "This is the community server for Akto, an open-source (now increasingly AI-agent-focused) security testing platform originally built for API discovery and testing, used by security engineers to find and test APIs, AI agents, and MCP tools for vulnerabilities. Discussion centers on setup, integrations, and findings from using the platform; it suits practicing appsec/API security engineers rather than people new to security."
+},
+{
+"id": "garak-llm-vuln-scanner",
+"name": "garak: llm vuln scanner",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"ai-security",
+"red-team",
+"programming",
+"tool-support"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 2258,
+"online": 166,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "NVIDIA / garak open-source project",
+"red_flags": null,
+"summary": "This Discord is the support and development hub for garak, NVIDIA's open-source LLM vulnerability scanner that probes models for prompt injection, jailbreaks, hallucination, and data leakage. Members are AI red teamers, researchers, and developers who use or contribute to the tool, discuss scan results, and follow project updates. It suits people already working on LLM security rather than someone new to the field."
+},
+{
+"id": "hetty",
+"name": "Hetty",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"web-appsec",
+"pentesting",
+"bug-bounty",
+"tool-support",
+"programming"
+],
+"activities": [
+"q-and-a",
+"chat"
+],
+"members": 243,
+"online": 16,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "dstotijn (Dennis Stotijn)",
+"red_flags": null,
+"summary": "This Discord supports Hetty, an open-source HTTP toolkit built as a free alternative to Burp Suite Pro for intercepting, editing, and replaying web requests. Members are mostly bug bounty hunters and web pentesters using the tool day-to-day who come to ask setup questions, report bugs, or discuss features with maintainer dstotijn. It's a narrow tool-support space rather than a general learning community."
+},
+{
+"id": "dirsearch",
+"name": "dirsearch",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"web-appsec",
+"pentesting",
+"bug-bounty",
+"tool-support",
+"programming"
+],
+"activities": [
+"q-and-a",
+"chat"
+],
+"members": 216,
+"online": 12,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "maurosoria and shelld3v",
+"red_flags": null,
+"summary": "This is the official Discord for dirsearch, a widely-used Python web path/directory brute-forcing tool for penetration testers and bug bounty hunters. It's run by the tool's maintainers, maurosoria and shelld3v, and is mainly used for support questions, bug reports, and coordination around development of the tool itself. It's a tool-support space rather than a general learning community, useful mainly to people already doing web recon work."
+},
+{
+"id": "imhex",
+"name": "ImHex 🔎",
+"platform": "discord",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"binary-exploitation",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": 2093,
+"online": 569,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "WerWolv (open-source project)",
+"red_flags": null,
+"summary": "This is the official support Discord for ImHex, a popular free and open-source hex editor built for reverse engineers and binary analysts, maintained by WerWolv and a small core team. People ask usage questions about patterns, disassembly, and plugins, share custom pattern-language scripts, and report bugs or request features. It works well for reverse-engineering hobbyists and students as well as professional RE practitioners."
+},
+{
+"id": "ente-community",
+"name": "Ente Community",
+"platform": "discord",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"privacy",
+"cloud-security",
+"homelab"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 6971,
+"online": 1045,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Ente (company/open-source project)",
+"red_flags": null,
+"summary": "This is the community Discord for Ente, an open-source, end-to-end encrypted alternative to Google and Apple Photos. Members get help setting up the app or self-hosted server, discuss encryption design choices, and give feedback to the small team building it. It's a privacy-and-encryption tool community rather than a hacking or pentesting one, useful to people who care about practical data privacy."
+},
+{
+"id": "docker-slim-community",
+"name": "Docker-Slim-Community",
+"platform": "discord",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"tool-support",
+"cloud-security",
+"linux",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 315,
+"online": 23,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "SlimToolkit open-source project (Root.io)",
+"red_flags": null,
+"summary": "This is the support and discussion server for Slim (SlimToolkit), an open-source tool maintained by its creator with the open-source community and Root.io that shrinks and hardens Docker container images without changing their behavior. People come here to ask about image minification, generated security profiles, Dockerfile linting, and to report issues or contribute; it suits developers and DevOps/cloud-security practitioners already comfortable with containers rather than absolute beginners."
+},
+{
+"id": "safeline-waf",
+"name": "SafeLine WAF",
+"platform": "discord",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"web-appsec",
+"tool-support",
+"cloud-security",
+"networking"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 2568,
+"online": 179,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Chaitin Technology",
+"red_flags": null,
+"summary": "Run by Chaitin, a Chinese security company, this is the community hub for SafeLine, a self-hosted open-source web application firewall used on hundreds of thousands of sites. Members ask for help deploying and tuning the WAF, discuss detection rules and false positives, and get support from staff and other admins; it's aimed at sysadmins and appsec-minded developers rather than newcomers to security."
+},
+{
+"id": "winsiderss",
+"name": "winsiderss",
+"platform": "discord",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"tool-support",
+"malware-analysis",
+"networking",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 963,
+"online": 154,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Winsider Seminars & Solutions, Inc.",
+"red_flags": null,
+"summary": "This Discord is run around System Informer (formerly Process Hacker), a free open-source Windows process/resource monitor maintained by Winsider Seminars & Solutions, a company focused on Windows internals training. Members use the tool to inspect processes, network connections, and kernel-level activity, often for debugging or hunting malware, and the server is where users get help, report bugs, and discuss development; it suits people already comfortable with Windows internals more than total beginners."
+},
+{
+"id": "pentestgpt",
+"name": "PentestGPT",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"ai-security",
+"tool-support",
+"ctf"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 923,
+"online": 50,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "GreyDGL (open-source project, academic-backed)",
+"red_flags": null,
+"summary": "This is the community around PentestGPT, an open-source LLM-powered automated penetration testing framework built by researcher GreyDGL and published academically at USENIX Security 2024. Members discuss using the tool to automate recon, exploitation, and CTF walkthroughs with various LLM backends, and get support installing or configuring it; it's oriented toward people who already understand pentesting concepts and want to apply AI tooling to it, not a place to learn the basics."
+},
+{
+"id": "notesnook",
+"name": "Notesnook",
+"platform": "discord",
+"category": "tool",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"tool-support",
+"privacy",
+"cloud-security"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 8028,
+"online": 533,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Streetwriters (Notesnook developers)",
+"red_flags": null,
+"summary": "This is the official support server for Notesnook, an open-source, end-to-end encrypted note-taking app built as a privacy-respecting alternative to Evernote. People come here to get help with the app, discuss features and bugs, and talk about digital privacy more broadly; it suits users of the app rather than security practitioners specifically."
+},
+{
+"id": "opennhp",
+"name": "OpenNHP",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"tool-support",
+"cloud-security",
+"cryptography",
+"networking"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 74,
+"online": 5,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "OpenNHP project",
+"red_flags": null,
+"summary": "This is the official community for OpenNHP, an open-source cryptography-based Zero Trust toolkit (covering a Zero Trust framework, StealthDNS, a JS SDK, and related IETF standardization work). Discussion centers on using and contributing to the project, so it best suits developers and security engineers already familiar with Zero Trust networking concepts rather than newcomers."
+},
+{
+"id": "pwntools",
+"name": "pwntools",
+"platform": "discord",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"binary-exploitation",
+"tool-support",
+"reverse-engineering",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events"
+],
+"members": 894,
+"online": 112,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Gallopsled (pwntools maintainers)",
+"red_flags": null,
+"summary": "This is the support and discussion server for pwntools, a widely used Python CTF framework and exploit development library. People ask for help writing exploits with the library, discuss binary exploitation techniques, and get support from maintainers and experienced CTF players; it fits players who already have some CTF/exploit-dev background more than absolute beginners."
+},
+{
+"id": "embedded-exploitation",
+"name": "Embedded Exploitation",
+"platform": "discord",
+"category": "hardware",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"iot-embedded",
+"reverse-engineering",
+"ctf"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help"
+],
+"members": 299,
+"online": 14,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This Discord community focuses on embedded device and router exploitation, drawing an audience overlapping with tools like RouterSploit for finding and exploiting vulnerabilities in embedded/IoT devices. Members trade techniques, discuss firmware and hardware attack surfaces, and troubleshoot exploitation attempts together; it suits people with some existing hardware or exploitation background more than total newcomers."
+},
+{
+"id": "hexstrike-ai",
+"name": "HexStrike-AI",
+"platform": "discord",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"ai-security",
+"bug-bounty",
+"ctf"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 2349,
+"online": 245,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "OTT Cybersecurity LLC (0x4m4)",
+"red_flags": "Framework automates offensive penetration-testing tools; intended for authorized testing/bug bounty use only.",
+"summary": "This is the support and discussion server for HexStrike-AI, an MCP server built by OTT Cybersecurity that lets AI agents like Claude and GPT autonomously drive over 150 offensive security tools for penetration testing and bug bounty work. Members discuss setup, tool integrations, and automated exploitation workflows. It suits people already comfortable with pentesting tools and AI-agent tooling rather than newcomers."
+},
+{
+"id": "netmaker",
+"name": "Netmaker",
+"platform": "discord",
+"category": "adjacent",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"homelab",
+"networking",
+"cloud-security"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 1641,
+"online": 166,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Gravitl",
+"red_flags": null,
+"summary": "Netmaker's Discord is run by Gravitl, the company behind the open-source WireGuard-based virtual networking tool of the same name. Members get help configuring mesh VPNs, remote access, and self-hosted networks, which touches on network security but is primarily a DevOps/homelab networking tool community rather than a security-focused one. It suits self-hosters and sysadmins comfortable with networking concepts."
+}
+]

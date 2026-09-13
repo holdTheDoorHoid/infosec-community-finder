@@ -1,0 +1,2418 @@
+[
+{
+"id": "hack-club-slack",
+"name": "Hack Club Slack",
+"platform": "slack",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner"
+],
+"tags": [
+"students",
+"youth",
+"programming",
+"ctf",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"q-and-a",
+"workshops",
+"project-showcase",
+"mentorship",
+"ctf-events"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Hack Club (nonprofit)",
+"red_flags": null,
+"summary": "Hack Club is a nonprofit network of teen-run coding clubs, and its Slack is a large, very active community of high schoolers building software and hardware projects, with volunteer adult and peer 'Gardener' mentors answering questions. It's broader than security specifically, but has dedicated channels for CTFs and security topics alongside general programming and maker culture. It's an especially welcoming on-ramp for younger beginners new to tech and security."
+},
+{
+"id": "0x00sec",
+"name": "0x00sec",
+"platform": "forum",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"binary-exploitation",
+"ctf",
+"malware-analysis",
+"red-team",
+"programming",
+"general-infosec"
+],
+"activities": [
+"writeups",
+"q-and-a",
+"chat",
+"challenges",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "0x00sec is a long-running Discourse-based forum where hackers and security researchers post write-ups, tutorials, and discussion on exploitation, reverse engineering, malware, and both offensive and defensive security. It has a strong CTF and low-level-hacking slant and is friendly to newcomers who want to read and ask questions alongside more experienced members."
+},
+{
+"id": "security-stack-exchange",
+"name": "Security Stack Exchange",
+"platform": "forum",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"web-appsec",
+"cryptography",
+"networking",
+"study-group"
+],
+"activities": [
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Stack Exchange, Inc.",
+"red_flags": null,
+"summary": "A Q&A site in the Stack Exchange network where information security professionals and learners ask and answer specific technical questions, moderated by a reputation system rather than open chat. It works well for beginners with a concrete question and for anyone wanting vetted, citable answers, though it discourages open-ended discussion or broad 'how do I learn hacking' posts."
+},
+{
+"id": "cryptography-stack-exchange",
+"name": "Cryptography Stack Exchange",
+"platform": "forum",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"cryptography",
+"general-infosec",
+"programming"
+],
+"activities": [
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Stack Exchange, Inc.",
+"red_flags": null,
+"summary": "This is the cryptography-focused Q&A site in the Stack Exchange network, moderated by community volunteers under Stack Exchange's standard Q&A rules. People post specific technical questions about cryptographic algorithms, protocols, and implementations and get answers from working cryptographers and engineers, ranging from homework-level questions to research-level discussion. It suits anyone who wants precise, citable answers rather than open-ended chat, though the site's strict on-topic and question-quality rules can feel unfriendly to first-time posters."
+},
+{
+"id": "null-byte",
+"name": "Null Byte",
+"platform": "forum",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"pentesting",
+"wireless",
+"linux",
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"q-and-a",
+"writeups",
+"chat"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "WonderHowTo (community-run tutorial site)",
+"red_flags": null,
+"summary": "Null Byte is a long-running WonderHowTo channel of tutorial articles on ethical hacking, Wi-Fi attacks, Linux, and common pentesting tools, paired with a discussion forum where readers ask follow-up questions. It's explicitly aimed at newcomers learning hacking concepts step by step rather than working security professionals."
+},
+{
+"id": "lemmy-c-cybersecurity-lemmy-ml",
+"name": "Lemmy c/cybersecurity (lemmy.ml)",
+"platform": "forum",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"news-cve",
+"privacy"
+],
+"activities": [
+"news-feed",
+"chat",
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This is a Reddit-style discussion community on the federated Lemmy network, hosted on the lemmy.ml instance, where people share and discuss cybersecurity news, breaches, and general infosec topics. It's a community-run space with a moderate but steady flow of posts, welcoming to casual readers and beginners as well as more technical commenters."
+},
+{
+"id": "underc0de",
+"name": "Underc0de",
+"platform": "forum",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"reverse-engineering",
+"programming",
+"hacker-culture"
+],
+"activities": [
+"q-and-a",
+"chat",
+"ctf-events",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "latin-america",
+"country": null,
+"subdivision": null,
+"language": "es",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Underc0de is a long-running (10+ years) Spanish-language hacking and IT community built around a public forum, with additional WhatsApp groups and an IRC channel. Members ask and answer questions about hacking, pentesting, programming, and general IT, making it a well-known entry point for Spanish-speaking beginners as well as more experienced hobbyists."
+},
+{
+"id": "zenk-security",
+"name": "Zenk-Security",
+"platform": "forum",
+"category": "learning",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"cryptography",
+"forensics",
+"reverse-engineering",
+"web-appsec",
+"malware-analysis"
+],
+"activities": [
+"ctf-events",
+"challenges",
+"q-and-a",
+"chat"
+],
+"members": null,
+"online": null,
+"region": "europe",
+"country": "FR",
+"subdivision": null,
+"language": "fr",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Zenk-Security is a French-language community centered on hands-on training challenges covering crypto, steganography, web, malware, and forensics, paired with a discussion forum. Registration is open to anyone, but deeper forum access and recognition are earned by solving challenges and accumulating points, so it rewards active participation more than passive browsing."
+},
+{
+"id": "r-cybersecurity",
+"name": "r/cybersecurity",
+"platform": "reddit",
+"category": "general",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"careers",
+"news-cve",
+"blue-team",
+"certifications"
+],
+"activities": [
+"q-and-a",
+"news-feed",
+"job-board",
+"chat"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "r/cybersecurity is one of Reddit's largest general infosec subreddits, where people discuss industry news, ask career and certification questions, and share advice on breaking into the field. It's commonly recommended as a first stop for newcomers because of its high volume of beginner-friendly Q&A alongside general news discussion."
+},
+{
+"id": "r-netsec",
+"name": "r/netsec",
+"platform": "reddit",
+"category": "general",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"news-cve",
+"web-appsec",
+"reverse-engineering",
+"malware-analysis"
+],
+"activities": [
+"news-feed",
+"writeups",
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "r/netsec is one of the oldest infosec subreddits, focused on sharing technical security research, vulnerability writeups, and tool releases rather than general discussion. It's curated toward practitioner-level content, so it suits people who already have some technical background more than absolute beginners."
+},
+{
+"id": "r-asknetsec",
+"name": "r/AskNetsec",
+"platform": "reddit",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"web-appsec",
+"networking",
+"careers"
+],
+"activities": [
+"q-and-a",
+"chat"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A Reddit forum where people post specific security questions - tool choices, career direction, technical how-tos, incident triage - and get answered by a mix of hobbyists and working professionals. It suits anyone with a concrete question rather than people looking for a chatty hangout, since Reddit's Q&A format rewards well-framed asks over casual conversation."
+},
+{
+"id": "r-hacking",
+"name": "r/hacking",
+"platform": "reddit",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"hacker-culture",
+"news-cve",
+"reverse-engineering"
+],
+"activities": [
+"news-feed",
+"chat",
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "One of Reddit's largest general hacking subreddits, mixing news links, writeups, tool showcases, and discussion threads for anyone interested in offensive security and hacker culture broadly. It is not structured as a teaching space, so beginners can lurk and ask questions but the vibe assumes some existing curiosity or background rather than walking newcomers through basics."
+},
+{
+"id": "r-howtohack",
+"name": "r/HowToHack",
+"platform": "reddit",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"reverse-engineering",
+"binary-exploitation",
+"web-appsec",
+"general-infosec"
+],
+"activities": [
+"q-and-a",
+"chat"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A subreddit built specifically for people starting out in offensive security, with a curated wiki of courses, tools, and practice sites plus threads answering beginner questions about pentesting, CTFs, and reverse engineering. Moderators actively steer newcomers toward structured resources rather than one-off answers, making it one of the more approachable entry points on Reddit."
+},
+{
+"id": "r-netsecstudents",
+"name": "r/netsecstudents",
+"platform": "reddit",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"certifications",
+"careers",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"q-and-a",
+"chat",
+"job-board"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A subreddit for students and newcomers studying cybersecurity, focused on coursework help, degree and certification choices, internship hunting, and 'how do I break in' career questions. It is explicitly aimed at people earlier in the pipeline than r/cybersecurity, so basic questions are the norm rather than an exception."
+},
+{
+"id": "r-cybersecurity-help",
+"name": "r/cybersecurity_help",
+"platform": "reddit",
+"category": "general",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"malware-analysis",
+"privacy"
+],
+"activities": [
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This subreddit is a help forum where ordinary people post questions about suspected hacking, malware infections, account compromise, or general device hygiene, and volunteers help diagnose and fix the issue. It suits total beginners with a practical problem rather than people looking for career or technical hacking discussion."
+},
+{
+"id": "r-comptia",
+"name": "r/CompTIA",
+"platform": "reddit",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"certifications",
+"study-group",
+"careers",
+"general-infosec"
+],
+"activities": [
+"q-and-a",
+"study-groups",
+"job-board"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This subreddit is a study and discussion hub for people pursuing CompTIA certifications like A+, Network+, and Security+, which are common entry-level credentials into IT and security careers. People share study resources, exam experiences, and troubleshoot practice questions, making it well suited to newcomers starting a security career path."
+},
+{
+"id": "r-oscp",
+"name": "r/OSCP",
+"platform": "reddit",
+"category": "learning",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"certifications",
+"pentesting",
+"study-group",
+"red-team"
+],
+"activities": [
+"q-and-a",
+"study-groups"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This subreddit is dedicated to people studying for or holding the OSCP penetration testing certification from Offensive Security, discussing lab strategy, exam prep, and exploitation techniques. It assumes prior hands-on hacking experience and technical background, so it fits intermediate to advanced learners rather than absolute beginners."
+},
+{
+"id": "r-reverseengineering",
+"name": "r/ReverseEngineering",
+"platform": "reddit",
+"category": "learning",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"binary-exploitation",
+"malware-analysis",
+"programming"
+],
+"activities": [
+"q-and-a",
+"chat",
+"news-feed"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "One of the largest and oldest reverse-engineering subreddits, covering both software (disassembly, decompilation, cracking, malware) and hardware RE, not limited to a security angle. It's a mix of link-sharing, tool discussion, and technical Q&A, and while it isn't a structured tutorial space, straightforward beginner questions are generally tolerated."
+},
+{
+"id": "r-opsec",
+"name": "r/opsec",
+"platform": "reddit",
+"category": "general",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"privacy",
+"osint",
+"general-infosec"
+],
+"activities": [
+"q-and-a"
+],
+"members": null,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This subreddit is a strictly moderated forum for operational-security advice, requiring posters to state their specific threat model rather than asking vague 'how do I stay anonymous' questions. Volunteer moderators and experienced members give tailored guidance on protecting real people from real adversaries, such as journalists, activists, or domestic-abuse survivors. It suits people with a concrete, serious OPSEC problem rather than casual browsers or beginners wanting general privacy tips."
+},
+{
+"id": "infosec-exchange",
+"name": "Infosec Exchange",
+"platform": "mastodon",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"privacy",
+"news-cve",
+"threat-intel"
+],
+"activities": [
+"chat",
+"news-feed",
+"q-and-a",
+"project-showcase"
+],
+"members": 83221,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A large, independently-run Mastodon instance built specifically for infosec and cybersecurity-minded people, including many well-known researchers, journalists, and vendors who left Twitter for it. People use it to follow security news, share CVE and threat-intel commentary, and have open-ended discussion in the Fediverse format. It welcomes newcomers to the field alongside seasoned professionals, though the tone can be more technical than a typical beginner Discord."
+},
+{
+"id": "ioc-exchange",
+"name": "IOC.exchange",
+"platform": "mastodon",
+"category": "general",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"threat-intel",
+"news-cve"
+],
+"activities": [
+"chat",
+"news-feed",
+"q-and-a"
+],
+"members": 27840,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A community-run Mastodon instance branded 'Indicators of Compromise' aimed at infosec people of all skill levels, from newbies to experts. Members post security news, threat intel, and general discussion in the Fediverse format, with instance rules emphasizing respect and content warnings for sensitive material. It explicitly says everyone is welcome, making it more newcomer-friendly in tone than many other infosec Mastodon instances."
+},
+{
+"id": "chaos-social",
+"name": "chaos.social",
+"platform": "mastodon",
+"category": "general",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"hacker-culture",
+"privacy",
+"networking"
+],
+"activities": [
+"chat",
+"news-feed",
+"project-showcase"
+],
+"members": 14247,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run (Chaos community)",
+"red_flags": null,
+"summary": "This is a Mastodon (Fediverse) instance run by and for people connected to the Chaos Computer Club and wider European hacker scene, used for day-to-day chatter, event announcements, and project sharing rather than structured teaching. It suits people already plugged into hacker/maker culture more than absolute beginners, since new signups currently need an invite link from an existing member."
+},
+{
+"id": "cyberplace-social",
+"name": "Cyberplace.social",
+"platform": "mastodon",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"hacker-culture",
+"privacy"
+],
+"activities": [
+"chat",
+"news-feed",
+"project-showcase"
+],
+"members": 12964,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "An independent, community-run Mastodon instance that mixes cybersecurity talk with fandom, gaming, and general tech chat rather than being a narrowly technical space. Anyone 18+ can sign up without an application, and the rules explicitly prohibit posting breach data or using the instance mainly to promote red-team tooling."
+},
+{
+"id": "hackers-town",
+"name": "Hackers.Town",
+"platform": "mastodon",
+"category": "general",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"hacker-culture",
+"privacy"
+],
+"activities": [
+"chat",
+"news-feed"
+],
+"members": 178,
+"online": null,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Hackers.Town is a small, long-running (since 2017) hacker- and tech-culture themed Mastodon instance for general chat and link-sharing. It currently isn't accepting open signups, only referrals vouched for by existing members, so it's more of a niche existing community than an easy on-ramp for newcomers."
+},
+{
+"id": "njit-cyber-security-network",
+"name": "NJIT Cyber Security Network",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"ctf",
+"general-infosec",
+"networking",
+"careers"
+],
+"activities": [
+"study-groups",
+"ctf-events",
+"workshops",
+"job-board",
+"chat"
+],
+"members": 1195,
+"online": 159,
+"region": "us-northeast",
+"country": "US",
+"subdivision": "NJ",
+"language": "en",
+"run_by": "NJIT students (NICC)",
+"red_flags": null,
+"summary": "This is the Discord for NICC, NJIT's Information & Cybersecurity Club, a student-run organization giving members hands-on practical experience in infosec through workshops, CTF practice, and networking events. It's run by and for NJIT students but is open more broadly, connecting them with industry partners and alumni. Good fit for undergrads (and other beginners) wanting a structured, campus-based path into security."
+},
+{
+"id": "nu-security-2-0",
+"name": "NU Security 2.0!",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"general-infosec",
+"careers",
+"networking",
+"ctf"
+],
+"activities": [
+"workshops",
+"study-groups",
+"local-meetups",
+"job-board",
+"chat"
+],
+"members": 215,
+"online": 43,
+"region": "us-northeast",
+"country": "US",
+"subdivision": "MA",
+"language": "en",
+"run_by": "Northeastern University students (NUSEC)",
+"red_flags": null,
+"summary": "NUSEC is Northeastern University's student cybersecurity club in Boston, running workshops, professional development sessions, and community events for members interested in security. It's organized by students for students, blending technical skill-building with career networking. Best suited to Northeastern undergrads and other beginners looking for an approachable campus community."
+},
+{
+"id": "umass-cybersecurity-club",
+"name": "UMass Cybersecurity Club",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"ctf",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"workshops",
+"ctf-events",
+"study-groups",
+"chat"
+],
+"members": 1637,
+"online": 183,
+"region": "us-northeast",
+"country": "US",
+"subdivision": "MA",
+"language": "en",
+"run_by": "UMass Amherst students / Manning CICS",
+"red_flags": null,
+"summary": "This is the official student cybersecurity club of UMass Amherst's Manning College of Information and Computer Sciences, running technical workshops and fielding a CTF competition team. It's organized by students within the CICS department for students interested in security, from newcomers to those competing at CTFs. A solid fit for UMass students wanting structured, hands-on learning alongside peers."
+},
+{
+"id": "ritsec",
+"name": "RITSEC",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"students",
+"general-infosec",
+"ctf",
+"networking",
+"study-group"
+],
+"activities": [
+"workshops",
+"study-groups",
+"ctf-events",
+"local-meetups",
+"chat"
+],
+"members": 2270,
+"online": 636,
+"region": "us-northeast",
+"country": "US",
+"subdivision": "NY",
+"language": "en",
+"run_by": "RIT students (RITSEC)",
+"red_flags": null,
+"summary": "RITSEC is Rochester Institute of Technology's cybersecurity club and the largest academic club on campus, holding weekly general meetings with talks, hands-on workshops, and interest groups across security topics. It's run by RIT students and explicitly welcomes newcomers with a published beginner's guide and open Friday meetings at the Global Cybersecurity Institute. Suits RIT students at any skill level, from total beginners to those preparing for advanced competitions."
+},
+{
+"id": "cyber-lions",
+"name": "Cyber Lions",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"general-infosec",
+"ctf",
+"study-group"
+],
+"activities": [
+"chat",
+"study-groups",
+"ctf-events",
+"workshops",
+"project-showcase"
+],
+"members": 265,
+"online": 28,
+"region": "us-northeast",
+"country": "US",
+"subdivision": "PA",
+"language": "en",
+"run_by": "Penn State Harrisburg students",
+"red_flags": null,
+"summary": "Student-run cybersecurity club at Penn State Harrisburg where members meet regularly to learn security fundamentals and prepare for competitions together. The Discord is used for meeting announcements, discussion, and coordinating CTF practice, and it suits students at the campus who are new to the field as well as those looking to compete."
+},
+{
+"id": "su-information-security-club",
+"name": "SU Information Security Club",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"general-infosec",
+"study-group",
+"ctf"
+],
+"activities": [
+"chat",
+"study-groups",
+"workshops",
+"ctf-events",
+"mentorship"
+],
+"members": 308,
+"online": 37,
+"region": "us-northeast",
+"country": "US",
+"subdivision": "NY",
+"language": "en",
+"run_by": "Syracuse University students",
+"red_flags": null,
+"summary": "A long-running student club at Syracuse University's iSchool for anyone curious about cybersecurity, running for over a decade. Members hold workshops, informal talks, and study sessions on security topics and sometimes take part in CTFs, making it a good fit for students starting out as well as those going deeper."
+},
+{
+"id": "stony-brook-cybersecurity-club",
+"name": "Stony Brook Cybersecurity Club",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"general-infosec",
+"forensics",
+"study-group",
+"ctf"
+],
+"activities": [
+"chat",
+"study-groups",
+"workshops",
+"ctf-events",
+"project-showcase"
+],
+"members": 641,
+"online": 93,
+"region": "us-northeast",
+"country": "US",
+"subdivision": "NY",
+"language": "en",
+"run_by": "Stony Brook University students",
+"red_flags": null,
+"summary": "Stony Brook University's cybersecurity club holds weekly meetings covering topics like digital forensics, penetration testing, and cryptography, aimed at all skill levels. It functions as a hands-on learning community for students who want structured exposure to different security fields alongside occasional CTF participation."
+},
+{
+"id": "ufsit",
+"name": "UFSIT",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"general-infosec",
+"ctf",
+"study-group",
+"networking"
+],
+"activities": [
+"chat",
+"ctf-events",
+"study-groups",
+"workshops",
+"job-board"
+],
+"members": 1901,
+"online": 268,
+"region": "us-southeast",
+"country": "US",
+"subdivision": "FL",
+"language": "en",
+"run_by": "University of Florida students",
+"red_flags": null,
+"summary": "UFSIT is the University of Florida's student-run information security club, serving as a hub for event announcements, study sessions, and collaboration among students interested in security. It welcomes members with varying experience levels who want to learn about infosec and get involved with campus security activities like CTFs."
+},
+{
+"id": "cybervt",
+"name": "CyberVT",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"general-infosec",
+"study-group",
+"ctf",
+"networking"
+],
+"activities": [
+"chat",
+"workshops",
+"study-groups",
+"ctf-events",
+"job-board"
+],
+"members": 1156,
+"online": 115,
+"region": "us-southeast",
+"country": "US",
+"subdivision": "VA",
+"language": "en",
+"run_by": "Virginia Tech students",
+"red_flags": null,
+"summary": "CyberVT is Virginia Tech's cybersecurity club, founded in 2011, focused on teaching security concepts to students of all skill levels through talks, workshops, and hands-on practice. It explicitly welcomes beginners and is a good entry point for Virginia Tech students starting out in security."
+},
+{
+"id": "liberty-university-cybersecurity-club",
+"name": "Liberty University Cybersecurity Club",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"blue-team",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"chat",
+"study-groups",
+"workshops"
+],
+"members": 282,
+"online": 49,
+"region": "us-southeast",
+"country": "US",
+"subdivision": "VA",
+"language": "en",
+"run_by": "Liberty University students",
+"red_flags": null,
+"summary": "The Liberty University Cyber Defense Club meets weekly to teach network and computer defense skills to students. It's a small, education-focused group suited to Liberty students looking to build foundational blue-team knowledge."
+},
+{
+"id": "cofc-cybersecurity-club",
+"name": "CofC Cybersecurity Club",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"blue-team",
+"networking",
+"study-group",
+"ctf",
+"general-infosec"
+],
+"activities": [
+"study-groups",
+"workshops",
+"ctf-events",
+"chat"
+],
+"members": 211,
+"online": 27,
+"region": "us-southeast",
+"country": "US",
+"subdivision": "SC",
+"language": "en",
+"run_by": "College of Charleston Computer Science students",
+"red_flags": null,
+"summary": "College of Charleston's student cybersecurity club teaches networking, systems administration, cryptography, and firewall skills to fill gaps in the CS curriculum, and fields a Cyber Defense Team that has competed nationally at CCDC. It explicitly requires no prior experience and welcomes complete beginners into weekly meetings."
+},
+{
+"id": "fpu-cybersecurity-club",
+"name": "FPU Cybersecurity Club",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"study-groups",
+"workshops",
+"chat"
+],
+"members": 466,
+"online": 111,
+"region": "us-southeast",
+"country": "US",
+"subdivision": "FL",
+"language": "en",
+"run_by": "Florida Polytechnic University students",
+"red_flags": null,
+"summary": "Florida Polytechnic University's student cybersecurity club gathers students who want to explore offensive and defensive security topics hands-on, combining technical learning with social events. It's aimed at Florida Poly students at any experience level who are curious about the field."
+},
+{
+"id": "cybersecurity-club-iu",
+"name": "Cybersecurity Club @ IU",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"study-groups",
+"workshops",
+"chat"
+],
+"members": 510,
+"online": 47,
+"region": "us-midwest",
+"country": "US",
+"subdivision": "IN",
+"language": "en",
+"run_by": "Indiana University students",
+"red_flags": null,
+"summary": "Cybersecurity Club @ IU is the security community at Indiana University's Luddy School of Informatics, using Discord for all event coordination and communication. It's open to IU students, plus interested industry people, who want to learn and discuss cybersecurity together."
+},
+{
+"id": "ku-cyber-security-society",
+"name": "KU Cyber Security Society",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"general-infosec",
+"ctf",
+"networking",
+"linux"
+],
+"activities": [
+"chat",
+"study-groups",
+"ctf-events",
+"workshops",
+"local-meetups"
+],
+"members": 168,
+"online": 28,
+"region": "us-midwest",
+"country": "US",
+"subdivision": "KS",
+"language": "en",
+"run_by": "community-run (KU students)",
+"red_flags": null,
+"summary": "A student-run cybersecurity club at the University of Kansas in Lawrence. Members attend meetings, workshops, and CTF practice aimed at students getting into security, with Discord used for scheduling and discussion."
+},
+{
+"id": "cybersecurity-uw",
+"name": "Cybersecurity UW",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"students",
+"lockpicking-physical",
+"linux",
+"networking"
+],
+"activities": [
+"chat",
+"workshops",
+"ctf-events",
+"study-groups",
+"local-meetups"
+],
+"members": 1201,
+"online": 124,
+"region": "us-midwest",
+"country": "US",
+"subdivision": "WI",
+"language": "en",
+"run_by": "community-run (UW-Madison students)",
+"red_flags": null,
+"summary": "A student-run cybersecurity club at UW-Madison, unaffiliated with the university's official security office, that runs workshops, guest talks, and CTFs covering things like lockpicking, steganography, and networking. The club explicitly says programming and Linux experience helps but isn't required, so it welcomes complete beginners."
+},
+{
+"id": "miami-university-cybersecurity-club",
+"name": "Miami University Cybersecurity Club",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"students",
+"osint",
+"dfir",
+"linux",
+"reverse-engineering"
+],
+"activities": [
+"chat",
+"workshops",
+"ctf-events",
+"study-groups",
+"local-meetups"
+],
+"members": 654,
+"online": 56,
+"region": "us-midwest",
+"country": "US",
+"subdivision": "OH",
+"language": "en",
+"run_by": "community-run (Miami University students)",
+"red_flags": null,
+"summary": "A rapidly growing student cybersecurity club at Miami University in Oxford, Ohio, offering hands-on workshops on Linux, Python, cryptography, reverse engineering, web exploitation, OSINT and DFIR alongside CTFs and industry networking. It runs a dedicated 'Linux Beginner' track and kickoff sessions, making it a strong fit for newcomers."
+},
+{
+"id": "cyberhogs",
+"name": "CyberHogs",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"general-infosec",
+"certifications",
+"networking"
+],
+"activities": [
+"chat",
+"workshops",
+"study-groups",
+"local-meetups"
+],
+"members": 530,
+"online": 76,
+"region": "us-south",
+"country": "US",
+"subdivision": "AR",
+"language": "en",
+"run_by": "University of Arkansas CyberHogs (student-run)",
+"red_flags": null,
+"summary": "CyberHogs is the official cybersecurity club Discord for the University of Arkansas in Fayetteville, run by students through the campus RSO system. It hosts talks on certifications, general security topics, and social events for club members. It's aimed at Arkansas students wanting an on-campus community to learn security basics and network with peers."
+},
+{
+"id": "uca-computer-science-clubs",
+"name": "UCA Computer Science Clubs",
+"platform": "discord",
+"category": "learning",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"general-infosec",
+"programming"
+],
+"activities": [
+"chat",
+"study-groups"
+],
+"members": 442,
+"online": 46,
+"region": "us-south",
+"country": "US",
+"subdivision": "AR",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This Discord is listed as the campus computer science and cybersecurity community hub linked from a university CS department page (associated with UA Little Rock / UCA computer science programs). It appears to function as a general gathering space for CS and cybersecurity students to chat and study together. Details on organizers and regular programming are sparse from public sources."
+},
+{
+"id": "cougarcs-infosec",
+"name": "CougarCS InfoSec",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"ctf",
+"general-infosec",
+"certifications",
+"networking"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"study-groups",
+"local-meetups",
+"job-board"
+],
+"members": 490,
+"online": 67,
+"region": "us-south",
+"country": "US",
+"subdivision": "TX",
+"language": "en",
+"run_by": "CougarCS (student-run, University of Houston)",
+"red_flags": null,
+"summary": "This is the InfoSec branch server of CougarCS, the largest student-run computer science organization at the University of Houston, aiming to take members from novices to professionals. The InfoSec branch runs CTF competitions, interactive security workshops, and hands-on demonstrations alongside CougarCS's broader career-prep and tutoring offerings. It's well suited to Houston students who are brand new to security as well as those wanting resume and interview help."
+},
+{
+"id": "association-of-cyber-engineers",
+"name": "Association of Cyber Engineers",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"ctf",
+"general-infosec",
+"reverse-engineering",
+"forensics",
+"cryptography"
+],
+"activities": [
+"chat",
+"workshops",
+"ctf-events",
+"study-groups",
+"mentorship"
+],
+"members": 331,
+"online": 48,
+"region": "us-south",
+"country": "US",
+"subdivision": "LA",
+"language": "en",
+"run_by": "Louisiana Tech University students",
+"red_flags": null,
+"summary": "A student-run cybersecurity organization at Louisiana Tech University that teaches fundamentals like hacking, cryptography, forensics, and exploitation through hands-on sessions and weekly meetings. It welcomes students from any academic background and helps them connect with security professionals, making it a solid entry point for newcomers at that campus."
+},
+{
+"id": "berke1337",
+"name": "BERKE1337",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"ctf",
+"general-infosec",
+"study-group",
+"careers"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"study-groups",
+"mentorship"
+],
+"members": 936,
+"online": 101,
+"region": "us-west",
+"country": "US",
+"subdivision": "CA",
+"language": "en",
+"run_by": "UC Berkeley students",
+"red_flags": null,
+"summary": "BERKE1337 is UC Berkeley's student-run cybersecurity club, holding weekly meetings on security news and CTF recaps, running its own jeopardy-style CTF competitions, and hosting industry speaker events and resume reviews alongside social activities. It's explicitly open to anyone at Berkeley with no experience or application required, making it very approachable for beginners."
+},
+{
+"id": "cyber-saguaros-ctf-server",
+"name": "Cyber Saguaros CTF Server",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"blue-team",
+"osint",
+"forensics",
+"study-group"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"study-groups"
+],
+"members": 148,
+"online": 19,
+"region": "us-west",
+"country": "US",
+"subdivision": "AZ",
+"language": "en",
+"run_by": "University of Arizona students",
+"red_flags": null,
+"summary": "Cyber Saguaros is the University of Arizona's cybersecurity club, running biweekly in-person and virtual workshops covering OSINT, cryptography, password cracking, forensics, web exploitation, reverse engineering, and blue-team topics. It's explicitly welcoming to undergrads and grad students of all experience levels who want hands-on practice and industry networking."
+},
+{
+"id": "cyber-club-university-of-colorado-boulder",
+"name": "Cyber Club - University of Colorado, Boulder",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"red-team",
+"blue-team",
+"cryptography",
+"reverse-engineering",
+"networking"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"study-groups",
+"chat",
+"local-meetups"
+],
+"members": 539,
+"online": 51,
+"region": "us-west",
+"country": "US",
+"subdivision": "CO",
+"language": "en",
+"run_by": "University of Colorado Boulder students",
+"red_flags": null,
+"summary": "CU Boulder's student-run cybersecurity organization holds biweekly meetings covering offensive and defensive security, cryptography, networking, and reverse engineering, and fields a HackTheBox team for CTF practice. It explicitly welcomes members of any skill level, major, or background, making it a solid entry point for newcomers."
+},
+{
+"id": "utahsec",
+"name": "UtahSec",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec",
+"networking"
+],
+"activities": [
+"ctf-events",
+"chat",
+"local-meetups",
+"workshops"
+],
+"members": 691,
+"online": 90,
+"region": "us-west",
+"country": "US",
+"subdivision": "UT",
+"language": "en",
+"run_by": "University of Utah students / Kahlert School of Computing",
+"red_flags": null,
+"summary": "UtahSec is the University of Utah's student cybersecurity club, run out of the Kahlert School of Computing, organizing talks, events, and CTF participation for students. Discord is currently their main hub since the website is still under construction, and it suits students wanting a campus security community."
+},
+{
+"id": "uosec-security-club-at-uo",
+"name": "UOSEC (Security Club at UO)",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"ctf",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"study-groups",
+"workshops",
+"ctf-events",
+"chat"
+],
+"members": 258,
+"online": 30,
+"region": "us-west",
+"country": "US",
+"subdivision": "OR",
+"language": "en",
+"run_by": "University of Oregon students (club officers)",
+"red_flags": null,
+"summary": "This is the University of Oregon's student cybersecurity club, running weekly meetings with speaker talks, workshops, and student presentations, plus participation in CTF competitions and conference trips. It's aimed at UO students who want a low-barrier way to get into security regardless of experience."
+},
+{
+"id": "cpsec",
+"name": "CPSEC",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"ctf",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"study-groups",
+"workshops",
+"ctf-events",
+"chat"
+],
+"members": 772,
+"online": 78,
+"region": "us-west",
+"country": "US",
+"subdivision": "CA",
+"language": "en",
+"run_by": "Cal Poly San Luis Obispo students",
+"red_flags": null,
+"summary": "Also known as The White Hat, this is Cal Poly San Luis Obispo's ethical hacking education club, holding weekly general meetings and Saturday CTF practice sessions in a dedicated lab space on campus. It's oriented toward students learning hands-on offensive security skills from scratch."
+},
+{
+"id": "sjsu-cyber-intelligence-security-cis-club",
+"name": "SJSU Cyber Intelligence & Security (CIS) Club",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"ctf",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"study-groups",
+"chat"
+],
+"members": 422,
+"online": 45,
+"region": "us-west",
+"country": "US",
+"subdivision": "CA",
+"language": "en",
+"run_by": "San Jose State University students",
+"red_flags": null,
+"summary": "SJSU's Cyber Intelligence & Security Club hosts biweekly meetings with industry speakers and runs a dedicated CTF team, alongside Women in Cybersecurity initiatives. It's a general-purpose gathering point for security-interested students at San Jose State."
+},
+{
+"id": "oss-we-re-in",
+"name": "OSS - We're in (⌐■_■)",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"red-team",
+"ctf",
+"students",
+"bug-bounty",
+"pentesting",
+"blue-team"
+],
+"activities": [
+"workshops",
+"ctf-events",
+"project-showcase",
+"local-meetups"
+],
+"members": 1118,
+"online": 138,
+"region": "us-west",
+"country": "US",
+"subdivision": "CA",
+"language": "en",
+"run_by": "community-run (Cal State Fullerton students)",
+"red_flags": null,
+"summary": "The Offensive Security Society is a student-led club at Cal State Fullerton that takes an adversarial, 'think like a criminal' approach to teaching security, running red/blue team competitions, workshops, bug bounty practice, and hands-on projects, plus its own OSSCON event. Meetings and workshops are open to both CSUF students and outside visitors, though only students can compete on the official team."
+},
+{
+"id": "carleton-cybersecurity-club",
+"name": "Carleton Cybersecurity Club",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec",
+"careers",
+"networking"
+],
+"activities": [
+"workshops",
+"ctf-events",
+"local-meetups",
+"job-board",
+"study-groups"
+],
+"members": 1171,
+"online": 174,
+"region": "canada",
+"country": "CA",
+"subdivision": "ON",
+"language": "en",
+"run_by": "community-run (Carleton University students)",
+"red_flags": null,
+"summary": "The Carleton Cybersecurity Club is a student-run group at Carleton University in Ottawa that hosts workshops on ethical hacking and incident response, brings in industry speakers, and organizes CTFs and hackathons, alongside a resource hub of tutorials and tools. It explicitly welcomes both complete beginners and working professionals."
+},
+{
+"id": "uottawa-cybersecurity-club",
+"name": "uOttawa Cybersecurity Club",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec"
+],
+"activities": [
+"workshops",
+"ctf-events",
+"local-meetups"
+],
+"members": 568,
+"online": 60,
+"region": "canada",
+"country": "CA",
+"subdivision": "ON",
+"language": "en",
+"run_by": "community-run (University of Ottawa students)",
+"red_flags": null,
+"summary": "The uOttawa Cybersecurity Club is a student-run organization at the University of Ottawa that promotes security awareness through workshops, educational talks, and CTF competitions throughout the academic year. It suits University of Ottawa students looking to build cybersecurity skills alongside classmates."
+},
+{
+"id": "dalhousie-cybersecurity-society",
+"name": "Dalhousie Cybersecurity Society",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"general-infosec",
+"ctf",
+"careers"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"study-groups",
+"chat"
+],
+"members": 279,
+"online": 39,
+"region": "canada",
+"country": "CA",
+"subdivision": "NS",
+"language": "en",
+"run_by": "Dalhousie Cybersecurity Society (student-run)",
+"red_flags": null,
+"summary": "Run by students at Dalhousie University, this society organizes CTF competitions, cybersecurity workshops, and talks from industry professionals. It's aimed at students who want to build practical skills and hear from working security professionals rather than just chat casually."
+},
+{
+"id": "uoft-cybersecurity-student-association",
+"name": "UofT Cybersecurity Student Association",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"general-infosec",
+"careers",
+"networking"
+],
+"activities": [
+"workshops",
+"study-groups",
+"chat",
+"job-board"
+],
+"members": 372,
+"online": 34,
+"region": "canada",
+"country": "CA",
+"subdivision": "ON",
+"language": "en",
+"run_by": "UofT Cybersecurity Student Association (student-run, part of Skule)",
+"red_flags": null,
+"summary": "This student-led association at the University of Toronto runs technical workshops, industry panels with guest speakers, and networking events to introduce students to cybersecurity career paths. It's geared toward undergrads who are curious about the field and want an accessible entry point plus exposure to industry opportunities."
+},
+{
+"id": "sucss-cyber-security-society",
+"name": "SUCSS - Cyber Security Society",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"study-group",
+"general-infosec",
+"networking"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"chat",
+"study-groups"
+],
+"members": 695,
+"online": 114,
+"region": "uk-ireland",
+"country": "GB",
+"subdivision": null,
+"language": "en",
+"run_by": "University of Southampton Cyber Security Society (student-run)",
+"red_flags": null,
+"summary": "SUCSS is the student-run Cyber Security Society at the University of Southampton, holding weekly in-person meetings with talks from external speakers, workshops, and CTF practice. The Discord is their main coordination hub alongside email and social media, aimed at students who want structured exposure to security topics and hands-on practice."
+},
+{
+"id": "cambridge-cybersoc",
+"name": "Cambridge CyberSoc",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"study-group",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"chat",
+"study-groups"
+],
+"members": 514,
+"online": 50,
+"region": "uk-ireland",
+"country": "GB",
+"subdivision": null,
+"language": "en",
+"run_by": "University of Cambridge Cyber Security Society (student-run)",
+"red_flags": null,
+"summary": "Cambridge CyberSoc is the University of Cambridge's student cybersecurity society, running expert talks and hands-on workshops including beginner-oriented Hack The Box sessions. It's aimed primarily at Cambridge students (mailing list signup via university email or a form for others), and coordinates events through Discord and its mailing list."
+},
+{
+"id": "cybersoc",
+"name": "CyberSoc",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"chat"
+],
+"members": 390,
+"online": 39,
+"region": "uk-ireland",
+"country": "GB",
+"subdivision": null,
+"language": "en",
+"run_by": "University of Liverpool Cyber Security Society (student-run)",
+"red_flags": null,
+"summary": "CyberSoc is the University of Liverpool's cybersecurity society, focused on workshops, talks from industry professionals, and CTF competitions in what it describes as a welcoming environment for exploring security and hacking. Discord is their fastest way to reach the committee and coordinate events."
+},
+{
+"id": "warwick-cyber-security-society",
+"name": "Warwick Cyber Security Society",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec",
+"web-appsec"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"study-groups"
+],
+"members": 949,
+"online": 135,
+"region": "uk-ireland",
+"country": "GB",
+"subdivision": null,
+"language": "en",
+"run_by": "University of Warwick students (Warwick SU society)",
+"red_flags": null,
+"summary": "This is the student-run cybersecurity society at the University of Warwick, competing in CTFs (with several strong placings), hosting talks, and running social events. It explicitly welcomes newcomers to the field as well as more experienced members looking to compete."
+},
+{
+"id": "hacksoc-nottingham",
+"name": "HackSoc Nottingham",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"programming",
+"general-infosec"
+],
+"activities": [
+"chat",
+"workshops",
+"ctf-events",
+"study-groups"
+],
+"members": 1224,
+"online": 161,
+"region": "uk-ireland",
+"country": "GB",
+"subdivision": null,
+"language": "en",
+"run_by": "University of Nottingham students (Students' Union society)",
+"red_flags": null,
+"summary": "HackSoc is the University of Nottingham's technology and recreational-programming society, running weekly workshops/talks at all skill levels, competing in hackathons, and organizing its own annual hackathon, HackNotts. It welcomes members regardless of prior programming or security experience, framing 'hacker' broadly as anyone who enjoys clever tinkering with computers."
+},
+{
+"id": "enusec",
+"name": "ENUSEC",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"general-infosec",
+"web-appsec"
+],
+"activities": [
+"chat",
+"workshops",
+"ctf-events",
+"voice-events"
+],
+"members": 801,
+"online": 124,
+"region": "uk-ireland",
+"country": "GB",
+"subdivision": null,
+"language": "en",
+"run_by": "Edinburgh Napier University students, with academic support from Professor Bill Buchanan",
+"red_flags": null,
+"summary": "ENUSEC is Edinburgh Napier University's open cybersecurity community, founded in 2015, running weekly meetups, talks, and CTF challenges, plus its flagship annual event Le Tour Du Hack. The site states events are open to everyone whether new to security or already experienced, and the group also maintains a widely used directory of UK university cybersecurity societies."
+},
+{
+"id": "dmu-hackers",
+"name": "DMU Hackers",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"web-appsec",
+"binary-exploitation",
+"reverse-engineering",
+"lockpicking-physical"
+],
+"activities": [
+"chat",
+"workshops",
+"ctf-events"
+],
+"members": 868,
+"online": 89,
+"region": "uk-ireland",
+"country": "GB",
+"subdivision": null,
+"language": "en",
+"run_by": "De Montfort University students",
+"red_flags": null,
+"summary": "DMU Hackers is De Montfort University's cybersecurity society, running since 2015, with weekly meetups covering web app hacking, lock picking, binary exploitation, and reverse engineering, plus its own CTF event Pwn2Play (200 teams in 2026). The society explicitly says no experience is required and offers beginner-friendly challenges with mentor support alongside harder content, open to students of any discipline."
+},
+{
+"id": "cybersoc-2",
+"name": "CyberSoc",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"web-appsec",
+"cryptography",
+"hardware-hacking"
+],
+"activities": [
+"chat",
+"workshops"
+],
+"members": 584,
+"online": 70,
+"region": "uk-ireland",
+"country": "GB",
+"subdivision": null,
+"language": "en",
+"run_by": "University of York students (founded by Ben Silverman)",
+"red_flags": null,
+"summary": "CyberSoc is the University of York's cybersecurity society, covering topics from cryptography and web vulnerabilities to hardware hacking through workshops and events. Participation and their Discord are open to anyone interested even without formal society membership, making it approachable for newcomers."
+},
+{
+"id": "guia-an-nima",
+"name": "Guia Anônima",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"pentesting",
+"programming",
+"certifications",
+"study-group"
+],
+"activities": [
+"chat",
+"q-and-a",
+"workshops",
+"job-board",
+"news-feed"
+],
+"members": 5587,
+"online": 355,
+"region": "latin-america",
+"country": "BR",
+"subdivision": null,
+"language": "pt",
+"run_by": "Guia Anônima (community-run education project)",
+"red_flags": null,
+"summary": "Guia Anônima is a Brazilian information-security education project (YouTube channel, courses, and podcast) that runs this Discord as its community hub. People come here to ask questions about getting started in ethical hacking/pentesting, discuss the project's Python-for-hackers and networking courses, and follow career tips in Portuguese; it is aimed squarely at newcomers to the field in Brazil."
+},
+{
+"id": "pentesterlab",
+"name": "PentesterLab",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"web-appsec",
+"pentesting",
+"bug-bounty",
+"study-group",
+"programming",
+"linux"
+],
+"activities": [
+"q-and-a",
+"chat",
+"study-groups",
+"workshops"
+],
+"members": 2125,
+"online": 217,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "PentesterLab",
+"red_flags": null,
+"summary": "This is the official community for PentesterLab, a platform with hundreds of hands-on labs and videos teaching web application vulnerabilities, exploitation, and code review. People come here to get unstuck on a specific lab, discuss CVEs, and share tips without spoiling answers for others, and the platform explicitly markets itself to newcomers in web pentesting as well as working professionals. A free tier plus a paid subscription for deeper content make it approachable to start with."
+},
+{
+"id": "hacking-y-seguridad-inform-tica-dragonjar",
+"name": "Hacking y Seguridad Informática - DragonJAR",
+"platform": "discord",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"red-team",
+"ctf",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"local-meetups",
+"job-board"
+],
+"members": 14566,
+"online": 692,
+"region": "latin-america",
+"country": null,
+"subdivision": null,
+"language": "es",
+"run_by": "DragonJAR",
+"red_flags": null,
+"summary": "A large Spanish-language Discord run by the DragonJAR team, a well-known Colombian/Latin American offensive security company and the organizer of the long-running DragonJAR CTF and DragonJAR Security Conference. Members chat about hacking, pentesting, malware and general cybersecurity news, share courses and certification tips, and discuss the annual DragonJAR conference and CTF; it suits Spanish-speaking hobbyists through working security professionals."
+},
+{
+"id": "underc0de-2",
+"name": "Underc0de",
+"platform": "discord",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"programming",
+"ctf",
+"study-group"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"news-feed",
+"challenges"
+],
+"members": 4915,
+"online": 222,
+"region": "latin-america",
+"country": null,
+"subdivision": null,
+"language": "es",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Underc0de is a long-running Spanish-language hacking, security and programming community centered on its underc0de.org forum, now with an active Discord for real-time chat. People share courses, certification advice, CTF-style challenges and general hacking/programming discussion, aimed mainly at Spanish-speaking hobbyists and students in Spain and Latin America."
+},
+{
+"id": "bitter-security",
+"name": "Bitter Security",
+"platform": "discord",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 567,
+"online": 77,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Could not verify the server's actual focus or ownership independently; the associated candidate GitHub project (Decepticon) does not appear to match the server name.",
+"summary": "A small, general-purpose security-themed Discord server with no public description or documented affiliation found beyond its name. People appear to use it for general chat about hacking and security topics, but there is little independently verifiable information about who runs it or its specific focus."
+},
+{
+"id": "hacking-articles",
+"name": "Hacking Articles",
+"platform": "discord",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"pentesting",
+"general-infosec",
+"students",
+"certifications"
+],
+"activities": [
+"chat",
+"q-and-a",
+"writeups",
+"challenges",
+"ctf-events"
+],
+"members": 9673,
+"online": 361,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Ignite Technologies / Hacking Articles",
+"red_flags": null,
+"summary": "Run by the team behind Hacking Articles (Ignite Technologies), a well-known blog and GitHub publisher of penetration-testing cheat sheets, CTF writeups, and privilege-escalation guides. The Discord is where readers ask questions about walkthroughs, get help on CTF machines, and discuss offensive-security learning material produced by the site. It's aimed squarely at beginners and CTF players working through practical pentesting content."
+},
+{
+"id": "cyberstrike",
+"name": "Cyberstrike",
+"platform": "discord",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf"
+],
+"activities": [
+"chat"
+],
+"members": 54,
+"online": 4,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "unconfirmed",
+"red_flags": "Server identity could not be confirmed; name is shared by at least two unrelated things (a CTF brand and an AI pentesting GitHub tool).",
+"summary": "This small Discord is named Cyberstrike, which could plausibly connect to a CyberStrike-branded CTF/cyber-range competition (run by a group calling itself Cyber Ike) or to an unrelated open-source AI pentesting tool of the same name, but no in-server description or confirmed ownership was found to settle which. It's too small and undocumented to characterize its activity with confidence."
+},
+{
+"id": "beesec",
+"name": "beesec",
+"platform": "discord",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"programming",
+"hacker-culture",
+"ctf"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 2619,
+"online": 234,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "BeeSec is a general community-run Discord mixing programming and cybersecurity discussion rather than a support channel for any specific GitHub project (despite surface name similarity to unrelated tools like Name-That-Hash). It's a broad hangout for people interested in coding and hacking topics to chat and ask questions. Fit depends heavily on current moderation and channel activity, which couldn't be independently verified beyond its own tagline."
+},
+{
+"id": "abdul-wahab-junaid",
+"name": "Abdul Wahab Junaid",
+"platform": "discord",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"programming",
+"hacker-culture",
+"networking",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": 6185,
+"online": 306,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "Abdul Wahab Junaid",
+"red_flags": "Linked GitHub repo also hosts malware samples alongside pentest tools, framed as for research/education only.",
+"summary": "This Discord is run by Abdul Wahab Junaid, the maintainer of large ethical-hacking and Kali Linux GitHub repositories, as a chat space for people learning cybersecurity, tech, AI, programming, and networking. Members ask questions, share resources, and discuss the tools from his repos. It suits self-taught beginners and hobbyists more than working professionals."
+},
+{
+"id": "justhack-it",
+"name": "JustHack IT",
+"platform": "discord",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"hacker-culture",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 126,
+"online": 4,
+"region": "global",
+"country": null,
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Very small and low online activity (126 members, 4 online) — may be quiet or inactive.",
+"summary": "A small, community-run Discord for people getting into cybersecurity to chat and ask questions. It has no distinct specialty (no CTF, no formal courses) and appears to be an early-stage general hangout for hobbyists rather than a structured learning program."
+},
+{
+"id": "siberatay",
+"name": "Siberatay",
+"platform": "discord",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"programming",
+"ctf"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"news-feed"
+],
+"members": 4261,
+"online": 80,
+"region": "middle-east",
+"country": "TR",
+"subdivision": null,
+"language": "tr",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A Turkish-language technology and cybersecurity Discord community connected to a Turkish security/software training outfit, where members chat about software, cybersecurity, and gaming alongside learning resources. It's run as an offshoot of the broader Turkish hacking community scene (linked from Turk Hack Team forums) and suits Turkish-speaking beginners and hobbyists looking for casual tech and security discussion."
+}
+]

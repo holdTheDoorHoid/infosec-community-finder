@@ -1,0 +1,1191 @@
+[
+{
+"id": "dc5562",
+"name": "DC5562",
+"platform": "discord",
+"category": "regional",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"regional",
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"local-meetups",
+"chat",
+"q-and-a"
+],
+"members": 71,
+"online": 4,
+"region": "latin-america",
+"country": "BR",
+"subdivision": null,
+"language": "pt",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This is the Discord for DC5562, a DEF CON group based in Goiania, Brazil, started by a small group of local organizers to build an in-person security meetup community. It's aimed at people in the region who want to attend talks and networking meetups rather than a large structured curriculum. Fits local hobbyists and professionals looking for peers nearby."
+},
+{
+"id": "montr-hack",
+"name": "MontréHack",
+"platform": "discord",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"study-group",
+"regional",
+"students"
+],
+"activities": [
+"workshops",
+"ctf-events",
+"study-groups",
+"local-meetups",
+"voice-events"
+],
+"members": 1248,
+"online": 197,
+"region": "canada",
+"country": "CA",
+"subdivision": "QC",
+"language": "fr",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "MontréHack is a community-run monthly capture-the-flag and cybersecurity workshop series based in Montreal, run bilingually in French and English with sessions livestreamed on Twitch as well as held in person. Small groups work through CTF-style challenges together and presenters walk through solutions afterward, making it a good fit for beginners and intermediates who want hands-on practice with mentorship in the room."
+},
+{
+"id": "hack2g2",
+"name": "Hack2g2",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"students",
+"hacker-culture",
+"regional"
+],
+"activities": [
+"local-meetups",
+"workshops",
+"chat",
+"challenges"
+],
+"members": 828,
+"online": 162,
+"region": "europe",
+"country": "FR",
+"subdivision": null,
+"language": "fr",
+"run_by": "Hack2g2 (student association)",
+"red_flags": null,
+"summary": "Hack2g2 is a French student-run hacking and tech association known for organizing the HitchHack event along with regular workshops, talks and meetups. Its Discord and community channels bring together students and hobbyists interested in hacking and cybersecurity, with a casual, event-driven culture typical of a university-adjacent association."
+},
+{
+"id": "muc-sec-munich-information-security",
+"name": "MUC:SEC - Munich Information Security",
+"platform": "discord",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"general-infosec",
+"ctf"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"local-meetups",
+"news-feed",
+"chat"
+],
+"members": 420,
+"online": 38,
+"region": "europe",
+"country": "DE",
+"subdivision": null,
+"language": "en",
+"run_by": "MUC:SEC / BSides Munich organizers (community-run)",
+"red_flags": null,
+"summary": "This is the official Discord for BSides Munich, an independently organized, free security conference that grew out of the MUC:SEC Meetup group and brings together local and international security professionals in Munich for talks, workshops, and a CTF. The server is used year-round for conference announcements and community chat between events, and welcomes both professionals and newcomers who want to get involved via talks or volunteering."
+},
+{
+"id": "disobey-fi",
+"name": "Disobey_Fi",
+"platform": "discord",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"news-feed",
+"chat",
+"local-meetups"
+],
+"members": 991,
+"online": 244,
+"region": "europe",
+"country": "FI",
+"subdivision": null,
+"language": "en",
+"run_by": "Disobey conference organizers (community-run, sponsored in part by UpCloud)",
+"red_flags": null,
+"summary": "Disobey is a Helsinki-based hacking and activism conference (running since 2016) that describes itself around communities built and knowledge shared, with a Community Village track alongside talks and challenges. The Discord is used to keep the community connected between yearly events, covering CFP updates, event news, and general chat for attendees and organizers."
+},
+{
+"id": "dc540",
+"name": "DC540",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"hardware-hacking",
+"ctf",
+"badgelife-maker",
+"hacker-culture"
+],
+"activities": [
+"local-meetups",
+"ctf-events",
+"hardware-help",
+"chat"
+],
+"members": 1276,
+"online": 209,
+"region": "us-southeast",
+"country": "US",
+"subdivision": "VA",
+"language": "en",
+"run_by": "community-run (DEF CON group)",
+"red_flags": null,
+"summary": "DC540 is a Northern Virginia DEF CON group (near Dulles, VA) that has met regularly since 2018, mixing in-person and virtual (mostly Discord since Covid) meetups. Members run and play CTFs, tinker with microcontrollers and badgelife projects, and help each other get unstuck on exploitation challenges in a casual, social atmosphere."
+},
+{
+"id": "dc604",
+"name": "dc604",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"hacker-culture",
+"networking"
+],
+"activities": [
+"local-meetups",
+"chat",
+"news-feed"
+],
+"members": 210,
+"online": 24,
+"region": "canada",
+"country": "CA",
+"subdivision": "BC",
+"language": "en",
+"run_by": "community-run (DEF CON Group DC604)",
+"red_flags": null,
+"summary": "DC604 is the DEF CON group for Vancouver, British Columbia, running monthly in-person meetups (last Thursday of the month) alongside Discord, Slack, and Telegram channels for ongoing chat. It's a general hacker/security meetup community open to locals interested in security, from curious newcomers to working professionals."
+},
+{
+"id": "cybersecurity-sacramento-dc916",
+"name": "Cybersecurity Sacramento & DC916",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"lockpicking-physical",
+"ctf",
+"reverse-engineering",
+"ics-ot"
+],
+"activities": [
+"local-meetups",
+"ctf-events",
+"hardware-help",
+"chat"
+],
+"members": 329,
+"online": 57,
+"region": "us-west",
+"country": "US",
+"subdivision": "CA",
+"language": "en",
+"run_by": "community-run (DEF CON Group DC916)",
+"red_flags": null,
+"summary": "Cybersecurity Sacramento / DC916 is the DEF CON group for the greater Sacramento area, bringing together hackers, makers, students and security professionals for monthly meetings (second Wednesday, in-person and via Discord) covering lock-picking, hardware/badge hacking, CTFs, reverse engineering, red-teaming and ICS security. It welcomes hobbyists and students alongside working practitioners."
+},
+{
+"id": "dc757",
+"name": "DC757",
+"platform": "discord",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"pentesting",
+"reverse-engineering",
+"ctf",
+"rf-sdr",
+"ics-ot"
+],
+"activities": [
+"local-meetups",
+"ctf-events",
+"chat",
+"hardware-help"
+],
+"members": 253,
+"online": 56,
+"region": "us-southeast",
+"country": "US",
+"subdivision": "VA",
+"language": "en",
+"run_by": "community-run (DEF CON Group DC757/948)",
+"red_flags": null,
+"summary": "DC757 (also covering the 948 area code) is the DEF CON group for Virginia's Hampton Roads region, describing itself as an inclusive, zero-elitism hacker community started by three local tech enthusiasts. Members meet online and in person to work on penetration testing, reverse engineering, CTFs, RF/Wi-Fi, ICS, physical security and even biohacking, explicitly welcoming curious people of all skill levels."
+},
+{
+"id": "defcon-602",
+"name": "DEFCON 602",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"hacker-culture",
+"lockpicking-physical",
+"networking"
+],
+"activities": [
+"local-meetups",
+"chat",
+"project-showcase"
+],
+"members": 284,
+"online": 58,
+"region": "us-west",
+"country": "US",
+"subdivision": "AZ",
+"language": "en",
+"run_by": "community-run (DEF CON Group DC602)",
+"red_flags": null,
+"summary": "This is the Phoenix, Arizona DEF CON Group (DC602), a local hacker and security meetup that gathers monthly in person with a Discord (and puzzle-gated Slack) backing it online. People show up for talks, hallway networking, and general hacker-culture socializing rather than structured training."
+},
+{
+"id": "defcon-4822-warsaw",
+"name": "Defcon 4822 Warsaw",
+"platform": "discord",
+"category": "regional",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"hacker-culture",
+"networking"
+],
+"activities": [
+"local-meetups",
+"chat"
+],
+"members": 272,
+"online": 35,
+"region": "europe",
+"country": "PL",
+"subdivision": null,
+"language": "pl",
+"run_by": "community-run (DEF CON Group DC4822, POC Sergey Pronin)",
+"red_flags": null,
+"summary": "This is DC4822, the Warsaw-based DEF CON Group covering Poland, running since 2016 to connect local infosec enthusiasts and share security knowledge. It holds in-person meetups (typically first Saturdays) around Warsaw and keeps in touch via Discord, Telegram, and Twitter/X between events."
+},
+{
+"id": "dc512",
+"name": "DC512",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"hacker-culture",
+"networking"
+],
+"activities": [
+"local-meetups",
+"chat",
+"project-showcase"
+],
+"members": 608,
+"online": 127,
+"region": "us-south",
+"country": "US",
+"subdivision": "TX",
+"language": "en",
+"run_by": "community-run (DEF CON Group DC512)",
+"red_flags": null,
+"summary": "This is DC512, the Austin, Texas DEF CON Group, which holds a monthly in-person meetup (currently at a local brewery) where members network and give short talks on hacking and security topics. Its Discord is the online hub for the same community between meetups."
+},
+{
+"id": "dc209-cybersecurity-collective",
+"name": "DC209 | Cybersecurity Collective",
+"platform": "discord",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"hacker-culture",
+"students",
+"networking"
+],
+"activities": [
+"local-meetups",
+"chat",
+"workshops"
+],
+"members": 31,
+"online": 6,
+"region": "us-west",
+"country": "US",
+"subdivision": "CA",
+"language": "en",
+"run_by": "community-run (DEF CON Group DC209)",
+"red_flags": null,
+"summary": "This is DCG209, the DEF CON Group for California's Central Valley 209 region (Modesto/Turlock), founded in 2017 to bridge the DC559 (Fresno) and DC916 (Sacramento) groups. They run monthly meetups, workshops, and talks spanning red team, blue team, hardware hacking, and OSINT, and explicitly describe themselves as welcoming hackers of all skill levels."
+},
+{
+"id": "dcg-satx",
+"name": "DCG-SATX",
+"platform": "discord",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"lockpicking-physical",
+"networking",
+"students"
+],
+"activities": [
+"local-meetups",
+"chat",
+"workshops"
+],
+"members": 405,
+"online": 81,
+"region": "us-south",
+"country": "US",
+"subdivision": "TX",
+"language": "en",
+"run_by": "community-run (DEF CON Group DCG-SATX)",
+"red_flags": null,
+"summary": "This is DCG-SATX, the San Antonio, Texas DEF CON Group community (descended from DC726/DC210) that meets monthly for security talks, workshops, lockpicking, and networking covering topics like pentesting, malware analysis, and AI security. It explicitly welcomes all skill levels with no prior experience required and no cost to attend."
+},
+{
+"id": "dc902",
+"name": "DC902",
+"platform": "discord",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"hacker-culture",
+"lockpicking-physical",
+"rf-sdr"
+],
+"activities": [
+"local-meetups",
+"chat"
+],
+"members": 698,
+"online": 94,
+"region": "canada",
+"country": "CA",
+"subdivision": "NS",
+"language": "en",
+"run_by": "community-run (DEF CON Group DC902, led by Jeff Hann)",
+"red_flags": null,
+"summary": "This is DC902, the Halifax, Nova Scotia DEF CON Group founded in 2019, bringing together hackers, tinkerers, and security professionals interested in wireless communications, coding, and lock picking. It explicitly welcomes newcomers regardless of skill level and helps organize BSides Halifax events alongside its regular meetups."
+},
+{
+"id": "dc441905",
+"name": "DC441905",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"networking"
+],
+"activities": [
+"chat",
+"local-meetups",
+"voice-events"
+],
+"members": 404,
+"online": 55,
+"region": "uk-ireland",
+"country": "GB",
+"subdivision": null,
+"language": "en",
+"run_by": "community-run (DEF CON Group DC441905 volunteers)",
+"red_flags": null,
+"summary": "This is the Worcester, UK chapter of the DEF CON Group network, run by local volunteers who host monthly talks and pub meetups on security topics. People come to hear speakers, chat on Discord between meetings, and network with local hackers; it suits anyone in the area curious about infosec, from newcomers to veterans."
+},
+{
+"id": "dc11506",
+"name": "DC11506",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"ctf",
+"general-infosec",
+"students",
+"networking"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"writeups"
+],
+"members": 3191,
+"online": 137,
+"region": "latin-america",
+"country": "CR",
+"subdivision": null,
+"language": "es",
+"run_by": "community-run (DEF CON Group DC11506 / PWNEDCR organizers)",
+"red_flags": null,
+"summary": "DC11506 is the Costa Rica DEF CON Group, a community-run ethical hacking group based in San José that holds monthly meetups and organizes PWNEDCR, the country's largest free cybersecurity conference. Members share CTF writeups and tutorials on their blog and YouTube channel, making it a good fit for curious beginners through experienced practitioners in Latin America's Spanish-speaking security scene."
+},
+{
+"id": "dcg420-org",
+"name": "DCG420.ORG",
+"platform": "discord",
+"category": "regional",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"threat-intel",
+"detection-engineering",
+"general-infosec",
+"networking"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops"
+],
+"members": 208,
+"online": 21,
+"region": "europe",
+"country": "CZ",
+"subdivision": null,
+"language": "cs",
+"run_by": "community-run (DEF CON Group 420 association)",
+"red_flags": null,
+"summary": "DCG420 is the Czech DEF CON Group, a Prague-based association running meetups (including in Brno) with lectures, blitz talks, and workshops focused on detection engineering, threat intelligence, and active cyber defense using tools like MITRE Engage and MISP. It's oriented toward practitioners already working in the field rather than absolute beginners, though newcomers can attend talks and socials."
+},
+{
+"id": "def-con-group-trivandrum",
+"name": "DEF CON Group Trivandrum",
+"platform": "discord",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"networking",
+"mentorship",
+"students"
+],
+"activities": [
+"chat",
+"local-meetups",
+"mentorship"
+],
+"members": 891,
+"online": 24,
+"region": "india",
+"country": "IN",
+"subdivision": "KL",
+"language": "en",
+"run_by": "community-run (DEF CON Group DC0471 volunteers)",
+"red_flags": null,
+"summary": "DC0471 is the official DEF CON Group for Trivandrum (Thiruvananthapuram), Kerala, run by local volunteers as a free, open gathering point for people interested in hacking and technology. They host meetups and knowledge-sharing sessions welcoming anyone regardless of skill level, age, or background, with an explicit focus on mentoring newcomers into the hacker community."
+},
+{
+"id": "dc206-blr",
+"name": "DC206 & BLR",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"networking",
+"careers",
+"homelab"
+],
+"activities": [
+"chat",
+"local-meetups",
+"voice-events",
+"job-board"
+],
+"members": 599,
+"online": 144,
+"region": "us-west",
+"country": "US",
+"subdivision": "WA",
+"language": "en",
+"run_by": "community-run (Black Lodge Research hackerspace)",
+"red_flags": null,
+"summary": "Black Lodge Research is a physical hackerspace and infosec community in Redmond, Washington, closely tied to the DC206 DEF CON Group, offering monthly talks and a weekly Thursday-night open hack session for hands-on tinkering and networking. It also serves as a career/networking resource for local infosec folks, welcoming both in-person visitors and remote members via Discord."
+},
+{
+"id": "dc970",
+"name": "dc970",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"ctf",
+"malware-analysis",
+"red-team"
+],
+"activities": [
+"local-meetups",
+"ctf-events",
+"chat",
+"workshops"
+],
+"members": 56,
+"online": 16,
+"region": "us-west",
+"country": "US",
+"subdivision": "CO",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "DC970 is the Northern Colorado DEF CON group serving Fort Collins and the surrounding area, running regular meetings on topics like red team tradecraft, malware analysis, and packet analysis. Members also do CTF competitions together and share writeups, suiting local infosec folks who want in-person talks plus an online Discord for ongoing chat."
+},
+{
+"id": "raleigh-htb",
+"name": "Raleigh HTB",
+"platform": "discord",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"regional",
+"pentesting",
+"ctf",
+"students",
+"general-infosec"
+],
+"activities": [
+"local-meetups",
+"ctf-events",
+"chat",
+"study-groups"
+],
+"members": 96,
+"online": 17,
+"region": "us-southeast",
+"country": "US",
+"subdivision": "NC",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This is a Hack The Box-branded local meetup group for Raleigh, NC infosec enthusiasts, meeting Saturdays at ECPI University to work through HTB Academy modules and Easy/Medium labs together, all free of charge. Sessions are collaborative rather than competitive and explicitly welcome beginners through advanced participants, with Discord used for ongoing chat and online sessions."
+},
+{
+"id": "syn-shop",
+"name": "SYN Shop",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"regional",
+"hardware-hacking",
+"general-infosec",
+"hacker-culture",
+"homelab"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"hardware-help",
+"project-showcase"
+],
+"members": 1453,
+"online": 206,
+"region": "us-west",
+"country": "US",
+"subdivision": "NV",
+"language": "en",
+"run_by": "community-run (501c3-style hackerspace collective)",
+"red_flags": null,
+"summary": "SYN Shop is a member-run hackerspace in Las Vegas for hackers, makers, and artists who like taking things apart to understand how they work. Many members work in cybersecurity, and the group hosts workshops, open shop nights, and project collaboration covering electronics, security research, and general tinkering, suiting hobbyists as much as security professionals."
+},
+{
+"id": "801-labs",
+"name": "801 Labs",
+"platform": "discord",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"regional",
+"general-infosec",
+"hardware-hacking",
+"homelab",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"hardware-help",
+"project-showcase"
+],
+"members": 2536,
+"online": 562,
+"region": "us-west",
+"country": "US",
+"subdivision": "UT",
+"language": "en",
+"run_by": "801 Labs (community 501(c)(3) nonprofit)",
+"red_flags": null,
+"summary": "801 Labs is a nonprofit hackerspace in Salt Lake City founded by local IT, electronics, and information security enthusiasts, and it also hosts the local 2600 meetup. It runs free, member-taught workshops and lectures spanning infosec, electronics, and programming on a weekly open-house night, aimed at anyone curious enough to dig into how systems work."
+},
+{
+"id": "skullspace-winnipeg",
+"name": "SkullSpace Winnipeg",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"regional",
+"hardware-hacking",
+"homelab",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"hardware-help",
+"project-showcase"
+],
+"members": 628,
+"online": 97,
+"region": "canada",
+"country": "CA",
+"subdivision": "MB",
+"language": "en",
+"run_by": "SkullSpace (community-run hackerspace)",
+"red_flags": null,
+"summary": "SkullSpace is a community-run hackerspace in Winnipeg with a weekly Tuesday open house plus an annual Hax Festival of talks and exhibits. It covers electronics, security, computing, and general DIY/maker projects, and its Discord (with a bridged IRC channel) is where members organize and chat, making it a good fit for local tinkerers of any skill level."
+},
+{
+"id": "hackerspace-brussels-hsbxl",
+"name": "Hackerspace Brussels (HSBXL)",
+"platform": "matrix",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"regional",
+"hardware-hacking",
+"iot-embedded",
+"homelab"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"hardware-help",
+"project-showcase"
+],
+"members": null,
+"online": null,
+"region": "europe",
+"country": "BE",
+"subdivision": null,
+"language": "en",
+"run_by": "community-run (HSBXL nonprofit collective)",
+"red_flags": null,
+"summary": "HSBXL is a volunteer-run community hackerspace in Molenbeek, Brussels, with an electronics lab, 3D printers, and a laser cutter for hardware and software tinkering. It runs weekly open TechTuesday evenings and workshops, and its Matrix room is where people ask about visiting or joining projects; it welcomes newcomers regardless of experience level."
+},
+{
+"id": "realraum",
+"name": "realraum",
+"platform": "matrix",
+"category": "regional",
+"bf": 3,
+"audience": [
+"intermediate"
+],
+"tags": [
+"regional",
+"hardware-hacking",
+"iot-embedded",
+"homelab"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"hardware-help",
+"project-showcase"
+],
+"members": null,
+"online": null,
+"region": "europe",
+"country": "AT",
+"subdivision": null,
+"language": "de",
+"run_by": "community-run (realraum e.V.)",
+"red_flags": null,
+"summary": "realraum is a long-running hackerspace in Graz, Austria covering software, hardware/electronics, DIY biology, and chemistry projects. Members build and demo projects, hold workshops, and coordinate through a public Matrix room bridged from their OFTC IRC channel, plus mailing lists, suiting local tinkerers more than newcomers looking for guided lessons."
+},
+{
+"id": "brmlab",
+"name": "Brmlab",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"hacker-culture",
+"homelab",
+"iot-embedded",
+"regional"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"project-showcase",
+"hardware-help"
+],
+"members": 147,
+"online": 34,
+"region": "europe",
+"country": "CZ",
+"subdivision": null,
+"language": "en",
+"run_by": "community-run (Brmlab hackerspace)",
+"red_flags": null,
+"summary": "Brmlab is Prague's first hackerspace, a member-run physical space where people work on electronics, robotics, programming, digital art, and general hacking projects. The Discord is an extension of the in-person space, used for coordinating meetups, sharing projects, and general tech chat; security is one interest among many rather than the sole focus."
+},
+{
+"id": "warsaw-hackerspace",
+"name": "Warsaw Hackerspace",
+"platform": "matrix",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"hacker-culture",
+"homelab",
+"networking",
+"regional"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"project-showcase"
+],
+"members": null,
+"online": null,
+"region": "europe",
+"country": "PL",
+"subdivision": null,
+"language": "pl",
+"run_by": "community-run (Warszawski Hackerspace)",
+"red_flags": null,
+"summary": "Warszawski Hackerspace (hackerspace.pl) is a Warsaw-based hacker/makerspace association whose public Matrix room (bridged to IRC) is used for everything from casual chat to serious technical discussion among members and visitors. It's a general hacking and tech-making community rather than security-specific, but newcomers asking technical questions, including about security and electronics, are welcomed."
+},
+{
+"id": "ccc-hamburg-ccchh",
+"name": "CCC Hamburg (CCCHH)",
+"platform": "matrix",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"hacker-culture",
+"privacy",
+"ctf",
+"regional"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"ctf-events",
+"project-showcase"
+],
+"members": null,
+"online": null,
+"region": "europe",
+"country": "DE",
+"subdivision": null,
+"language": "de",
+"run_by": "Chaos Computer Club Hamburg (community-run Erfa group)",
+"red_flags": null,
+"summary": "CCC Hamburg (CCCHH) is a regional chapter (Erfa group) of the Chaos Computer Club, running a physical clubhouse with workshops on soldering, 3D printing, and laser cutting alongside subgroups focused on cybersecurity competitions, digital self-defense, and tech education. The Matrix chat is the group's general channel, used to coordinate their regular 'Open Chaos' open-house meetings and discuss tech, security, and digital rights topics; newcomers are explicitly welcomed at Open Chaos nights."
+},
+{
+"id": "dc813-server",
+"name": "DC813 server",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"networking",
+"careers"
+],
+"activities": [
+"local-meetups",
+"chat",
+"job-board",
+"project-showcase"
+],
+"members": 409,
+"online": 63,
+"region": "us-southeast",
+"country": "US",
+"subdivision": "FL",
+"language": "en",
+"run_by": "community-run (DEF CON Group DC813, contacts Ryan Lindfield and G3k)",
+"red_flags": null,
+"summary": "DC813 is the official DEF CON group for the Tampa Bay, Florida area, running informal monthly social meetups for infosec and IT enthusiasts of all skill levels to network and hear presenters talk shop. The Discord server supports the in-person meetup community with general chat and event coordination, and the group describes itself as low-drama and open to newcomers."
+},
+{
+"id": "dc314",
+"name": "DC314",
+"platform": "discord",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"regional",
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"local-meetups",
+"workshops",
+"chat"
+],
+"members": 177,
+"online": 43,
+"region": "us-midwest",
+"country": "US",
+"subdivision": "MO",
+"language": "en",
+"run_by": "community-run (DEF CON group)",
+"red_flags": null,
+"summary": "This is the DEF CON group (DC314) for St. Louis, Missouri, holding monthly in-person meetups that pair a technical talk with hands-on activities. It explicitly welcomes beginners, students, IT professionals, and defenders, so curiosity matters more than prior experience."
+},
+{
+"id": "unsw-security-society-secsoc",
+"name": "UNSW Security Society (SecSoc)",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"ctf",
+"general-infosec",
+"careers",
+"regional"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"job-board",
+"local-meetups",
+"chat"
+],
+"members": 2516,
+"online": 157,
+"region": "australia-nz",
+"country": "AU",
+"subdivision": null,
+"language": "en",
+"run_by": "UNSW students (student-run society)",
+"red_flags": null,
+"summary": "UNSW Security Society (SecSoc) is a student-led security club at the University of New South Wales in Sydney, running workshops, industry talks, CTF competitions (like K17 CTF), a security conference (SCONES), and socials. It is aimed at UNSW students wanting to learn security and meet industry contacts, with committee roles and paid membership for extras like merch."
+},
+{
+"id": "uq-cyber-squad",
+"name": "UQ Cyber Squad",
+"platform": "discord",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"ctf",
+"general-infosec",
+"regional"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"local-meetups",
+"chat"
+],
+"members": 1454,
+"online": 83,
+"region": "australia-nz",
+"country": "AU",
+"subdivision": null,
+"language": "en",
+"run_by": "University of Queensland students (student-run club)",
+"red_flags": null,
+"summary": "UQ Cyber Squad (UQCS) is the cybersecurity club at the University of Queensland in Brisbane, running weekly meetups, CTF training sessions, and social events for students. It's aimed at UQ students at any level who want practical security experience and a community, from complete beginners to those competing in CTFs."
+},
+{
+"id": "hackoonspace",
+"name": "HackoonSpace",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"students",
+"ctf",
+"regional"
+],
+"activities": [
+"chat",
+"workshops",
+"project-showcase",
+"local-meetups",
+"study-groups"
+],
+"members": 311,
+"online": 54,
+"region": "latin-america",
+"country": "BR",
+"subdivision": null,
+"language": "pt",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Brazilian university hackerspace connected to UFSCar's Sorocaba campus, aiming to demystify hacking and teach computing/security to students and the general public. The group runs projects, an annual HackoonWeek event, and a newsletter, welcoming both university students and outside enthusiasts."
+},
+{
+"id": "division-zero-div0",
+"name": "Division Zero (Div0)",
+"platform": "discord",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"networking",
+"students"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"job-board",
+"mentorship",
+"project-showcase"
+],
+"members": 2495,
+"online": 139,
+"region": "asia",
+"country": "SG",
+"subdivision": null,
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Div0 (Division Zero) is a volunteer-run, non-profit cybersecurity community in Singapore that organizes meetups, workshops, the SINCON conference, hackathons, and interest-based \"Quarters\" covering areas like cloud security, bug bounties, and drone security. Its Discord (\"Digital Kampung\") is the hub for discussion and event announcements, and it explicitly bills itself as open and inclusive to students, practitioners, and enthusiasts across experience levels."
+}
+]
