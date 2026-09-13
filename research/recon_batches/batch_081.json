@@ -1,0 +1,122 @@
+[
+ {
+  "id": "r-blueteamsec",
+  "name": "r/blueteamsec",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/blueteamsec/",
+  "discord_description": "Defensive security discussion: detection engineering, SOC work, and blue team tooling.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Smaller/niche sub. Not live-verified this session.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/blueteamsec/"
+  ]
+ },
+ {
+  "id": "r-redteamsec",
+  "name": "r/redteamsec",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/redteamsec/",
+  "discord_description": "Offensive security and red team tradecraft discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Smaller/niche sub. Not live-verified this session.",
+  "category_hints": [
+   "redteam"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/redteamsec/"
+  ]
+ },
+ {
+  "id": "r-exploitdev",
+  "name": "r/ExploitDev",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/ExploitDev/",
+  "discord_description": "Exploit development, vulnerability research, and binary exploitation discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "redteam"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/ExploitDev/"
+  ]
+ },
+ {
+  "id": "r-malware",
+  "name": "r/Malware",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/Malware/",
+  "discord_description": "Malware analysis, reverse engineering samples, and detection discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/Malware/"
+  ]
+ },
+ {
+  "id": "r-reverseengineering",
+  "name": "r/ReverseEngineering",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/ReverseEngineering/",
+  "discord_description": "General reverse engineering of software and hardware, not limited to security.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/ReverseEngineering/"
+  ]
+ },
+ {
+  "id": "r-computerforensics",
+  "name": "r/computerforensics",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/computerforensics/",
+  "discord_description": "Digital forensics and incident response (DFIR) discussion and career questions.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/computerforensics/"
+  ]
+ }
+]

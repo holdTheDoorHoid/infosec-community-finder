@@ -1,0 +1,122 @@
+[
+ {
+  "id": "wireshark-q-a",
+  "name": "Wireshark Q&A",
+  "platform": "forum",
+  "invite_url": "https://ask.wireshark.org/",
+  "discord_description": "Official Q&A site for asking and answering questions about Wireshark, protocols, and packet-capture troubleshooting.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Askbot-based; open sign-in to ask/answer.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://www.wireshark.org/",
+  "sources": [
+   "https://ask.wireshark.org/"
+  ]
+ },
+ {
+  "id": "grapheneos-discussion-forum",
+  "name": "GrapheneOS Discussion Forum",
+  "platform": "forum",
+  "invite_url": "https://discuss.grapheneos.org/",
+  "discord_description": "Official community discussion forum for the privacy/security-hardened GrapheneOS Android-based OS.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Discourse-based; open registration.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://grapheneos.org/",
+  "sources": [
+   "https://discuss.grapheneos.org/"
+  ]
+ },
+ {
+  "id": "bitwarden-community-forums",
+  "name": "Bitwarden Community Forums",
+  "platform": "forum",
+  "invite_url": "https://community.bitwarden.com/",
+  "discord_description": "Official Bitwarden password manager forum for announcements, feature requests, and community support.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Discourse-based; open registration.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://bitwarden.com/",
+  "sources": [
+   "https://community.bitwarden.com/"
+  ]
+ },
+ {
+  "id": "sleuth-kit-autopsy-discussion",
+  "name": "Sleuth Kit / Autopsy Discussion",
+  "platform": "forum",
+  "invite_url": "https://sleuthkit.discourse.group/",
+  "discord_description": "Official discussion forum for Autopsy, The Sleuth Kit, and Cyber Triage digital forensics tools.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Discourse-based; open registration.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://www.sleuthkit.org/",
+  "sources": [
+   "https://sleuthkit.discourse.group/"
+  ]
+ },
+ {
+  "id": "discuss-the-elastic-stack",
+  "name": "Discuss the Elastic Stack",
+  "platform": "forum",
+  "invite_url": "https://discuss.elastic.co/",
+  "discord_description": "Official Elastic community forum covering Elasticsearch, Logstash, Kibana, Beats, and Elastic Security (widely used in SOC/blue team pipelines).",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Discourse-based; open registration.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://www.elastic.co/",
+  "sources": [
+   "https://discuss.elastic.co/"
+  ]
+ },
+ {
+  "id": "graylog-community",
+  "name": "Graylog Community",
+  "platform": "forum",
+  "invite_url": "https://community.graylog.org/",
+  "discord_description": "Official discussion group and support forum for the open-source Graylog log-management/SIEM platform.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Discourse-based; open registration.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://graylog.org/",
+  "sources": [
+   "https://community.graylog.org/"
+  ]
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": "proxmox-support-forum",
+  "name": "Proxmox Support Forum",
+  "platform": "forum",
+  "invite_url": "https://forum.proxmox.com/",
+  "discord_description": "Official Proxmox forum for Proxmox VE, Backup Server, and Mail Gateway support and announcements; useful for building home security-lab infrastructure.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "XenForo-based; open registration.",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": "https://www.proxmox.com/",
+  "sources": [
+   "https://forum.proxmox.com/"
+  ]
+ },
+ {
+  "id": "truenas-community-forums",
+  "name": "TrueNAS Community Forums",
+  "platform": "forum",
+  "invite_url": "https://forums.truenas.com/",
+  "discord_description": "Official TrueNAS/TrueCommand community forum for storage, virtualization, and apps discussion; common in home-lab security setups.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Successor to the now-read-only truenas.com/community.",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": "https://www.truenas.com/",
+  "sources": [
+   "https://forums.truenas.com/"
+  ]
+ },
+ {
+  "id": "tor-project-forum",
+  "name": "Tor Project Forum",
+  "platform": "forum",
+  "invite_url": "https://forum.torproject.org/",
+  "discord_description": "Official Tor Project forum for Tor Browser support, anti-censorship discussion, and mirrored project mailing lists.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Discourse-based; open registration; operates under Tor's Code of Conduct.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://www.torproject.org/",
+  "sources": [
+   "https://forum.torproject.org/"
+  ]
+ },
+ {
+  "id": "pi-hole-userspace-discourse",
+  "name": "Pi-hole Userspace (Discourse)",
+  "platform": "forum",
+  "invite_url": "https://discourse.pi-hole.net/",
+  "discord_description": "Official Pi-hole community forum for network-wide ad/tracker blocking help, feature requests, and announcements.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Discourse-based; open registration.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://pi-hole.net/",
+  "sources": [
+   "https://discourse.pi-hole.net/"
+  ]
+ },
+ {
+  "id": "wazuh-mailing-list-google-group",
+  "name": "Wazuh Mailing List (Google Group)",
+  "platform": "forum",
+  "invite_url": "https://groups.google.com/g/wazuh",
+  "discord_description": "Official Wazuh mailing list/discussion group for the open-source SIEM/XDR platform, with active support from the Wazuh team.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Google Group, self-service join; active as of Sept 2026.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://wazuh.com/",
+  "sources": [
+   "https://groups.google.com/g/wazuh"
+  ]
+ }
+]

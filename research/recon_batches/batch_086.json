@@ -1,0 +1,122 @@
+[
+ {
+  "id": "r-socialengineering",
+  "name": "r/socialengineering",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/socialengineering/",
+  "discord_description": "Social engineering techniques, pretexting, and human-factor security discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Smaller/niche sub. Not live-verified this session.",
+  "category_hints": [
+   "redteam"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/socialengineering/"
+  ]
+ },
+ {
+  "id": "r-bugbounty",
+  "name": "r/bugbounty",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/bugbounty/",
+  "discord_description": "Bug bounty hunting discussion, writeups, and platform experiences.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "appsec"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/bugbounty/"
+  ]
+ },
+ {
+  "id": "r-cloudsecurity",
+  "name": "r/cloudsecurity",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/cloudsecurity/",
+  "discord_description": "Cloud infrastructure security (AWS/Azure/GCP) discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Smaller/niche sub. Not live-verified this session.",
+  "category_hints": [
+   "appsec"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/cloudsecurity/"
+  ]
+ },
+ {
+  "id": "r-devsecops",
+  "name": "r/devsecops",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/devsecops/",
+  "discord_description": "DevSecOps practices: integrating security into CI/CD and development pipelines.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Smaller/niche sub. Not live-verified this session.",
+  "category_hints": [
+   "appsec"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/devsecops/"
+  ]
+ },
+ {
+  "id": "infosec-exchange",
+  "name": "Infosec Exchange",
+  "platform": "mastodon",
+  "invite_url": "https://infosec.exchange",
+  "discord_description": "A Mastodon instance for info/cyber security-minded people.\r\n",
+  "members": 83221,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "~10,500 monthly active users. Registration is open but requires admin approval and a stated reason for joining; 18+ minimum age.",
+  "category_hints": [
+   "general"
+  ],
+  "website": "https://infosec.exchange",
+  "sources": [
+   "https://infosec.exchange/api/v2/instance"
+  ]
+ },
+ {
+  "id": "ioc-exchange",
+  "name": "IOC.exchange",
+  "platform": "mastodon",
+  "invite_url": "https://ioc.exchange",
+  "discord_description": "INDICATORS OF COMPROMISE (IOC)\r\nInfoSec Community within the Fediverse. Newbies, experts, gurus - Everyone is Welcome! Instance is supposed to be fast and secure.  ",
+  "members": 27840,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "~934 monthly active users. Registration open with approval required plus a reason for joining; rules require respect, content warnings for sensitive material, no spam/hate speech.",
+  "category_hints": [
+   "general"
+  ],
+  "website": "https://ioc.exchange",
+  "sources": [
+   "https://ioc.exchange/api/v2/instance"
+  ]
+ }
+]

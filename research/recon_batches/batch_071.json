@@ -1,0 +1,122 @@
+[
+ {
+  "id": "prowler-slack",
+  "name": "Prowler Slack",
+  "platform": "slack",
+  "invite_url": "https://goto.prowler.com/slack",
+  "discord_description": "Community for the Prowler open-source cloud security assessment tool (AWS/Azure/GCP/K8s security scanning).",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "goto.prowler.com/slack is Prowler's own durable redirect.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://prowler.com",
+  "sources": [
+   "https://goto.prowler.com/slack"
+  ]
+ },
+ {
+  "id": "atomic-red-team-slack",
+  "name": "Atomic Red Team Slack",
+  "platform": "slack",
+  "invite_url": "https://atomicredteam.io/slack",
+  "discord_description": "Community for Atomic Red Team (Red Canary), focused on adversary emulation, detection testing, and MITRE ATT&CK-mapped test scripts.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Durable project-owned redirect; documented in the project README.",
+  "category_hints": [
+   "redteam"
+  ],
+  "website": "https://atomicredteam.io",
+  "sources": [
+   "https://atomicredteam.io/slack"
+  ]
+ },
+ {
+  "id": "volatility-slack",
+  "name": "Volatility Slack",
+  "platform": "slack",
+  "invite_url": "https://www.volatilityfoundation.org/slack",
+  "discord_description": "Community for the Volatility memory-forensics framework, for support and discussion among DFIR practitioners.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Durable redirect published by the Volatility Foundation itself.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://www.volatilityfoundation.org",
+  "sources": [
+   "https://www.volatilityfoundation.org/slack"
+  ]
+ },
+ {
+  "id": "checkov-slack-codified-security",
+  "name": "Checkov Slack (Codified Security)",
+  "platform": "slack",
+  "invite_url": "https://codifiedsecurity.slack.com/",
+  "discord_description": "Community for the Checkov infrastructure-as-code static analysis tool, for policy-writing and scanning support.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Listed on the Checkov project README and homepage footer; exact self-service invite step could not be independently confirmed beyond the workspace link itself, so treat as listed rather than fully verified.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://www.checkov.io",
+  "sources": [
+   "https://github.com/bridgecrewio/checkov"
+  ]
+ },
+ {
+  "id": "gnu-radio-matrix-chat",
+  "name": "GNU Radio Matrix Chat",
+  "platform": "matrix",
+  "invite_url": "https://chat.gnuradio.org/",
+  "discord_description": "Matrix chatroom for the GNU Radio SDR (software-defined radio) project, used for community help and development discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Redirect page (chat.gnuradio.org) that hands you into the Matrix room; linked directly from the project README.",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": "https://www.gnuradio.org/",
+  "sources": [
+   "https://github.com/gnuradio/gnuradio"
+  ]
+ },
+ {
+  "id": "tor-project-tor-matrix",
+  "name": "Tor Project #tor (Matrix)",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#tor:matrix.org",
+  "discord_description": "Official Tor Project user-support and community room, bridged to the OFTC IRC channel of the same name.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Also reachable as IRC #tor on irc.oftc.net (bridged); #tor-space:matrix.org is a Matrix Space aggregating other Tor rooms.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://www.torproject.org/",
+  "sources": [
+   "https://support.torproject.org/get-in-touch/irc-help/"
+  ]
+ }
+]

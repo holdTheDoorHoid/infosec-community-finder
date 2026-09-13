@@ -1,0 +1,122 @@
+[
+ {
+  "id": "hak5-forums",
+  "name": "Hak5 Forums",
+  "platform": "forum",
+  "invite_url": "https://forums.hak5.org/",
+  "discord_description": "Community forum for Hak5 hardware (Wi-Fi Pineapple, Rubber Ducky, Bash Bunny) discussing pentesting hardware and payloads.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Long-running vendor community forum, open registration; site returned 403 to automated fetch (bot-blocking).",
+  "category_hints": [
+   "redteam"
+  ],
+  "website": "https://hak5.org/",
+  "sources": [
+   "https://forums.hak5.org/"
+  ]
+ },
+ {
+  "id": "flipper-zero-forum",
+  "name": "Flipper Zero Forum",
+  "platform": "forum",
+  "invite_url": "https://forum.flipper.net/",
+  "discord_description": "Official Flipper Zero community forum covering firmware, Sub-GHz/NFC/RFID/BadUSB use, and troubleshooting.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Verified live via fetch; official support and development community for the device.",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": "https://flipperzero.one/",
+  "sources": [
+   "https://forum.flipper.net/"
+  ]
+ },
+ {
+  "id": "null-byte",
+  "name": "Null Byte",
+  "platform": "forum",
+  "invite_url": "https://null-byte.wonderhowto.com/",
+  "discord_description": "Beginner-oriented ethical-hacking education site and forum with tutorials on pentesting tools, Wi-Fi hacking, and Linux basics.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Verified live via fetch; confirmed active, includes a discussion forum alongside tutorial articles.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": "https://null-byte.wonderhowto.com/",
+  "sources": [
+   "https://null-byte.wonderhowto.com/"
+  ]
+ },
+ {
+  "id": "lemmy-c-cybersecurity-lemmy-ml",
+  "name": "Lemmy c/cybersecurity (lemmy.ml)",
+  "platform": "forum",
+  "invite_url": "https://lemmy.ml/c/cybersecurity",
+  "discord_description": "Federated (Lemmy/ActivityPub) community for cybersecurity news and discussion, a Reddit-style alternative.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Verified live via fetch; ~2,600 subscribers, moderate activity (a few posts/comments per day).",
+  "category_hints": [
+   "general"
+  ],
+  "website": "https://lemmy.ml/",
+  "sources": [
+   "https://lemmy.ml/c/cybersecurity"
+  ]
+ },
+ {
+  "id": "programming-dev-c-cybersecurity",
+  "name": "programming.dev c/cybersecurity",
+  "platform": "forum",
+  "invite_url": "https://programming.dev/c/cybersecurity",
+  "discord_description": "Federated (Lemmy) community for cybersecurity discussion hosted on the programming.dev instance.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Site returned 403 to automated fetch (bot-blocking); known active Lemmy instance/community.",
+  "category_hints": [
+   "general"
+  ],
+  "website": "https://programming.dev/",
+  "sources": [
+   "https://programming.dev/c/cybersecurity"
+  ]
+ },
+ {
+  "id": "full-disclosure-mailing-list",
+  "name": "Full Disclosure Mailing List",
+  "platform": "forum",
+  "invite_url": "https://seclists.org/fulldisclosure/",
+  "discord_description": "Long-running public, unmoderated security disclosure mailing list where researchers publish vulnerability details and advisories.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Listed/archived via SecLists.org; subscribe/post details are on the list's own page. More useful for intermediates than absolute beginners.",
+  "category_hints": [
+   "redteam"
+  ],
+  "website": "https://seclists.org/fulldisclosure/",
+  "sources": [
+   "https://seclists.org/fulldisclosure/"
+  ]
+ }
+]

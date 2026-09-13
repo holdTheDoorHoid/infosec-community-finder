@@ -7,7 +7,7 @@ Servers judged include=false are kept in the file but hidden from the site (hidd
 import json, sys, pathlib, datetime
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "communities.json"
-FIELDS = ["category","tags","audience","beginner_friendly","activities","summary","run_by","website","github","youtube","region","language","year_round","event","rules_note","red_flags"]
+FIELDS = ["category","tags","audience","beginner_friendly","activities","summary","run_by","website","github","youtube","region","country","subdivision","city","language","year_round","event","rules_note","red_flags"]
 
 def main(paths):
     db = json.loads(DATA.read_text()); by_id = {c["id"]: c for c in db["communities"]}

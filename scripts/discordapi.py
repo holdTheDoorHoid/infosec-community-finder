@@ -90,6 +90,8 @@ def detect_platform(url):
 
 def check_join_url(url):
     """Liveness check for non-Discord join links: HTTP status plus known 'expired invite' phrases."""
+    if re.search(r"^https?://(www\.|old\.)?reddit\.com/", url or ""):
+        return {"status": "unchecked", "error": "reddit blocks automated checks"}
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) Chrome/120"})
         with urllib.request.urlopen(req, timeout=20) as r:

@@ -1,0 +1,123 @@
+[
+ {
+  "id": "tor-project-tor-oftc-irc",
+  "name": "Tor Project #tor (OFTC IRC)",
+  "platform": "irc",
+  "invite_url": "irc://irc.oftc.net/tor",
+  "discord_description": "OFTC IRC channel for Tor user support and community discussion, bridged with the Matrix room.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Network irc.oftc.net, channel #tor; webchat available via OFTC's site.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://www.torproject.org/",
+  "sources": [
+   "https://support.torproject.org/get-in-touch/irc-help/"
+  ]
+ },
+ {
+  "id": "qubes-os-forum",
+  "name": "Qubes OS Forum",
+  "platform": "forum",
+  "invite_url": "https://forum.qubes-os.org/",
+  "discord_description": "Discourse-based forum for Qubes OS discussion, support, and localized communities; the project's primary user support venue.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "No signup gating beyond normal Discourse account creation.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://www.qubes-os.org/",
+  "sources": [
+   "https://doc.qubes-os.org/en/latest/introduction/support.html",
+   "https://forum.qubes-os.org/"
+  ]
+ },
+ {
+  "id": "qubes-os-matrix",
+  "name": "Qubes OS Matrix",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#qubes:invisiblethingslab.com",
+  "discord_description": "Official Matrix room for real-time Qubes OS community chat, intended to bridge with the Libera IRC channel.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Companion IRC channel is #qubes on irc.libera.chat.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://www.qubes-os.org/",
+  "sources": [
+   "https://doc.qubes-os.org/en/latest/introduction/support.html"
+  ]
+ },
+ {
+  "id": "qubes-os-qubes-libera-irc",
+  "name": "Qubes OS #qubes (Libera IRC)",
+  "platform": "irc",
+  "invite_url": "irc://irc.libera.chat/qubes",
+  "discord_description": "Libera.Chat IRC channel for real-time Qubes OS discussion, meant to bridge with the project's Matrix room.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Bridging between IRC and Matrix has had technical limitations per the docs.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://www.qubes-os.org/",
+  "sources": [
+   "https://doc.qubes-os.org/en/latest/introduction/support.html"
+  ]
+ },
+ {
+  "id": "whonix-forum",
+  "name": "Whonix Forum",
+  "platform": "forum",
+  "invite_url": "https://forums.whonix.org/",
+  "discord_description": "Official Discourse forum for the Whonix anonymity/privacy OS, covering support for Qubes-Whonix, KVM, and VirtualBox builds plus development discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "No separate Matrix/IRC found; the forum is the primary community venue.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://www.whonix.org/",
+  "sources": [
+   "https://forums.whonix.org/"
+  ]
+ },
+ {
+  "id": "keepassxc-matrix-user-support",
+  "name": "KeePassXC (Matrix, user support)",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#keepassxc:mozilla.org",
+  "discord_description": "Official Matrix room for KeePassXC password manager user questions and support.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Bridged to IRC #keepassxc on irc.libera.chat. A separate dev room exists (#keepassxc-dev:mozilla.org).",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://keepassxc.org/",
+  "sources": [
+   "https://keepassxc.org/team/"
+  ]
+ }
+]

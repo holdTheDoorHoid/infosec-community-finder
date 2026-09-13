@@ -1,0 +1,122 @@
+[
+ {
+  "id": "radare2-matrix",
+  "name": "radare2 Matrix",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#radare:matrix.org",
+  "discord_description": "Official Matrix room for the radare2 reverse-engineering / disassembly framework community.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Also on Libera IRC as #radare (side channel #radare_side); Discord and Telegram exist too but are skipped per policy.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://www.radare.org/",
+  "sources": [
+   "https://github.com/radareorg/radare2"
+  ]
+ },
+ {
+  "id": "radare2-radare-libera-irc",
+  "name": "radare2 #radare (Libera IRC)",
+  "platform": "irc",
+  "invite_url": "irc://irc.libera.chat/radare",
+  "discord_description": "Libera.Chat IRC channel for radare2 community discussion; #radare_side is the off-topic channel.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://www.radare.org/",
+  "sources": [
+   "https://github.com/radareorg/radare2"
+  ]
+ },
+ {
+  "id": "libera-chat-security",
+  "name": "Libera.Chat #security",
+  "platform": "irc",
+  "invite_url": "irc://irc.libera.chat/security",
+  "discord_description": "General information-security discussion channel on the Libera.Chat IRC network, a major hub for FOSS and technical projects.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Libera.Chat itself is the network (irc.libera.chat:6697, webchat at web.libera.chat); channel activity/topic can vary and wasn't independently verified beyond network existence.",
+  "category_hints": [
+   "general"
+  ],
+  "website": "https://libera.chat/",
+  "sources": [
+   "https://libera.chat/"
+  ]
+ },
+ {
+  "id": "0x00sec",
+  "name": "0x00sec",
+  "platform": "forum",
+  "invite_url": "https://0x00sec.org/",
+  "discord_description": "A community forum for hackers and security researchers to discuss exploitation, reverse engineering, and offensive/defensive security topics.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Discourse-based forum; long-running, beginner-to-intermediate friendly with a strong CTF/exploitation slant.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": "https://0x00sec.org/",
+  "sources": [
+   "https://0x00sec.org/"
+  ]
+ },
+ {
+  "id": "hack-the-box-forum",
+  "name": "Hack The Box Forum",
+  "platform": "forum",
+  "invite_url": "https://forum.hackthebox.com/",
+  "discord_description": "Official community forum for Hack The Box, covering machine/challenge discussion, write-ups, and general pentesting learning.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Verified live via fetch; Discourse-based, open registration.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": "https://www.hackthebox.com/",
+  "sources": [
+   "https://forum.hackthebox.com/"
+  ]
+ },
+ {
+  "id": "bleepingcomputer-forums",
+  "name": "BleepingComputer Forums",
+  "platform": "forum",
+  "invite_url": "https://www.bleepingcomputer.com/forums/",
+  "discord_description": "Large peer-support forum with extensive malware-removal, ransomware, and security discussion sections alongside general computing help.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Verified live via fetch; free registration, very active malware-removal community used by beginners.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://www.bleepingcomputer.com/",
+  "sources": [
+   "https://www.bleepingcomputer.com/forums/"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "r-asknetsec",
+  "name": "r/AskNetsec",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/AskNetsec/",
+  "discord_description": "Q&A format for security questions ranging from beginner to professional.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/AskNetsec/"
+  ]
+ },
+ {
+  "id": "r-hacking",
+  "name": "r/hacking",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/hacking/",
+  "discord_description": "General hacking news, techniques, and discussion for hobbyists and professionals.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "general"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/hacking/"
+  ]
+ },
+ {
+  "id": "r-howtohack",
+  "name": "r/HowToHack",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/HowToHack/",
+  "discord_description": "Beginner-friendly subreddit for learning offensive security techniques and getting pointed to resources.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/HowToHack/"
+  ]
+ },
+ {
+  "id": "r-netsecstudents",
+  "name": "r/netsecstudents",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/netsecstudents/",
+  "discord_description": "For students and newcomers studying security, covering coursework, certs, and career entry questions.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/netsecstudents/"
+  ]
+ },
+ {
+  "id": "r-itcareerquestions",
+  "name": "r/ITCareerQuestions",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/ITCareerQuestions/",
+  "discord_description": "General IT career advice subreddit; useful adjacent community for people breaking into security via IT.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Adjacent, not security-specific. Not live-verified this session.",
+  "category_hints": [
+   "careers"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/ITCareerQuestions/"
+  ]
+ },
+ {
+  "id": "r-securitycareeradvice",
+  "name": "r/SecurityCareerAdvice",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/SecurityCareerAdvice/",
+  "discord_description": "Focused on security career paths, resumes, interviews, and job-search advice.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Smaller than r/cybersecurity but active. Not live-verified this session.",
+  "category_hints": [
+   "careers"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/SecurityCareerAdvice/"
+  ]
+ }
+]

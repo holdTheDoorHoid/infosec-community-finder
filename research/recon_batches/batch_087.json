@@ -1,0 +1,122 @@
+[
+ {
+  "id": "chaos-social",
+  "name": "chaos.social",
+  "platform": "mastodon",
+  "invite_url": "https://chaos.social",
+  "discord_description": "chaos.social – a Fediverse instance for & by the Chaos community",
+  "members": 14247,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "~6,100 monthly active users. Registration currently closed except by invite link from an existing member ('ask your friends for one'), so it's not self-service signup for strangers.",
+  "category_hints": [
+   "general"
+  ],
+  "website": "https://chaos.social",
+  "sources": [
+   "https://chaos.social/api/v2/instance"
+  ]
+ },
+ {
+  "id": "cyberplace-social",
+  "name": "Cyberplace.social",
+  "platform": "mastodon",
+  "invite_url": "https://cyberplace.social",
+  "discord_description": "Cybersecurity, fandom, video games, technology, dog photos and most importantly, you.",
+  "members": 12964,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "~758 monthly active users. Registration open, no approval or reason required, 18+ minimum age. Rules explicitly forbid posting breach data or joining mainly to promote red-team tooling.",
+  "category_hints": [
+   "general"
+  ],
+  "website": "https://cyberplace.social",
+  "sources": [
+   "https://cyberplace.social/api/v2/instance"
+  ]
+ },
+ {
+  "id": "fosstodon",
+  "name": "Fosstodon",
+  "platform": "mastodon",
+  "invite_url": "https://fosstodon.org",
+  "discord_description": "Fosstodon is an invite only Mastodon instance that is open to those who are interested in technology; particularly free & open source software.\r\n\r\nIf you wish to join, contact us for an invite.",
+  "members": 62697,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "~7,266 monthly active users. Invite-only: open registration is disabled, you need an existing member to invite you, so it is not a durable self-service signup.",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": "https://fosstodon.org",
+  "sources": [
+   "https://fosstodon.org/api/v2/instance"
+  ]
+ },
+ {
+  "id": "social-circl-lu",
+  "name": "social.circl.lu",
+  "platform": "mastodon",
+  "invite_url": "https://social.circl.lu",
+  "discord_description": "The Computer Incident Response Center Luxembourg (CIRCL) is a government-driven initiative designed to gather, review, report and respond to computer security threats and incidents.\r\n",
+  "members": 338,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Only ~15 monthly active users - small and CERT-staff oriented. Registration open but requires approval and a stated reason.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://www.circl.lu",
+  "sources": [
+   "https://social.circl.lu/api/v2/instance"
+  ]
+ },
+ {
+  "id": "hackers-town",
+  "name": "Hackers.Town",
+  "platform": "mastodon",
+  "invite_url": "https://masto.hackers.town",
+  "discord_description": "Rustin' Gears since 2017",
+  "members": 178,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "~139 monthly active users. Registration currently closed; only accepts referrals vouched for by existing members, so not a durable public self-service join path right now - included for reference but treat as low-priority to list.",
+  "category_hints": [
+   "general"
+  ],
+  "website": "https://hackers.town",
+  "sources": [
+   "https://masto.hackers.town/api/v2/instance"
+  ]
+ },
+ {
+  "id": "kali-linux-forums",
+  "name": "Kali Linux Forums",
+  "platform": "forum",
+  "invite_url": "https://forums.kali.org/",
+  "discord_description": "Official Offensive Security forum for Kali Linux help, tool discussion, and development.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Direct fetch returned 403 (bot protection) but this is the long-standing, widely-referenced official Kali forum.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://www.kali.org/",
+  "sources": [
+   "https://forums.kali.org/"
+  ]
+ }
+]

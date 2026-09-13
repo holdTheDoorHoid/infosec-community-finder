@@ -1,0 +1,122 @@
+[
+ {
+  "id": "zeek-slack",
+  "name": "Zeek Slack",
+  "platform": "slack",
+  "invite_url": "https://zeek.org/slack",
+  "discord_description": "Community for the Zeek network security monitor, for real-time discussion of detection engineering, scripting, and deployment.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Durable redirect from zeek.org's own community page.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://zeek.org",
+  "sources": [
+   "https://zeek.org/slack"
+  ]
+ },
+ {
+  "id": "wazuh-community-slack",
+  "name": "Wazuh Community Slack",
+  "platform": "slack",
+  "invite_url": "https://wazuh.com/community/",
+  "discord_description": "Community for the Wazuh open-source SIEM/XDR platform, with channels for support, detection rules, and integrations.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Join link is published directly on the official community page.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://wazuh.com",
+  "sources": [
+   "https://wazuh.com/community/"
+  ]
+ },
+ {
+  "id": "elastic-community-slack",
+  "name": "Elastic Community Slack",
+  "platform": "slack",
+  "invite_url": "https://ela.st/slack",
+  "discord_description": "Elastic Stack community covering Elasticsearch, Kibana, and the Elastic Security (SIEM/EDR) product line.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "ela.st/slack is Elastic's own durable shortlink.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://www.elastic.co/community",
+  "sources": [
+   "https://ela.st/slack"
+  ]
+ },
+ {
+  "id": "cncf-slack",
+  "name": "CNCF Slack",
+  "platform": "slack",
+  "invite_url": "https://slack.cncf.io/",
+  "discord_description": "Cloud Native Computing Foundation workspace hosting security-relevant project channels including #falco and #cilium alongside broader cloud-native discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "CNCF's own durable redirect; relevant here mainly for its Falco and Cilium channels.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://www.cncf.io",
+  "sources": [
+   "https://slack.cncf.io/"
+  ]
+ },
+ {
+  "id": "steampipe-turbot-community-slack",
+  "name": "Steampipe / Turbot Community Slack",
+  "platform": "slack",
+  "invite_url": "https://turbot.com/community/join",
+  "discord_description": "Community for Steampipe and Turbot's cloud security/compliance tooling, including cloud posture querying and IaC scanning discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Durable join page on turbot.com.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://steampipe.io",
+  "sources": [
+   "https://turbot.com/community/join"
+  ]
+ },
+ {
+  "id": "semgrep-community-slack",
+  "name": "Semgrep Community Slack",
+  "platform": "slack",
+  "invite_url": "https://go.semgrep.dev/slack",
+  "discord_description": "Community for the Semgrep static-analysis/SAST tool, open to Community Edition users for support and rule-writing discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Documented as the standing support channel in Semgrep's own docs.",
+  "category_hints": [
+   "appsec"
+  ],
+  "website": "https://semgrep.dev",
+  "sources": [
+   "https://docs.semgrep.dev/support/"
+  ]
+ }
+]

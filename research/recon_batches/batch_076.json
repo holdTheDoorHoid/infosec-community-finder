@@ -1,0 +1,122 @@
+[
+ {
+  "id": "cryptography-stack-exchange",
+  "name": "Cryptography Stack Exchange",
+  "platform": "forum",
+  "invite_url": "https://crypto.stackexchange.com/",
+  "discord_description": "Q&A community dedicated to cryptography theory and practice, from beginner questions to research-level discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Stack Exchange network site.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": "https://crypto.stackexchange.com/",
+  "sources": [
+   "https://crypto.stackexchange.com/"
+  ]
+ },
+ {
+  "id": "reverse-engineering-stack-exchange",
+  "name": "Reverse Engineering Stack Exchange",
+  "platform": "forum",
+  "invite_url": "https://reverseengineering.stackexchange.com/",
+  "discord_description": "Q&A community for reverse engineering of software and hardware, including malware analysis and binary exploitation questions.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Stack Exchange network site.",
+  "category_hints": [
+   "redteam"
+  ],
+  "website": "https://reverseengineering.stackexchange.com/",
+  "sources": [
+   "https://reverseengineering.stackexchange.com/"
+  ]
+ },
+ {
+  "id": "eevblog-forum",
+  "name": "EEVblog Forum",
+  "platform": "forum",
+  "invite_url": "https://www.eevblog.com/forum/",
+  "discord_description": "Electronics engineering community forum with active hardware hacking, reverse engineering, and teardown discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Site returned 403 to automated fetch (bot-blocking) but is a well-known, very active electronics/hardware-hacking community.",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": "https://www.eevblog.com/",
+  "sources": [
+   "https://www.eevblog.com/forum/"
+  ]
+ },
+ {
+  "id": "meshtastic-forum",
+  "name": "Meshtastic Forum",
+  "platform": "forum",
+  "invite_url": "https://meshtastic.discourse.group/",
+  "discord_description": "Discourse community forum for the Meshtastic open-source mesh-radio project, relevant to RF/hardware security hobbyists.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Open self-registration Discourse instance tied to the official project.",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": "https://meshtastic.org/",
+  "sources": [
+   "https://meshtastic.discourse.group/"
+  ]
+ },
+ {
+  "id": "opnsense-forum",
+  "name": "OPNsense Forum",
+  "platform": "forum",
+  "invite_url": "https://forum.opnsense.org/",
+  "discord_description": "Official community forum for the OPNsense open-source firewall, covering configuration, IDS/IPS, VPN, and network security topics.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Verified live via fetch; ~59,000 members, ~268,000 posts, multiple language sub-forums.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://opnsense.org/",
+  "sources": [
+   "https://forum.opnsense.org/"
+  ]
+ },
+ {
+  "id": "netgate-pfsense-forum",
+  "name": "Netgate / pfSense Forum",
+  "platform": "forum",
+  "invite_url": "https://forum.netgate.com/",
+  "discord_description": "Official community forum for pfSense firewall software, covering firewalling, VPNs, IDS/IPS, and network security configuration.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Verified live via fetch; ~122,000 topics in the pfSense category alone, 14+ language sub-forums.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://www.pfsense.org/",
+  "sources": [
+   "https://forum.netgate.com/"
+  ]
+ }
+]

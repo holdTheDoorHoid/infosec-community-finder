@@ -1,0 +1,122 @@
+[
+ {
+  "id": "oss-security-mailing-list",
+  "name": "oss-security Mailing List",
+  "platform": "forum",
+  "invite_url": "https://www.openwall.com/lists/oss-security/",
+  "discord_description": "Public mailing list for coordinating and discussing security issues in open-source software.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Open subscription via Openwall's list page; best suited to intermediate/advanced learners following real vulnerability discussion.",
+  "category_hints": [
+   "appsec"
+  ],
+  "website": "https://www.openwall.com/lists/oss-security/",
+  "sources": [
+   "https://www.openwall.com/lists/oss-security/"
+  ]
+ },
+ {
+  "id": "underc0de",
+  "name": "Underc0de",
+  "platform": "forum",
+  "invite_url": "https://underc0de.org/foro/",
+  "discord_description": "Spanish-language hacking and cybersecurity community forum covering pentesting, malware, and general infosec learning.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Language: Spanish. Site returned 403 to automated fetch (bot-blocking) but is a well-known, long-running Latin American infosec community.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": "https://underc0de.org/",
+  "sources": [
+   "https://underc0de.org/foro/"
+  ]
+ },
+ {
+  "id": "mente-bin-ria",
+  "name": "Mente Binária",
+  "platform": "forum",
+  "invite_url": "https://www.mentebinaria.com.br/forums/",
+  "discord_description": "Portuguese-language (Brazil) cybersecurity community forum covering pentesting, reverse engineering, and CTFs.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Language: Portuguese (Brazil). Site returned 403 to automated fetch (bot-blocking) but is a well-known Brazilian infosec community.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": "https://www.mentebinaria.com.br/",
+  "sources": [
+   "https://www.mentebinaria.com.br/forums/"
+  ]
+ },
+ {
+  "id": "zenk-security",
+  "name": "Zenk-Security",
+  "platform": "forum",
+  "invite_url": "https://www.zenk-security.com/",
+  "discord_description": "French-language cybersecurity community with training challenges (crypto, stego, web, malware, forensics) and an associated forum.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Language: French. Verified live via fetch. Registration is public/self-service, but full forum access is earned by completing a threshold of challenge points rather than granted immediately on signup — mention this gating to users.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": "https://www.zenk-security.com/",
+  "sources": [
+   "https://www.zenk-security.com/"
+  ]
+ },
+ {
+  "id": "r-cybersecurity",
+  "name": "r/cybersecurity",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/cybersecurity/",
+  "discord_description": "Large general-purpose hub for cybersecurity news, career questions, and discussion; good first stop for beginners.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Could not live-verify subscriber count or recent activity this session (Reddit blocked for WebFetch; WebSearch budget exhausted before any query ran). Well-established, high-traffic sub based on prior knowledge.",
+  "category_hints": [
+   "general"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/cybersecurity/"
+  ]
+ },
+ {
+  "id": "r-netsec",
+  "name": "r/netsec",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/netsec/",
+  "discord_description": "Long-running technical infosec news and research sharing community, skews more advanced/practitioner-focused.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session (tool restrictions, see notes on r/cybersecurity). One of the oldest infosec subreddits.",
+  "category_hints": [
+   "general"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/netsec/"
+  ]
+ }
+]

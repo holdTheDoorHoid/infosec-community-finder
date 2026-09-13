@@ -1,0 +1,122 @@
+[
+ {
+  "id": "keepassxc-keepassxc-libera-irc",
+  "name": "KeePassXC #keepassxc (Libera IRC)",
+  "platform": "irc",
+  "invite_url": "irc://irc.libera.chat/keepassxc",
+  "discord_description": "Libera.Chat IRC channel for KeePassXC user support, bridged with the Matrix room.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Dev discussion channel is #keepassxc-dev.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://keepassxc.org/",
+  "sources": [
+   "https://keepassxc.org/team/"
+  ]
+ },
+ {
+  "id": "openwrt-forum",
+  "name": "OpenWrt Forum",
+  "platform": "forum",
+  "invite_url": "https://forum.openwrt.org/",
+  "discord_description": "Official community forum for the OpenWrt embedded Linux router firmware project, covering support, hardware, and development.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": "https://openwrt.org/",
+  "sources": [
+   "https://forum.openwrt.org/"
+  ]
+ },
+ {
+  "id": "openwrt-openwrt-oftc-irc",
+  "name": "OpenWrt #openwrt (OFTC IRC)",
+  "platform": "irc",
+  "invite_url": "irc://irc.oftc.net/openwrt",
+  "discord_description": "OFTC IRC channel for general OpenWrt user support; #openwrt-devel and #openwrt-adm exist for developers and project organization respectively.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Network is irc.oftc.net, not Libera.",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": "https://openwrt.org/",
+  "sources": [
+   "https://openwrt.org/contact"
+  ]
+ },
+ {
+  "id": "netsecfocus-mattermost",
+  "name": "NetSecFocus Mattermost",
+  "platform": "mattermost",
+  "invite_url": "https://mm.netsecfocus.com/join/",
+  "discord_description": "Self-service Mattermost community of 5,000+ security professionals and students discussing red/blue teaming, certifications (e.g. OSCP), reverse engineering, and career topics.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Signup is self-service via the 'Chat' link on the homepage.",
+  "category_hints": [
+   "careers"
+  ],
+  "website": "https://netsecfocus.com/",
+  "sources": [
+   "https://netsecfocus.com/"
+  ]
+ },
+ {
+  "id": "rizin-mattermost",
+  "name": "Rizin Mattermost",
+  "platform": "mattermost",
+  "invite_url": "https://im.rizin.re",
+  "discord_description": "Primary community/development chat for the Rizin reverse-engineering framework (a radare2 fork), hosted as a self-service Mattermost instance.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Also has IRC #rizin (dev: #rizindev) on Libera.Chat; Telegram bridge skipped per policy.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://rizin.re/",
+  "sources": [
+   "https://github.com/rizinorg/rizin"
+  ]
+ },
+ {
+  "id": "rizin-rizin-libera-irc",
+  "name": "Rizin #rizin (Libera IRC)",
+  "platform": "irc",
+  "invite_url": "irc://irc.libera.chat/rizin",
+  "discord_description": "Libera.Chat IRC channel for the Rizin reverse-engineering framework community; #rizindev is the developer channel.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://rizin.re/",
+  "sources": [
+   "https://github.com/rizinorg/rizin"
+  ]
+ }
+]

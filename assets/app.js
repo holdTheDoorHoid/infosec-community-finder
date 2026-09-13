@@ -35,7 +35,7 @@ const ICF = (() => {
 
   function cardHTML(c) {
     const icon = c.icon_url ? `<img class="icon" loading="lazy" src="${esc(c.icon_url)}" alt="">` : `<div class="ph">${esc(initials(c.name))}</div>`;
-    const status = c.invite_status === 'ok' ? '' : `<span class="badge dead">${c.invite_status === 'dead' ? 'invite dead' : 'unchecked'}</span>`;
+    const status = c.invite_status === 'dead' ? `<span class="badge dead">link dead</span>` : (c.invite_status === 'ok' ? '' : `<span class="badge" title="This platform cannot be checked automatically">not auto-checked</span>`);
     const plat = c.platform !== 'discord' ? `<span class="badge plat">${esc(PLATFORM_LABEL[c.platform] || c.platform)}</span>` : '';
     const statsHTML = c.platform === 'discord' ? `<span><b>${fmt(c.members)}</b> members</span><span><span class="dot"></span><b>${fmt(c.online)}</b> online</span>` : (c.members ? `<span><b>${fmt(c.members)}</b> members</span>` : `<span class="note">no live stats on ${esc(PLATFORM_LABEL[c.platform] || c.platform)}</span>`);
     return `<article class="card" data-id="${esc(c.id)}" tabindex="0" role="button" aria-label="${esc(c.name)}">
@@ -76,7 +76,7 @@ const ICF = (() => {
         ${c.rules_note ? `<dt>Good to know</dt><dd>${esc(c.rules_note)}</dd>` : ''}
         ${c.platform === 'discord' ? `<dt>Discord flags</dt><dd>${[c.verified && 'Verified', c.partnered && 'Partnered', c.discoverable && 'In Discord discovery', c.community_features && 'Community server', c.verification_level >= 3 && 'Phone/email verification required'].filter(Boolean).join(' · ') || '—'}</dd>` : ''}
         ${links.length ? `<dt>Links</dt><dd>${links.join(' · ')}</dd>` : ''}
-        <dt>Last checked</dt><dd>${esc(c.last_checked || '—')} · <span class="badge ${dead ? 'dead' : 'ok'}">${dead ? 'link dead' : 'link works'}</span></dd>
+        <dt>Last checked</dt><dd>${esc(c.last_checked || '—')} · ${dead ? '<span class="badge dead">link dead</span>' : c.invite_status === 'ok' ? '<span class="badge ok">link works</span>' : '<span class="badge">not auto-checked</span>'}</dd>
       </dl>
       <div class="join">${dead ? `<span class="note">This invite stopped working${c.dead_since ? ' on ' + esc(c.dead_since) : ''}. <a href="https://github.com/holdTheDoorHoid/infosec-community-finder/issues/new?template=report-problem.yml&title=${encodeURIComponent('[Fix] ' + c.name)}" target="_blank" rel="noopener">Know a new one?</a></span>` : `<a class="btn primary" href="${esc(c.invite_url)}" target="_blank" rel="noopener">${esc(JOIN_VERB[c.platform] || 'Open')} ↗</a><span class="note">${c.platform === 'discord' ? 'Opens Discord. Read the rules channel first; most servers require it.' : c.platform === 'slack' ? 'Opens the community\'s own signup page. Slack invites expire, so report it if it stops working.' : 'Opens in a new tab.'}</span>`}</div>`;
   }

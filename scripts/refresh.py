@@ -31,6 +31,7 @@ def main():
                     st = mastodon_stats(c["invite_url"]);
                     if st.get("members"): c["members"] = st["members"]; c["size_tier"] = size_tier(st["members"]); c.setdefault("history", []).append({"date": today, "members": st["members"], "online": None}); c["history"] = c["history"][-90:]
             elif chk["status"] == "dead": dead += 1; c["invite_status"] = "dead"; c["dead_since"] = c.get("dead_since") or today
+            elif chk["status"] == "unchecked": c["invite_status"] = "unchecked"
             else: err += 1; c["last_error"] = chk.get("error")
             time.sleep(0.3); continue
         code = c.get("invite_code") or invite_code(c.get("invite_url"))

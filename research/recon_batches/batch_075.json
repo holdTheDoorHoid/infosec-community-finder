@@ -1,0 +1,122 @@
+[
+ {
+  "id": "wilders-security-forums",
+  "name": "Wilders Security Forums",
+  "platform": "forum",
+  "invite_url": "https://www.wilderssecurity.com/",
+  "discord_description": "Long-running community forum focused on antivirus, firewalls, privacy tools, and general PC security discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Well-established, self-service registration; site returned 403 to automated fetch (bot-blocking) but is a well-known long-standing community.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://www.wilderssecurity.com/",
+  "sources": [
+   "https://www.wilderssecurity.com/"
+  ]
+ },
+ {
+  "id": "malwarebytes-forums",
+  "name": "Malwarebytes Forums",
+  "platform": "forum",
+  "invite_url": "https://forums.malwarebytes.com/",
+  "discord_description": "Official Malwarebytes community forum for malware removal help, product support, and security discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Self-service registration; long-standing vendor-run community.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://www.malwarebytes.com/",
+  "sources": [
+   "https://forums.malwarebytes.com/"
+  ]
+ },
+ {
+  "id": "malwaretips-forums",
+  "name": "MalwareTips Forums",
+  "platform": "forum",
+  "invite_url": "https://malwaretips.com/",
+  "discord_description": "Community forum focused on malware removal guides, security software reviews, and beginner-friendly infection cleanup help.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Open self-registration forum.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://malwaretips.com/",
+  "sources": [
+   "https://malwaretips.com/"
+  ]
+ },
+ {
+  "id": "hackaday-io",
+  "name": "Hackaday.io",
+  "platform": "forum",
+  "invite_url": "https://hackaday.io/",
+  "discord_description": "Collaborative hardware/maker community with a large body of hacking, reverse-engineering, and embedded-security projects.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Verified live via fetch; describes itself as the world's largest collaborative hardware development community.",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": "https://hackaday.io/",
+  "sources": [
+   "https://hackaday.io/"
+  ]
+ },
+ {
+  "id": "hackster-io",
+  "name": "Hackster.io",
+  "platform": "forum",
+  "invite_url": "https://www.hackster.io/",
+  "discord_description": "Hardware/IoT maker community with project write-ups and forums, including embedded and IoT security projects.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Open self-registration community site.",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": "https://www.hackster.io/",
+  "sources": [
+   "https://www.hackster.io/"
+  ]
+ },
+ {
+  "id": "security-stack-exchange",
+  "name": "Security Stack Exchange",
+  "platform": "forum",
+  "invite_url": "https://security.stackexchange.com/",
+  "discord_description": "Q&A site for information security professionals and learners covering everything from basic concepts to advanced topics.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Part of the Stack Exchange network; open, no invite needed.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": "https://security.stackexchange.com/",
+  "sources": [
+   "https://security.stackexchange.com/"
+  ]
+ }
+]

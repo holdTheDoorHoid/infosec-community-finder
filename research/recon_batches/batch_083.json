@@ -1,0 +1,122 @@
+[
+ {
+  "id": "r-osint",
+  "name": "r/OSINT",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/OSINT/",
+  "discord_description": "Open-source intelligence techniques, tools, and investigations.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "osint"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/OSINT/"
+  ]
+ },
+ {
+  "id": "r-privacy",
+  "name": "r/privacy",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/privacy/",
+  "discord_description": "General digital privacy news, tools, and discussion; adjacent to security.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/privacy/"
+  ]
+ },
+ {
+  "id": "r-privacyguides",
+  "name": "r/PrivacyGuides",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/PrivacyGuides/",
+  "discord_description": "Community tied to the Privacy Guides project, recommending private/secure tools and practices.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": "https://www.privacyguides.org/",
+  "sources": [
+   "https://www.reddit.com/r/PrivacyGuides/"
+  ]
+ },
+ {
+  "id": "r-kalilinux",
+  "name": "r/Kalilinux",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/Kalilinux/",
+  "discord_description": "Support and discussion for the Kali Linux penetration testing distribution, popular with beginners.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/Kalilinux/"
+  ]
+ },
+ {
+  "id": "r-cybersecurityjobs",
+  "name": "r/CyberSecurityJobs",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/CyberSecurityJobs/",
+  "discord_description": "Job postings and hiring discussion specific to cybersecurity roles.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Smaller sub; job-posting activity level uncertain without live check. Not live-verified this session.",
+  "category_hints": [
+   "careers"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/CyberSecurityJobs/"
+  ]
+ },
+ {
+  "id": "r-isc2",
+  "name": "r/ISC2",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/ISC2/",
+  "discord_description": "Community around ISC2 (CISSP, SSCP, CC) certifications and membership.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "careers"
+  ],
+  "website": "https://www.isc2.org/",
+  "sources": [
+   "https://www.reddit.com/r/ISC2/"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "r-cissp",
+  "name": "r/CISSP",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/CISSP/",
+  "discord_description": "Study help and discussion specific to the CISSP certification exam.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/CISSP/"
+  ]
+ },
+ {
+  "id": "r-sysadmin",
+  "name": "r/sysadmin",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/sysadmin/",
+  "discord_description": "Very large general systems administration community; adjacent skills feed directly into security roles.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/sysadmin/"
+  ]
+ },
+ {
+  "id": "r-networking",
+  "name": "r/networking",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/networking/",
+  "discord_description": "General computer networking community; foundational adjacent skill for security.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/networking/"
+  ]
+ },
+ {
+  "id": "r-amateurradio",
+  "name": "r/amateurradio",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/amateurradio/",
+  "discord_description": "Ham radio hobbyist community, relevant background for RF/wireless security interests.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/amateurradio/"
+  ]
+ },
+ {
+  "id": "r-meshtastic",
+  "name": "r/meshtastic",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/meshtastic/",
+  "discord_description": "Community for the Meshtastic open-source mesh radio project, a hardware/RF hobby overlapping with security interests.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": "https://meshtastic.org/",
+  "sources": [
+   "https://www.reddit.com/r/meshtastic/"
+  ]
+ },
+ {
+  "id": "r-hardwarehacking",
+  "name": "r/hardwarehacking",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/hardwarehacking/",
+  "discord_description": "Hardware hacking, embedded device teardown, and physical/firmware security.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Smaller/niche sub, activity level uncertain without live check. Not live-verified this session.",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/hardwarehacking/"
+  ]
+ }
+]

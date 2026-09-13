@@ -33,6 +33,7 @@ def main(paths):
         if isinstance(cands, dict): cands = cands.get("merged") or cands.get("communities") or cands.get("seeds") or []
         for cand in cands:
             raw_url = cand.get("invite_url") or cand.get("discord_url") or cand.get("url") or cand.get("join_url")
+            src = cand.get("source_url") or cand.get("source") or p
             platform = cand.get("platform") or detect_platform(raw_url) or "discord"
             if platform != "discord":
                 if platform == "telegram": db["unresolved"].append({"name": cand.get("name"), "notes": "telegram excluded by policy", "source_url": src}); unresolved += 1; continue
@@ -50,7 +51,7 @@ def main(paths):
                 c = {"id": slug, "name": cand.get("name"), "platform": platform, "invite_url": raw_url, "invite_code": None, "guild_id": None,
                      "discord_name": None, "discord_description": extra.get("description") or cand.get("description"), "members": extra.get("members"), "online": None, "size_tier": size_tier(extra.get("members")),
                      "verified": False, "partnered": False, "discoverable": False, "community_features": False, "verification_level": None, "vanity": None, "icon_url": None, "invite_expires_at": None, "nsfw": False,
-                     "invite_status": "ok" if chk["status"] == "ok" else "unknown", "first_seen": today, "last_checked": today,
+                     "invite_status": "ok" if chk["status"] == "ok" else ("unchecked" if chk["status"] == "unchecked" else "unknown"), "first_seen": today, "last_checked": today,
                      "sources": [src], "category_hints": [cand["category_hint"]] if cand.get("category_hint") else [], "candidate_notes": cand.get("notes") or "", "confidence": cand.get("confidence"), "history": [],
                      "category": None, "tags": [], "summary": None, "run_by": None, "website": cand.get("website"), "beginner_friendly": None, "audience": [], "activities": [], "region": None, "language": "en", "year_round": None, "event": None}
                 db["communities"].append(c); added += 1; continue

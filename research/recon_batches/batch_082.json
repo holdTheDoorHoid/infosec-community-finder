@@ -1,0 +1,122 @@
+[
+ {
+  "id": "r-threatintel",
+  "name": "r/threatintel",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/threatintel/",
+  "discord_description": "Threat intelligence analysis, reports, and tooling discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Smaller sub. Not live-verified this session.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/threatintel/"
+  ]
+ },
+ {
+  "id": "r-lockpicking",
+  "name": "r/lockpicking",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/lockpicking/",
+  "discord_description": "Physical security and lockpicking hobbyist community, closely tied to the security/con scene.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Large, active hobbyist sub. Not live-verified this session.",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/lockpicking/"
+  ]
+ },
+ {
+  "id": "r-rtlsdr",
+  "name": "r/RTLSDR",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/RTLSDR/",
+  "discord_description": "Software-defined radio hobbyist community, relevant to RF/wireless security work.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/RTLSDR/"
+  ]
+ },
+ {
+  "id": "r-flipperzero",
+  "name": "r/flipperzero",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/flipperzero/",
+  "discord_description": "Community for the Flipper Zero multi-tool hardware device, popular in hardware hacking.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/flipperzero/"
+  ]
+ },
+ {
+  "id": "r-pwnagotchi",
+  "name": "r/pwnagotchi",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/pwnagotchi/",
+  "discord_description": "Community for the Pwnagotchi Wi-Fi handshake-capturing pet-project device.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Small niche sub; activity level uncertain without live check. Not live-verified this session.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/pwnagotchi/"
+  ]
+ },
+ {
+  "id": "r-homelab",
+  "name": "r/homelab",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/homelab/",
+  "discord_description": "Home server/networking lab hobbyists; adjacent skill-building community for security folks.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/homelab/"
+  ]
+ }
+]

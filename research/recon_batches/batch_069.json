@@ -1,0 +1,122 @@
+[
+ {
+  "id": "owasp-slack",
+  "name": "OWASP Slack",
+  "platform": "slack",
+  "invite_url": "https://owasp.org/slack/invite",
+  "discord_description": "The official OWASP community workspace for chapter and project discussion, security announcements, and connecting with application-security practitioners and leaders.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Durable self-service page on owasp.org that issues Slack access directly.",
+  "category_hints": [
+   "appsec"
+  ],
+  "website": "https://owasp.org",
+  "sources": [
+   "https://owasp.org/slack/invite"
+  ]
+ },
+ {
+  "id": "bloodhound-specterops-slack",
+  "name": "BloodHound / SpecterOps Slack",
+  "platform": "slack",
+  "invite_url": "https://ghst.ly/BHSlack",
+  "discord_description": "Community for BloodHound users covering Active Directory and Entra ID attack-path analysis, tool usage, and detection engineering discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "ghst.ly/BHSlack is SpecterOps' own standing shortlink; it forwards to a rotating shared_invite, but the short link itself is the durable public entry point.",
+  "category_hints": [
+   "redteam"
+  ],
+  "website": "https://bloodhound.specterops.io",
+  "sources": [
+   "https://ghst.ly/BHSlack"
+  ]
+ },
+ {
+  "id": "hack-club-slack",
+  "name": "Hack Club Slack",
+  "platform": "slack",
+  "invite_url": "https://hackclub.com/slack/",
+  "discord_description": "A large maker/hacker community for teenagers who build software and hardware projects together, with peer 'Gardener' mentors to help newcomers.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Good on-ramp for teen beginners; broader than pure security but has active security/CTF channels.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": "https://hackclub.com",
+  "sources": [
+   "https://slack.hackclub.com/"
+  ]
+ },
+ {
+  "id": "macadmins-slack",
+  "name": "MacAdmins Slack",
+  "platform": "slack",
+  "invite_url": "https://www.macadmins.org/slack",
+  "discord_description": "Large IT/Mac-admin community with an active #security channel covering endpoint security, MDM hardening, and macOS/iOS security tooling.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Code of Conduct acceptance required at signup; run by the nonprofit Mac Admins Foundation.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://www.macadmins.org",
+  "sources": [
+   "https://macadmins.org/community/slack/"
+  ]
+ },
+ {
+  "id": "kubernetes-slack",
+  "name": "Kubernetes Slack",
+  "platform": "slack",
+  "invite_url": "https://slack.k8s.io/",
+  "discord_description": "Official Kubernetes community Slack, including #sig-security and #falco channels for cluster and workload security discussion.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "slack.k8s.io is Kubernetes' own durable redirect (currently to an inviter.co page); also the home of the Falco community channel.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": "https://kubernetes.io",
+  "sources": [
+   "https://slack.k8s.io/"
+  ]
+ },
+ {
+  "id": "binary-ninja-slack",
+  "name": "Binary Ninja Slack",
+  "platform": "slack",
+  "invite_url": "https://slack.binary.ninja/",
+  "discord_description": "Community for users of the Binary Ninja reverse-engineering platform, covering plugin development, analysis techniques, and support.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Durable vendor-hosted redirect to a shared_invite link.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://binary.ninja",
+  "sources": [
+   "https://slack.binary.ninja/"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "r-cybersecurity-help",
+  "name": "r/cybersecurity_help",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/cybersecurity_help/",
+  "discord_description": "Personal/practical security help for individuals (malware, account compromise, device hygiene).",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "general"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/cybersecurity_help/"
+  ]
+ },
+ {
+  "id": "r-comptia",
+  "name": "r/CompTIA",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/CompTIA/",
+  "discord_description": "Study help and discussion for CompTIA certifications (A+, Network+, Security+), a common entry path into security.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/CompTIA/"
+  ]
+ },
+ {
+  "id": "r-oscp",
+  "name": "r/OSCP",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/OSCP/",
+  "discord_description": "Community for people studying for or holding the OSCP penetration testing certification.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/OSCP/"
+  ]
+ },
+ {
+  "id": "r-hackthebox",
+  "name": "r/hackthebox",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/hackthebox/",
+  "discord_description": "Community around the Hack The Box CTF/training platform; walkthrough discussion and study help.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/hackthebox/"
+  ]
+ },
+ {
+  "id": "r-tryhackme",
+  "name": "r/tryhackme",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/tryhackme/",
+  "discord_description": "Community for the beginner-friendly TryHackMe learning platform.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/tryhackme/"
+  ]
+ },
+ {
+  "id": "r-securityctf",
+  "name": "r/securityCTF",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/securityCTF/",
+  "discord_description": "General capture-the-flag competition discussion, writeups, and team recruiting.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/securityCTF/"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "r-hak5",
+  "name": "r/Hak5",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/Hak5/",
+  "discord_description": "Community around Hak5's penetration-testing hardware tools (Rubber Ducky, Pineapple, etc.).",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": "https://hak5.org/",
+  "sources": [
+   "https://www.reddit.com/r/Hak5/"
+  ]
+ },
+ {
+  "id": "r-rfid",
+  "name": "r/RFID",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/RFID/",
+  "discord_description": "RFID technology discussion, including access-control and security research angles.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Small niche sub. Not live-verified this session.",
+  "category_hints": [
+   "hardware"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/RFID/"
+  ]
+ },
+ {
+  "id": "r-grapheneos",
+  "name": "r/GrapheneOS",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/GrapheneOS/",
+  "discord_description": "Community for the privacy/security-hardened GrapheneOS Android distribution.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": "https://grapheneos.org/",
+  "sources": [
+   "https://www.reddit.com/r/GrapheneOS/"
+  ]
+ },
+ {
+  "id": "r-tor",
+  "name": "r/TOR",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/TOR/",
+  "discord_description": "Discussion of the Tor anonymity network, usage, and relay operation.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": "https://www.torproject.org/",
+  "sources": [
+   "https://www.reddit.com/r/TOR/"
+  ]
+ },
+ {
+  "id": "r-degoogle",
+  "name": "r/degoogle",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/degoogle/",
+  "discord_description": "Privacy-motivated community focused on replacing Google services with alternatives.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/degoogle/"
+  ]
+ },
+ {
+  "id": "r-opsec",
+  "name": "r/opsec",
+  "platform": "reddit",
+  "invite_url": "https://www.reddit.com/r/opsec/",
+  "discord_description": "Operational security discussion with a strict, methodology-first moderation approach.",
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Not live-verified this session.",
+  "category_hints": [
+   "general"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.reddit.com/r/opsec/"
+  ]
+ }
+]
