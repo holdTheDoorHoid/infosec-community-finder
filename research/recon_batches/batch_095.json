@@ -1,0 +1,122 @@
+[
+ {
+  "id": "dsu-computer-club",
+  "name": "DSU Computer Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/QrNyEbC",
+  "discord_description": "Come cyber with us!",
+  "members": 1092,
+  "online": 214,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Dakota State University Computer Club (DEFSEC)",
+  "candidate_notes": "Umbrella computer club at Dakota State University, Madison SD, covering CTF, Defensive Security, Competitive Programming, and Ethical Hacking sub-clubs. | shortlink http://discord.defsec.club -> https://discord.com/invite/QrNyEbC",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://defsec.club/"
+  ]
+ },
+ {
+  "id": "cyberhogs",
+  "name": "CyberHogs",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/SY3QggWsDH",
+  "discord_description": "The official server of CyberHogs Cybersecurity Club at the University of Arkansas! (^-^)",
+  "members": 530,
+  "online": 76,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CyberHogs (University of Arkansas)",
+  "candidate_notes": "Cybersecurity club/RSO at the University of Arkansas, Fayetteville AR; runs certifications talks and social events.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://hogsync.uark.edu/cyberhogs/useful-links/"
+  ]
+ },
+ {
+  "id": "uca-computer-science-clubs",
+  "name": "UCA Computer Science Clubs",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Jb9nfsU",
+  "discord_description": null,
+  "members": 442,
+  "online": 46,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UCA Computer Science and Cybersecurity",
+  "candidate_notes": "Discord listed on UA Little Rock's Computer Science page for the campus Computer Science and Cybersecurity community, Little Rock AR.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://ualr.edu/computerscience/cybersecurity-club/"
+  ]
+ },
+ {
+  "id": "root66tulsa-cyber-clubs",
+  "name": "Root66Tulsa Cyber Clubs",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/AHbdusEeHv",
+  "discord_description": null,
+  "members": 368,
+  "online": 53,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Root66Tulsa Cyber Clubs",
+  "candidate_notes": "Umbrella Discord for University of Tulsa's cyber clubs (TU CTF, WiCyS, etc.), Tulsa OK; run out of the School of Cyber Studies co-curricular program.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://root66tulsa.club/"
+  ]
+ },
+ {
+  "id": "cyber-jedis",
+  "name": "Cyber Jedis",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/JvafBSA4Ft",
+  "discord_description": "The Cyber Jedis provides a like-minded community of cyber enthusiasts the opportunity to collaborate & learn together. The premiere student organization for cybersec!",
+  "members": 1048,
+  "online": 136,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UTSA Cyber Jedis",
+  "candidate_notes": "UT San Antonio penetration-testing focused student club (San Antonio, TX); listed on the university's RowdyLink org portal.",
+  "category_hints": [
+   "redteam"
+  ],
+  "website": null,
+  "sources": [
+   "https://rowdylink.utsa.edu/organization/cyberjedis"
+  ]
+ },
+ {
+  "id": "cougarcs-infosec",
+  "name": "CougarCS InfoSec",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/wdxqgErhKF",
+  "discord_description": "CougarCS Information Security Branch server, where we compete in CTFs and provide workshops & professional development!",
+  "members": 490,
+  "online": 67,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CougarCS Info. Sec.",
+  "candidate_notes": "Info Sec branch of CougarCS, the large student-run CS organization at the University of Houston, TX.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://cougarcs.com/"
+  ]
+ }
+]

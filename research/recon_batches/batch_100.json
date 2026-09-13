@@ -1,0 +1,122 @@
+[
+ {
+  "id": "polycyber",
+  "name": "PolyCyber",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/ZcYnS3GZE6",
+  "discord_description": "PolyCyber, la communauté en cybersécurité de Polytechnique Montréal",
+  "members": 1630,
+  "online": 218,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "PolyCyber",
+  "candidate_notes": "Cybersecurity technical society at Polytechnique Montréal (Montreal, QC) since 2013; workshops, CTF team competing at NorthSec/HackFest.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://polycyber.io/en/join/"
+  ]
+ },
+ {
+  "id": "dalhousie-cybersecurity-society",
+  "name": "Dalhousie Cybersecurity Society",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/z4zWW2XBC7",
+  "discord_description": null,
+  "members": 279,
+  "online": 39,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Dal Cyber Security Society",
+  "candidate_notes": "Student cybersecurity society at Dalhousie University (Halifax, NS); CTFs, workshops, and industry talks.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://dalcyber.ca/"
+  ]
+ },
+ {
+  "id": "uoft-cybersecurity-student-association",
+  "name": "UofT Cybersecurity Student Association",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Mw6y7SfqSp",
+  "discord_description": "The University of Toronto Cybersecurity Student Association is a student-run organization for all things cybersecurity!",
+  "members": 372,
+  "online": 34,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UofT Cybersecurity Student Association (CSSA)",
+  "candidate_notes": "Official cybersecurity student association at the University of Toronto (Toronto, ON); events and resources to build security awareness/skills.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://cssa.sa.utoronto.ca/"
+  ]
+ },
+ {
+  "id": "csiul",
+  "name": "CSIUL",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/5pQdCTdNMV",
+  "discord_description": "Club de Sécurité Informatique de l'Université Laval",
+  "members": 444,
+  "online": 77,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CSIUL (Club de sécurité informatique de l'Université Laval)",
+  "candidate_notes": "Security/hacking club at Université Laval (Quebec City, QC); registration and community run through Discord.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://csi.ift.ulaval.ca/"
+  ]
+ },
+ {
+  "id": "rhum",
+  "name": "RHUM",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Tdunyeg",
+  "discord_description": null,
+  "members": 182,
+  "online": 20,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "RHUM (Regroupement des Hackers de l'Université de Montréal)",
+  "candidate_notes": "Hacking/cybersecurity club under the DIRO department at Université de Montréal (Montreal, QC); CTF-focused, part of UnitedCTF coalition.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://unitedctf.ca/club/rhum"
+  ]
+ },
+ {
+  "id": "dci",
+  "name": "DCI",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/quAF2z8zyT",
+  "discord_description": "Serveur officiel de la Délégation des compétitions en informatique de l'ÉTS.",
+  "members": 610,
+  "online": 118,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DCI ÉTS",
+  "candidate_notes": "Computer science/cybersecurity club at École de technologie supérieure (Montreal, QC); weekly meetings and workshops, part of UnitedCTF coalition.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://unitedctf.ca/club/dciets"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "hack-ucf",
+  "name": "Hack@UCF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/hackucf",
+  "discord_description": "We are the University of Central Florida's only defensive and offensive cybersecurity student organization. 🌐hackucf.org",
+  "members": 4535,
+  "online": 1028,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Hack@UCF",
+  "candidate_notes": "University of Central Florida's collegiate cyber defense club (Orlando, FL); offensive/defensive security, CCDC and CTF competitions.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://hackucf.org/"
+  ]
+ },
+ {
+  "id": "ufsit",
+  "name": "UFSIT",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/7HFp3fVWJh",
+  "discord_description": null,
+  "members": 1901,
+  "online": 268,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UF Student Infosec Team (UFSIT)",
+  "candidate_notes": "University of Florida's student infosec club (Gainesville, FL); open membership, event and collaboration hub.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://ufsit.club/"
+  ]
+ },
+ {
+  "id": "greyhat-at-georgia-tech",
+  "name": "GreyHat at Georgia Tech",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/wQWyKpGNpC",
+  "discord_description": "Georgia Tech's Cybersecurity Club",
+  "members": 2220,
+  "online": 275,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "GreyHat @ Georgia Tech",
+  "candidate_notes": "Georgia Tech's cybersecurity club (Atlanta, GA); teaches exploitation/defense and runs a competitive CTF team.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://greyhat.gatech.edu/about/"
+  ]
+ },
+ {
+  "id": "au-ethical-hacking-club",
+  "name": "AU Ethical Hacking Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/hYmnWPG",
+  "discord_description": null,
+  "members": 618,
+  "online": 62,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Auburn University Ethical Hacking Club (EHC)",
+  "candidate_notes": "Auburn University's ethical hacking club (Auburn, AL), a child org of Auburn ACM; competitions and hands-on labs. Invite resolved from the club's own /discord/ redirect link.",
+  "category_hints": [
+   "redteam"
+  ],
+  "website": null,
+  "sources": [
+   "https://ehc.auburn.edu/discord/"
+  ]
+ },
+ {
+  "id": "cybervt",
+  "name": "CyberVT",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/ghgpNdCctT",
+  "discord_description": "Where the Virginia Tech community can come to learn about cybersecurity. Welcoming people of all skill levels.",
+  "members": 1156,
+  "online": 115,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CyberVT (Virginia Tech)",
+  "candidate_notes": "Virginia Tech's cybersecurity club (Blacksburg, VA), founded 2011; education-focused, open to students and public.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://cybervt.org/"
+  ]
+ },
+ {
+  "id": "liberty-university-cybersecurity-club",
+  "name": "Liberty University Cybersecurity Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/24fKab8y8v",
+  "discord_description": null,
+  "members": 282,
+  "online": 49,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Liberty University Cyber Defense Club",
+  "candidate_notes": "Liberty University's cyber defense club (Lynchburg, VA); meets weekly, network/computer defense skills.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://lucyber.club/"
+  ]
+ }
+]

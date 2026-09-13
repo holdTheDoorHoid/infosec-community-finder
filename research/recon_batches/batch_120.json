@@ -1,0 +1,122 @@
+[
+ {
+  "id": "gz-ctf",
+  "name": "GZ::CTF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/dV9A6ZjVhC",
+  "discord_description": null,
+  "members": 103,
+  "online": 19,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "GZCTF",
+  "candidate_notes": "GitHub README of GZTimeWalker/GZCTF (1590 stars): The GZ::CTF project, an open source CTF platform.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/GZTimeWalker/GZCTF"
+  ]
+ },
+ {
+  "id": "cert-pl",
+  "name": "cert.pl",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Q7eTsHnpn4",
+  "discord_description": null,
+  "members": 460,
+  "online": 62,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "drakvuf-sandbox",
+  "candidate_notes": "GitHub README of CERT-Polska/drakvuf-sandbox (1344 stars): DRAKVUF Sandbox - automated hypervisor-level malware analysis system",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/CERT-Polska/drakvuf-sandbox"
+  ]
+ },
+ {
+  "id": "bluespawn-development",
+  "name": "BLUESPAWN Development",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/JMxPPfZ",
+  "discord_description": null,
+  "members": 336,
+  "online": 33,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "BLUESPAWN",
+  "candidate_notes": "GitHub README of ION28/BLUESPAWN (1338 stars): An Active Defense and EDR software to empower Blue Teams",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/ION28/BLUESPAWN"
+  ]
+ },
+ {
+  "id": "wgu-unofficial",
+  "name": "WGU Unofficial",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/unwgu",
+  "discord_description": "We are the largest community of WGU students around. Lots of resources and fun to be had - so pop in and say hi today!",
+  "members": 15290,
+  "online": 2836,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Hacker-Roadmap",
+  "candidate_notes": "GitHub README of Hacking-Notes/Hacker-Roadmap (1327 stars): A detailed plan to achieve proficiency in hacking and penetration testing, with pathways including obtaining a degree in cybersecurity or earning rele",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Hacking-Notes/Hacker-Roadmap"
+  ]
+ },
+ {
+  "id": "athena-os",
+  "name": "Athena OS",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/athena-os-977645785170714644",
+  "discord_description": "Athena OS wishes to support all people who would like to start their journey in Cyber Security.",
+  "members": 2710,
+  "online": 234,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "athena",
+  "candidate_notes": "GitHub README of Athena-OS/athena (1266 stars): Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Athena-OS/athena"
+  ]
+ },
+ {
+  "id": "signal-forge",
+  "name": "Signal Forge",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/jmDaM5qwzY",
+  "discord_description": "A focused community for WiFi Pineapple Cloner, Frieren, OpenWrt, WiFi security, SIGINT tools, custom hardware builds, modules, labs, tutorials, and authorized security research.",
+  "members": 93,
+  "online": 12,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "wifi-pineapple-cloner",
+  "candidate_notes": "GitHub README of xchwarze/wifi-pineapple-cloner (1235 stars): Port WiFi Pineapple NANO/TETRA in generic hardware",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/xchwarze/wifi-pineapple-cloner"
+  ]
+ }
+]

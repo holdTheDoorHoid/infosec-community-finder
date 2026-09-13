@@ -1,0 +1,122 @@
+[
+ {
+  "id": "brmlab",
+  "name": "Brmlab",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/4qMfFKa",
+  "discord_description": null,
+  "members": 147,
+  "online": 34,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "brmlab",
+  "candidate_notes": "Prague, Czechia. Hackerspace covering computers, electronics, security and inventing; Discord invite listed directly on their homepage.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://brmlab.cz/"
+  ]
+ },
+ {
+  "id": "bitraf",
+  "name": "Bitraf",
+  "platform": "slack",
+  "invite_url": "https://join.slack.com/t/bitraf/shared_invite/zt-q6efzj2c-aF8McIegA1ruFWEYVDZ18A",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Oslo, Norway. Large hackerspace/makerspace; public self-invite Slack link hosted on their own site.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://bitraf.no/slack-invite/"
+  ]
+ },
+ {
+  "id": "warsaw-hackerspace",
+  "name": "Warsaw Hackerspace",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#general:hackerspace.pl",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Warsaw, Poland. hackerspace.pl's general public Matrix room, linked from their official contact wiki page.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://wiki.hackerspace.pl/kontakt"
+  ]
+ },
+ {
+  "id": "ccc-hamburg-ccchh",
+  "name": "CCC Hamburg (CCCHH)",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#ccchh:hamburg.ccc.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hamburg, Germany. Chaos Computer Club Erfa group; public Matrix chat room linked on their site (a separate Matrix Space, #ccchh-space:hamburg.ccc.de, is also listed).",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.hamburg.ccc.de/"
+  ]
+ },
+ {
+  "id": "sectalks-sydney-melbourne-brisbane-perth-adelaide",
+  "name": "SecTalks (Sydney / Melbourne / Brisbane / Perth / Adelaide)",
+  "platform": "slack",
+  "invite_url": "https://sectalks.slack.com/",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Australia-wide informal infosec talks/CTF meetup network with chapters in Sydney, Melbourne, Brisbane, Perth, and Adelaide (NSW/VIC/QLD/WA/SA, Australia). Slack workspace URL is exactly as listed on sectalks.org homepage; no separate per-city invite link found. No Discord.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://sectalks.org/"
+  ]
+ },
+ {
+  "id": "dc813-server",
+  "name": "DC813 server",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/ApbenAn7Pb",
+  "discord_description": null,
+  "members": 409,
+  "online": 63,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DC813 Tampa, Florida USA",
+  "candidate_notes": "DEF CON Group, Tampa, Florida USA; invite found on the group's own site",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "http://www.dc813.org"
+  ]
+ }
+]

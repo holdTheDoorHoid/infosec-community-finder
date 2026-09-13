@@ -1,0 +1,124 @@
+[
+ {
+  "id": "ciso-assistant-grc-community",
+  "name": "CISO Assistant - GRC community",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/qvkaMdQ8da",
+  "discord_description": "A community around the CISO Assistant platform, as well as sharing thoughts, ideas, and tips about GRC practices in general.",
+  "members": 2287,
+  "online": 164,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "ciso-assistant-community",
+  "candidate_notes": "GitHub README of intuitem/ciso-assistant-community (4425 stars): CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, BIA, Privacy, and Reporting. It supports 200+ gl",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/intuitem/ciso-assistant-community"
+  ]
+ },
+ {
+  "id": "zen",
+  "name": "Zen",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/zGeQVatAUm",
+  "discord_description": "Community server dedicated to Irbis Zen, your open-source ad-blocker and privacy guard. Visit zenprivacy.net for more.",
+  "members": 319,
+  "online": 38,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "zen-desktop",
+  "candidate_notes": "GitHub README of irbis-sh/zen-desktop (4227 stars): Ad-blocker and privacy guard for Windows, macOS and Linux.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/irbis-sh/zen-desktop"
+  ]
+ },
+ {
+  "id": "hacking-articles",
+  "name": "Hacking Articles",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/kyKvXwK4Bk",
+  "discord_description": null,
+  "members": 9673,
+  "online": 361,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Privilege-Escalation",
+  "candidate_notes": "GitHub README of Ignitetechnologies/Privilege-Escalation (3638 stars): This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Ignitetechnologies/Privilege-Escalation",
+   "https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups",
+   "https://github.com/Ignitetechnologies/CTF-Difficulty"
+  ]
+ },
+ {
+  "id": "controlthings",
+  "name": "ControlThings",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/controlthings",
+  "discord_description": "A community for discussing cybersecurity and performing research in Industrial Control Systems (ICS).  ¡E Pluribus Unum!",
+  "members": 4016,
+  "online": 322,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "awesome-connected-things-sec",
+  "candidate_notes": "GitHub README of V33RU/awesome-connected-things-sec (3537 stars): A Curated list of Security Resources for all connected things",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/V33RU/awesome-connected-things-sec"
+  ]
+ },
+ {
+  "id": "onecli",
+  "name": "OneCLI",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/PSztzsQB3g",
+  "discord_description": "The official OneCLI community. Discuss features, get support, and stay updated on the open-source credential vault for AI agents.",
+  "members": 112,
+  "online": 16,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "onecli",
+  "candidate_notes": "GitHub README of onecli/onecli (3475 stars): Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/onecli/onecli"
+  ]
+ },
+ {
+  "id": "chipsec",
+  "name": "CHIPSEC",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/NvxdPe8RKt",
+  "discord_description": null,
+  "members": 189,
+  "online": 26,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "chipsec",
+  "candidate_notes": "GitHub README of chipsec/chipsec (3299 stars): Platform Security Assessment Framework",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/chipsec/chipsec"
+  ]
+ }
+]

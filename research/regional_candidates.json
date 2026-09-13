@@ -1,0 +1,379 @@
+[
+ {
+  "name": "DC604 (DEFCON Group Vancouver)",
+  "invite_url": "https://discord.gg/TsUmH36g8q",
+  "source_url": "https://dc604.ca/",
+  "category_hint": "regional",
+  "notes": "Vancouver, British Columbia, Canada. Discord link listed directly on the group's own website dc604.ca.",
+  "confidence": "official"
+ },
+ {
+  "name": "DC916 (Cybersecurity Sacramento)",
+  "invite_url": "https://discord.gg/Dkn5DZTaGh",
+  "source_url": "https://dc916.com/",
+  "category_hint": "regional",
+  "notes": "Sacramento, California, USA. DEF CON Group DC916; invite found on the group's own website (dc916.com, \"Join Our Discord\" button).",
+  "confidence": "official"
+ },
+ {
+  "name": "DC757/948 (Hampton Roads)",
+  "invite_url": "https://discord.gg/UnJGRNm",
+  "source_url": "https://www.dc757.org/",
+  "category_hint": "regional",
+  "notes": "Hampton Roads, Virginia, USA (covers 757/948 area codes). DEF CON Group DC757; invite found on the group's own website under \"Stay Connected\".",
+  "confidence": "official"
+ },
+ {
+  "name": "DC602 (DefCon 602 / Phoenix)",
+  "invite_url": "https://discord.gg/QpKX2hkgKg",
+  "source_url": "https://www.dc602.org/",
+  "category_hint": "regional",
+  "notes": "Phoenix, Arizona, USA. DEF CON Group DC602; invite found on the group's own website under \"Join Us / The New DefCon 602 Discord\".",
+  "confidence": "official"
+ },
+ {
+  "name": "DC4822 (Warsaw DEFCON Group)",
+  "invite_url": "https://discord.gg/QqFjCXgegA",
+  "source_url": "https://discord.com/invite/QqFjCXgegA",
+  "category_hint": "regional",
+  "notes": "Warsaw, Poland. DEF CON Group DC4822; the group's own site (dc4822.org) returned HTTP 403 to automated fetches, so this invite is confirmed via the Discord server's own public listing page (title \"Join the Defcon 4822 Warsaw Discord Server!\") rather than dc4822.org directly. Lower confidence because the primary site could not be checked.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DCG91612 (Patna DEF CON Group)",
+  "invite_url": "https://discord.gg/Y74ErRMpeN",
+  "source_url": "https://forum.defcon.org/node/250870",
+  "category_hint": "regional",
+  "notes": "Patna, Bihar, India. Invite link posted by a group member in the group's own DEF CON forum thread; could not re-fetch the page directly to double-check formatting (connection reset), so treat as listed rather than fully verified.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DCG631 (Suffolk County, NY)",
+  "invite_url": "https://discord.gg/hacktheplanet",
+  "source_url": "https://dcg631.github.io",
+  "category_hint": "regional",
+  "notes": "Suffolk County, New York, USA. DEF CON Group DCG631; Discord invite confirmed on group's own GitHub Pages site.",
+  "confidence": "official"
+ },
+ {
+  "name": "DC512 (Austin, TX)",
+  "invite_url": "https://discord.dc512.org",
+  "source_url": "https://dc512.org/",
+  "category_hint": "regional",
+  "notes": "Austin, Texas, USA. DEF CON Group DC512; site (dc512.org) redirects to Meetup, but group's own materials/X bio list discord.dc512.org as their Discord entry point.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC209 (Modesto/Turlock, CA)",
+  "invite_url": "https://discord.com/invite/arhtmKuqUM",
+  "source_url": "https://dc209.org/",
+  "category_hint": "regional",
+  "notes": "Modesto/Turlock, California, USA (Central Valley 209 region). DEF CON Group DC209; invite captured exactly as shown on the group's own website.",
+  "confidence": "official"
+ },
+ {
+  "name": "DCG-SATX / DC726 & DC210 (San Antonio, TX)",
+  "invite_url": "https://discord.com/invite/ew8S3A4ANC",
+  "source_url": "https://dcgsatx.com/",
+  "category_hint": "regional",
+  "notes": "San Antonio, Texas, USA. DCG-SATX is the current active DEF CON Group community site for the San Antonio DC groups (DC726/DC210 lineage); Discord invite captured exactly from dcgsatx.com.",
+  "confidence": "official"
+ },
+ {
+  "name": "DC414 (Milwaukee Area Hacker Group)",
+  "invite_url": "https://discord.gg/DrtEyNbG7u",
+  "source_url": "https://dc414.org/contact/",
+  "category_hint": "regional",
+  "notes": "Franklin/Milwaukee, Wisconsin, USA. DEF CON Group DC414, listed on official dc414.org contact page.",
+  "confidence": "official"
+ },
+ {
+  "name": "DEFCON Group 937 (DCG937)",
+  "invite_url": "https://discord.com/invite/xNcpNmJ",
+  "source_url": "https://defcon937.com/",
+  "category_hint": "regional",
+  "notes": "Dayton, Ohio, USA. DEF CON Group DC937/937, invite found on official defcon937.com site.",
+  "confidence": "official"
+ },
+ {
+  "name": "DC902 - DEF CON Group Halifax",
+  "invite_url": "https://discord.com/invite/wbPXa9B",
+  "source_url": "https://forum.defcon.org/node/241504",
+  "source_url_alt": "https://www.dc902.ca/",
+  "category_hint": "regional",
+  "notes": "Halifax, Nova Scotia, Canada. DEF CON Group DC902, invite listed via search result titled 'Join the DC902 Discord Server!' tied to group's own site dc902.ca.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC539 (Northeast Oklahoma DEF CON Group)",
+  "invite_url": "https://discord.gg/QpTv7PD",
+  "source_url": "https://www.dc539.org/",
+  "category_hint": "regional",
+  "notes": "Tulsa, Oklahoma, USA. DEF CON Group DC539, invite found on official dc539.org site.",
+  "confidence": "official"
+ },
+ {
+  "name": "DC441905 (Worcester DEFCON Group)",
+  "invite_url": "https://discord.gg/rXvnkav",
+  "source_url": "https://dc441905.org/",
+  "category_hint": "regional",
+  "notes": "Worcester, United Kingdom. DEF CON Group DCG441905, invite found on official dc441905.org site.",
+  "confidence": "official"
+ },
+ {
+  "name": "DC11506 (Costa Rica DEFCON Group)",
+  "invite_url": "https://discord.gg/5vB8S7gQjc",
+  "source_url": "https://dc506.org/",
+  "category_hint": "regional",
+  "notes": "San Jose, Costa Rica. DEF CON Group DC11506, invite found on official dc506.org site.",
+  "confidence": "official"
+ },
+ {
+  "name": "DCG420 (DC420 Prague)",
+  "invite_url": "https://discord.com/invite/2DX4qKEtEp",
+  "source_url": "https://dcg420.org",
+  "category_hint": "regional",
+  "notes": "Prague, Czechia. DEF CON Group 420, discord link in site nav header.",
+  "confidence": "official"
+ },
+ {
+  "name": "DEF CON Group Trivandrum (DC0471)",
+  "invite_url": "https://discord.gg/UvQq62z",
+  "source_url": "https://dc0471.org/about-dc0471/",
+  "category_hint": "regional",
+  "notes": "Thiruvananthapuram (Trivandrum), Kerala, India. Discord invite listed on group's own about page.",
+  "confidence": "official"
+ },
+ {
+  "name": "Black Lodge Research / DC206",
+  "invite_url": "https://discord.gg/bUCGHHDZNn",
+  "source_url": "https://www.meetup.com/black-lodge-research/",
+  "category_hint": "regional",
+  "notes": "Redmond, Washington, USA. DC206 DEF CON group co-located with Black Lodge Research hackerspace; invite confirmed on their own Meetup page.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC4131 (DEFCON Switzerland)",
+  "invite_url": "https://join.slack.com/t/dc4131/shared_invite/enQtNjY4ODkyMjc1MDQxLTA5MWJjZWU4ZWEzMjhmMzMwODUzNjM4OWJjNzA2YTc1YzQ4NzZiMjBjMjBlZmE1MmIxMWUyMGQ1M2M0N2Q1NDU",
+  "source_url": "https://www.defcon-switzerland.org/",
+  "category_hint": "regional",
+  "notes": "Bern, Switzerland. DEF CON Group DC4131, also known for the Area41 conference. Slack invite link found on their official homepage.",
+  "confidence": "official"
+ },
+ {
+  "name": "DC9661 Riyadh",
+  "invite_url": "https://discord.gg/Y74ErRMpeN",
+  "source_url": "https://forum.defcon.org/node/231605",
+  "category_hint": "regional",
+  "notes": "Riyadh, Saudi Arabia. DEF CON Group DC9661, POC Mazin Altami. Discord link found via web search snippet, not independently confirmed by fetching the source page (fetch failed with connection reset) — verify before publishing.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "DC970 Fort Collins/Northern Colorado",
+  "invite_url": "https://discord.gg/qxxxUhYbT5",
+  "source_url": "https://dc970.org",
+  "category_hint": "regional",
+  "notes": "Fort Collins, Colorado, USA. Northern Colorado security community DEF CON group; Discord link taken from their own website homepage.",
+  "confidence": "official"
+ },
+ {
+  "name": "DC612 Minneapolis",
+  "invite_url": "https://discord.gg/HYzJcfVGjH",
+  "source_url": "https://dc612.org",
+  "category_hint": "regional",
+  "notes": "Minneapolis, Minnesota, USA. DEF CON group DC612; meets monthly at 6:12pm Central on Discord; invite link from their own website.",
+  "confidence": "official"
+ },
+ {
+  "name": "DC-714 (Orange County / Garden Grove, CA)",
+  "invite_url": "https://discord.com/channels/1241242117552996465/1241242117552996467",
+  "source_url": "https://dc714.net/",
+  "category_hint": "regional",
+  "notes": "Garden Grove, California, USA. DEF CON Group DC714, meets monthly at Coastline Garden Grove Center. Discord link as published on their own site's 'Discord' button — it is a direct channel URL (not a discord.gg invite code), captured exactly as written; may require an existing account/invite to resolve.",
+  "confidence": "listed"
+ },
+ {
+  "name": "FUBAR Labs",
+  "invite_url": "https://discord.gg/dVs42Xz9Ns",
+  "source_url": "https://new.fubarlabs.org/",
+  "category_hint": "regional",
+  "notes": "New Brunswick, NJ. Hackerspace ('New Jersey's First Hackerspace') with a security/hacking bent; Discord invite is posted directly on their own homepage.",
+  "confidence": "official"
+ },
+ {
+  "name": "LVL1 Hackerspace",
+  "invite_url": "https://discord.gg/aAxgSCQQWA",
+  "source_url": "https://linktr.ee/lvl1hackerspace",
+  "category_hint": "regional",
+  "notes": "Louisville, Kentucky. Hackerspace/makerspace with an active security-minded member base; Discord link listed on their official Linktree (also linked from lvl1.org/connect) as 'Join the Lvl 1 - Louisville Hackerspace Discord Server!'",
+  "confidence": "official"
+ },
+ {
+  "name": "FamiLAB",
+  "invite_url": "https://join.slack.com/t/familab/shared_invite/zt-fwgcchye-rwLzBFC0V0Dbo7xJsslDFA",
+  "source_url": "https://www.familab.org/contact",
+  "category_hint": "regional",
+  "notes": "Longwood/Orlando, Florida. Community hackerspace/makerspace (hosts DC407 meetings). Slack invite link found referenced from their contact page; verified the invite link is live and redirects to the real 'familab' Slack workspace (familab.slack.com). Could not load familab.org pages directly (403 on repeated WebFetch attempts) to see the link in page context.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Hack The Box Meetup: Raleigh, NC, USA",
+  "invite_url": "https://discord.gg/NUvVk27X4g",
+  "source_url": "https://www.meetup.com/hack-the-box-meetup-raleigh-nc-usa/",
+  "category_hint": "regional",
+  "notes": "Raleigh, North Carolina. Meetup.com group for infosec/pentesting enthusiasts (Hack The Box branded local chapter) with a Discord invite listed in the group's own 'About us' description.",
+  "confidence": "listed"
+ },
+ {
+  "name": "All Hands Active",
+  "invite_url": "https://rhino.li/discord",
+  "source_url": "https://allhandsactive.org/",
+  "category_hint": "regional",
+  "notes": "Ann Arbor, Michigan. All-volunteer community hackerspace/makerspace; the site lists this Discord link alongside a separate Matrix chat (https://chat.allhandsactive.org). The rhino.li/discord shortlink currently 302-redirects to https://discord.gg/27kCgUPESv, confirmed by direct fetch.",
+  "confidence": "official"
+ },
+ {
+  "name": "SYN Shop",
+  "invite_url": "https://discord.gg/zt6q6WGBeU",
+  "source_url": "https://synshop.org/discord",
+  "category_hint": "regional",
+  "notes": "Las Vegas, Nevada. Hackerspace with a security/hacker bent. Invite obtained via the group's own vanity redirect synshop.org/discord.",
+  "confidence": "official"
+ },
+ {
+  "name": "801 Labs",
+  "invite_url": "https://discord.gg/uRSthurdPY",
+  "source_url": "https://801labs.org/",
+  "category_hint": "regional",
+  "notes": "Salt Lake City, Utah. Hackerspace founded by IT/electronics/infosec enthusiasts; also the site of the local 2600 meetup.",
+  "confidence": "official"
+ },
+ {
+  "name": "BSidesSF",
+  "invite_url": "https://join.slack.com/t/bsidessf/shared_invite/zt-3q1q8pma8-8XroW4~UKYG9UXuHCdEURg",
+  "source_url": "https://bsidessf.org/",
+  "category_hint": "regional",
+  "notes": "San Francisco, California. BSides security conference community Slack, listed directly on the official BSidesSF site.",
+  "confidence": "official"
+ },
+ {
+  "name": "DC604",
+  "invite_url": "https://discord.gg/TsUmH36g8q",
+  "source_url": "https://dc604.ca",
+  "category_hint": "regional",
+  "notes": "Vancouver, BC, Canada. DEF CON group DC604; official Discord invite listed on their site (also has an alternate MARS Slack #dc604 channel and Telegram, but Discord is their primary/preferred chat).",
+  "confidence": "official"
+ },
+ {
+  "name": "MontréHack",
+  "invite_url": "https://discord.gg/4qfFwPX",
+  "source_url": "https://www.montrehack.ca/",
+  "category_hint": "regional",
+  "notes": "Montreal, Quebec, Canada. Monthly CTF/pentest workshop group; Discord invite found in the site's own footer links.",
+  "confidence": "official"
+ },
+ {
+  "name": "SkullSpace",
+  "invite_url": "https://discord.gg/YcVEpuXGad",
+  "source_url": "https://skullspace.ca/",
+  "category_hint": "regional",
+  "notes": "Winnipeg, Manitoba, Canada. Hackerspace with a security bent; Discord listed as their primary hangout on their events page (also has an IRC #skullspace channel).",
+  "confidence": "official"
+ },
+ {
+  "name": "Hackerspace Brussels (HSBXL)",
+  "invite_url": "https://matrix.to/#/#hsbxl:matrix.org",
+  "source_url": "https://hsbxl.be/",
+  "category_hint": "regional",
+  "notes": "Brussels, Belgium. Community/hackerspace with a maker/tech-security bent in Molenbeek; public Matrix room linked directly on their contact page.",
+  "confidence": "official"
+ },
+ {
+  "name": "realraum",
+  "invite_url": "https://matrix.to/#/#_oftc_#realraum:matrix.org",
+  "source_url": "https://wp.realraum.at/",
+  "category_hint": "regional",
+  "notes": "Graz, Austria. Hackerspace; public Matrix room (bridged from OFTC IRC) linked on their own site.",
+  "confidence": "official"
+ },
+ {
+  "name": "brmlab",
+  "invite_url": "https://discord.gg/4qMfFKa",
+  "source_url": "https://brmlab.cz/",
+  "category_hint": "regional",
+  "notes": "Prague, Czechia. Hackerspace covering computers, electronics, security and inventing; Discord invite listed directly on their homepage.",
+  "confidence": "official"
+ },
+ {
+  "name": "Bitraf",
+  "invite_url": "https://join.slack.com/t/bitraf/shared_invite/zt-q6efzj2c-aF8McIegA1ruFWEYVDZ18A",
+  "source_url": "https://bitraf.no/slack-invite/",
+  "category_hint": "regional",
+  "notes": "Oslo, Norway. Large hackerspace/makerspace; public self-invite Slack link hosted on their own site.",
+  "confidence": "official"
+ },
+ {
+  "name": "Disobey Community",
+  "invite_url": "https://discord.gg/S7eMF3TQCj",
+  "source_url": "https://disobey.fi/",
+  "category_hint": "regional",
+  "notes": "Helsinki, Finland. Hacker/activist conference and community; Discord invite linked in the contact section of the official site.",
+  "confidence": "official"
+ },
+ {
+  "name": "Warsaw Hackerspace",
+  "invite_url": "https://matrix.to/#/#general:hackerspace.pl",
+  "source_url": "https://wiki.hackerspace.pl/kontakt",
+  "category_hint": "regional",
+  "notes": "Warsaw, Poland. hackerspace.pl's general public Matrix room, linked from their official contact wiki page.",
+  "confidence": "official"
+ },
+ {
+  "name": "CCC Hamburg (CCCHH)",
+  "invite_url": "https://matrix.to/#/#ccchh:hamburg.ccc.de",
+  "source_url": "https://www.hamburg.ccc.de/",
+  "category_hint": "regional",
+  "notes": "Hamburg, Germany. Chaos Computer Club Erfa group; public Matrix chat room linked on their site (a separate Matrix Space, #ccchh-space:hamburg.ccc.de, is also listed).",
+  "confidence": "official"
+ },
+ {
+  "name": "CCC Basel",
+  "invite_url": "https://mto.kabelsalat.ch/#/#basel:kabelsalat.ch",
+  "source_url": "https://www.chaostreff.ch/",
+  "category_hint": "regional",
+  "notes": "Basel, Switzerland. Local Chaostreff/CCC group; Matrix room link (via their own hosted matrix.to-style client) listed on the Swiss Chaostreff network page.",
+  "confidence": "official"
+ },
+ {
+  "name": "CCC Zürich",
+  "invite_url": "https://mto.kabelsalat.ch/#/#ccczh:kabelsalat.ch",
+  "source_url": "https://www.chaostreff.ch/",
+  "category_hint": "regional",
+  "notes": "Zurich, Switzerland. Local Chaostreff/CCC group; Matrix room link listed on the Swiss Chaostreff network page.",
+  "confidence": "official"
+ },
+ {
+  "name": "Chaostreff Bern",
+  "invite_url": "https://mto.kabelsalat.ch/#/#chaostreffbern:chaostreffbern.ch",
+  "source_url": "https://www.chaostreff.ch/",
+  "category_hint": "regional",
+  "notes": "Bern, Switzerland. Local Chaostreff/CCC group; Matrix room link listed on the Swiss Chaostreff network page.",
+  "confidence": "official"
+ },
+ {
+  "name": "BSides Munich",
+  "invite_url": "https://discord.gg/RVWbAk5R6u",
+  "source_url": "https://www.bsidesmunich.org/",
+  "category_hint": "regional",
+  "notes": "Munich, Germany. BSides security conference community; Discord invite listed on the official conference homepage.",
+  "confidence": "official"
+ },
+ {
+  "name": "SecTalks (Sydney / Melbourne / Brisbane / Perth / Adelaide)",
+  "invite_url": "https://sectalks.slack.com/",
+  "source_url": "https://sectalks.org/",
+  "category_hint": "regional",
+  "notes": "Australia-wide informal infosec talks/CTF meetup network with chapters in Sydney, Melbourne, Brisbane, Perth, and Adelaide (NSW/VIC/QLD/WA/SA, Australia). Slack workspace URL is exactly as listed on sectalks.org homepage; no separate per-city invite link found. No Discord.",
+  "confidence": "listed"
+ }
+]

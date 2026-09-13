@@ -1,0 +1,122 @@
+[
+ {
+  "id": "willy-firmware-v2",
+  "name": "Willy Firmware V2",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/VqsUsPQSmP",
+  "discord_description": null,
+  "members": 628,
+  "online": 51,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Willy_Firmware_V2_ESP32_Flipper_Zero_Alternative",
+  "candidate_notes": "GitHub README of h-RAT/Willy_Firmware_V2_ESP32_Flipper_Zero_Alternative (659 stars): Willy Firmware is an alternative to Flipper Zero. | Board: ESP32 T-Display-S3 - Module: CC1101 - Display: Touchscreen - Compatible Flipper Zero file.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/h-RAT/Willy_Firmware_V2_ESP32_Flipper_Zero_Alternative"
+  ]
+ },
+ {
+  "id": "wintergate",
+  "name": "WinterGate",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/vGajPbwhdA",
+  "discord_description": null,
+  "members": 63,
+  "online": 7,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Ominis-OSINT",
+  "candidate_notes": "GitHub README of AnonCatalyst/Ominis-OSINT (614 stars): This Python application is an OSINT (Open Source Intelligence) tool called \"Ominis OSINT - Web Hunter.\" It performs online information gathering by qu",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/AnonCatalyst/Ominis-OSINT"
+  ]
+ },
+ {
+  "id": "evil-crow-rf",
+  "name": "Evil Crow RF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Rb2j3jA5Ym",
+  "discord_description": null,
+  "members": 1684,
+  "online": 137,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "EvilCrowRF_Custom_Firmware_CC1101_FlipperZero",
+  "candidate_notes": "GitHub README of h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero (600 stars): This firmware is an alternative to the EvilCrowRF default firmware. Module: CC1101 - Compatible Flipper Zero file.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero"
+  ]
+ },
+ {
+  "id": "ctfnote",
+  "name": "CTFNote",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/uzTybeYuBg",
+  "discord_description": null,
+  "members": 39,
+  "online": 9,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CTFNote",
+  "candidate_notes": "GitHub README of TFNS/CTFNote (597 stars): CTFNote is a collaborative tool aiming to help CTF teams to organise their work.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/TFNS/CTFNote"
+  ]
+ },
+ {
+  "id": "utmstack-virtual-hq",
+  "name": "UTMStack Virtual HQ",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/ZznvZ8xcHh",
+  "discord_description": null,
+  "members": 65,
+  "online": 8,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UTMStack",
+  "candidate_notes": "GitHub README of utmstack/UTMStack (581 stars): Enterprise-ready SIEM, SOAR and Compliance powered by real-time correlation and threat intelligence.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/utmstack/UTMStack"
+  ]
+ },
+ {
+  "id": "marine-biologist-lab",
+  "name": "Marine Biologist Lab",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/marine-biologist-lab-1499456013294764175",
+  "discord_description": "Community run server focused around the Flipper! If you're looking for a focused and active experienced community to learn about the device and want to interact with experts that have been with the device for years, this is the place for you!",
+  "members": 1841,
+  "online": 572,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "FZ_graphics",
+  "candidate_notes": "GitHub README of Kuronons/FZ_graphics (574 stars): Flipper Zero Custom animations, profile and passport pictures by Kuronons",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Kuronons/FZ_graphics"
+  ]
+ }
+]

@@ -1,0 +1,123 @@
+[
+ {
+  "id": "hacking-lab",
+  "name": "Hacking-Lab",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/hacking-lab-882901217326563338",
+  "discord_description": "Hacking-Lab Online CTF and Training Platform",
+  "members": 2737,
+  "online": 241,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Hacking-Lab / Swiss Cyber Security Challenge",
+  "candidate_notes": "German-language (Switzerland) - training/CTF platform run by Compass Security behind the Swiss Cyber Security Challenge (SCSC); audience is beginner-to-intermediate CTF players and students in the DACH region. Discord link confirmed in the official site footer.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://hacking-lab.com/"
+  ]
+ },
+ {
+  "id": "redrocket",
+  "name": "RedRocket",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/5YktcJZ",
+  "discord_description": null,
+  "members": 517,
+  "online": 62,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "RedRocket CTF",
+  "candidate_notes": "German CTF team (Bonn-Rhein-Sieg / Cologne area, redrocket.club). Official homepage explicitly invites visitors to \"join our Discord\" with this link; audience is German CTF players/students.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://redrocket.club"
+  ]
+ },
+ {
+  "id": "fluxfingers",
+  "name": "FluxFingers",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/BhPunMS",
+  "discord_description": null,
+  "members": 784,
+  "online": 136,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "FluxFingers CTF",
+  "candidate_notes": "CTF team of Ruhr-Universität Bochum (HGI institute), Germany; runs hack.lu CTF and FluxRookies for newcomers. The official site's footer Discord icon links to this exact URL, which is the team's own short-link/redirect into their Discord (the discord.gg code itself was not resolvable through the fetch tool, but this is the verbatim official link). | shortlink https://fluxfingers.net/discord -> htt",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://fluxfingers.net"
+  ]
+ },
+ {
+  "id": "muc-sec-munich-information-security",
+  "name": "MUC:SEC - Munich Information Security",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/RVWbAk5R6u",
+  "discord_description": "Official Discord Server of the BSides Munich Conference",
+  "members": 420,
+  "online": 38,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "BSides Munich",
+  "candidate_notes": "German-language/English regional security conference (Munich, Germany), affiliated with the MUC:SEC meetup; Discord used for conference updates and community chat between events. Confirmed on the official conference site (footer/social links).",
+  "category_hints": [
+   "conference"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.bsidesmunich.org",
+   "https://www.bsidesmunich.org/"
+  ]
+ },
+ {
+  "id": "disobey-fi",
+  "name": "Disobey_Fi",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/S7eMF3TQCj",
+  "discord_description": null,
+  "members": 991,
+  "online": 244,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Disobey",
+  "candidate_notes": "Finnish (Finland) hacker/cybersecurity conference community, Discord invite listed on the official disobey.fi contact/social section.",
+  "category_hints": [
+   "conference"
+  ],
+  "website": null,
+  "sources": [
+   "https://disobey.fi/"
+  ]
+ },
+ {
+  "id": "hackerone-netherlands",
+  "name": "Hackerone Netherlands",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/9epVjkEdjU",
+  "discord_description": "Team Netherlands Hackerone community",
+  "members": 86,
+  "online": 16,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Netherlands HackerOne Club",
+  "candidate_notes": "Dutch (Netherlands) regional bug-bounty/HackerOne community chapter; official HackerOne Community chapter page explicitly links this as the Dutch Discord server.",
+  "category_hints": [
+   "appsec"
+  ],
+  "website": null,
+  "sources": [
+   "https://h1.community/netherlands-hackerone-club/"
+  ]
+ }
+]

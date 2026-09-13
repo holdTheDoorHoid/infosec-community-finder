@@ -1,0 +1,123 @@
+[
+ {
+  "id": "jones-inc",
+  "name": "Jones Inc",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/3hkWMry",
+  "discord_description": "Jones' Chaotic Space is a community for tech enthusiasts and creators, where coding, design, and building impactful projects collide—powered by curiosity, creativity, and a love for all things cosmic.",
+  "members": 702,
+  "online": 153,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "petlibro",
+  "candidate_notes": "GitHub README of jjjonesjr33/petlibro (363 stars): Petlibro | Home Assistant integration ",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/jjjonesjr33/petlibro"
+  ]
+ },
+ {
+  "id": "iqengine",
+  "name": "IQEngine",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/k7C8kp3b76",
+  "discord_description": null,
+  "members": 377,
+  "online": 32,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "IQEngine",
+  "candidate_notes": "GitHub README of IQEngine/IQEngine (327 stars): A web-based SDR toolkit for analyzing, processing, and sharing RF recordings",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/IQEngine/IQEngine"
+  ]
+ },
+ {
+  "id": "bugtraceai",
+  "name": "BugTraceAI",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/5HjujkScC",
+  "discord_description": "Official community for BugTraceAI: an open-source, autonomous AI framework for offensive security, vulnerability discovery, and AI research.",
+  "members": 8,
+  "online": 1,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "BugTraceAI",
+  "candidate_notes": "GitHub README of BugTraceAI/BugTraceAI (320 stars): Autonomous AI-powered security scanning platform — CLI scanner, web dashboard, and one-command Docker deployment",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/BugTraceAI/BugTraceAI"
+  ]
+ },
+ {
+  "id": "minigotchi",
+  "name": "Minigotchi-*",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/EhTAr7PwVP",
+  "discord_description": null,
+  "members": 188,
+  "online": 31,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "minigotchi-ESP32",
+  "candidate_notes": "GitHub README of dj1ch/minigotchi-ESP32 (289 stars): minigotchi ported to the ESP32. maintained by @dj1ch",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/dj1ch/minigotchi-ESP32",
+   "https://github.com/dj1ch/minigotchi"
+  ]
+ },
+ {
+  "id": "clawdstrike",
+  "name": "clawdstrike",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/fdbCZHm8zM",
+  "discord_description": null,
+  "members": 3,
+  "online": 1,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "clawdstrike",
+  "candidate_notes": "GitHub README of backbay-labs/clawdstrike (288 stars): Agentic AI EDR for developer workstations and autonomous agent swarms. Build Swarm Detection & Response platforms with Clawdstrike.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/backbay-labs/clawdstrike"
+  ]
+ },
+ {
+  "id": "rctf",
+  "name": "rCTF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/NkDNEE2",
+  "discord_description": null,
+  "members": 2424,
+  "online": 194,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "rctf",
+  "candidate_notes": "GitHub README of redpwn/rctf (279 stars): redpwn's CTF platform",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/redpwn/rctf"
+  ]
+ }
+]

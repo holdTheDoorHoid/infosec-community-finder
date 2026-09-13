@@ -1,0 +1,122 @@
+[
+ {
+  "id": "batman-s-kitchen",
+  "name": "Batman's Kitchen",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/u9USAb3PF7",
+  "discord_description": null,
+  "members": 1241,
+  "online": 147,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Batman's Kitchen (University of Washington CTF Team)",
+  "candidate_notes": "University of Washington's student CTF team, Seattle WA; weekly meetings and workshops on web, binary, and crypto exploitation.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://uwctf.cs.washington.edu"
+  ]
+ },
+ {
+  "id": "cyber-club-university-of-colorado-boulder",
+  "name": "Cyber Club - University of Colorado, Boulder",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/eaVneRDJBX",
+  "discord_description": null,
+  "members": 539,
+  "online": 51,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CU Cyber Club (University of Colorado Boulder)",
+  "candidate_notes": "CU Boulder's information security club, Boulder CO; weekly meetings covering offensive/defensive security and CTFs.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://cucyberclub.com/"
+  ]
+ },
+ {
+  "id": "oresec-mines-cybersecurity-club",
+  "name": "OreSec - Mines Cybersecurity Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/mZSNCy9rPM",
+  "discord_description": null,
+  "members": 388,
+  "online": 47,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "OreSec - Mines Cybersecurity Club",
+  "candidate_notes": "Colorado School of Mines cybersecurity club, Golden CO; competes in national CTFs, CSAW ESC, and RMCCDC.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://oresec.mines.edu/discord.html"
+  ]
+ },
+ {
+  "id": "utahsec",
+  "name": "UtahSec",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/jYrhfUZk53",
+  "discord_description": null,
+  "members": 691,
+  "online": 90,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "University of Utah Cybersecurity Club",
+  "candidate_notes": "Kahlert School of Computing student cybersecurity club, Salt Lake City UT; hub for events, talks, and CTFs.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://utahsec.cs.utah.edu/"
+  ]
+ },
+ {
+  "id": "lobosec-ctf-team",
+  "name": "LoboSec CTF Team",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/QjncsgS2gV",
+  "discord_description": null,
+  "members": 62,
+  "online": 6,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "LoboSec (University of New Mexico)",
+  "candidate_notes": "Student-led CTF team at University of New Mexico, Albuquerque NM; practices reverse engineering, web exploitation, and crypto.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://lobosec.unm.edu/"
+  ]
+ },
+ {
+  "id": "hackercats",
+  "name": "HackerCats",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/CqA8PKpfy4",
+  "discord_description": "The HackerCats club is a collection of Students at Montana State University that do CTF competitions, CyberSecurity education, and sometimes community outreach.",
+  "members": 168,
+  "online": 21,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "HackerCats (Montana State University)",
+  "candidate_notes": "Montana State University's cybersecurity/CTF club, Bozeman MT; weekly meetings and semesterly CTF competitions.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://montanastate.campuslabs.com/engage/organization/hackercats"
+  ]
+ }
+]

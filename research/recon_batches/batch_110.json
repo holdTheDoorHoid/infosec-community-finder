@@ -1,0 +1,122 @@
+[
+ {
+  "id": "world-monitor",
+  "name": "World Monitor",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/re63kWKxaz",
+  "discord_description": "Friends of WorldMonitor.appTrying to monitor the world, one insight at a time,",
+  "members": 11269,
+  "online": 824,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "worldmonitor",
+  "candidate_notes": "GitHub README of koala73/worldmonitor (86185 stars): Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational aw",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/koala73/worldmonitor"
+  ]
+ },
+ {
+  "id": "strix",
+  "name": "Strix",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/strix-ai",
+  "discord_description": "Open-source AI hackers to find and fix your app’s vulnerabilities",
+  "members": 2417,
+  "online": 255,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "strix",
+  "candidate_notes": "GitHub README of usestrix/strix (62218 stars): Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/usestrix/strix"
+  ]
+ },
+ {
+  "id": "imhex",
+  "name": "ImHex 🔎",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/imhex-789833418631675954",
+  "discord_description": "ImHex is an advanced Hex Editor for Developers and Reverse Engineers",
+  "members": 2093,
+  "online": 569,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "ImHex",
+  "candidate_notes": "GitHub README of WerWolv/ImHex (54790 stars): 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/WerWolv/ImHex"
+  ]
+ },
+ {
+  "id": "keygraph-community",
+  "name": "Keygraph Community",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/keygraph-community",
+  "discord_description": "This is the official home for everything Keygraph: our open-source AI pentester Shannon, the Keygraph Community Program, and the growing group of security professionals, developers, and red teamers building alongside us.",
+  "members": 1293,
+  "online": 144,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "shannon",
+  "candidate_notes": "GitHub README of KeygraphHQ/shannon (47966 stars): Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/KeygraphHQ/shannon"
+  ]
+ },
+ {
+  "id": "ente-community",
+  "name": "Ente Community",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/ente-community-948937918347608085",
+  "discord_description": "Ente - open source, end-to-end encrypted alternative to Google & Apple Photos",
+  "members": 6971,
+  "online": 1045,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "ente",
+  "candidate_notes": "GitHub README of ente/ente (28857 stars): 💚 End-to-end encrypted cloud for everything.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/ente/ente"
+  ]
+ },
+ {
+  "id": "pentagi-community",
+  "name": "PentAGI Community",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/2xrMh7qX6m",
+  "discord_description": "Official community for PentAGI - autonomous AI pentest platform. Discuss ethical hacking, AI agents, security research & get help from fellow professionals. Join us in advancing AI-powered cybersecurity!",
+  "members": 1307,
+  "online": 133,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "pentagi",
+  "candidate_notes": "GitHub README of vxcontrol/pentagi (23812 stars): Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/vxcontrol/pentagi"
+  ]
+ }
+]

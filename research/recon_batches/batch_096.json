@@ -1,0 +1,122 @@
+[
+ {
+  "id": "association-of-cyber-engineers",
+  "name": "Association of Cyber Engineers",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/RAyhGjeQnc",
+  "discord_description": null,
+  "members": 331,
+  "online": 48,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "ACE - Association of Cyber Engineers (Louisiana Tech)",
+  "candidate_notes": "Cyber engineering/security student org at Louisiana Tech University, Ruston LA; meets weekly, Discord on their official org page.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "http://orgs.latech.edu/ace/"
+  ]
+ },
+ {
+  "id": "isss",
+  "name": "ISSS",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/8Pn2mHA",
+  "discord_description": "We are ISSS.We're the security org of UTCS.We hack stuff. And teach you to do the same.",
+  "members": 1864,
+  "online": 214,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UT Austin ISSS (Information & Systems Security Society)",
+  "candidate_notes": "Student-run CTF/hacking club in UT Austin's CS department (Austin, TX); runs UTCTF; invite resolved from the club's own isss.io/discord redirect link.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.isss.io/discord"
+  ]
+ },
+ {
+  "id": "usc-tactics-prev-usc-ctf-team",
+  "name": "USC TACTICS (prev. USC CTF Team)",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/dZmcJWWnmW",
+  "discord_description": null,
+  "members": 583,
+  "online": 50,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "USC CTF Team",
+  "candidate_notes": "CTF-focused Discord for University of Southern California's CTF team, Los Angeles CA; ~500+ member community for competitive hacking practice.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://discord.com/invite/dZmcJWWnmW"
+  ]
+ },
+ {
+  "id": "berke1337",
+  "name": "BERKE1337",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/dd7a6VN5ut",
+  "discord_description": "BERKE1337 is UC Berkeley's cybersecurity club. If you are interested in learning cybersecurity, how to hack, participating in competitions, and meeting cool people, come join us!",
+  "members": 936,
+  "online": 101,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "BERKE1337 (UC Berkeley Cybersecurity Club)",
+  "candidate_notes": "Student-run cybersecurity club at UC Berkeley, Berkeley CA; weekly meetings, beginner-to-advanced security topics.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://1337.berkeley.edu/"
+  ]
+ },
+ {
+  "id": "acm-cyber",
+  "name": "ACM Cyber",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/j9dgf2q",
+  "discord_description": "A UCLA student-run club on a mission to make cybersecurity simple and accessible to everyone.",
+  "members": 1971,
+  "online": 239,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "ACM Cyber at UCLA",
+  "candidate_notes": "UCLA's competitive CTF and cybersecurity education club under ACM, Los Angeles CA; runs LA CTF.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.acmcyber.com/discord/"
+  ]
+ },
+ {
+  "id": "cyber-saguaros-ctf-server",
+  "name": "Cyber Saguaros CTF Server",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/TBwfVK36kv",
+  "discord_description": "A dedicated hub for Cyber Saguaro Club members featuring CTF competition information, team coordination, and resources.",
+  "members": 148,
+  "online": 19,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cyber Saguaros (University of Arizona)",
+  "candidate_notes": "University of Arizona's cybersecurity club, Tucson AZ; workshops and CTF practice for students of all levels.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://arizona.campusgroups.com/CyberSaguaros/blog/join-the-revamped-cyber-saugaros-discord-server/24236/"
+  ]
+ }
+]

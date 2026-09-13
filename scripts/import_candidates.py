@@ -6,7 +6,7 @@ Every invite is resolved through Discord's public invite preview; candidates are
 deduplicated by guild id (the true identity of a server), then by invite code.
 Existing entries are updated (stats + new sources), never dropped.
 """
-import json, sys, re, datetime, pathlib
+import json, sys, re, datetime, pathlib, fcntl
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from discordapi import lookup_invite, invite_code, resolve_shortlink, detect_platform, check_join_url, mastodon_stats
 from refresh import size_tier
@@ -100,4 +100,6 @@ def main(paths):
     print(f"added={added} updated={updated} dead/unresolvable={dead} no-invite={unresolved} total={len(db['communities'])}")
 
 if __name__ == "__main__":
-    main(sys.argv[1:])
+    with open(ROOT / "data" / ".import.lock", "w") as lk:
+        fcntl.flock(lk, fcntl.LOCK_EX)  # serialize concurrent imports
+        main(sys.argv[1:])

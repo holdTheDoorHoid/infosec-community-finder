@@ -1,0 +1,123 @@
+[
+ {
+  "id": "openspool-community",
+  "name": "OpenSpool Community",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/4EaXHu9CEj",
+  "discord_description": null,
+  "members": 251,
+  "online": 47,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "OpenSpool",
+  "candidate_notes": "GitHub README of spuder/OpenSpool (764 stars): RFID for 3d printer filament",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/spuder/OpenSpool"
+  ]
+ },
+ {
+  "id": "ronin-rb",
+  "name": "ronin-rb",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/6WAb3PsVX9",
+  "discord_description": "The ronin-rb project's discord server.",
+  "members": 95,
+  "online": 8,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "ronin",
+  "candidate_notes": "GitHub README of ronin-rb/ronin (757 stars): Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of co",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/ronin-rb/ronin",
+   "https://github.com/ronin-rb/ronin-exploits"
+  ]
+ },
+ {
+  "id": "projet-fox",
+  "name": "Projet FOX",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/projet-fox-775480337727225879",
+  "discord_description": "Le Projet FOX est un groupe sous pseudonymat destiné à la promotion du renseignement et de ses techniques.",
+  "members": 2302,
+  "online": 244,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Geogramint",
+  "candidate_notes": "GitHub README of Alb-310/Geogramint (729 stars): An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Alb-310/Geogramint"
+  ]
+ },
+ {
+  "id": "adscan-community",
+  "name": "ADscan Community",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/fXBR3P8H74",
+  "discord_description": null,
+  "members": 85,
+  "online": 19,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "adscan",
+  "candidate_notes": "GitHub README of ADScanPro/adscan (694 stars): Free Active Directory pentesting tool for Linux, macOS and Windows. Automates AD and LDAP enumeration, Kerberoasting, ASREPRoast, password spraying, A",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/ADScanPro/adscan"
+  ]
+ },
+ {
+  "id": "packj-discord-community",
+  "name": "Packj Discord Community",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/qFcqaV2wYa",
+  "discord_description": null,
+  "members": 52,
+  "online": 1,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "packj",
+  "candidate_notes": "GitHub README of ossillate-inc/packj (692 stars): Packj stops :zap: Solarwinds-, ESLint-, and PyTorch-like attacks by flagging malicious/vulnerable open-source dependencies (\"weak links\") in your soft",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/ossillate-inc/packj"
+  ]
+ },
+ {
+  "id": "softscale-web-agency-saas",
+  "name": "SoftScale - Web Agency & SaaS",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/xpWSW7pNhc",
+  "discord_description": "SoftScale - Services de développement informatique : Sites Web, Applications Web (SaaS), Applications mobiles, Bots Discord, Configuration de serveurs, Marketing digital, expertise SEO et bien plus vous attendent.",
+  "members": 2021,
+  "online": 19,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "flipper-zero-bad-usb",
+  "candidate_notes": "GitHub README of SeenKid/flipper-zero-bad-usb (670 stars): My collection of BadUSB scripts for the Flipper Zero. By downloading the files, you automatically agree to the license and the specific terms in the R",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/SeenKid/flipper-zero-bad-usb"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "syn-shop",
+  "name": "SYN Shop",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/zt6q6WGBeU",
+  "discord_description": null,
+  "members": 1453,
+  "online": 206,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "SYN Shop",
+  "candidate_notes": "Las Vegas, Nevada. Hackerspace with a security/hacker bent. Invite obtained via the group's own vanity redirect synshop.org/discord.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://synshop.org/discord"
+  ]
+ },
+ {
+  "id": "801-labs",
+  "name": "801 Labs",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/801labs",
+  "discord_description": "801 Labs is a Salt Lake City based hackerspace created by local IT, electronics, and information security enthusiasts.",
+  "members": 2536,
+  "online": 562,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "801 Labs",
+  "candidate_notes": "Salt Lake City, Utah. Hackerspace founded by IT/electronics/infosec enthusiasts; also the site of the local 2600 meetup.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://801labs.org/"
+  ]
+ },
+ {
+  "id": "bsidessf",
+  "name": "BSidesSF",
+  "platform": "slack",
+  "invite_url": "https://join.slack.com/t/bsidessf/shared_invite/zt-3q1q8pma8-8XroW4~UKYG9UXuHCdEURg",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "San Francisco, California. BSides security conference community Slack, listed directly on the official BSidesSF site.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://bsidessf.org/"
+  ]
+ },
+ {
+  "id": "skullspace-winnipeg",
+  "name": "SkullSpace Winnipeg",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/YcVEpuXGad",
+  "discord_description": null,
+  "members": 628,
+  "online": 97,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "SkullSpace",
+  "candidate_notes": "Winnipeg, Manitoba, Canada. Hackerspace with a security bent; Discord listed as their primary hangout on their events page (also has an IRC #skullspace channel).",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://skullspace.ca/"
+  ]
+ },
+ {
+  "id": "hackerspace-brussels-hsbxl",
+  "name": "Hackerspace Brussels (HSBXL)",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#hsbxl:matrix.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Brussels, Belgium. Community/hackerspace with a maker/tech-security bent in Molenbeek; public Matrix room linked directly on their contact page.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://hsbxl.be/"
+  ]
+ },
+ {
+  "id": "realraum",
+  "name": "realraum",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#_oftc_#realraum:matrix.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Graz, Austria. Hackerspace; public Matrix room (bridged from OFTC IRC) linked on their own site.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://wp.realraum.at/"
+  ]
+ }
+]

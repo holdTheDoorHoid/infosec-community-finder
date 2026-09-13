@@ -1,0 +1,122 @@
+[
+ {
+  "id": "cyber-lions",
+  "name": "Cyber Lions",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Snah2S3Wv2",
+  "discord_description": null,
+  "members": 265,
+  "online": 28,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Penn State Cyber Lions",
+  "candidate_notes": "Penn State Harrisburg cybersecurity club, Harrisburg PA; Discord is their primary hub for meetings and competition prep.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.hbgcyberlions.org/"
+  ]
+ },
+ {
+  "id": "psu-ccso",
+  "name": "PSU CCSO",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/NhN5RpBXkm",
+  "discord_description": "We help teach cybersecurity concepts and participate in cybersecurity competitions! psuccso.org",
+  "members": 1614,
+  "online": 195,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Penn State CCSO (Competitive Cyber Security Organization)",
+  "candidate_notes": "Penn State University Park's competitive cybersecurity/CTF club, State College PA; Discord is primary communication tool.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://psuccso.org/get-involved/"
+  ]
+ },
+ {
+  "id": "cyberdawgs-club",
+  "name": "CyberDawgs Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/hUVkGvvY2y",
+  "discord_description": "Here you can meet club members, discuss cyber topics, ask questions, find resources, and participate in CyberPaws CTF!",
+  "members": 1396,
+  "online": 200,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UMBC CyberDawgs",
+  "candidate_notes": "University of Maryland Baltimore County cybersecurity club, Baltimore MD; runs DawgCTF/CyberPaws CTF, resources and discussion.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://umbccd.umbc.edu/"
+  ]
+ },
+ {
+  "id": "su-information-security-club",
+  "name": "SU Information Security Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/epRJd9KfPC",
+  "discord_description": "The Information Security Club at Syracuse University has been fostering a growing cybersecurity group for over 10 years!",
+  "members": 308,
+  "online": 37,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Syracuse University Information Security Club",
+  "candidate_notes": "iSchool-affiliated infosec club at Syracuse University, Syracuse NY; found on club's official 'Join Us' page.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://studentorgs.syr.edu/isc/"
+  ]
+ },
+ {
+  "id": "stevens-cyber-defense-team",
+  "name": "Stevens Cyber Defense Team",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/pAmBhnYSbY",
+  "discord_description": "We break thing, do silly stuff, and try our best to not do something illegal.",
+  "members": 381,
+  "online": 67,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Stevens Cyber Defense Team",
+  "candidate_notes": "Stevens Institute of Technology's competitive cyber defense/CTF team, Hoboken NJ; competes in CCDC-style events.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://ducklink.stevens.edu/SCDT/basic-info/"
+  ]
+ },
+ {
+  "id": "stony-brook-cybersecurity-club",
+  "name": "Stony Brook Cybersecurity Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/4Pm4DCGfkx",
+  "discord_description": null,
+  "members": 641,
+  "online": 93,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Stony Brook Cybersecurity Club (SBU CyberSec)",
+  "candidate_notes": "Stony Brook University's cybersecurity club, Stony Brook NY; weekly meetings on forensics, pentesting, crypto for all skill levels.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.sbucyber.org/"
+  ]
+ }
+]

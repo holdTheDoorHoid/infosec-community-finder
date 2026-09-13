@@ -1,0 +1,122 @@
+[
+ {
+  "id": "masoncc",
+  "name": "MasonCC",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/AByZnByb32",
+  "discord_description": null,
+  "members": 1215,
+  "online": 165,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Mason Competitive Cyber (George Mason University)",
+  "candidate_notes": "George Mason University's competitive cybersecurity club (Fairfax, VA); one of Mason's largest student orgs, niche security skill-building.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://competitivecyber.club/"
+  ]
+ },
+ {
+  "id": "cofc-cybersecurity-club",
+  "name": "CofC Cybersecurity Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/uBCwjeG",
+  "discord_description": null,
+  "members": 211,
+  "online": 27,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "College of Charleston Cybersecurity Club",
+  "candidate_notes": "College of Charleston's student-run cybersecurity/CS club (Charleston, SC); Discord used for members who can't attend in person.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://cofcsecurity.github.io/about/"
+  ]
+ },
+ {
+  "id": "fpu-cybersecurity-club",
+  "name": "FPU Cybersecurity Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/AkfMMtyXq4",
+  "discord_description": "We're a collection of students who don't want to wait to learn what we're passionate about in Cyber Security!",
+  "members": 466,
+  "online": 111,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Florida Polytechnic University Cybersecurity Club",
+  "candidate_notes": "Florida Poly's offensive/defensive cybersecurity club (Lakeland, FL); combines hands-on learning with social events.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://floridapoly.presence.io/organization/cybersecurity-club"
+  ]
+ },
+ {
+  "id": "hacking-and-cyber-security-club-hacc",
+  "name": "Hacking and Cyber Security Club (HACC)",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/3xxec7V5zN",
+  "discord_description": null,
+  "members": 544,
+  "online": 82,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Hacking and Cyber Security Club (IASG) — Iowa State University",
+  "candidate_notes": "Student club at Iowa State University, Ames IA (formerly Information Assurance Student Group); weekly meetings on security topics, CTF-oriented.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://iasg.github.io/"
+  ]
+ },
+ {
+  "id": "sigpwny",
+  "name": "SIGPwny",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/sigpwny-485104508175646751",
+  "discord_description": "SIGPwny is the Special Interest Group for Information Security @ UIUC. Come hack with us! 📩 sigpwny.com/discord",
+  "members": 2766,
+  "online": 610,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "SIGPwny — University of Illinois Urbana-Champaign",
+  "candidate_notes": "UIUC's information security special interest group in Urbana-Champaign, IL; weekly meetings, CTF competitions and infosec research/teaching.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://sigpwny.com/"
+  ]
+ },
+ {
+  "id": "cybersecurity-club-iu",
+  "name": "Cybersecurity Club @ IU",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/QYzTXvctJc",
+  "discord_description": "The official discord of Cybersecurity Club @ IU. We do all event and communication through here.Join if you are @ IU",
+  "members": 510,
+  "online": 47,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cybersecurity Club @ IU — Indiana University",
+  "candidate_notes": "Cybersecurity community at IU's Luddy School of Informatics, Bloomington IN; open to students, industry, and the curious.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://discord.com/invite/QYzTXvctJc"
+  ]
+ }
+]

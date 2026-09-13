@@ -1,0 +1,124 @@
+[
+ {
+  "id": "warwick-cyber-security-society",
+  "name": "Warwick Cyber Security Society",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Ys4fr5CMKj",
+  "discord_description": "Welcome to the Warwick Cyber Security Society! We're a friendly and inclusive community centred around cyber security.",
+  "members": 949,
+  "online": 135,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Warwick Cyber Security Society",
+  "candidate_notes": "University of Warwick (Coventry, England) cybersecurity society; link found in the footer of their official site.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://warwickcybersoc.com/",
+   "https://warwickcybersoc.com/events"
+  ]
+ },
+ {
+  "id": "hacksoc-nottingham",
+  "name": "HackSoc Nottingham",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/EbgFUu9",
+  "discord_description": null,
+  "members": 1224,
+  "online": 161,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "HackSoc Nottingham",
+  "candidate_notes": "University of Nottingham (Nottingham, England) hacking/cybersecurity society; their site links to hacksoc.net/discord which redirects to this invite.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://hacksocnotts.co.uk/",
+   "https://su.nottingham.ac.uk/activities/view/hacksoc/discord"
+  ]
+ },
+ {
+  "id": "enusec",
+  "name": "ENUSEC",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/eyxTAnqyVX",
+  "discord_description": "Welcome to the wild world of ENUSEC>_",
+  "members": 801,
+  "online": 124,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "ENUSEC (Edinburgh Napier University Security Society)",
+  "candidate_notes": "Edinburgh Napier University (Edinburgh, Scotland) security society; also maintains the UK-wide university cybersec society directory on GitHub. Own site links to discord.enusec.org which redirects to this invite.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://enusec.org/"
+  ]
+ },
+ {
+  "id": "dmu-hackers",
+  "name": "DMU Hackers",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Vvrk4kK",
+  "discord_description": null,
+  "members": 868,
+  "online": 89,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DMU Hackers",
+  "candidate_notes": "De Montfort University (Leicester, England) hacking/cybersecurity society; Discord described on their own site as where session announcements and challenge hints happen.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://dmuhackers.com/"
+  ]
+ },
+ {
+  "id": "cybersoc-2",
+  "name": "CyberSoc",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/mUeP5j2",
+  "discord_description": null,
+  "members": 584,
+  "online": 70,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CyberSoc (University of York)",
+  "candidate_notes": "University of York (York, England) cybersecurity society covering crypto, web vulns and hardware hacking; invite is a bit.ly redirect posted directly on their own site. | shortlink http://bit.ly/CyberSocDiscord -> https://discord.com/invite/mUeP5j2",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://cybersoc.co.uk/"
+  ]
+ },
+ {
+  "id": "ham-radio-crash-course",
+  "name": "Ham Radio Crash Course",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/hrcc",
+  "discord_description": null,
+  "members": 35538,
+  "online": 4428,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Ham Radio Crash Course",
+  "candidate_notes": "Community Discord for the Ham Radio Crash Course YouTube channel (host Josh, KI6NAZ), which covers amateur radio licensing, SDR, and RF hardware topics for beginners; invite listed directly in the site's main navigation.",
+  "category_hints": [
+   "creator"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.hamradiocrashcourse.com"
+  ]
+ }
+]

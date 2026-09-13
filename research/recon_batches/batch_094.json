@@ -1,0 +1,122 @@
+[
+ {
+  "id": "ku-cyber-security-society",
+  "name": "KU Cyber Security Society",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/dTQaTyDAbn",
+  "discord_description": null,
+  "members": 168,
+  "online": 28,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "KU Cyber Security Society — University of Kansas",
+  "candidate_notes": "Student cybersecurity society at the University of Kansas, Lawrence KS.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://discord.com/invite/dTQaTyDAbn"
+  ]
+ },
+ {
+  "id": "purdue-cyber-forensics-club",
+  "name": "Purdue Cyber Forensics Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/XWKVTcs6Tg",
+  "discord_description": null,
+  "members": 785,
+  "online": 109,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Purdue Cyber Forensics Club — Purdue University",
+  "candidate_notes": "Digital forensics / incident response club at Purdue University, West Lafayette IN; workshops on forensics, red-teaming, and networking.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "website": null,
+  "sources": [
+   "https://boilerlink.purdue.edu/organization/pcf"
+  ]
+ },
+ {
+  "id": "cybersecurity-uw",
+  "name": "Cybersecurity UW",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/ZvjTAKmfuD",
+  "discord_description": null,
+  "members": 1201,
+  "online": 124,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cybersecurity UW (CSEC) — UW-Madison",
+  "candidate_notes": "Open student cybersecurity club at University of Wisconsin-Madison; covers security research, privacy, and online safety, open to anyone including non-UW students.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://csec.cs.wisc.edu/"
+  ]
+ },
+ {
+  "id": "cyber-uc",
+  "name": "Cyber@UC",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/usUmnhnBgH",
+  "discord_description": "Cyber@UC is a cybersecurity professional student organization at the University of Cincinnati.",
+  "members": 654,
+  "online": 92,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cyber@UC — University of Cincinnati",
+  "candidate_notes": "Cybersecurity club and CTF-active group at the University of Cincinnati, Cincinnati OH; weekly general body meetings, Discord is main communication channel.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://cyberatuc.org/"
+  ]
+ },
+ {
+  "id": "miami-university-cybersecurity-club",
+  "name": "Miami University Cybersecurity Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/k5fvEVTyB5",
+  "discord_description": null,
+  "members": 654,
+  "online": 56,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Miami University Cybersecurity Club",
+  "candidate_notes": "Student cybersecurity club at Miami University, Oxford OH; rapidly grown club with regular meetings, Discord used for schedule updates.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://miamicyber.org/"
+  ]
+ },
+ {
+  "id": "gopherhack",
+  "name": "GopherHack",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/XXJpShZ762",
+  "discord_description": null,
+  "members": 472,
+  "online": 52,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "GopherHack — University of Minnesota",
+  "candidate_notes": "Offensive-security/CTF student org at the University of Minnesota Twin Cities, Minneapolis MN; weekly CTF sessions in #ctf-general.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://gopherhack.com/"
+  ]
+ }
+]

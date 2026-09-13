@@ -1,0 +1,123 @@
+[
+ {
+  "id": "dc970",
+  "name": "dc970",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/qxxxUhYbT5",
+  "discord_description": null,
+  "members": 56,
+  "online": 16,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DC970 Fort Collins/Northern Colorado",
+  "candidate_notes": "Fort Collins, Colorado, USA. Northern Colorado security community DEF CON group; Discord link taken from their own website homepage.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://dc970.org",
+   "http://www.dc970.org"
+  ]
+ },
+ {
+  "id": "fubar-labs",
+  "name": "FUBAR Labs",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/dVs42Xz9Ns",
+  "discord_description": null,
+  "members": 703,
+  "online": 99,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "FUBAR Labs",
+  "candidate_notes": "New Brunswick, NJ. Hackerspace ('New Jersey's First Hackerspace') with a security/hacking bent; Discord invite is posted directly on their own homepage.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://new.fubarlabs.org/"
+  ]
+ },
+ {
+  "id": "lvl-1-louisville-hackerspace",
+  "name": "Lvl 1 - Louisville Hackerspace",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/aAxgSCQQWA",
+  "discord_description": null,
+  "members": 236,
+  "online": 44,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "LVL1 Hackerspace",
+  "candidate_notes": "Louisville, Kentucky. Hackerspace/makerspace with an active security-minded member base; Discord link listed on their official Linktree (also linked from lvl1.org/connect) as 'Join the Lvl 1 - Louisville Hackerspace Discord Server!'",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://linktr.ee/lvl1hackerspace"
+  ]
+ },
+ {
+  "id": "familab",
+  "name": "FamiLAB",
+  "platform": "slack",
+  "invite_url": "https://join.slack.com/t/familab/shared_invite/zt-fwgcchye-rwLzBFC0V0Dbo7xJsslDFA",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Longwood/Orlando, Florida. Community hackerspace/makerspace (hosts DC407 meetings). Slack invite link found referenced from their contact page; verified the invite link is live and redirects to the real 'familab' Slack workspace (familab.slack.com). Could not load familab.org pages directly (403 on repeated WebFetch attempts) to see the link in page context.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.familab.org/contact"
+  ]
+ },
+ {
+  "id": "raleigh-htb",
+  "name": "Raleigh HTB",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/NUvVk27X4g",
+  "discord_description": null,
+  "members": 96,
+  "online": 17,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Hack The Box Meetup: Raleigh, NC, USA",
+  "candidate_notes": "Raleigh, North Carolina. Meetup.com group for infosec/pentesting enthusiasts (Hack The Box branded local chapter) with a Discord invite listed in the group's own 'About us' description.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.meetup.com/hack-the-box-meetup-raleigh-nc-usa/"
+  ]
+ },
+ {
+  "id": "all-hands-active-aha",
+  "name": "All Hands Active (AHA!)",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/27kCgUPESv",
+  "discord_description": null,
+  "members": 53,
+  "online": 8,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "All Hands Active",
+  "candidate_notes": "Ann Arbor, Michigan. All-volunteer community hackerspace/makerspace; the site lists this Discord link alongside a separate Matrix chat (https://chat.allhandsactive.org). The rhino.li/discord shortlink currently 302-redirects to https://discord.gg/27kCgUPESv, confirmed by direct fetch. | shortlink https://rhino.li/discord -> https://discord.com/invite/27kCgUPESv",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://allhandsactive.org/"
+  ]
+ }
+]

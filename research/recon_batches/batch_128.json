@@ -1,0 +1,125 @@
+[
+ {
+  "id": "kiisu-io",
+  "name": "Kiisu.io",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/kiisu",
+  "discord_description": "KIISU Development Board is a card-sized alternative to Flipper Zero. KIISU is a product of RainWalker OÜ.",
+  "members": 1027,
+  "online": 170,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "kiisu4",
+  "candidate_notes": "GitHub README of kiisu-io/kiisu4 (146 stars): Documentation, schematics, and 3D models for KIISU V4 — credit-card sized Flipper Zero compatible dev board",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/kiisu-io/kiisu4",
+   "https://github.com/kiisu-io/kiisu4-companion-fw"
+  ]
+ },
+ {
+  "id": "nullctf-support-server",
+  "name": "NullCTF Support Server",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/yf8E2s8",
+  "discord_description": null,
+  "members": 51,
+  "online": 6,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "NullCTF",
+  "candidate_notes": "GitHub README of NullPxl/NullCTF (145 stars): A Discord bot that provides ctf tools for collaboration in Discord servers!",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/NullPxl/NullCTF"
+  ]
+ },
+ {
+  "id": "hardware-hacking-es",
+  "name": "Hardware Hacking ES",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/wkWr6Dj46D",
+  "discord_description": "Hardware Hacking ES Comunidad",
+  "members": 1392,
+  "online": 77,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "hardware_hacking_es",
+  "candidate_notes": "GitHub README of therealdreg/hardware_hacking_es (138 stars): Hardware Hacking ES Comunidad",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/therealdreg/hardware_hacking_es"
+  ]
+ },
+ {
+  "id": "the-black-pearl",
+  "name": "The Black Pearl",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/5vrJbbW3ve",
+  "discord_description": null,
+  "members": 76,
+  "online": 16,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "wardriver-pwnagotchi-plugin",
+  "candidate_notes": "GitHub README of cyberartemio/wardriver-pwnagotchi-plugin (129 stars): 🛜 A wardriving plugin for pwnagotchi. Saves all networks seen and uploads data to Wigle.net once internet is available",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/cyberartemio/wardriver-pwnagotchi-plugin",
+   "https://github.com/cyberartemio/wof-pwnagotchi-plugin",
+   "https://github.com/cyberartemio/badusb-payloads"
+  ]
+ },
+ {
+  "id": "the-dark-protocol",
+  "name": "The Dark Protocol",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Z2C2CyVZFU",
+  "discord_description": null,
+  "members": 176,
+  "online": 14,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Secbuild",
+  "candidate_notes": "GitHub README of DonatoReis/Secbuild (122 stars): An automation tool to install the most popular tools for bug bounty or pentesting.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/DonatoReis/Secbuild"
+  ]
+ },
+ {
+  "id": "zypherion-technologies",
+  "name": "Zypherion Technologies",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/JXx32jKJXY",
+  "discord_description": null,
+  "members": 52,
+  "online": 20,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "HallWatch",
+  "candidate_notes": "GitHub README of Zypherion-Technologies/HallWatch (91 stars): Usermode detector that catches indirect syscalls. Traps Hell's Hall, Tartarus' Gate, RecycledGate, and VEH syscalls & Many more.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Zypherion-Technologies/HallWatch"
+  ]
+ }
+]

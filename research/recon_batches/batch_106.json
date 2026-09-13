@@ -1,0 +1,123 @@
+[
+ {
+  "id": "tracecat-community",
+  "name": "Tracecat Community",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/H4XZwsYzY4",
+  "discord_description": null,
+  "members": 864,
+  "online": 94,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Tracecat",
+  "candidate_notes": "Official Discord for Tracecat, an open-source security automation/SOAR platform (modern alternative to Tines/Shuffle); audience is detection engineers and SOC automation builders.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/TracecatHQ/tracecat"
+  ]
+ },
+ {
+  "id": "tailscale-community",
+  "name": "Tailscale Community",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/tailscale",
+  "discord_description": "The official Discord community for Tailscale, the mesh VPN that seamlessly connects you to all your devices, securely and from anywhere. Come hang out with fellow community members!",
+  "members": 9458,
+  "online": 1979,
+  "verified": true,
+  "partnered": false,
+  "candidate_name": "Tailscale",
+  "candidate_notes": "Official Discord for Tailscale, the WireGuard-based mesh VPN company; audience is self-hosters, homelabbers and network engineers (adjacent to infosec, widely used for secure remote access).",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": null,
+  "sources": [
+   "https://tailscale.com/contact"
+  ]
+ },
+ {
+  "id": "wifipumpkin3",
+  "name": "Wifipumpkin3",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/jywYskR",
+  "discord_description": null,
+  "members": 1532,
+  "online": 64,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Wifipumpkin3",
+  "candidate_notes": "Rogue-AP / Wi-Fi phishing framework by P0cL4bs; official Discord in the README community section.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/P0cL4bs/wifipumpkin3",
+   "https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated"
+  ]
+ },
+ {
+  "id": "meshcore-io",
+  "name": "MeshCore.io",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/meshcore",
+  "discord_description": "The official Discord for the MeshCore project! https://meshcore.io",
+  "members": 12543,
+  "online": 2707,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "MeshCore",
+  "candidate_notes": "Off-grid LoRa mesh networking firmware/app (Meshtastic-adjacent project); official 'Get Support' link in the README, a vanity domain that redirects to the project's Discord. | shortlink https://meshcore.gg -> https://discord.com/invite/fUfWevRXAg",
+  "category_hints": [
+   "adjacent"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/meshcore-dev/MeshCore"
+  ]
+ },
+ {
+  "id": "rhino-security-labs",
+  "name": "Rhino Security Labs",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/8vFE7ucx9W",
+  "discord_description": null,
+  "members": 2055,
+  "online": 181,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Pacu (Rhino Security Labs)",
+  "candidate_notes": "Discord for Pacu, the AWS exploitation framework maintained by Rhino Security Labs; audience is cloud pentesters.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/RhinoSecurityLabs/pacu"
+  ]
+ },
+ {
+  "id": "akto",
+  "name": "Akto",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Wpc6xVME4s",
+  "discord_description": null,
+  "members": 510,
+  "online": 15,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Akto",
+  "candidate_notes": "Discord for Akto, an open-source API security testing/discovery platform; audience is API security engineers.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/akto-api-security/akto"
+  ]
+ }
+]

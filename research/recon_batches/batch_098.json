@@ -1,0 +1,122 @@
+[
+ {
+  "id": "uosec-security-club-at-uo",
+  "name": "UOSEC (Security Club at UO)",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/wn4T3byxh4",
+  "discord_description": null,
+  "members": 258,
+  "online": 30,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "University of Oregon Cybersecurity Club",
+  "candidate_notes": "UO's cybersecurity club, Eugene OR; weekly meetings, workshops, speakers, and CTF training.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://uosec.org/"
+  ]
+ },
+ {
+  "id": "sdsu-cyber-defense-team",
+  "name": "SDSU Cyber Defense Team",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Ga4tM3MQN3",
+  "discord_description": "Veni, Vidi, Vici",
+  "members": 1011,
+  "online": 119,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "SDSU Cyber Defense Team",
+  "candidate_notes": "San Diego State University's cyber defense/CTF team, San Diego CA; Friday meetings open to non-SDSU students too.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.sdsucyberdefense.org/"
+  ]
+ },
+ {
+  "id": "acm-cyber-2",
+  "name": "ACM Cyber",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/KMKaqtb",
+  "discord_description": null,
+  "members": 946,
+  "online": 91,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "ACM Cyber at UCSD",
+  "candidate_notes": "UC San Diego's competitive CTF training group under ACM, La Jolla CA; runs the annual SDCTF competition. | shortlink https://acmurl.com/cyber-discord -> https://discord.com/invite/KMKaqtb",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://cyber.acmucsd.com/"
+  ]
+ },
+ {
+  "id": "cpsec",
+  "name": "CPSEC",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/DEpZW6yxeh",
+  "discord_description": null,
+  "members": 772,
+  "online": 78,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "The White Hat (Cal Poly San Luis Obispo)",
+  "candidate_notes": "Cal Poly SLO's security club, San Luis Obispo CA; hands-on ethical hacking education, lab in Bonderson Hall.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://cpsecurity.club/"
+  ]
+ },
+ {
+  "id": "sjsu-cyber-intelligence-security-cis-club",
+  "name": "SJSU Cyber Intelligence & Security (CIS) Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/FxvUa5psyR",
+  "discord_description": "Cyber Intelligence & Security Club at SJSU",
+  "members": 422,
+  "online": 45,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "SJSU Cyber Intelligence & Security (CIS) Club",
+  "candidate_notes": "San Jose State University's security club, San Jose CA; biweekly meetings, CTF team, industry speakers.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://ischoolgroups.sjsu.edu/cisclub/"
+  ]
+ },
+ {
+  "id": "tsip",
+  "name": "TSIP",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/dccybersec",
+  "discord_description": "A global community of legends.",
+  "members": 7380,
+  "online": 753,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cyber Security Club at UC Davis",
+  "candidate_notes": "UC Davis cybersecurity club, Davis CA; runs the 'cowsay' CTF/CCDC competitions team and 0xdeadbeef infra team.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://daviscybersec.org/discord"
+  ]
+ }
+]

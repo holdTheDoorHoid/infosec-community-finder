@@ -1,0 +1,122 @@
+[
+ {
+  "id": "windows-kernel-exploitation",
+  "name": "Windows Kernel Exploitation",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/ns32uNhaq7",
+  "discord_description": null,
+  "members": 566,
+  "online": 66,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "HackSysExtremeVulnerableDriver",
+  "candidate_notes": "GitHub README of hacksysteam/HackSysExtremeVulnerableDriver (3096 stars): HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver"
+  ]
+ },
+ {
+  "id": "cyberstrike",
+  "name": "Cyberstrike",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/snunAaHf6U",
+  "discord_description": null,
+  "members": 54,
+  "online": 4,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CyberStrike",
+  "candidate_notes": "GitHub README of CyberStrikeus/CyberStrike (2717 stars): Open-source AI-powered offensive security harness for automated penetration testing.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/CyberStrikeus/CyberStrike"
+  ]
+ },
+ {
+  "id": "samboy-s-stuff",
+  "name": "Samboy's Stuff",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/samboy",
+  "discord_description": null,
+  "members": 1671,
+  "online": 370,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cpp2IL",
+  "candidate_notes": "GitHub README of SamboyCoding/Cpp2IL (2623 stars): Work-in-progress tool to reverse unity's IL2CPP toolchain.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/SamboyCoding/Cpp2IL"
+  ]
+ },
+ {
+  "id": "reko-decompiler",
+  "name": "reko-decompiler",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/9PMWVxEjqr",
+  "discord_description": null,
+  "members": 41,
+  "online": 18,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "reko",
+  "candidate_notes": "GitHub README of uxmal/reko (2602 stars): Reko is a binary decompiler.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/uxmal/reko"
+  ]
+ },
+ {
+  "id": "armur-ai-pentest-swarm-official",
+  "name": "Armur AI - Pentest Swarm Official",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/6qtkhpW8tk",
+  "discord_description": null,
+  "members": 610,
+  "online": 17,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Pentest-Swarm-AI",
+  "candidate_notes": "GitHub README of Armur-Ai/Pentest-Swarm-AI (2493 stars): Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reas",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Armur-Ai/Pentest-Swarm-AI"
+  ]
+ },
+ {
+  "id": "datatorch",
+  "name": "DataTorch",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/4zP5Qkj",
+  "discord_description": null,
+  "members": 381,
+  "online": 15,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "coco-annotator",
+  "candidate_notes": "GitHub README of jsbroks/coco-annotator (2281 stars): :pencil2: Web-based image segmentation tool for object detection, localization, and keypoints",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/jsbroks/coco-annotator"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "slug-security",
+  "name": "Slug Security",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/NUVZCumQXB",
+  "discord_description": "The student-run cybersecurity organization at UC Santa Cruz",
+  "members": 880,
+  "online": 152,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Slug Security (UC Santa Cruz)",
+  "candidate_notes": "UC Santa Cruz's cybersecurity/CTF club, Santa Cruz CA; primary community hub for meetings and challenges.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://slugsec.ucsc.edu/"
+  ]
+ },
+ {
+  "id": "cyber-uci",
+  "name": "Cyber@UCI",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/WjbSP2B9Ck",
+  "discord_description": "Cyber@UCI is UC Irvine's cybersecurity club! All welcome, regardless of experience.",
+  "members": 1246,
+  "online": 131,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cyber@UCI",
+  "candidate_notes": "UC Irvine's competitive cybersecurity club, Irvine CA; HackerLab space and CTF competition teams. | shortlink https://discord.cyberuci.com -> https://discord.com/invite/WjbSP2B9Ck",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://cyberuci.com/"
+  ]
+ },
+ {
+  "id": "oss-we-re-in",
+  "name": "OSS - We're in (⌐■_■)",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/x7yqYxrfYz",
+  "discord_description": "CSUF's forefront Cybersecurity Club",
+  "members": 1118,
+  "online": 138,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Offensive Security Society @ CSUF",
+  "candidate_notes": "Cal State Fullerton's offensive-security-focused student club, Fullerton CA; workshops, competitions, OSSCON event.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.osscsuf.org/discord"
+  ]
+ },
+ {
+  "id": "maple-bacon",
+  "name": "Maple Bacon",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/keeTZsmfVA",
+  "discord_description": null,
+  "members": 983,
+  "online": 150,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Maple Bacon (CTF @ UBC)",
+  "candidate_notes": "CTF team and cybersecurity club at the University of British Columbia (Vancouver, BC); runs MapleCTF and hosts weekly meetings.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://maplebacon.org/about/"
+  ]
+ },
+ {
+  "id": "carleton-cybersecurity-club",
+  "name": "Carleton Cybersecurity Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/udvZJBRvJp",
+  "discord_description": null,
+  "members": 1171,
+  "online": 174,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Carleton Cybersecurity Club",
+  "candidate_notes": "Student-run cybersecurity club at Carleton University (Ottawa, ON); workshops, talks, and CTFs, ~1,100 members.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://cucybersec.club/"
+  ]
+ },
+ {
+  "id": "uottawa-cybersecurity-club",
+  "name": "uOttawa Cybersecurity Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/zRTDnwZVtR",
+  "discord_description": null,
+  "members": 568,
+  "online": 60,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UO Cybersecurity Club",
+  "candidate_notes": "Student club at the University of Ottawa (Ottawa, ON) promoting cybersecurity awareness through workshops, talks, and CTFs.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://uocybersec.com/about"
+  ]
+ }
+]

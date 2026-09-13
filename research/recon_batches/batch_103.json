@@ -1,0 +1,128 @@
+[
+ {
+  "id": "micode",
+  "name": "MICODE",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/w3JGMGF",
+  "discord_description": null,
+  "members": 9,
+  "online": 2,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Micode",
+  "candidate_notes": "French-language YouTuber (Micode) teaching web dev / cybersecurity basics; Discord server confirmed as 'MICODE' via invite resolution. Language: French.",
+  "category_hints": [
+   "creator"
+  ],
+  "website": null,
+  "sources": [
+   "https://linktr.ee/micode"
+  ]
+ },
+ {
+  "id": "guia-an-nima",
+  "name": "Guia Anônima",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/guia-anonima-719674366861770834",
+  "discord_description": "Grupo focado em Segurança da Informação e Hacking",
+  "members": 5587,
+  "online": 355,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Guia Anônima",
+  "candidate_notes": "Brazilian Portuguese hacking/OSINT education creator/site (Guia Anônima); invite obtained via the site's own discord.guiaanonima.com redirect. Language: Portuguese (Brazil).",
+  "category_hints": [
+   "creator",
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://guiaanonima.com",
+   "https://guiaanonima.com/"
+  ]
+ },
+ {
+  "id": "bc-security",
+  "name": "BC Security",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/P8PZPyf",
+  "discord_description": "Cybersecurity Community",
+  "members": 2534,
+  "online": 296,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Empire (BC Security)",
+  "candidate_notes": "Official Discord for BC Security's Empire, a post-exploitation PowerShell/C# C2 framework and the maintained continuation of the original Empire project.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/BC-SECURITY/Empire"
+  ]
+ },
+ {
+  "id": "netexec",
+  "name": "NetExec",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/pjwUTQzg8R",
+  "discord_description": "This is the server of the NetExec tool",
+  "members": 1542,
+  "online": 265,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "NetExec",
+  "candidate_notes": "Official Discord for NetExec (Pennyw0rth), the actively maintained successor to CrackMapExec for Active Directory/network pentesting.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Pennyw0rth/NetExec"
+  ]
+ },
+ {
+  "id": "projectdiscovery-community",
+  "name": "ProjectDiscovery Community",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/projectdiscovery",
+  "discord_description": "This server is all about sharing information about security automation with ProjectDiscovery and other tools.",
+  "members": 8972,
+  "online": 872,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Nuclei / ProjectDiscovery",
+  "candidate_notes": "Official ProjectDiscovery Discord covering Nuclei and their other vulnerability-scanning tools; run by the ProjectDiscovery team.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/projectdiscovery/nuclei",
+   "https://github.com/projectdiscovery/subfinder",
+   "https://github.com/projectdiscovery/nuclei-templates",
+   "https://github.com/projectdiscovery/httpx"
+  ]
+ },
+ {
+  "id": "caido",
+  "name": "Caido",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/caido-843915806748180492",
+  "discord_description": "The web hacking toolkit designed to scale manual testing through AI and teamwork.",
+  "members": 4727,
+  "online": 822,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Caido",
+  "candidate_notes": "Official Discord for Caido, a lightweight web application security testing proxy positioned as a Burp Suite alternative. | shortlink https://links.caido.io/www-discord -> https://discord.com/invite/KgGkkpKFaq",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/caido/caido",
+   "https://caido.io"
+  ]
+ }
+]

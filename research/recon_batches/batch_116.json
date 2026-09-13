@@ -1,0 +1,122 @@
+[
+ {
+  "id": "bitter-security",
+  "name": "Bitter Security",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/TZUYsZgrRG",
+  "discord_description": null,
+  "members": 567,
+  "online": 77,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Decepticon",
+  "candidate_notes": "GitHub README of PurpleAILAB/Decepticon (5503 stars): Autonomous Hacking Agent for Red Team",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/PurpleAILAB/Decepticon"
+  ]
+ },
+ {
+  "id": "hackrf-portapack-mayhem",
+  "name": "HackRF PortaPack Mayhem",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/tuwVMv3",
+  "discord_description": "Mayhem is not just a firmware for your HackRF+Portapack; it's a journey into the unpredictable landscape of radio waves.",
+  "members": 10823,
+  "online": 1544,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "mayhem-firmware",
+  "candidate_notes": "GitHub README of portapack-mayhem/mayhem-firmware (5407 stars): The firmware for the HackRF+PortaPack H1/H2/H4/H4M",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/portapack-mayhem/mayhem-firmware"
+  ]
+ },
+ {
+  "id": "tribler",
+  "name": "Tribler",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/UpPUcVGESe",
+  "discord_description": null,
+  "members": 135,
+  "online": 20,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "tribler",
+  "candidate_notes": "GitHub README of Tribler/tribler (5311 stars): Privacy enhanced BitTorrent client with P2P content discovery",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Tribler/tribler"
+  ]
+ },
+ {
+  "id": "viper-platform",
+  "name": "Viper Platform",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/3R9yZvQueT",
+  "discord_description": null,
+  "members": 106,
+  "online": 9,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Viper",
+  "candidate_notes": "GitHub README of FunnyWolf/Viper (5302 stars): Adversary simulation and Red teaming platform with AI",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/FunnyWolf/Viper"
+  ]
+ },
+ {
+  "id": "pret",
+  "name": "pret",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/d5dubZ3",
+  "discord_description": null,
+  "members": 12313,
+  "online": 3336,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "pokered",
+  "candidate_notes": "GitHub README of pret/pokered (4916 stars): Disassembly of Pokémon Red/Blue",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/pret/pokered"
+  ]
+ },
+ {
+  "id": "user-scanner",
+  "name": "User Scanner",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/tVNrKVXb49",
+  "discord_description": "User Scanner is the most advanced open-source 2-in-1 Email and Username OSINT tool. Join to meet with OSINT and Cybersecurity enthusiasts",
+  "members": 356,
+  "online": 28,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "user-scanner",
+  "candidate_notes": "GitHub README of kaifcodec/user-scanner (4776 stars): 🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 550+ act",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/kaifcodec/user-scanner"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "dissect",
+  "name": "Dissect",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/tS48YbzXN7",
+  "discord_description": null,
+  "members": 60,
+  "online": 9,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "dissect",
+  "candidate_notes": "GitHub README of fox-it/dissect (1155 stars): Dissect is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/fox-it/dissect"
+  ]
+ },
+ {
+  "id": "ai",
+  "name": "你也要玩AI吗？",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/But5j58J2f",
+  "discord_description": null,
+  "members": 95,
+  "online": 11,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "open-reverselab",
+  "candidate_notes": "GitHub README of LING71671/open-reverselab (1120 stars): Open-source AI reverse-engineering agent platform and MCP server for Ghidra, Frida, x64dbg and Rizin — automated PE/APK/binary analysis, CTF and malwa",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/LING71671/open-reverselab"
+  ]
+ },
+ {
+  "id": "kunai",
+  "name": "Kunai",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/AUMaBvHvNU",
+  "discord_description": null,
+  "members": 40,
+  "online": 4,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "kunai",
+  "candidate_notes": "GitHub README of kunai-project/kunai (1087 stars): Threat-hunting tool for Linux",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/kunai-project/kunai"
+  ]
+ },
+ {
+  "id": "vigolium",
+  "name": "Vigolium",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/aHFypbAu6Y",
+  "discord_description": null,
+  "members": 120,
+  "online": 12,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "vigolium",
+  "candidate_notes": "GitHub README of vigolium/vigolium (1069 stars): Vigolium - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/vigolium/vigolium"
+  ]
+ },
+ {
+  "id": "wall-of-flippers",
+  "name": "Wall of Flippers",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Bg2fvmjQvg",
+  "discord_description": null,
+  "members": 16,
+  "online": 1,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Wall-of-Flippers",
+  "candidate_notes": "GitHub README of k3yomi/Wall-of-Flippers (1029 stars): A simple and easy way to find Flipper Zero Devices and Bluetooth Low Energy Based Attacks",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/k3yomi/Wall-of-Flippers"
+  ]
+ },
+ {
+  "id": "realhax-io",
+  "name": "realhax.io",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/D5QTtWEwxZ",
+  "discord_description": null,
+  "members": 229,
+  "online": 19,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "capsulecorp-pentest",
+  "candidate_notes": "GitHub README of R3dy/capsulecorp-pentest (1008 stars): Vagrant VirtualBox environment for conducting an internal network penetration test",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/R3dy/capsulecorp-pentest"
+  ]
+ }
+]

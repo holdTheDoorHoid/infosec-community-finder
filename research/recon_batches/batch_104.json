@@ -1,0 +1,123 @@
+[
+ {
+  "id": "adaptix-framework",
+  "name": "Adaptix-Framework",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/pGYRTwDsTb",
+  "discord_description": null,
+  "members": 452,
+  "online": 73,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "AdaptixC2",
+  "candidate_notes": "Official community Discord (also has a Telegram) for AdaptixC2, an open-source extensible post-exploitation C2 framework.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://adaptix-framework.gitbook.io/adaptix-framework"
+  ]
+ },
+ {
+  "id": "parrot-security",
+  "name": "Parrot Security",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/j7QTaCzAsm",
+  "discord_description": null,
+  "members": 5896,
+  "online": 607,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Parrot Security (Parrot OS)",
+  "candidate_notes": "Official Discord for Parrot OS, the Debian-based security/pentest-focused Linux distribution.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.parrotsec.org/"
+  ]
+ },
+ {
+  "id": "exegol",
+  "name": "Exegol",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/cXThyp7D6P",
+  "discord_description": null,
+  "members": 3037,
+  "online": 725,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Exegol",
+  "candidate_notes": "Official Discord for Exegol, a community-maintained Docker-based hacking environment/toolbox used heavily in French and international pentest circles. | shortlink https://discord.exegol.com -> https://discord.com/invite/cXThyp7D6P",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://exegol.com/community"
+  ]
+ },
+ {
+  "id": "x64dbg",
+  "name": "x64dbg",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/PRfRYbt",
+  "discord_description": "Official server for x64dbg.",
+  "members": 2862,
+  "online": 787,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "x64dbg",
+  "candidate_notes": "Open-source x86/x64 debugger for Windows executables; official project Discord linked via badge in the GitHub README, aimed at users and contributors of the debugger. | shortlink https://discord.x64dbg.com -> https://discord.com/invite/PRfRYbt",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/x64dbg/x64dbg"
+  ]
+ },
+ {
+  "id": "pwndbg",
+  "name": "pwndbg",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/x47DssnGwm",
+  "discord_description": "Server for Pwndbg users and development. Pwndbg is a plugin to GDB for reverse engineering and exploit development",
+  "members": 1030,
+  "online": 157,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "pwndbg",
+  "candidate_notes": "GDB/LLDB plugin for exploit development and reverse engineering; official Discord linked repeatedly in the project's own README for support and discussion.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/pwndbg/pwndbg"
+  ]
+ },
+ {
+  "id": "blahcats",
+  "name": "BlahCats",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/hSbqxxBgRX",
+  "discord_description": null,
+  "members": 493,
+  "online": 69,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "GEF (GDB Enhanced Features)",
+  "candidate_notes": "GDB plugin adding exploit-dev/RE features, maintained by hugsy; official Discord badge/link in the project README, used for user support.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/hugsy/gef",
+   "https://github.com/hugsy/ctfhub"
+  ]
+ }
+]

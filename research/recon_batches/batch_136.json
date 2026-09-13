@@ -1,0 +1,122 @@
+[
+ {
+  "id": "projectsecurity",
+  "name": "ProjectSecurity",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/cybercademy-543573580718276609",
+  "discord_description": "A cybersecurity community for students, enthusiasts, and professionals.",
+  "members": 9311,
+  "online": 767,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cybercademy (Grant Collins)",
+  "candidate_notes": "Community tied to cybersecurity YouTuber/content creator Grant Collins (collinsinfosec), aimed at beginners breaking into the field; English, US.",
+  "category_hints": [
+   "creator"
+  ],
+  "website": null,
+  "sources": [
+   "https://cybercademy.org/author/grant/"
+  ]
+ },
+ {
+  "id": "total-seminars",
+  "name": "Total Seminars",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/SJwb5Kvnry",
+  "discord_description": "Study together, join live study halls and tech talks, find CompTIA exam prep, IT tech, job hunt info, tech support",
+  "members": 1765,
+  "online": 138,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Total Seminars Discord (Mike Meyers)",
+  "candidate_notes": "Run by Mike Meyers of Total Seminars (CompTIA A+/Network+/Security+ courses); hosts study halls for exam prep; English, US.",
+  "category_hints": [
+   "creator"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.linkedin.com/posts/mike-meyers-7611874_join-the-total-seminars-discord-discord-server-activity-7061790902733717505-Qwl1"
+  ]
+ },
+ {
+  "id": "cyber-insecurity",
+  "name": "Cyber Insecurity",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/GQWU5G9",
+  "discord_description": "Cyber Insecurity is a cybersecurity community for the masses, focusing on help for ANY skill level!",
+  "members": 4867,
+  "online": 793,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cyber Insecurity (Neal Bridges)",
+  "candidate_notes": "Community run by Neal Bridges, ~4500 cybersecurity professionals/beginners of all skill levels, non-toxic mentorship focus; English, US.",
+  "category_hints": [
+   "creator"
+  ],
+  "website": null,
+  "sources": [
+   "https://tobsec.com/cybersecurity-community-on-linkedin-and-discord"
+  ]
+ },
+ {
+  "id": "bleepingcomputer",
+  "name": "BleepingComputer",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/pC3R76v",
+  "discord_description": null,
+  "members": 1702,
+  "online": 141,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "BleepingComputer",
+  "candidate_notes": "Official Discord chat server for the BleepingComputer news site/forum community; general tech and security news readers, English, global.",
+  "category_hints": [
+   "creator"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.bleepingcomputer.com/forums/t/730914/the-bleepingcomputer-official-discord-chat-server-come-join-the-fun/"
+  ]
+ },
+ {
+  "id": "hackoonspace",
+  "name": "HackoonSpace",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/z5Vc9kRe8J",
+  "discord_description": null,
+  "members": 311,
+  "online": 54,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "HackoonSpace",
+  "candidate_notes": "Brazilian hackerspace/community affiliated with UFSCar (Sorocaba campus), aiming to demystify hacking for students and the public; lang pt, country BR.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.hackoonspace.com/"
+  ]
+ },
+ {
+  "id": "cybertalents",
+  "name": "CyberTalents",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Wx382zC",
+  "discord_description": "learn, practice, and share cybersecurity-related topics.",
+  "members": 2271,
+  "online": 77,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CyberTalents",
+  "candidate_notes": "Egypt-based global platform for Arab/MENA cybersecurity talent (CTFs, learning, hiring); Discord community ~2,270 members, run by CyberTalents (Cairo). Mixed Arabic/English.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://cybertalents.com/"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "garak-llm-vuln-scanner",
+  "name": "garak: llm vuln scanner",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/uVch4puUCs",
+  "discord_description": null,
+  "members": 2258,
+  "online": 166,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "garak",
+  "candidate_notes": "Discord for garak, NVIDIA's open-source LLM vulnerability scanner; audience is AI red teamers and LLM security researchers.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/NVIDIA/garak"
+  ]
+ },
+ {
+  "id": "pentesterlab",
+  "name": "PentesterLab",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/ymd3HkhbfE",
+  "discord_description": "Join a community of hackers, learners, and professionals leveling up in web security, code review, and real-world vulnerability research. Whether you're stuck on a lab, want to discuss a CVE, or just need meme support...  you're in the right place.",
+  "members": 2125,
+  "online": 217,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "PentesterLab",
+  "candidate_notes": "Official Discord for PentesterLab, a hands-on web/appsec exercise and training platform; audience is beginner-to-intermediate pentesting learners.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.pentesterlab.com"
+  ]
+ },
+ {
+  "id": "hetty",
+  "name": "Hetty",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/3HVsj5pTFP",
+  "discord_description": null,
+  "members": 243,
+  "online": 16,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Hetty",
+  "candidate_notes": "Discord for Hetty, an open-source HTTP toolkit (Burp-alternative intercepting proxy) by dstotijn; audience is web app security testers.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/dstotijn/hetty"
+  ]
+ },
+ {
+  "id": "dirsearch",
+  "name": "dirsearch",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/2N22ZdAJRj",
+  "discord_description": null,
+  "members": 216,
+  "online": 12,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "dirsearch",
+  "candidate_notes": "Official Discord for dirsearch, a popular web path/directory brute-forcing tool; audience is web pentesters/bug bounty hunters.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/maurosoria/dirsearch"
+  ]
+ },
+ {
+  "id": "malfrats-industries",
+  "name": "Malfrats Industries",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/sg2YcrC6x9",
+  "discord_description": null,
+  "members": 448,
+  "online": 29,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Malfrats Industries (GHunt)",
+  "candidate_notes": "Community server for GHunt (Google account OSINT tool) and other tools by mxrch's collective, credited in GHunt's README under Thanks/community; audience is OSINT/tool users.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/mxrch/GHunt"
+  ]
+ },
+ {
+  "id": "proton",
+  "name": "Proton",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/proton",
+  "discord_description": "The official Discord server for Proton.",
+  "members": 8578,
+  "online": 1915,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Proton",
+  "candidate_notes": "Official Discord for Proton (Proton Mail/VPN/Drive), the privacy-focused email and services suite; linked from the Proton website footer alongside their other social channels.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://proton.me/"
+  ]
+ }
+]

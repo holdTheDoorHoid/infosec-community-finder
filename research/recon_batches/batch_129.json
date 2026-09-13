@@ -1,0 +1,126 @@
+[
+ {
+  "id": "mimicry",
+  "name": "Mimicry",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/KjQGUrG8aJ",
+  "discord_description": null,
+  "members": 10,
+  "online": 0,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "mimicry",
+  "candidate_notes": "GitHub README of chaitin/mimicry (62 stars): Mimicry is a dynamic deception tool that actively deceives an attacker during exploitation and post-exploitation.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/chaitin/mimicry"
+  ]
+ },
+ {
+  "id": "fadsec-lab",
+  "name": "FadSec Lab 🇵🇰🇵🇸",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/kvAZvdkuuN",
+  "discord_description": "FadSec-Lab is a suite of ad-free, privacy-focused open-source apps dedicated to enhancing user security and privacy.",
+  "members": 667,
+  "online": 60,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "wifade",
+  "candidate_notes": "GitHub README of anonfaded/wifade (49 stars): Command-Line WiFi Manager with Integrated Brute-Forcer",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/anonfaded/wifade"
+  ]
+ },
+ {
+  "id": "weakpass-co",
+  "name": "weakpass & co",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/V9ce457mup",
+  "discord_description": null,
+  "members": 395,
+  "online": 35,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "lockpick.fun",
+  "candidate_notes": "GitHub README of zzzteph/lockpick.fun (6 stars): Realistic lockpicking simulator - pin mechanics, security pins and false sets, shown in cutaway.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/zzzteph/lockpick.fun"
+  ]
+ },
+ {
+  "id": "dc604",
+  "name": "dc604",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/TsUmH36g8q",
+  "discord_description": null,
+  "members": 210,
+  "online": 24,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DC604 (DEFCON Group Vancouver)",
+  "candidate_notes": "Vancouver, British Columbia, Canada. Discord link listed directly on the group's own website dc604.ca.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://dc604.ca/",
+   "https://dc604.ca",
+   "http://www.dc604.ca"
+  ]
+ },
+ {
+  "id": "cybersecurity-sacramento-dc916",
+  "name": "Cybersecurity Sacramento & DC916",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Dkn5DZTaGh",
+  "discord_description": "Discord for Cybersecurity Sacramento & DC916",
+  "members": 329,
+  "online": 57,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DC916 (Cybersecurity Sacramento)",
+  "candidate_notes": "Sacramento, California, USA. DEF CON Group DC916; invite found on the group's own website (dc916.com, \"Join Our Discord\" button).",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://dc916.com/",
+   "http://www.defcon916.org"
+  ]
+ },
+ {
+  "id": "dc757",
+  "name": "DC757",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/UnJGRNm",
+  "discord_description": null,
+  "members": 253,
+  "online": 56,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DC757/948 (Hampton Roads)",
+  "candidate_notes": "Hampton Roads, Virginia, USA (covers 757/948 area codes). DEF CON Group DC757; invite found on the group's own website under \"Stay Connected\".",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.dc757.org/",
+   "http://www.dc757.org"
+  ]
+ }
+]

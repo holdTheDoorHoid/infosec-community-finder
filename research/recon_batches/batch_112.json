@@ -1,0 +1,125 @@
+[
+ {
+  "id": "notesnook",
+  "name": "Notesnook",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/notesnook-796015620436787241",
+  "discord_description": "The official Notesnook server. Protecting your digital privacy.",
+  "members": 8028,
+  "online": 533,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "notesnook",
+  "candidate_notes": "GitHub README of streetwriters/notesnook (14584 stars): A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/streetwriters/notesnook"
+  ]
+ },
+ {
+  "id": "dc540",
+  "name": "DC540",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/TC9V9RCr5U",
+  "discord_description": null,
+  "members": 1276,
+  "online": 209,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Reverse-Engineering",
+  "candidate_notes": "GitHub README of mytechnotalent/Reverse-Engineering (14276 stars): A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.",
+  "category_hints": [
+   "tool",
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/mytechnotalent/Reverse-Engineering",
+   "https://github.com/mytechnotalent/pico-micropython-debug-template",
+   "http://www.dc540.org"
+  ]
+ },
+ {
+  "id": "opennhp",
+  "name": "OpenNHP",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/CpyVmspx5x",
+  "discord_description": "Official community for all OpenNHP projects: Zero Trust toolkit, StealthDNS, JS SDK, and IETF standardization.",
+  "members": 74,
+  "online": 5,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "opennhp",
+  "candidate_notes": "GitHub README of OpenNHP/opennhp (13917 stars): A lightweight, cryptography-powered, open-source toolkit built to enforce Zero Trust security for infrastructure, applications, and data in the AI-dri",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/OpenNHP/opennhp"
+  ]
+ },
+ {
+  "id": "pwntools",
+  "name": "pwntools",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/96VA2zvjCB",
+  "discord_description": null,
+  "members": 894,
+  "online": 112,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "pwntools",
+  "candidate_notes": "GitHub README of Gallopsled/pwntools (13692 stars): CTF framework and exploit development library",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Gallopsled/pwntools"
+  ]
+ },
+ {
+  "id": "embedded-exploitation",
+  "name": "Embedded Exploitation",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/UCXARN2vBx",
+  "discord_description": null,
+  "members": 299,
+  "online": 14,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "routersploit",
+  "candidate_notes": "GitHub README of threat9/routersploit (13241 stars): Exploitation Framework for Embedded Devices",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/threat9/routersploit"
+  ]
+ },
+ {
+  "id": "lunatranslator",
+  "name": "LunaTranslator",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/ErtDwVeAbB",
+  "discord_description": null,
+  "members": 4572,
+  "online": 1124,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "LunaTranslator",
+  "candidate_notes": "GitHub README of HIllya51/LunaTranslator (13163 stars): 视觉小说翻译器 / Visual Novel Translator",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/HIllya51/LunaTranslator"
+  ]
+ }
+]

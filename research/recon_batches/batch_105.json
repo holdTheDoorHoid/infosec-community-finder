@@ -1,0 +1,123 @@
+[
+ {
+  "id": "malcat",
+  "name": "Malcat",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Pf3s2ZKqtU",
+  "discord_description": "Malcat - the ultimate binary file dissector.",
+  "members": 265,
+  "online": 60,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Malcat",
+  "candidate_notes": "Malcat is a static-analysis/hex-editor tool for malware and file-format triage; Discord link appears in the community section of the official product site.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://malcat.fr/"
+  ]
+ },
+ {
+  "id": "crackmes-one",
+  "name": "crackmes.one",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/2pPV3yq",
+  "discord_description": null,
+  "members": 6717,
+  "online": 1551,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "crackmes.one",
+  "candidate_notes": "Community site hosting user-submitted crackmes/reversing challenges; official Discord linked in the site's nav and welcome text for questions and challenge discussion.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://crackmes.one/"
+  ]
+ },
+ {
+  "id": "binary-golf",
+  "name": "Binary Golf",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Q3r82zjrK5",
+  "discord_description": null,
+  "members": 236,
+  "online": 50,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Binary Golf",
+  "candidate_notes": "Binary Golf Grand Prix community focused on making the smallest possible files that are also valid in another format; Discord linked on the official binary.golf site.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://binary.golf/"
+  ]
+ },
+ {
+  "id": "thehive-project",
+  "name": "TheHive Project",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/XhxG3vzM44",
+  "discord_description": null,
+  "members": 1896,
+  "online": 128,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "TheHive / Cortex (StrangeBee)",
+  "candidate_notes": "Official community Discord for TheHive and Cortex, run by StrangeBee (the company that maintains TheHive/Cortex open-source SOAR and analysis engine); audience is DFIR/SOC analysts using the open-source stack.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://strangebee.com/",
+   "https://github.com/TheHive-Project/TheHive4py"
+  ]
+ },
+ {
+  "id": "crowdsec",
+  "name": "CrowdSec",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/crowdsec",
+  "discord_description": "CrowdSec: IDS/IPS/WAF Community",
+  "members": 7362,
+  "online": 1339,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CrowdSec",
+  "candidate_notes": "Official Discord for CrowdSec, the collaborative open-source IPS/behavior-detection engine; run by CrowdSec the company, audience is sysadmins and blue teamers deploying the agent.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/crowdsecurity/crowdsec"
+  ]
+ },
+ {
+  "id": "shuffle-automation",
+  "name": "Shuffle Automation",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/B2CBzUm",
+  "discord_description": null,
+  "members": 2309,
+  "online": 144,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Shuffle SOAR",
+  "candidate_notes": "Official community Discord for Shuffle, the open-source security automation/SOAR platform; audience is security engineers building automation workflows.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Shuffle/Shuffle"
+  ]
+ }
+]

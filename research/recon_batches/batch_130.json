@@ -1,0 +1,128 @@
+[
+ {
+  "id": "defcon-602",
+  "name": "DEFCON 602",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/QpKX2hkgKg",
+  "discord_description": null,
+  "members": 284,
+  "online": 58,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DC602 (DefCon 602 / Phoenix)",
+  "candidate_notes": "Phoenix, Arizona, USA. DEF CON Group DC602; invite found on the group's own website under \"Join Us / The New DefCon 602 Discord\".",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.dc602.org/",
+   "https://forum.defcon.org/node/250870",
+   "https://forum.defcon.org/node/231605",
+   "http://www.dc602.com"
+  ]
+ },
+ {
+  "id": "defcon-4822-warsaw",
+  "name": "Defcon 4822 Warsaw",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/QqFjCXgegA",
+  "discord_description": null,
+  "members": 272,
+  "online": 35,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DC4822 (Warsaw DEFCON Group)",
+  "candidate_notes": "Warsaw, Poland. DEF CON Group DC4822; the group's own site (dc4822.org) returned HTTP 403 to automated fetches, so this invite is confirmed via the Discord server's own public listing page (title \"Join the Defcon 4822 Warsaw Discord Server!\") rather than dc4822.org directly. Lower confidence because the primary site could not be checked.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://discord.com/invite/QqFjCXgegA",
+   "http://www.dc4822.org"
+  ]
+ },
+ {
+  "id": "dc512",
+  "name": "DC512",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/KmuuKKEKFS",
+  "discord_description": null,
+  "members": 608,
+  "online": 127,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DC512 (Austin, TX)",
+  "candidate_notes": "Austin, Texas, USA. DEF CON Group DC512; site (dc512.org) redirects to Meetup, but group's own materials/X bio list discord.dc512.org as their Discord entry point. | shortlink https://discord.dc512.org -> https://discord.com/invite/KmuuKKEKFS",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://dc512.org/"
+  ]
+ },
+ {
+  "id": "dc209-cybersecurity-collective",
+  "name": "DC209 | Cybersecurity Collective",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/arhtmKuqUM",
+  "discord_description": "DC209 is the official local DEFCON group for the 209 area. We're a community of hackers, tinkerers, and security enthusiasts who get together for good vibes and breaking things (legally of course) --- Local Meetups on the 3rd Thursday of each month more info in #meetups!",
+  "members": 31,
+  "online": 6,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DC209 (Modesto/Turlock, CA)",
+  "candidate_notes": "Modesto/Turlock, California, USA (Central Valley 209 region). DEF CON Group DC209; invite captured exactly as shown on the group's own website.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://dc209.org/",
+   "http://www.dc209.org"
+  ]
+ },
+ {
+  "id": "dcg-satx",
+  "name": "DCG-SATX",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/ew8S3A4ANC",
+  "discord_description": null,
+  "members": 405,
+  "online": 81,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DCG-SATX / DC726 & DC210 (San Antonio, TX)",
+  "candidate_notes": "San Antonio, Texas, USA. DCG-SATX is the current active DEF CON Group community site for the San Antonio DC groups (DC726/DC210 lineage); Discord invite captured exactly from dcgsatx.com.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://dcgsatx.com/"
+  ]
+ },
+ {
+  "id": "dc902",
+  "name": "DC902",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/wbPXa9B",
+  "discord_description": null,
+  "members": 698,
+  "online": 94,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DC902 - DEF CON Group Halifax",
+  "candidate_notes": "Halifax, Nova Scotia, Canada. DEF CON Group DC902, invite listed via search result titled 'Join the DC902 Discord Server!' tied to group's own site dc902.ca.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://forum.defcon.org/node/241504",
+   "http://www.dc902.ca"
+  ]
+ }
+]

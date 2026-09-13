@@ -1,0 +1,1210 @@
+[
+ {
+  "name": "NJIT Information & Cybersecurity Club",
+  "invite_url": "https://discord.com/invite/SffNgYMprK",
+  "source_url": "https://discord.com/invite/SffNgYMprK",
+  "category_hint": "learning",
+  "notes": "Student cybersecurity club at New Jersey Institute of Technology, Newark NJ; CTFs and learning-focused.",
+  "confidence": "listed"
+ },
+ {
+  "name": "NUSEC (Northeastern University Security Club)",
+  "invite_url": "https://discord.gg/JkYMdTbuDw",
+  "source_url": "https://linktr.ee/nusecurity",
+  "category_hint": "learning",
+  "notes": "Cybersecurity club at Northeastern University, Boston MA; workshops, professional development, community events; found via club's own Linktree.",
+  "confidence": "official"
+ },
+ {
+  "name": "NYUSEC / OSIRIS Lab",
+  "invite_url": "https://discord.com/invite/osirislab",
+  "source_url": "https://discord.com/invite/osirislab",
+  "category_hint": "ctf",
+  "notes": "NYU's cybersecurity community tied to the OSIRIS Lab research group, New York NY; hosts CTFs, hack nights, industry talks.",
+  "confidence": "listed"
+ },
+ {
+  "name": "UMass Cybersecurity Club",
+  "invite_url": "https://discord.gg/KRZDQTb",
+  "source_url": "https://infosec.cs.umass.edu/cybersec-club",
+  "category_hint": "learning",
+  "notes": "Official student org of UMass Amherst's Manning College of Info & Computer Sciences, Amherst MA; workshops and CTF competition team.",
+  "confidence": "official"
+ },
+ {
+  "name": "RITSEC",
+  "invite_url": "https://discord.com/invite/W7NefdyzHZ",
+  "source_url": "https://blog.ritsec.club/posts/a-comprehensive-beginners-guide-to-ritsec/",
+  "category_hint": "learning",
+  "notes": "Rochester Institute of Technology's cybersecurity club, Rochester NY; largest academic club on campus, weekly meetings.",
+  "confidence": "official"
+ },
+ {
+  "name": "RITSEC CTF",
+  "invite_url": "https://discord.gg/aNP8BupNmg",
+  "source_url": "https://ctf.ritsec.club/",
+  "category_hint": "ctf",
+  "notes": "Separate Discord run by RIT's RITSEC club specifically for their annual CTF competition, Rochester NY.",
+  "confidence": "official"
+ },
+ {
+  "name": "Penn State Cyber Lions",
+  "invite_url": "https://discord.gg/Snah2S3Wv2",
+  "source_url": "https://www.hbgcyberlions.org/",
+  "category_hint": "learning",
+  "notes": "Penn State Harrisburg cybersecurity club, Harrisburg PA; Discord is their primary hub for meetings and competition prep.",
+  "confidence": "official"
+ },
+ {
+  "name": "Penn State CCSO (Competitive Cyber Security Organization)",
+  "invite_url": "https://discord.gg/NhN5RpBXkm",
+  "source_url": "https://psuccso.org/get-involved/",
+  "category_hint": "ctf",
+  "notes": "Penn State University Park's competitive cybersecurity/CTF club, State College PA; Discord is primary communication tool.",
+  "confidence": "official"
+ },
+ {
+  "name": "UMBC CyberDawgs",
+  "invite_url": "https://discord.com/invite/hUVkGvvY2y",
+  "source_url": "https://umbccd.umbc.edu/",
+  "category_hint": "ctf",
+  "notes": "University of Maryland Baltimore County cybersecurity club, Baltimore MD; runs DawgCTF/CyberPaws CTF, resources and discussion.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Syracuse University Information Security Club",
+  "invite_url": "https://discord.gg/epRJd9KfPC",
+  "source_url": "https://studentorgs.syr.edu/isc/",
+  "category_hint": "learning",
+  "notes": "iSchool-affiliated infosec club at Syracuse University, Syracuse NY; found on club's official 'Join Us' page.",
+  "confidence": "official"
+ },
+ {
+  "name": "Stevens Cyber Defense Team",
+  "invite_url": "https://discord.gg/pAmBhnYSbY",
+  "source_url": "https://ducklink.stevens.edu/SCDT/basic-info/",
+  "category_hint": "ctf",
+  "notes": "Stevens Institute of Technology's competitive cyber defense/CTF team, Hoboken NJ; competes in CCDC-style events.",
+  "confidence": "official"
+ },
+ {
+  "name": "University of Delaware Capture the Flag / Cybersecurity Club",
+  "invite_url": "https://discord.gg/xEEuXVR",
+  "source_url": "https://www.cis.udel.edu/academics/undergraduate-programs/cis-student-clubs/",
+  "category_hint": "ctf",
+  "notes": "UDel's student CTF/cybersecurity club, Newark DE; weekly competitions and sessions on crypto, exploitation, reverse engineering, forensics.",
+  "confidence": "official"
+ },
+ {
+  "name": "Stony Brook Cybersecurity Club (SBU CyberSec)",
+  "invite_url": "https://discord.gg/4Pm4DCGfkx",
+  "source_url": "https://www.sbucyber.org/",
+  "category_hint": "learning",
+  "notes": "Stony Brook University's cybersecurity club, Stony Brook NY; weekly meetings on forensics, pentesting, crypto for all skill levels.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Hack@UCF",
+  "invite_url": "https://discord.com/invite/VwkkDcJ",
+  "source_url": "https://hackucf.org/",
+  "category_hint": "ctf",
+  "notes": "University of Central Florida's collegiate cyber defense club (Orlando, FL); offensive/defensive security, CCDC and CTF competitions.",
+  "confidence": "official"
+ },
+ {
+  "name": "UF Student Infosec Team (UFSIT)",
+  "invite_url": "https://discord.gg/7HFp3fVWJh",
+  "source_url": "https://ufsit.club/",
+  "category_hint": "learning",
+  "notes": "University of Florida's student infosec club (Gainesville, FL); open membership, event and collaboration hub.",
+  "confidence": "official"
+ },
+ {
+  "name": "GreyHat @ Georgia Tech",
+  "invite_url": "https://discord.gg/wQWyKpGNpC",
+  "source_url": "https://greyhat.gatech.edu/about/",
+  "category_hint": "ctf",
+  "notes": "Georgia Tech's cybersecurity club (Atlanta, GA); teaches exploitation/defense and runs a competitive CTF team.",
+  "confidence": "official"
+ },
+ {
+  "name": "Society for Cybersecurity (SCS) at UGA",
+  "invite_url": "https://discord.gg/ffFXDBcs7V",
+  "source_url": "https://www.ugascs.org/",
+  "category_hint": "learning",
+  "notes": "University of Georgia's cybersecurity club (Athens, GA); general meetings, hack hours, workshops, competitions.",
+  "confidence": "official"
+ },
+ {
+  "name": "Ntropy (UNC Chapel Hill)",
+  "invite_url": "https://discord.gg/YjfgCz796g",
+  "source_url": "https://ntropy-unc.github.io/",
+  "category_hint": "ctf",
+  "notes": "UNC Chapel Hill's competitive CTF team; primary communication is via Discord.",
+  "confidence": "official"
+ },
+ {
+  "name": "Clemson Cyber",
+  "invite_url": "https://discord.gg/f7ZcC7z",
+  "source_url": "https://cucyber.net/",
+  "category_hint": "learning",
+  "notes": "Clemson University's student-led cybersecurity organization (Clemson, SC); technical and social security community.",
+  "confidence": "official"
+ },
+ {
+  "name": "Auburn University Ethical Hacking Club (EHC)",
+  "invite_url": "https://discord.gg/hYmnWPG",
+  "source_url": "https://ehc.auburn.edu/discord/",
+  "category_hint": "redteam",
+  "notes": "Auburn University's ethical hacking club (Auburn, AL), a child org of Auburn ACM; competitions and hands-on labs. Invite resolved from the club's own /discord/ redirect link.",
+  "confidence": "official"
+ },
+ {
+  "name": "CyberVT (Virginia Tech)",
+  "invite_url": "https://discord.gg/ghgpNdCctT",
+  "source_url": "https://cybervt.org/",
+  "category_hint": "learning",
+  "notes": "Virginia Tech's cybersecurity club (Blacksburg, VA), founded 2011; education-focused, open to students and public.",
+  "confidence": "official"
+ },
+ {
+  "name": "Liberty University Cyber Defense Club",
+  "invite_url": "https://discord.gg/24fKab8y8v",
+  "source_url": "https://lucyber.club/",
+  "category_hint": "learning",
+  "notes": "Liberty University's cyber defense club (Lynchburg, VA); meets weekly, network/computer defense skills.",
+  "confidence": "official"
+ },
+ {
+  "name": "Mason Competitive Cyber (George Mason University)",
+  "invite_url": "https://discord.gg/AByZnByb32",
+  "source_url": "https://competitivecyber.club/",
+  "category_hint": "ctf",
+  "notes": "George Mason University's competitive cybersecurity club (Fairfax, VA); one of Mason's largest student orgs, niche security skill-building.",
+  "confidence": "official"
+ },
+ {
+  "name": "ETSU Cybersecurity Club",
+  "invite_url": "https://discord.gg/6AZ9DbqqMs",
+  "source_url": "https://www.etsu.edu/cbat/computing/student_organizations.php",
+  "category_hint": "learning",
+  "notes": "East Tennessee State University's cybersecurity club (Johnson City, TN), founded fall 2022; nurtures future cybersecurity professionals.",
+  "confidence": "official"
+ },
+ {
+  "name": "College of Charleston Cybersecurity Club",
+  "invite_url": "https://discord.gg/uBCwjeG",
+  "source_url": "https://cofcsecurity.github.io/about/",
+  "category_hint": "learning",
+  "notes": "College of Charleston's student-run cybersecurity/CS club (Charleston, SC); Discord used for members who can't attend in person.",
+  "confidence": "official"
+ },
+ {
+  "name": "Florida Polytechnic University Cybersecurity Club",
+  "invite_url": "https://discord.gg/AkfMMtyXq4",
+  "source_url": "https://floridapoly.presence.io/organization/cybersecurity-club",
+  "category_hint": "learning",
+  "notes": "Florida Poly's offensive/defensive cybersecurity club (Lakeland, FL); combines hands-on learning with social events.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Hacking and Cyber Security Club (IASG) — Iowa State University",
+  "invite_url": "https://discord.gg/3xxec7V5zN",
+  "source_url": "https://iasg.github.io/",
+  "category_hint": "ctf",
+  "notes": "Student club at Iowa State University, Ames IA (formerly Information Assurance Student Group); weekly meetings on security topics, CTF-oriented.",
+  "confidence": "official"
+ },
+ {
+  "name": "SIGPwny — University of Illinois Urbana-Champaign",
+  "invite_url": "https://discord.gg/cWcZ6a9",
+  "source_url": "https://sigpwny.com/",
+  "category_hint": "ctf",
+  "notes": "UIUC's information security special interest group in Urbana-Champaign, IL; weekly meetings, CTF competitions and infosec research/teaching.",
+  "confidence": "official"
+ },
+ {
+  "name": "WolvSec — University of Michigan",
+  "invite_url": "https://discord.gg/JND8QNRbSY",
+  "source_url": "https://wolvsec.org/",
+  "category_hint": "ctf",
+  "notes": "Computer security club and CTF team at the University of Michigan, Ann Arbor MI; weekly meetings, competitions, and security projects.",
+  "confidence": "official"
+ },
+ {
+  "name": "Cybersecurity Club @ IU — Indiana University",
+  "invite_url": "https://discord.gg/QYzTXvctJc",
+  "source_url": "https://discord.com/invite/QYzTXvctJc",
+  "category_hint": "learning",
+  "notes": "Cybersecurity community at IU's Luddy School of Informatics, Bloomington IN; open to students, industry, and the curious.",
+  "confidence": "listed"
+ },
+ {
+  "name": "KU Cyber Security Society — University of Kansas",
+  "invite_url": "https://discord.gg/dTQaTyDAbn",
+  "source_url": "https://discord.com/invite/dTQaTyDAbn",
+  "category_hint": "learning",
+  "notes": "Student cybersecurity society at the University of Kansas, Lawrence KS.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Purdue Cyber Forensics Club — Purdue University",
+  "invite_url": "https://discord.gg/XWKVTcs6Tg",
+  "source_url": "https://boilerlink.purdue.edu/organization/pcf",
+  "category_hint": "blueteam",
+  "notes": "Digital forensics / incident response club at Purdue University, West Lafayette IN; workshops on forensics, red-teaming, and networking.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Cybersecurity UW (CSEC) — UW-Madison",
+  "invite_url": "https://discord.gg/ZvjTAKmfuD",
+  "source_url": "https://csec.cs.wisc.edu/",
+  "category_hint": "learning",
+  "notes": "Open student cybersecurity club at University of Wisconsin-Madison; covers security research, privacy, and online safety, open to anyone including non-UW students.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Cyber@UC — University of Cincinnati",
+  "invite_url": "https://discord.gg/usUmnhnBgH",
+  "source_url": "https://cyberatuc.org/",
+  "category_hint": "ctf",
+  "notes": "Cybersecurity club and CTF-active group at the University of Cincinnati, Cincinnati OH; weekly general body meetings, Discord is main communication channel.",
+  "confidence": "official"
+ },
+ {
+  "name": "Miami University Cybersecurity Club",
+  "invite_url": "https://discord.gg/k5fvEVTyB5",
+  "source_url": "https://miamicyber.org/",
+  "category_hint": "learning",
+  "notes": "Student cybersecurity club at Miami University, Oxford OH; rapidly grown club with regular meetings, Discord used for schedule updates.",
+  "confidence": "official"
+ },
+ {
+  "name": "GopherHack — University of Minnesota",
+  "invite_url": "https://discord.gg/XXJpShZ762",
+  "source_url": "https://gopherhack.com/",
+  "category_hint": "ctf",
+  "notes": "Offensive-security/CTF student org at the University of Minnesota Twin Cities, Minneapolis MN; weekly CTF sessions in #ctf-general.",
+  "confidence": "official"
+ },
+ {
+  "name": "Dakota State University Computer Club (DEFSEC)",
+  "invite_url": "http://discord.defsec.club",
+  "source_url": "https://defsec.club/",
+  "category_hint": "ctf",
+  "notes": "Umbrella computer club at Dakota State University, Madison SD, covering CTF, Defensive Security, Competitive Programming, and Ethical Hacking sub-clubs.",
+  "confidence": "official"
+ },
+ {
+  "name": "UNT Cyber Security Club",
+  "invite_url": null,
+  "source_url": "https://untcsc.github.io/",
+  "category_hint": "learning",
+  "notes": "University of North Texas (Denton, TX) student cybersecurity club; official Discord invite (discord.gg/WTDtznH) already listed in existing directory under a different name, so omitted here as duplicate.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "CyberHogs (University of Arkansas)",
+  "invite_url": "https://discord.gg/SY3QggWsDH",
+  "source_url": "https://hogsync.uark.edu/cyberhogs/useful-links/",
+  "category_hint": "learning",
+  "notes": "Cybersecurity club/RSO at the University of Arkansas, Fayetteville AR; runs certifications talks and social events.",
+  "confidence": "official"
+ },
+ {
+  "name": "UCA Computer Science and Cybersecurity",
+  "invite_url": "https://discord.com/invite/Jb9nfsU",
+  "source_url": "https://ualr.edu/computerscience/cybersecurity-club/",
+  "category_hint": "learning",
+  "notes": "Discord listed on UA Little Rock's Computer Science page for the campus Computer Science and Cybersecurity community, Little Rock AR.",
+  "confidence": "official"
+ },
+ {
+  "name": "Root66Tulsa Cyber Clubs",
+  "invite_url": "https://discord.com/invite/AHbdusEeHv",
+  "source_url": "https://root66tulsa.club/",
+  "category_hint": "ctf",
+  "notes": "Umbrella Discord for University of Tulsa's cyber clubs (TU CTF, WiCyS, etc.), Tulsa OK; run out of the School of Cyber Studies co-curricular program.",
+  "confidence": "official"
+ },
+ {
+  "name": "Cybersecurity Club at UTD (CSC-UTD)",
+  "invite_url": "https://discord.gg/JrPZDqz3YJ",
+  "source_url": "https://linktr.ee/cscutd",
+  "category_hint": "learning",
+  "notes": "UT Dallas student cybersecurity club (Richardson, TX); Discord linked from the club's official Linktree.",
+  "confidence": "official"
+ },
+ {
+  "name": "UTSA Cyber Jedis",
+  "invite_url": "https://discord.gg/JvafBSA4Ft",
+  "source_url": "https://rowdylink.utsa.edu/organization/cyberjedis",
+  "category_hint": "redteam",
+  "notes": "UT San Antonio penetration-testing focused student club (San Antonio, TX); listed on the university's RowdyLink org portal.",
+  "confidence": "listed"
+ },
+ {
+  "name": "CougarCS Info. Sec.",
+  "invite_url": "https://discord.com/invite/wdxqgErhKF",
+  "source_url": "https://cougarcs.com/",
+  "category_hint": "learning",
+  "notes": "Info Sec branch of CougarCS, the large student-run CS organization at the University of Houston, TX.",
+  "confidence": "official"
+ },
+ {
+  "name": "ACE - Association of Cyber Engineers (Louisiana Tech)",
+  "invite_url": "https://discord.com/invite/RAyhGjeQnc",
+  "source_url": "http://orgs.latech.edu/ace/",
+  "category_hint": "learning",
+  "notes": "Cyber engineering/security student org at Louisiana Tech University, Ruston LA; meets weekly, Discord on their official org page.",
+  "confidence": "official"
+ },
+ {
+  "name": "UT Austin ISSS (Information & Systems Security Society)",
+  "invite_url": "https://discord.com/invite/8Pn2mHA",
+  "source_url": "https://www.isss.io/discord",
+  "category_hint": "ctf",
+  "notes": "Student-run CTF/hacking club in UT Austin's CS department (Austin, TX); runs UTCTF; invite resolved from the club's own isss.io/discord redirect link.",
+  "confidence": "official"
+ },
+ {
+  "name": "Texas A&M Cybersecurity Club",
+  "invite_url": null,
+  "source_url": "https://cybr.club/",
+  "category_hint": "learning",
+  "notes": "Large, dues-free cybersecurity club at Texas A&M (College Station, TX) covering crypto/pwn/web/network defense and AWS/Cisco tracks; club confirms Discord is its main hub, but official site (cybr.club) returned 403 and no current invite URL could be verified on an official page (an old 2020 LinkedIn-posted code appears stale) — strong lead only.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "USC CTF Team",
+  "invite_url": "https://discord.com/invite/dZmcJWWnmW",
+  "source_url": "https://discord.com/invite/dZmcJWWnmW",
+  "category_hint": "ctf",
+  "notes": "CTF-focused Discord for University of Southern California's CTF team, Los Angeles CA; ~500+ member community for competitive hacking practice.",
+  "confidence": "official"
+ },
+ {
+  "name": "BERKE1337 (UC Berkeley Cybersecurity Club)",
+  "invite_url": "https://discord.gg/dd7a6VN5ut",
+  "source_url": "https://1337.berkeley.edu/",
+  "category_hint": "learning",
+  "notes": "Student-run cybersecurity club at UC Berkeley, Berkeley CA; weekly meetings, beginner-to-advanced security topics.",
+  "confidence": "official"
+ },
+ {
+  "name": "ACM Cyber at UCLA",
+  "invite_url": "https://discord.gg/j9dgf2q",
+  "source_url": "https://www.acmcyber.com/discord/",
+  "category_hint": "ctf",
+  "notes": "UCLA's competitive CTF and cybersecurity education club under ACM, Los Angeles CA; runs LA CTF.",
+  "confidence": "official"
+ },
+ {
+  "name": "Cyber Saguaros (University of Arizona)",
+  "invite_url": "https://discord.gg/TBwfVK36kv",
+  "source_url": "https://arizona.campusgroups.com/CyberSaguaros/blog/join-the-revamped-cyber-saugaros-discord-server/24236/",
+  "category_hint": "learning",
+  "notes": "University of Arizona's cybersecurity club, Tucson AZ; workshops and CTF practice for students of all levels.",
+  "confidence": "official"
+ },
+ {
+  "name": "Batman's Kitchen (University of Washington CTF Team)",
+  "invite_url": "https://discord.com/invite/u9USAb3PF7",
+  "source_url": "https://uwctf.cs.washington.edu",
+  "category_hint": "ctf",
+  "notes": "University of Washington's student CTF team, Seattle WA; weekly meetings and workshops on web, binary, and crypto exploitation.",
+  "confidence": "official"
+ },
+ {
+  "name": "OSU Security Club",
+  "invite_url": "https://discord.gg/2hNARuy",
+  "source_url": "https://osusec.org/",
+  "category_hint": "learning",
+  "notes": "Oregon State University's 350+ member security club, Corvallis OR; runs DamCTF and competes in CCDC/CDC events.",
+  "confidence": "official"
+ },
+ {
+  "name": "CU Cyber Club (University of Colorado Boulder)",
+  "invite_url": "https://discord.gg/eaVneRDJBX",
+  "source_url": "https://cucyberclub.com/",
+  "category_hint": "learning",
+  "notes": "CU Boulder's information security club, Boulder CO; weekly meetings covering offensive/defensive security and CTFs.",
+  "confidence": "official"
+ },
+ {
+  "name": "OreSec - Mines Cybersecurity Club",
+  "invite_url": "https://discord.com/invite/mZSNCy9rPM",
+  "source_url": "https://oresec.mines.edu/discord.html",
+  "category_hint": "ctf",
+  "notes": "Colorado School of Mines cybersecurity club, Golden CO; competes in national CTFs, CSAW ESC, and RMCCDC.",
+  "confidence": "official"
+ },
+ {
+  "name": "University of Utah Cybersecurity Club",
+  "invite_url": "https://discord.gg/jYrhfUZk53",
+  "source_url": "https://utahsec.cs.utah.edu/",
+  "category_hint": "learning",
+  "notes": "Kahlert School of Computing student cybersecurity club, Salt Lake City UT; hub for events, talks, and CTFs.",
+  "confidence": "official"
+ },
+ {
+  "name": "LoboSec (University of New Mexico)",
+  "invite_url": "https://discord.gg/QjncsgS2gV",
+  "source_url": "https://lobosec.unm.edu/",
+  "category_hint": "ctf",
+  "notes": "Student-led CTF team at University of New Mexico, Albuquerque NM; practices reverse engineering, web exploitation, and crypto.",
+  "confidence": "official"
+ },
+ {
+  "name": "HackerCats (Montana State University)",
+  "invite_url": "https://discord.gg/CqA8PKpfy4",
+  "source_url": "https://montanastate.campuslabs.com/engage/organization/hackercats",
+  "category_hint": "ctf",
+  "notes": "Montana State University's cybersecurity/CTF club, Bozeman MT; weekly meetings and semesterly CTF competitions.",
+  "confidence": "official"
+ },
+ {
+  "name": "University of Oregon Cybersecurity Club",
+  "invite_url": "https://discord.com/invite/wn4T3byxh4",
+  "source_url": "https://uosec.org/",
+  "category_hint": "learning",
+  "notes": "UO's cybersecurity club, Eugene OR; weekly meetings, workshops, speakers, and CTF training.",
+  "confidence": "official"
+ },
+ {
+  "name": "SDSU Cyber Defense Team",
+  "invite_url": "https://discord.gg/Ga4tM3MQN3",
+  "source_url": "https://www.sdsucyberdefense.org/",
+  "category_hint": "ctf",
+  "notes": "San Diego State University's cyber defense/CTF team, San Diego CA; Friday meetings open to non-SDSU students too.",
+  "confidence": "official"
+ },
+ {
+  "name": "ACM Cyber at UCSD",
+  "invite_url": "https://acmurl.com/cyber-discord",
+  "source_url": "https://cyber.acmucsd.com/",
+  "category_hint": "ctf",
+  "notes": "UC San Diego's competitive CTF training group under ACM, La Jolla CA; runs the annual SDCTF competition.",
+  "confidence": "official"
+ },
+ {
+  "name": "The White Hat (Cal Poly San Luis Obispo)",
+  "invite_url": "https://discord.gg/DEpZW6yxeh",
+  "source_url": "https://cpsecurity.club/",
+  "category_hint": "learning",
+  "notes": "Cal Poly SLO's security club, San Luis Obispo CA; hands-on ethical hacking education, lab in Bonderson Hall.",
+  "confidence": "official"
+ },
+ {
+  "name": "SJSU Cyber Intelligence & Security (CIS) Club",
+  "invite_url": "https://discord.gg/FxvUa5psyR",
+  "source_url": "https://ischoolgroups.sjsu.edu/cisclub/",
+  "category_hint": "learning",
+  "notes": "San Jose State University's security club, San Jose CA; biweekly meetings, CTF team, industry speakers.",
+  "confidence": "official"
+ },
+ {
+  "name": "Cyber Security Club at UC Davis",
+  "invite_url": "https://discord.com/invite/dccybersec",
+  "source_url": "https://daviscybersec.org/discord",
+  "category_hint": "ctf",
+  "notes": "UC Davis cybersecurity club, Davis CA; runs the 'cowsay' CTF/CCDC competitions team and 0xdeadbeef infra team.",
+  "confidence": "official"
+ },
+ {
+  "name": "Slug Security (UC Santa Cruz)",
+  "invite_url": "https://discord.gg/NUVZCumQXB",
+  "source_url": "https://slugsec.ucsc.edu/",
+  "category_hint": "ctf",
+  "notes": "UC Santa Cruz's cybersecurity/CTF club, Santa Cruz CA; primary community hub for meetings and challenges.",
+  "confidence": "official"
+ },
+ {
+  "name": "Cyber@UCI",
+  "invite_url": "https://discord.cyberuci.com",
+  "source_url": "https://cyberuci.com/",
+  "category_hint": "ctf",
+  "notes": "UC Irvine's competitive cybersecurity club, Irvine CA; HackerLab space and CTF competition teams.",
+  "confidence": "official"
+ },
+ {
+  "name": "Offensive Security Society @ CSUF",
+  "invite_url": "https://discord.com/invite/x7yqYxrfYz",
+  "source_url": "https://www.osscsuf.org/discord",
+  "category_hint": "learning",
+  "notes": "Cal State Fullerton's offensive-security-focused student club, Fullerton CA; workshops, competitions, OSSCON event.",
+  "confidence": "official"
+ },
+ {
+  "name": "Maple Bacon (CTF @ UBC)",
+  "invite_url": "https://discord.gg/keeTZsmfVA",
+  "source_url": "https://maplebacon.org/about/",
+  "category_hint": "ctf",
+  "notes": "CTF team and cybersecurity club at the University of British Columbia (Vancouver, BC); runs MapleCTF and hosts weekly meetings.",
+  "confidence": "official"
+ },
+ {
+  "name": "Carleton Cybersecurity Club",
+  "invite_url": "https://discord.gg/udvZJBRvJp",
+  "source_url": "https://cucybersec.club/",
+  "category_hint": "learning",
+  "notes": "Student-run cybersecurity club at Carleton University (Ottawa, ON); workshops, talks, and CTFs, ~1,100 members.",
+  "confidence": "official"
+ },
+ {
+  "name": "UO Cybersecurity Club",
+  "invite_url": "https://discord.gg/zRTDnwZVtR",
+  "source_url": "https://uocybersec.com/about",
+  "category_hint": "learning",
+  "notes": "Student club at the University of Ottawa (Ottawa, ON) promoting cybersecurity awareness through workshops, talks, and CTFs.",
+  "confidence": "official"
+ },
+ {
+  "name": "PolyCyber",
+  "invite_url": "https://discord.gg/ZcYnS3GZE6",
+  "source_url": "https://polycyber.io/en/join/",
+  "category_hint": "ctf",
+  "notes": "Cybersecurity technical society at Polytechnique Montréal (Montreal, QC) since 2013; workshops, CTF team competing at NorthSec/HackFest.",
+  "confidence": "official"
+ },
+ {
+  "name": "Dal Cyber Security Society",
+  "invite_url": "https://discord.com/invite/z4zWW2XBC7",
+  "source_url": "https://dalcyber.ca/",
+  "category_hint": "learning",
+  "notes": "Student cybersecurity society at Dalhousie University (Halifax, NS); CTFs, workshops, and industry talks.",
+  "confidence": "official"
+ },
+ {
+  "name": "UofT Cybersecurity Student Association (CSSA)",
+  "invite_url": "https://discord.gg/Mw6y7SfqSp",
+  "source_url": "https://cssa.sa.utoronto.ca/",
+  "category_hint": "learning",
+  "notes": "Official cybersecurity student association at the University of Toronto (Toronto, ON); events and resources to build security awareness/skills.",
+  "confidence": "official"
+ },
+ {
+  "name": "CSIUL (Club de sécurité informatique de l'Université Laval)",
+  "invite_url": "https://discord.gg/5pQdCTdNMV",
+  "source_url": "https://csi.ift.ulaval.ca/",
+  "category_hint": "ctf",
+  "notes": "Security/hacking club at Université Laval (Quebec City, QC); registration and community run through Discord.",
+  "confidence": "official"
+ },
+ {
+  "name": "RHUM (Regroupement des Hackers de l'Université de Montréal)",
+  "invite_url": "https://discord.gg/Tdunyeg",
+  "source_url": "https://unitedctf.ca/club/rhum",
+  "category_hint": "ctf",
+  "notes": "Hacking/cybersecurity club under the DIRO department at Université de Montréal (Montreal, QC); CTF-focused, part of UnitedCTF coalition.",
+  "confidence": "official"
+ },
+ {
+  "name": "DCI ÉTS",
+  "invite_url": "https://discord.gg/quAF2z8zyT",
+  "source_url": "https://unitedctf.ca/club/dciets",
+  "category_hint": "ctf",
+  "notes": "Computer science/cybersecurity club at École de technologie supérieure (Montreal, QC); weekly meetings and workshops, part of UnitedCTF coalition.",
+  "confidence": "official"
+ },
+ {
+  "name": "UnitedCTF",
+  "invite_url": "https://discord.gg/3jwhzDVSN3",
+  "source_url": "https://unitedctf.ca/",
+  "category_hint": "ctf",
+  "notes": "Beginner-oriented CTF competition and community organized jointly by six Quebec university clubs (ÉTS, Sherbrooke, Concordia, Laval, Polytechnique, Université de Montréal).",
+  "confidence": "official"
+ },
+ {
+  "name": "UofTCTF",
+  "invite_url": null,
+  "source_url": "https://uoftctf.org/about/",
+  "category_hint": "ctf",
+  "notes": "CTF group/team at the University of Toronto (Toronto, ON) with an Open and a UofT-only division; site states the community lives on Discord (discord.uoftctf.org) but the exact invite URL could not be confirmed from fetchable pages.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Southampton University Cyber Security Society (SUCSS)",
+  "invite_url": "https://discord.gg/BWNeFmKD2X",
+  "source_url": "https://www.susu.org/groups/cyber-security-society",
+  "category_hint": "learning",
+  "notes": "University of Southampton (Southampton, England) student cybersecurity society; runs CTFs, workshops and socials for members.",
+  "confidence": "official"
+ },
+ {
+  "name": "Cambridge University Cyber Security Society (CyberSoc)",
+  "invite_url": "https://discord.gg/8VDRkaZFvD",
+  "source_url": "https://cybersoc.soc.srcf.net/",
+  "category_hint": "learning",
+  "notes": "University of Cambridge (Cambridge, England) student cybersecurity society; official club site hosted on the university's own SRCF server infrastructure.",
+  "confidence": "official"
+ },
+ {
+  "name": "Glasgow Caledonian University Ethical Hacking Society",
+  "invite_url": "https://discord.gg/NXKjyFtswc",
+  "source_url": "https://www.gcustudents.co.uk/groups/ethical-hacking-society",
+  "category_hint": "learning",
+  "notes": "Glasgow Caledonian University (Glasgow, Scotland) student ethical hacking / cybersecurity society, listed on the official GCU Students' Association site.",
+  "confidence": "official"
+ },
+ {
+  "name": "AFiniteNumberOfMonkeys (AFNOM)",
+  "invite_url": "https://discord.gg/EkcRZc4",
+  "source_url": "https://afnom.net/",
+  "category_hint": "learning",
+  "notes": "University of Birmingham (Birmingham, England) cybersecurity/hacking society; weekly meetings announced via Discord, per their own site afnom.net.",
+  "confidence": "official"
+ },
+ {
+  "name": "University of Liverpool CyberSoc",
+  "invite_url": "https://discordapp.com/invite/p6qGd3D",
+  "source_url": "https://cybersocuol.github.io/about/",
+  "category_hint": "learning",
+  "notes": "University of Liverpool (Liverpool, England) Cyber Security Society; Discord described on their own site as the fastest way to reach them.",
+  "confidence": "official"
+ },
+ {
+  "name": "SIGINT (University of Edinburgh Cyber Security Society)",
+  "invite_url": "https://discord.gg/WynY7FD3HP",
+  "source_url": "https://sigint.mx/",
+  "category_hint": "learning",
+  "notes": "University of Edinburgh (Edinburgh, Scotland) cybersecurity society; link taken from the nav bar of their own site sigint.mx.",
+  "confidence": "official"
+ },
+ {
+  "name": "Warwick Cyber Security Society",
+  "invite_url": "https://discord.gg/Ys4fr5CMKj",
+  "source_url": "https://warwickcybersoc.com/",
+  "category_hint": "learning",
+  "notes": "University of Warwick (Coventry, England) cybersecurity society; link found in the footer of their official site.",
+  "confidence": "official"
+ },
+ {
+  "name": "HackSoc Nottingham",
+  "invite_url": "https://discord.gg/EbgFUu9",
+  "source_url": "https://hacksocnotts.co.uk/",
+  "category_hint": "learning",
+  "notes": "University of Nottingham (Nottingham, England) hacking/cybersecurity society; their site links to hacksoc.net/discord which redirects to this invite.",
+  "confidence": "official"
+ },
+ {
+  "name": "ENUSEC (Edinburgh Napier University Security Society)",
+  "invite_url": "https://discord.gg/eyxTAnqyVX",
+  "source_url": "https://enusec.org/",
+  "category_hint": "learning",
+  "notes": "Edinburgh Napier University (Edinburgh, Scotland) security society; also maintains the UK-wide university cybersec society directory on GitHub. Own site links to discord.enusec.org which redirects to this invite.",
+  "confidence": "official"
+ },
+ {
+  "name": "DMU Hackers",
+  "invite_url": "https://discord.gg/Vvrk4kK",
+  "source_url": "https://dmuhackers.com/",
+  "category_hint": "learning",
+  "notes": "De Montfort University (Leicester, England) hacking/cybersecurity society; Discord described on their own site as where session announcements and challenge hints happen.",
+  "confidence": "official"
+ },
+ {
+  "name": "CyberSoc (University of York)",
+  "invite_url": "http://bit.ly/CyberSocDiscord",
+  "source_url": "https://cybersoc.co.uk/",
+  "category_hint": "learning",
+  "notes": "University of York (York, England) cybersecurity society covering crypto, web vulns and hardware hacking; invite is a bit.ly redirect posted directly on their own site.",
+  "confidence": "official"
+ },
+ {
+  "name": "Ham Radio Crash Course",
+  "invite_url": "https://discord.com/invite/YGTJx8E",
+  "source_url": "https://www.hamradiocrashcourse.com",
+  "category_hint": "creator",
+  "notes": "Community Discord for the Ham Radio Crash Course YouTube channel (host Josh, KI6NAZ), which covers amateur radio licensing, SDR, and RF hardware topics for beginners; invite listed directly in the site's main navigation.",
+  "confidence": "official"
+ },
+ {
+  "name": "Micode",
+  "invite_url": "https://discord.gg/w3JGMGF",
+  "source_url": "https://linktr.ee/micode",
+  "category_hint": "creator",
+  "notes": "French-language YouTuber (Micode) teaching web dev / cybersecurity basics; Discord server confirmed as 'MICODE' via invite resolution. Language: French.",
+  "confidence": "official"
+ },
+ {
+  "name": "Guia Anônima",
+  "invite_url": "https://discord.gg/9uXZ9gK5FF",
+  "source_url": "https://guiaanonima.com",
+  "category_hint": "creator",
+  "notes": "Brazilian Portuguese hacking/OSINT education creator/site (Guia Anônima); invite obtained via the site's own discord.guiaanonima.com redirect. Language: Portuguese (Brazil).",
+  "confidence": "official"
+ },
+ {
+  "name": "DragonJAR",
+  "invite_url": null,
+  "source_url": "https://linktr.ee/dragonjar",
+  "category_hint": "creator",
+  "notes": "Well-known Colombian/Spanish-language cybersecurity community and blog (DragonJAR); their own Linktree lists a Discord icon/link, but the exact discord.gg invite string could not be extracted from the rendered page content (a browser would be needed to read the href). Language: Spanish. Strong lead, unverified invite string.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "Empire (BC Security)",
+  "invite_url": "https://discord.gg/P8PZPyf",
+  "source_url": "https://github.com/BC-SECURITY/Empire",
+  "category_hint": "tool",
+  "notes": "Official Discord for BC Security's Empire, a post-exploitation PowerShell/C# C2 framework and the maintained continuation of the original Empire project.",
+  "confidence": "official"
+ },
+ {
+  "name": "NetExec",
+  "invite_url": "https://discord.gg/pjwUTQzg8R",
+  "source_url": "https://github.com/Pennyw0rth/NetExec",
+  "category_hint": "tool",
+  "notes": "Official Discord for NetExec (Pennyw0rth), the actively maintained successor to CrackMapExec for Active Directory/network pentesting.",
+  "confidence": "official"
+ },
+ {
+  "name": "Nuclei / ProjectDiscovery",
+  "invite_url": "https://discord.gg/projectdiscovery",
+  "source_url": "https://github.com/projectdiscovery/nuclei",
+  "category_hint": "tool",
+  "notes": "Official ProjectDiscovery Discord covering Nuclei and their other vulnerability-scanning tools; run by the ProjectDiscovery team.",
+  "confidence": "official"
+ },
+ {
+  "name": "Caido",
+  "invite_url": "https://links.caido.io/www-discord",
+  "source_url": "https://github.com/caido/caido",
+  "category_hint": "tool",
+  "notes": "Official Discord for Caido, a lightweight web application security testing proxy positioned as a Burp Suite alternative.",
+  "confidence": "official"
+ },
+ {
+  "name": "bettercap",
+  "invite_url": "https://discord.gg/btZpkp45gQ",
+  "source_url": "https://github.com/bettercap/bettercap",
+  "category_hint": "tool",
+  "notes": "Official Discord for bettercap, the Swiss-army-knife network attack/monitoring framework (MITM, Wi-Fi/BLE recon, sniffing).",
+  "confidence": "official"
+ },
+ {
+  "name": "AdaptixC2",
+  "invite_url": "https://discord.gg/pGYRTwDsTb",
+  "source_url": "https://adaptix-framework.gitbook.io/adaptix-framework",
+  "category_hint": "tool",
+  "notes": "Official community Discord (also has a Telegram) for AdaptixC2, an open-source extensible post-exploitation C2 framework.",
+  "confidence": "official"
+ },
+ {
+  "name": "Parrot Security (Parrot OS)",
+  "invite_url": "https://discord.com/invite/j7QTaCzAsm",
+  "source_url": "https://www.parrotsec.org/",
+  "category_hint": "tool",
+  "notes": "Official Discord for Parrot OS, the Debian-based security/pentest-focused Linux distribution.",
+  "confidence": "official"
+ },
+ {
+  "name": "Exegol",
+  "invite_url": "https://discord.exegol.com",
+  "source_url": "https://exegol.com/community",
+  "category_hint": "tool",
+  "notes": "Official Discord for Exegol, a community-maintained Docker-based hacking environment/toolbox used heavily in French and international pentest circles.",
+  "confidence": "official"
+ },
+ {
+  "name": "x64dbg",
+  "invite_url": "https://discord.x64dbg.com",
+  "source_url": "https://github.com/x64dbg/x64dbg",
+  "category_hint": "tool",
+  "notes": "Open-source x86/x64 debugger for Windows executables; official project Discord linked via badge in the GitHub README, aimed at users and contributors of the debugger.",
+  "confidence": "official"
+ },
+ {
+  "name": "pwndbg",
+  "invite_url": "https://discord.gg/x47DssnGwm",
+  "source_url": "https://github.com/pwndbg/pwndbg",
+  "category_hint": "tool",
+  "notes": "GDB/LLDB plugin for exploit development and reverse engineering; official Discord linked repeatedly in the project's own README for support and discussion.",
+  "confidence": "official"
+ },
+ {
+  "name": "GEF (GDB Enhanced Features)",
+  "invite_url": "https://discord.gg/hSbqxxBgRX",
+  "source_url": "https://github.com/hugsy/gef",
+  "category_hint": "tool",
+  "notes": "GDB plugin adding exploit-dev/RE features, maintained by hugsy; official Discord badge/link in the project README, used for user support.",
+  "confidence": "official"
+ },
+ {
+  "name": "Malcat",
+  "invite_url": "https://discord.gg/Pf3s2ZKqtU",
+  "source_url": "https://malcat.fr/",
+  "category_hint": "tool",
+  "notes": "Malcat is a static-analysis/hex-editor tool for malware and file-format triage; Discord link appears in the community section of the official product site.",
+  "confidence": "official"
+ },
+ {
+  "name": "crackmes.one",
+  "invite_url": "https://discord.gg/2pPV3yq",
+  "source_url": "https://crackmes.one/",
+  "category_hint": "ctf",
+  "notes": "Community site hosting user-submitted crackmes/reversing challenges; official Discord linked in the site's nav and welcome text for questions and challenge discussion.",
+  "confidence": "official"
+ },
+ {
+  "name": "Binary Golf",
+  "invite_url": "https://discord.gg/Q3r82zjrK5",
+  "source_url": "https://binary.golf/",
+  "category_hint": "tool",
+  "notes": "Binary Golf Grand Prix community focused on making the smallest possible files that are also valid in another format; Discord linked on the official binary.golf site.",
+  "confidence": "official"
+ },
+ {
+  "name": "angr",
+  "invite_url": "https://discord.angr.io",
+  "source_url": "https://angr.io/",
+  "category_hint": "tool",
+  "notes": "Python binary analysis/symbolic execution framework from UCSB's Seclab; official site links its own Discord (discord.angr.io) alongside a Slack for support and dev discussion.",
+  "confidence": "official"
+ },
+ {
+  "name": "TheHive / Cortex (StrangeBee)",
+  "invite_url": "https://discord.com/invite/XhxG3vzM44",
+  "source_url": "https://strangebee.com/",
+  "category_hint": "tool",
+  "notes": "Official community Discord for TheHive and Cortex, run by StrangeBee (the company that maintains TheHive/Cortex open-source SOAR and analysis engine); audience is DFIR/SOC analysts using the open-source stack.",
+  "confidence": "official"
+ },
+ {
+  "name": "CrowdSec",
+  "invite_url": "https://discord.gg/crowdsec",
+  "source_url": "https://github.com/crowdsecurity/crowdsec",
+  "category_hint": "tool",
+  "notes": "Official Discord for CrowdSec, the collaborative open-source IPS/behavior-detection engine; run by CrowdSec the company, audience is sysadmins and blue teamers deploying the agent.",
+  "confidence": "official"
+ },
+ {
+  "name": "DFIR-IRIS",
+  "invite_url": "https://discord.gg/76tM6QUJza",
+  "source_url": "https://github.com/dfir-iris/iris-web",
+  "category_hint": "tool",
+  "notes": "Official Discord for DFIR-IRIS, the collaborative incident-response case management platform; audience is DFIR/IR practitioners and the project's contributors.",
+  "confidence": "official"
+ },
+ {
+  "name": "Shuffle SOAR",
+  "invite_url": "https://discord.gg/B2CBzUm",
+  "source_url": "https://github.com/Shuffle/Shuffle",
+  "category_hint": "tool",
+  "notes": "Official community Discord for Shuffle, the open-source security automation/SOAR platform; audience is security engineers building automation workflows.",
+  "confidence": "official"
+ },
+ {
+  "name": "Tracecat",
+  "invite_url": "https://discord.gg/H4XZwsYzY4",
+  "source_url": "https://github.com/TracecatHQ/tracecat",
+  "category_hint": "tool",
+  "notes": "Official Discord for Tracecat, an open-source security automation/SOAR platform (modern alternative to Tines/Shuffle); audience is detection engineers and SOC automation builders.",
+  "confidence": "official"
+ },
+ {
+  "name": "Tailscale",
+  "invite_url": "https://discord.gg/tailscale",
+  "source_url": "https://tailscale.com/contact",
+  "category_hint": "adjacent",
+  "notes": "Official Discord for Tailscale, the WireGuard-based mesh VPN company; audience is self-hosters, homelabbers and network engineers (adjacent to infosec, widely used for secure remote access).",
+  "confidence": "official"
+ },
+ {
+  "name": "Headscale",
+  "invite_url": "https://discord.gg/c84AZQhmpx",
+  "source_url": "https://github.com/juanfont/headscale",
+  "category_hint": "adjacent",
+  "notes": "Official Discord for Headscale, the open-source self-hosted implementation of the Tailscale control server; audience is self-hosters and network/homelab admins.",
+  "confidence": "official"
+ },
+ {
+  "name": "bettercap",
+  "invite_url": "https://discord.gg/btZpkp45gQ",
+  "source_url": "https://github.com/bettercap/bettercap",
+  "category_hint": "tool",
+  "notes": "MITM/network attack and monitoring framework for Wi-Fi, BLE and Ethernet; official Discord linked at top of the project README.",
+  "confidence": "official"
+ },
+ {
+  "name": "Wifipumpkin3",
+  "invite_url": "https://discord.gg/jywYskR",
+  "source_url": "https://github.com/P0cL4bs/wifipumpkin3",
+  "category_hint": "tool",
+  "notes": "Rogue-AP / Wi-Fi phishing framework by P0cL4bs; official Discord in the README community section.",
+  "confidence": "official"
+ },
+ {
+  "name": "Fluxion",
+  "invite_url": "https://discord.gg/G43gptk",
+  "source_url": "https://github.com/FluxionNetwork/fluxion",
+  "category_hint": "tool",
+  "notes": "Wi-Fi social-engineering / evil-twin auditing tool (Linset successor); official support Discord listed in the README.",
+  "confidence": "official"
+ },
+ {
+  "name": "Ghost ESP",
+  "invite_url": "https://discord.gg/5cyNmUMgwh",
+  "source_url": "https://github.com/jaylikesbunda/Ghost_ESP",
+  "category_hint": "tool",
+  "notes": "ESP32-based Wi-Fi/BLE offensive-testing firmware maintained by jaylikesbunda; Discord linked in README community/support section.",
+  "confidence": "official"
+ },
+ {
+  "name": "Evil Crow RF V2",
+  "invite_url": "https://discord.gg/evilcrowrf",
+  "source_url": "https://github.com/joelsernamoreno/EvilCrowRF-V2",
+  "category_hint": "hardware",
+  "notes": "Sub-GHz RF pentest hardware (Evil Crow line) by Joel Serna Moreno; primary Discord group listed at the top of the README.",
+  "confidence": "official"
+ },
+ {
+  "name": "Proxmark3 RFID Hacking Community (RfidResearchGroup)",
+  "invite_url": "https://t.ly/d4_C",
+  "source_url": "https://github.com/RfidResearchGroup/proxmark3",
+  "category_hint": "tool",
+  "notes": "Official 'RFID Hacking community' Discord for the RfidResearchGroup Proxmark3 firmware, listed in the README's official-channels section; link is a shortlink exactly as published by the project (resolves to a Discord invite).",
+  "confidence": "official"
+ },
+ {
+  "name": "MeshCore",
+  "invite_url": "https://meshcore.gg",
+  "source_url": "https://github.com/meshcore-dev/MeshCore",
+  "category_hint": "adjacent",
+  "notes": "Off-grid LoRa mesh networking firmware/app (Meshtastic-adjacent project); official 'Get Support' link in the README, a vanity domain that redirects to the project's Discord.",
+  "confidence": "official"
+ },
+ {
+  "name": "SatDump",
+  "invite_url": "https://discord.gg/ctt3M8pRYG",
+  "source_url": "https://github.com/SatDump/SatDump",
+  "category_hint": "tool",
+  "notes": "Satellite signal decoding/processing software (weather sats, etc.); official Discord (bridged to their Matrix room) linked in the README.",
+  "confidence": "official"
+ },
+ {
+  "name": "Open5GS",
+  "invite_url": "https://discord.gg/GreNkuc",
+  "source_url": "https://github.com/open5gs/open5gs",
+  "category_hint": "tool",
+  "notes": "Open-source 5G/LTE core network implementation used widely in cellular/IMSI-catcher research labs; official voice/text Discord workspace linked in the README community section.",
+  "confidence": "official"
+ },
+ {
+  "name": "ProjectDiscovery",
+  "invite_url": "https://discord.gg/projectdiscovery",
+  "source_url": "https://github.com/projectdiscovery/nuclei",
+  "category_hint": "tool",
+  "notes": "Community server for ProjectDiscovery's open-source scanner suite (Nuclei, Subfinder, Katana, httpx, Interactsh); maintained by ProjectDiscovery Inc., audience is offensive security / bug bounty tool users.",
+  "confidence": "official"
+ },
+ {
+  "name": "Pacu (Rhino Security Labs)",
+  "invite_url": "https://discord.gg/8vFE7ucx9W",
+  "source_url": "https://github.com/RhinoSecurityLabs/pacu",
+  "category_hint": "tool",
+  "notes": "Discord for Pacu, the AWS exploitation framework maintained by Rhino Security Labs; audience is cloud pentesters.",
+  "confidence": "official"
+ },
+ {
+  "name": "CloudFox / RedSec",
+  "invite_url": "https://discord.gg/redsec",
+  "source_url": "https://github.com/BishopFox/cloudfox",
+  "category_hint": "tool",
+  "notes": "RedSec is Bishop Fox's community Discord linked from CloudFox (cloud attack-surface enumeration tool) README; audience is offensive cloud security practitioners.",
+  "confidence": "official"
+ },
+ {
+  "name": "Caido",
+  "invite_url": "https://links.caido.io/www-discord",
+  "source_url": "https://caido.io",
+  "category_hint": "tool",
+  "notes": "Official community server for Caido, the lightweight web security auditing toolkit (Burp Suite alternative); audience is web app pentesters.",
+  "confidence": "official"
+ },
+ {
+  "name": "Akto",
+  "invite_url": "https://discord.gg/Wpc6xVME4s",
+  "source_url": "https://github.com/akto-api-security/akto",
+  "category_hint": "tool",
+  "notes": "Discord for Akto, an open-source API security testing/discovery platform; audience is API security engineers.",
+  "confidence": "official"
+ },
+ {
+  "name": "promptfoo",
+  "invite_url": "https://discord.gg/promptfoo",
+  "source_url": "https://github.com/promptfoo/promptfoo",
+  "category_hint": "tool",
+  "notes": "Community server for promptfoo, an open-source LLM/prompt testing and red-teaming tool; audience is AI security and eval engineers.",
+  "confidence": "official"
+ },
+ {
+  "name": "garak",
+  "invite_url": "https://discord.gg/uVch4puUCs",
+  "source_url": "https://github.com/NVIDIA/garak",
+  "category_hint": "tool",
+  "notes": "Discord for garak, NVIDIA's open-source LLM vulnerability scanner; audience is AI red teamers and LLM security researchers.",
+  "confidence": "official"
+ },
+ {
+  "name": "PentesterLab",
+  "invite_url": "https://discord.gg/ymd3HkhbfE",
+  "source_url": "https://www.pentesterlab.com",
+  "category_hint": "learning",
+  "notes": "Official Discord for PentesterLab, a hands-on web/appsec exercise and training platform; audience is beginner-to-intermediate pentesting learners.",
+  "confidence": "official"
+ },
+ {
+  "name": "Hetty",
+  "invite_url": "https://discord.gg/3HVsj5pTFP",
+  "source_url": "https://github.com/dstotijn/hetty",
+  "category_hint": "tool",
+  "notes": "Discord for Hetty, an open-source HTTP toolkit (Burp-alternative intercepting proxy) by dstotijn; audience is web app security testers.",
+  "confidence": "official"
+ },
+ {
+  "name": "dirsearch",
+  "invite_url": "https://discord.gg/2N22ZdAJRj",
+  "source_url": "https://github.com/maurosoria/dirsearch",
+  "category_hint": "tool",
+  "notes": "Official Discord for dirsearch, a popular web path/directory brute-forcing tool; audience is web pentesters/bug bounty hunters.",
+  "confidence": "official"
+ },
+ {
+  "name": "Malfrats Industries (GHunt)",
+  "invite_url": "https://discord.gg/sg2YcrC6x9",
+  "source_url": "https://github.com/mxrch/GHunt",
+  "category_hint": "tool",
+  "notes": "Community server for GHunt (Google account OSINT tool) and other tools by mxrch's collective, credited in GHunt's README under Thanks/community; audience is OSINT/tool users.",
+  "confidence": "official"
+ },
+ {
+  "name": "Proton",
+  "invite_url": "https://discord.gg/proton",
+  "source_url": "https://proton.me/",
+  "category_hint": "tool",
+  "notes": "Official Discord for Proton (Proton Mail/VPN/Drive), the privacy-focused email and services suite; linked from the Proton website footer alongside their other social channels.",
+  "confidence": "official"
+ },
+ {
+  "name": "DragonJAR",
+  "invite_url": "https://discord.com/invite/QBM35vK",
+  "source_url": "https://www.dragonjar.org/comunidad/",
+  "category_hint": "general",
+  "notes": "Spanish-language (Colombia/Latin America) hacking and infosec community run by DragonJAR, a well-known LatAm offensive security firm and conference (DragonJARCon); confirmed via 301 redirect from their own site's /comunidad/ page.",
+  "confidence": "official"
+ },
+ {
+  "name": "Underc0de",
+  "invite_url": "https://discord.gg/underc0de",
+  "source_url": "https://linktr.ee/underc0de",
+  "category_hint": "general",
+  "notes": "Spanish-language hacking/security/programming community (~4,860 members) tied to the long-running Underc0de forum (underc0de.org), audience is Spain/Latin America hobbyists and students; link confirmed on their official Linktree.",
+  "confidence": "official"
+ },
+ {
+  "name": "Hackndo",
+  "invite_url": "https://discord.hackndo.com",
+  "source_url": "https://beta.hackndo.com/",
+  "category_hint": "learning",
+  "notes": "French-language pentest/AD security blog and community run by Hackndo (France); vanity Discord link listed in the site's own links section.",
+  "confidence": "official"
+ },
+ {
+  "name": "Le Comptoir Sécu",
+  "invite_url": "http://discord.comptoirsecu.fr",
+  "source_url": "https://comptoirsecu.fr",
+  "category_hint": "creator",
+  "notes": "French-language infosec podcast (Le Comptoir Sécu, France) community Discord; vanity link on their official site redirects to https://discord.com/invite/m5mHGHb.",
+  "confidence": "official"
+ },
+ {
+  "name": "Montrehack",
+  "invite_url": "https://discord.gg/4qfFwPX",
+  "source_url": "https://montrehack.ca",
+  "category_hint": "regional",
+  "notes": "Montreal (Quebec, Canada) French-language ethical hacking / CTF practice meetup community; official site's own invite link.",
+  "confidence": "official"
+ },
+ {
+  "name": "Hack2G2",
+  "invite_url": "https://discord.gg/RSJJqE48Jw",
+  "source_url": "https://www.hack2g2.fr",
+  "category_hint": "general",
+  "notes": "French hacking/infosec association (Hack2g2, France) organizing meetups and workshops; invite link on their official site.",
+  "confidence": "official"
+ },
+ {
+  "name": "Hackfest",
+  "invite_url": "https://discord.hackfest.ca",
+  "source_url": "https://www.hackfest.ca",
+  "category_hint": "conference",
+  "notes": "Quebec City (Canada) French/English bilingual hacker conference Hackfest; vanity Discord link shown on their official site (redirect target could not be verified due to a certificate error on the vanity domain, but the URL is exactly as published by the official site).",
+  "confidence": "listed"
+ },
+ {
+  "name": "Hacking-Lab / Swiss Cyber Security Challenge",
+  "invite_url": "https://discord.gg/2xnCsTSvnF",
+  "source_url": "https://hacking-lab.com/",
+  "category_hint": "ctf",
+  "notes": "German-language (Switzerland) - training/CTF platform run by Compass Security behind the Swiss Cyber Security Challenge (SCSC); audience is beginner-to-intermediate CTF players and students in the DACH region. Discord link confirmed in the official site footer.",
+  "confidence": "official"
+ },
+ {
+  "name": "RedRocket CTF",
+  "invite_url": "https://discord.gg/5YktcJZ",
+  "source_url": "https://redrocket.club",
+  "category_hint": "ctf",
+  "notes": "German CTF team (Bonn-Rhein-Sieg / Cologne area, redrocket.club). Official homepage explicitly invites visitors to \"join our Discord\" with this link; audience is German CTF players/students.",
+  "confidence": "official"
+ },
+ {
+  "name": "FluxFingers CTF",
+  "invite_url": "https://fluxfingers.net/discord",
+  "source_url": "https://fluxfingers.net",
+  "category_hint": "ctf",
+  "notes": "CTF team of Ruhr-Universität Bochum (HGI institute), Germany; runs hack.lu CTF and FluxRookies for newcomers. The official site's footer Discord icon links to this exact URL, which is the team's own short-link/redirect into their Discord (the discord.gg code itself was not resolvable through the fetch tool, but this is the verbatim official link).",
+  "confidence": "listed"
+ },
+ {
+  "name": "BSides Munich",
+  "invite_url": "https://discord.gg/RVWbAk5R6u",
+  "source_url": "https://www.bsidesmunich.org",
+  "category_hint": "conference",
+  "notes": "German-language/English regional security conference (Munich, Germany), affiliated with the MUC:SEC meetup; Discord used for conference updates and community chat between events. Confirmed on the official conference site (footer/social links).",
+  "confidence": "official"
+ },
+ {
+  "name": "Disobey",
+  "invite_url": "https://discord.gg/S7eMF3TQCj",
+  "source_url": "https://disobey.fi/",
+  "category_hint": "conference",
+  "notes": "Finnish (Finland) hacker/cybersecurity conference community, Discord invite listed on the official disobey.fi contact/social section.",
+  "confidence": "official"
+ },
+ {
+  "name": "Netherlands HackerOne Club",
+  "invite_url": "https://discord.gg/9epVjkEdjU",
+  "source_url": "https://h1.community/netherlands-hackerone-club/",
+  "category_hint": "appsec",
+  "notes": "Dutch (Netherlands) regional bug-bounty/HackerOne community chapter; official HackerOne Community chapter page explicitly links this as the Dutch Discord server.",
+  "confidence": "official"
+ },
+ {
+  "name": "KalmarCTF / Kalmarunionen",
+  "invite_url": "https://discord.gg/kalmarctf",
+  "source_url": "https://nicolaisoeborg.github.io/ctf-writeups/2023/KalmarCTF%202023/",
+  "category_hint": "ctf",
+  "notes": "Nordic (Danish-led, Scandinavian) CTF collective Kalmarunionen's KalmarCTF event Discord; link quoted verbatim from the team's own event announcement as reproduced in a writeup (official kalmarunionen.dk site itself did not surface the link directly when fetched, and ctftime.org blocked automated fetch), so treat as a strong lead rather than confirmed.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "CackalackyCon",
+  "invite_url": "https://discord.gg/a3zDHPG6be",
+  "source_url": "https://cackalackycon.org",
+  "category_hint": "conference",
+  "notes": "Regional hacker conference in North/South Carolina area with badge/villages; official site links this Discord under 'Join the Community' for year-round contact with attendees.",
+  "confidence": "official"
+ }
+]

@@ -1,0 +1,125 @@
+[
+ {
+  "id": "unitedctf",
+  "name": "UnitedCTF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/3jwhzDVSN3",
+  "discord_description": null,
+  "members": 1133,
+  "online": 199,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UnitedCTF",
+  "candidate_notes": "Beginner-oriented CTF competition and community organized jointly by six Quebec university clubs (ÉTS, Sherbrooke, Concordia, Laval, Polytechnique, Université de Montréal).",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://unitedctf.ca/"
+  ]
+ },
+ {
+  "id": "sucss-cyber-security-society",
+  "name": "SUCSS - Cyber Security Society",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/BWNeFmKD2X",
+  "discord_description": null,
+  "members": 695,
+  "online": 114,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Southampton University Cyber Security Society (SUCSS)",
+  "candidate_notes": "University of Southampton (Southampton, England) student cybersecurity society; runs CTFs, workshops and socials for members.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.susu.org/groups/cyber-security-society",
+   "https://sucss.org/about/"
+  ]
+ },
+ {
+  "id": "cambridge-cybersoc",
+  "name": "Cambridge CyberSoc",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/8VDRkaZFvD",
+  "discord_description": null,
+  "members": 514,
+  "online": 50,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cambridge University Cyber Security Society (CyberSoc)",
+  "candidate_notes": "University of Cambridge (Cambridge, England) student cybersecurity society; official club site hosted on the university's own SRCF server infrastructure.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://cybersoc.soc.srcf.net/"
+  ]
+ },
+ {
+  "id": "afnom",
+  "name": "AFNOM",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/EkcRZc4",
+  "discord_description": null,
+  "members": 1365,
+  "online": 137,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "AFiniteNumberOfMonkeys (AFNOM)",
+  "candidate_notes": "University of Birmingham (Birmingham, England) cybersecurity/hacking society; weekly meetings announced via Discord, per their own site afnom.net.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://afnom.net/",
+   "https://github.com/ENUSEC/UK-University-CyberSec-Societies-Lookup/blob/master/README.md"
+  ]
+ },
+ {
+  "id": "cybersoc",
+  "name": "CyberSoc",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/p6qGd3D",
+  "discord_description": null,
+  "members": 390,
+  "online": 39,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "University of Liverpool CyberSoc",
+  "candidate_notes": "University of Liverpool (Liverpool, England) Cyber Security Society; Discord described on their own site as the fastest way to reach them.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://cybersocuol.github.io/about/",
+   "https://cybersocuol.github.io/"
+  ]
+ },
+ {
+  "id": "sigint",
+  "name": "SIGINT",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/WynY7FD3HP",
+  "discord_description": null,
+  "members": 813,
+  "online": 99,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "SIGINT (University of Edinburgh Cyber Security Society)",
+  "candidate_notes": "University of Edinburgh (Edinburgh, Scotland) cybersecurity society; link taken from the nav bar of their own site sigint.mx.",
+  "category_hints": [
+   "learning"
+  ],
+  "website": null,
+  "sources": [
+   "https://sigint.mx/"
+  ]
+ }
+]

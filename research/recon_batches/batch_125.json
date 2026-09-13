@@ -1,0 +1,122 @@
+[
+ {
+  "id": "cccs-aurora",
+  "name": "cccs-aurora",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/GUAy9wErNu",
+  "discord_description": null,
+  "members": 876,
+  "online": 88,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "assemblyline",
+  "candidate_notes": "GitHub README of CybercentreCanada/assemblyline (536 stars): AssemblyLine 4: File triage and malware analysis",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/CybercentreCanada/assemblyline"
+  ]
+ },
+ {
+  "id": "futuresdr",
+  "name": "FutureSDR",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/vCz29eDbGP",
+  "discord_description": "An experimental async SDR runtime for heterogeneous architectures.",
+  "members": 131,
+  "online": 22,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "FutureSDR",
+  "candidate_notes": "GitHub README of FutureSDR/FutureSDR (474 stars): An Async SDR Runtime for Heterogeneous Architectures",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/FutureSDR/FutureSDR"
+  ]
+ },
+ {
+  "id": "zen-ai",
+  "name": "Zen-Ai",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/zJZUJwK9AC",
+  "discord_description": "Red teaming Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting",
+  "members": 26,
+  "online": 4,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Zen-Ai-Pentest",
+  "candidate_notes": "GitHub README of SHAdd0WTAka/Zen-Ai-Pentest (455 stars): 🛡⚔️AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting🛡⚔️",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/SHAdd0WTAka/Zen-Ai-Pentest"
+  ]
+ },
+ {
+  "id": "cervantessec",
+  "name": "CervantesSec",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/BvzNjT3Qzc",
+  "discord_description": null,
+  "members": 38,
+  "online": 2,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "cervantes",
+  "candidate_notes": "GitHub README of CervantesSec/cervantes (449 stars): Cervantes is an open-source, collaborative platform designed specifically for pentesters and red teams. It serves as a comprehensive management tool, ",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/CervantesSec/cervantes"
+  ]
+ },
+ {
+  "id": "v0rt3x-s-workshop",
+  "name": "V0rT3x's Workshop",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/78dGjukKU9",
+  "discord_description": null,
+  "members": 164,
+  "online": 27,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Fancygotchi",
+  "candidate_notes": "GitHub README of V0r-T3x/Fancygotchi (380 stars): The Ultimate theme manager, graphical user interface and tools framework for Pwnagotchi [In development]",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/V0r-T3x/Fancygotchi"
+  ]
+ },
+ {
+  "id": "rf-swift",
+  "name": "RF Swift",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/NS3HayKrpA",
+  "discord_description": null,
+  "members": 124,
+  "online": 20,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "RF-Swift",
+  "candidate_notes": "GitHub README of PentHertz/RF-Swift (378 stars): 🚀 A powerful multi-platform RF toolbox that deploys specialized radio, hardware, and other security tools in seconds on Linux, Windows, and macOS - su",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/PentHertz/RF-Swift"
+  ]
+ }
+]

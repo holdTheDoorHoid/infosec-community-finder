@@ -1,0 +1,123 @@
+[
+ {
+  "id": "fix-security",
+  "name": "Fix Security",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/XvpyRQ4yj2",
+  "discord_description": null,
+  "members": 182,
+  "online": 18,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "fixinventory",
+  "candidate_notes": "GitHub README of someengineering/fixinventory (2076 stars): Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/someengineering/fixinventory"
+  ]
+ },
+ {
+  "id": "fissure",
+  "name": "FISSURE",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/JZDs5sgxcG",
+  "discord_description": null,
+  "members": 117,
+  "online": 14,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "FISSURE",
+  "candidate_notes": "GitHub README of ainfosec/FISSURE (2046 stars): The RF and reverse engineering framework for everyone. Follow and ★ to show your support!",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/ainfosec/FISSURE"
+  ]
+ },
+ {
+  "id": "emp3r0r",
+  "name": "emp3r0r",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/vU98aQtk9f",
+  "discord_description": null,
+  "members": 24,
+  "online": 3,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "emp3r0r",
+  "candidate_notes": "GitHub README of jm33-m0/emp3r0r (1752 stars): Self‑healing Gossip Mesh C2 with Assisted Peer Discovery, Cross-Platform BOF Execution, and Scriptable Agents.",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/jm33-m0/emp3r0r"
+  ]
+ },
+ {
+  "id": "matano",
+  "name": "matano",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/YSYfHMbfZQ",
+  "discord_description": "Matano - The open source security lake platform for AWS.",
+  "members": 252,
+  "online": 7,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "matano",
+  "candidate_notes": "GitHub README of matanolabs/matano (1696 stars): Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/matanolabs/matano"
+  ]
+ },
+ {
+  "id": "beesec",
+  "name": "beesec",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/zYTM3rZM4T",
+  "discord_description": "Programming & Cyber Security server",
+  "members": 2619,
+  "online": 234,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Name-That-Hash",
+  "candidate_notes": "GitHub README of bee-san/Name-That-Hash (1669 stars): 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web a",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/bee-san/Name-That-Hash",
+   "https://github.com/Jayy001/Search-That-Hash"
+  ]
+ },
+ {
+  "id": "scopesentry",
+  "name": "ScopeSentry",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/GWVwSBBm48",
+  "discord_description": null,
+  "members": 166,
+  "online": 2,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "ScopeSentry",
+  "candidate_notes": "GitHub README of Autumn-27/ScopeSentry (1617 stars): ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
+  "category_hints": [
+   "tool"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Autumn-27/ScopeSentry"
+  ]
+ }
+]
