@@ -1008,7 +1008,10 @@
    "rules_note": null,
    "red_flags": "Very small server (119 members) with limited public information found; could not confirm an official website.",
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "CO",
+   "city": null
   },
   {
    "id": "balccon2k26",
@@ -1085,7 +1088,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "RS",
+   "subdivision": null,
+   "city": "Novi Sad"
   },
   {
    "id": "bsidesslc",
@@ -1167,7 +1173,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "UT",
+   "city": "Sandy"
   },
   {
    "id": "bsides-charlotte",
@@ -1244,7 +1253,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "NC",
+   "city": "Charlotte"
   },
   {
    "id": "bsides-columbus",
@@ -1319,7 +1331,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "OH",
+   "city": "Columbus"
   },
   {
    "id": "bsides-ct",
@@ -1397,7 +1412,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "CT",
+   "city": "Fairfield"
   },
   {
    "id": "dcg937",
@@ -1475,7 +1493,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "OH",
+   "city": "Dayton"
   },
   {
    "id": "bsidesdfw",
@@ -1559,7 +1580,10 @@
      "date": "2026-09-13",
      "reason": "Single-event BSides Discord identical in nature to bsidesslc/bsides-charlotte/etc, all of which are categorized 'conference'; 'regional' is inconsistent with those peers."
     }
-   ]
+   ],
+   "country": "US",
+   "subdivision": "TX",
+   "city": "Dallas"
   },
   {
    "id": "summit-city-infosec",
@@ -1643,7 +1667,10 @@
      "date": "2026-09-13",
      "reason": "This is the BSides Fort Wayne conference Discord, same profile as other single-event BSides entries categorized 'conference'."
     }
-   ]
+   ],
+   "country": "US",
+   "subdivision": "IN",
+   "city": "Fort Wayne"
   },
   {
    "id": "houston-bsides",
@@ -1723,7 +1750,10 @@
      "date": "2026-09-13",
      "reason": "Single-event BSides Houston Discord; inconsistent with identical peer entries (bsidesslc, bsides-ct, etc.) categorized 'conference'."
     }
-   ]
+   ],
+   "country": "US",
+   "subdivision": "TX",
+   "city": "Houston"
   },
   {
    "id": "bsides-leeds",
@@ -1805,7 +1835,10 @@
      "date": "2026-09-13",
      "reason": "Single-event BSides Leeds Discord; inconsistent with identical peer entries categorized 'conference'."
     }
-   ]
+   ],
+   "country": "GB",
+   "subdivision": null,
+   "city": "Leeds"
   },
   {
    "id": "bsides-memphis",
@@ -1885,7 +1918,10 @@
      "date": "2026-09-13",
      "reason": "Single-event BSides Memphis Discord; inconsistent with identical peer entries categorized 'conference'."
     }
-   ]
+   ],
+   "country": "US",
+   "subdivision": "TN",
+   "city": "Memphis"
   },
   {
    "id": "bsidesmke",
@@ -1959,7 +1995,10 @@
    "rules_note": null,
    "red_flags": "small, low-activity server; official site currently just shows a placeholder page for the next event",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "WI",
+   "city": "Milwaukee"
   },
   {
    "id": "security-bsides-prague",
@@ -2033,7 +2072,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "CZ",
+   "subdivision": null,
+   "city": "Prague"
   },
   {
    "id": "bsidesroc",
@@ -2109,7 +2151,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "NY",
+   "city": "Rochester"
   },
   {
    "id": "bsides-st-pete",
@@ -2185,7 +2230,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "FL",
+   "city": "St. Petersburg"
   },
   {
    "id": "bsides-tampa",
@@ -2263,7 +2311,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "FL",
+   "city": "Tampa"
   },
   {
    "id": "bsides-swfl",
@@ -2337,7 +2388,10 @@
    "rules_note": null,
    "red_flags": "very new/small server, only one conference held so far (2025)",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "FL",
+   "city": "Fort Myers"
   },
   {
    "id": "cactuscon-community",
@@ -2420,7 +2474,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "AZ",
+   "city": "Mesa"
   },
   {
    "id": "secwest-net",
@@ -2494,7 +2551,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "CA",
+   "subdivision": "BC",
+   "city": "Vancouver"
   },
   {
    "id": "carolinacon",
@@ -2570,7 +2630,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "NC",
+   "city": "Raleigh"
   },
   {
    "id": "corncon",
@@ -2647,7 +2710,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "IL",
+   "city": "Moline"
   },
   {
    "id": "cyphercon",
@@ -2724,7 +2790,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "WI",
+   "city": "Milwaukee"
   },
   {
    "id": "defcon",
@@ -2807,7 +2876,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "pacific-hackers",
@@ -2884,7 +2956,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "CA",
+   "city": "San Francisco"
   },
   {
    "id": "hardwear-io",
@@ -2960,7 +3035,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "hexacon",
@@ -3039,7 +3117,10 @@
    "rules_note": "Ticket-limited event (500 seats)",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "FR",
+   "subdivision": null,
+   "city": "Paris"
   },
   {
    "id": "jawncon",
@@ -3118,7 +3199,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "PA",
+   "city": "Glenside"
   },
   {
    "id": "layerone-conference",
@@ -3197,7 +3281,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "CA",
+   "city": "Los Angeles"
   },
   {
    "id": "cyberv",
@@ -3275,7 +3362,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "FR",
+   "subdivision": null,
+   "city": "Paris"
   },
   {
    "id": "make",
@@ -3502,7 +3592,10 @@
      "date": "2026-09-13",
      "reason": "Audience is intermediate/advanced only and summary says it suits people 'already comfortable with offensive security concepts more than absolute beginners' -- matches bf=2 (narrow/advanced), like peer conferences secwest-net and hardwear-io, not bf=3."
     }
-   ]
+   ],
+   "country": "CA",
+   "subdivision": "QC",
+   "city": "Montreal"
   },
   {
    "id": "open-sauce",
@@ -3653,7 +3746,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "AU",
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "queencitycon",
@@ -3729,7 +3825,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "OH",
+   "city": "Cincinnati"
   },
   {
    "id": "rvasec",
@@ -3796,7 +3895,7 @@
     "voice-events",
     "news-feed"
    ],
-   "region": "us-northeast",
+   "region": "us-southeast",
    "language": "en",
    "year_round": true,
    "event": "RVAsec",
@@ -3805,7 +3904,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "VA",
+   "city": "Richmond"
   },
   {
    "id": "saintcon",
@@ -3886,7 +3988,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "UT",
+   "city": "Provo"
   },
   {
    "id": "secretcon",
@@ -3963,7 +4068,10 @@
    "rules_note": null,
    "red_flags": "Little independent verification found beyond the official site; server description on Discord was blank.",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "MN",
+   "city": "Minneapolis"
   },
   {
    "id": "shellcon-community",
@@ -4040,7 +4148,10 @@
    "rules_note": null,
    "red_flags": "Official site's most recent detailed event info found was from 2021; unclear if conference is still running annually as of 2026.",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "CA",
+   "city": "San Pedro"
   },
   {
    "id": "crowd-supply",
@@ -4264,7 +4375,7 @@
     "local-meetups",
     "news-feed"
    ],
-   "region": "global",
+   "region": "us-midwest",
    "language": "en",
    "year_round": true,
    "event": "Wild West Hackin' Fest",
@@ -4273,7 +4384,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "SD",
+   "city": "Deadwood"
   },
   {
    "id": "blue-team-con",
@@ -4355,7 +4469,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "IL",
+   "city": "Chicago"
   },
   {
    "id": "bsides-atlanta",
@@ -4435,7 +4552,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "GA",
+   "city": "Atlanta"
   },
   {
    "id": "open-source-hardware-association",
@@ -4593,7 +4713,10 @@
    "rules_note": "Not officially linked from recon.cx itself; appears to be a long-standing but unofficial/community-run server rather than one operated directly by the conference organizers.",
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "CA",
+   "subdivision": "QC",
+   "city": "Montreal"
   },
   {
    "id": "rstcon",
@@ -4670,7 +4793,10 @@
    "rules_note": "Distinct from an unrelated Romanian 'RST Con' (rstcon.com), which has its own separate Discord.",
    "red_flags": "Official site content could not be verified (returned blank/empty on fetch); details rely on secondary listings.",
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "GA",
+   "city": "Savannah"
   },
   {
    "id": "thotcon",
@@ -4747,7 +4873,10 @@
    "rules_note": "strict code of conduct enforced",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "IL",
+   "city": "Chicago"
   },
   {
    "id": "simply-cyber",
@@ -4910,7 +5039,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "IL",
+   "city": "Chicago"
   },
   {
    "id": "bsides-vilnius",
@@ -5069,7 +5201,10 @@
    "rules_note": null,
    "red_flags": "Official site returned an error when fetched directly, so details were pieced together from listing notes",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "PA",
+   "city": "Pittsburgh"
   },
   {
    "id": "bsides-michigan",
@@ -5145,7 +5280,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "MI",
+   "city": "Detroit"
   },
   {
    "id": "bsides-nashville",
@@ -5220,7 +5358,10 @@
    "rules_note": null,
    "red_flags": "Only 126 members with modest activity; discord presence not confirmed on the official site itself.",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "TN",
+   "city": "Nashville"
   },
   {
    "id": "bsides-orlando",
@@ -5296,7 +5437,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "FL",
+   "city": "Orlando"
   },
   {
    "id": "try-hard-security-hacknow",
@@ -5701,7 +5845,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "cyber-jobs-hunting",
@@ -8931,7 +9078,8 @@
    "first_seen": "2026-09-13",
    "last_checked": "2026-09-13",
    "sources": [
-    "https://discord.com/servers/cyberstudents-916144903686336513"
+    "https://discord.com/servers/cyberstudents-916144903686336513",
+    "https://discordservers.com/server/916144903686336513"
    ],
    "category_hints": [
     "general"
@@ -8983,7 +9131,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "alt_invites": [
+    "WexduRTmK9"
+   ]
   },
   {
    "id": "dion-training",
@@ -10506,7 +10657,10 @@
      "date": "2026-09-13",
      "reason": "Activities list includes 'mentorship' (instructors teaching members) but the tag was missing."
     }
-   ]
+   ],
+   "country": "US",
+   "subdivision": "NJ",
+   "city": "New Brunswick"
   },
   {
    "id": "bc-security-corporation",
@@ -11334,7 +11488,10 @@
    "rules_note": null,
    "red_flags": "Not independently verified beyond the Discord directory listing; claims ('#1 Dutch hacker community') are self-described and unconfirmed.",
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "NL",
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "r-wiihacks",
@@ -14067,7 +14224,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "PK",
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "endless",
@@ -16915,7 +17075,10 @@
    "rules_note": null,
    "red_flags": "The invite in the batch is a Discord server-directory link rather than a direct invite; current working invite found elsewhere is discord.gg/VVYDZYmd2w.",
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "IL",
+   "city": "Chicago"
   },
   {
    "id": "hackerone",
@@ -17078,7 +17241,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "red-siege",
@@ -17544,7 +17710,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "the-osintion",
@@ -17701,7 +17870,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "ekoparty-org",
@@ -17779,7 +17951,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "AR",
+   "subdivision": null,
+   "city": "Buenos Aires"
   },
   {
    "id": "thehivemind",
@@ -18006,7 +18181,10 @@
    "rules_note": "verification (LinkedIn/Twitter proof of handle, name, workplace) required for closed channels",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "DK",
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "sick-codes-questions-docker-osx-hacking-github-development-s",
@@ -19416,7 +19594,10 @@
      "date": "2026-09-13",
      "reason": "DC² is a DEF CON Group local meetup, same as dc612/dc407/dc215/dc435/etc., all of which are categorized 'regional'; this one was mislabeled 'conference'."
     }
-   ]
+   ],
+   "country": "US",
+   "subdivision": "UT",
+   "city": "Davis County"
   },
   {
    "id": "digital-forensics",
@@ -19809,7 +19990,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "NY",
+   "city": "Buffalo"
   },
   {
    "id": "joe-grand-s-official-server",
@@ -20373,7 +20557,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "redteamsec",
@@ -20689,7 +20876,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "IA",
+   "city": "Des Moines"
   },
   {
    "id": "shellsharks",
@@ -23927,7 +24117,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "aerospace-village",
@@ -24006,7 +24199,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "physical-security-village",
@@ -24083,7 +24279,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "toool-us",
@@ -24637,7 +24836,10 @@
    "rules_note": "large @everyone announcement culture; can be muted via notification settings",
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "CA",
+   "city": "San Francisco"
   },
   {
    "id": "hacdc",
@@ -24716,7 +24918,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "DC",
+   "city": "Washington"
   },
   {
    "id": "nyc-resistor",
@@ -24884,7 +25089,10 @@
    "recon_date": "2026-09-13",
    "alt_invites": [
     "SCvAgvA"
-   ]
+   ],
+   "country": "US",
+   "subdivision": "GA",
+   "city": "Atlanta"
   },
   {
    "id": "dc612",
@@ -24961,7 +25169,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "MN",
+   "city": "Minneapolis"
   },
   {
    "id": "dc407",
@@ -25041,7 +25252,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "FL",
+   "city": "Orlando"
   },
   {
    "id": "immunefi",
@@ -26270,7 +26484,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "call-center-village",
@@ -26432,7 +26649,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "game-hacking-village",
@@ -26511,7 +26731,10 @@
    "rules_note": "Community explicitly does not endorse cheating in online games; this is reverse-engineering/research focused, not a cheat-selling server.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "ham-radio-village",
@@ -26591,7 +26814,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "quantum-village",
@@ -26670,7 +26896,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": null,
+   "subdivision": null,
+   "city": null
   },
   {
    "id": "queercord-queercon",
@@ -26828,7 +27057,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "CA",
+   "subdivision": "QC",
+   "city": "Quebec City"
   },
   {
    "id": "cyberverse-ethical-hacking-coding-infosec-programming",
@@ -28016,7 +28248,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "PA",
+   "city": "Philadelphia"
   },
   {
    "id": "cybervalkyries",
@@ -30057,7 +30292,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "MO",
+   "city": "Kansas City"
   },
   {
    "id": "dc414-your-milwaukee-area-hackers",
@@ -30135,7 +30373,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "WI",
+   "city": "Milwaukee"
   },
   {
    "id": "dc435",
@@ -30211,7 +30452,10 @@
    "rules_note": "code of conduct bans harassment/drugs/drinking at events; minors need parental supervision",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "UT",
+   "city": "Logan"
   },
   {
    "id": "thelab-ms",
@@ -30372,7 +30616,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "CO",
+   "city": "Colorado Springs"
   },
   {
    "id": "dc225",
@@ -30451,7 +30698,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "LA",
+   "city": "Baton Rouge"
   },
   {
    "id": "dc256",
@@ -30529,7 +30779,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "AL",
+   "city": "Huntsville"
   },
   {
    "id": "dc253",
@@ -30603,7 +30856,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "WA",
+   "city": "Tacoma"
   },
   {
    "id": "mainesec",
@@ -30681,7 +30937,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "ME",
+   "city": "Portland"
   },
   {
    "id": "dc864",
@@ -30763,7 +31022,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "SC",
+   "city": "Greenville"
   },
   {
    "id": "tulsec",
@@ -30836,7 +31098,10 @@
    "rules_note": null,
    "red_flags": "Small, relatively low online activity for its member count.",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "OK",
+   "city": "Tulsa"
   },
   {
    "id": "dc702",
@@ -30913,7 +31178,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "US",
+   "subdivision": "NV",
+   "city": "Las Vegas"
   },
   {
    "id": "defcon-group-s-o-paulo",
@@ -30996,7 +31264,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "BR",
+   "subdivision": null,
+   "city": "São Paulo"
   },
   {
    "id": "def-con-delhi-group",
@@ -31075,7 +31346,10 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "IN",
+   "subdivision": null,
+   "city": "Delhi"
   },
   {
    "id": "dc441392",
@@ -31152,7 +31426,451 @@
    "rules_note": null,
    "red_flags": "very small (43 members), low activity",
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "country": "GB",
+   "subdivision": null,
+   "city": "Exeter"
+  },
+  {
+   "id": "discord-servers",
+   "name": "Discord Servers",
+   "candidate_name": "Hard Way Hacking &amp; Coding - Hacking Discord Server",
+   "invite_url": "https://discord.gg/servers",
+   "invite_code": "servers",
+   "guild_id": "115390342735331332",
+   "discord_name": "Discord Servers",
+   "discord_description": "",
+   "members": 8291,
+   "online": 519,
+   "size_tier": "medium",
+   "verified": false,
+   "partnered": false,
+   "discoverable": false,
+   "community_features": true,
+   "verification_level": 4,
+   "vanity": "servers",
+   "icon_url": "https://cdn.discordapp.com/icons/115390342735331332/b49bac9d74886477207d64f384b0d883.png?size=128",
+   "invite_expires_at": null,
+   "nsfw": false,
+   "invite_status": "ok",
+   "first_seen": "2026-09-13",
+   "last_checked": "2026-09-13",
+   "sources": [
+    "https://discordservers.com/server/135499198865997824",
+    "https://discordservers.com/server/429657740562923521",
+    "https://discordservers.com/server/886705574027350089",
+    "https://discordservers.com/server/690212435306741901",
+    "https://discordservers.com/server/736593959991771176",
+    "https://discordservers.com/server/1542227826680275004",
+    "https://discordservers.com/server/1345757722360152064",
+    "https://discordservers.com/server/768281369100812308",
+    "https://discordservers.com/server/793655668384727040",
+    "https://discordservers.com/server/543652415870730240",
+    "https://discordservers.com/server/694769911146217472",
+    "https://discordservers.com/server/696984822282715189",
+    "https://discordservers.com/server/1167200838905778326",
+    "https://discordservers.com/server/1447990427075477535",
+    "https://discordservers.com/server/671326654903353344",
+    "https://discordservers.com/server/1238087411397820457",
+    "https://discordservers.com/server/1037951627874795551",
+    "https://discordservers.com/server/294861435937357825",
+    "https://discordservers.com/server/607815948476612616",
+    "https://discordservers.com/server/623157804013715456",
+    "https://discordservers.com/server/845795289519489075",
+    "https://discordservers.com/server/570265370905018389",
+    "https://discordservers.com/server/1511584616451145798",
+    "https://discordservers.com/server/708417486227505233",
+    "https://discordservers.com/server/873082697176711199",
+    "https://discordservers.com/server/1235300783986311168",
+    "https://discordservers.com/server/547090951445807115",
+    "https://discordservers.com/server/690276915399229602",
+    "https://discordservers.com/server/1113151175848632380",
+    "https://discordservers.com/server/1092358953243004958",
+    "https://discordservers.com/server/469587552500973578",
+    "https://discordservers.com/server/412943558451134465",
+    "https://discordservers.com/server/698603677795090484",
+    "https://discordservers.com/server/597705640194080781",
+    "https://discordservers.com/server/956715891284934656",
+    "https://discordservers.com/server/1148022575277027378",
+    "https://discordservers.com/server/1455136849705308354",
+    "https://discordservers.com/server/1457355868805922950",
+    "https://discordservers.com/server/732308165265326080",
+    "https://discordservers.com/server/1197844906580905994",
+    "https://discordservers.com/server/863512165981618176",
+    "https://discordservers.com/server/744754494822285344",
+    "https://discordservers.com/server/1312166462043062363",
+    "https://discordservers.com/server/597565063552958466",
+    "https://discordservers.com/server/789539101593305128",
+    "https://discordservers.com/server/471545766134153237",
+    "https://discordservers.com/server/1108138416660557926",
+    "https://discordservers.com/server/1145051066484924567",
+    "https://discordservers.com/server/1539088760636055655",
+    "https://discordservers.com/server/1126441741042593844",
+    "https://discordservers.com/server/1210639689846104084",
+    "https://discordservers.com/server/1461391571114262813",
+    "https://discordservers.com/server/1000289665745682533",
+    "https://discordservers.com/server/300733584896032769",
+    "https://discordservers.com/server/909599485204779028",
+    "https://discordservers.com/server/1136633570404872308",
+    "https://discordservers.com/server/1391269621696434246",
+    "https://discordservers.com/server/1295835358654894223",
+    "https://discordservers.com/server/756152709832245390",
+    "https://discordservers.com/server/725434732674023499",
+    "https://discordservers.com/server/953115573963853874",
+    "https://discordservers.com/server/1278301593866993664",
+    "https://discordservers.com/server/931271831158161459",
+    "https://discordservers.com/server/571880466911854622",
+    "https://discordservers.com/server/1543353842593439824",
+    "https://discordservers.com/server/1031494638978211840",
+    "https://discordservers.com/server/1479937980927053918",
+    "https://discordservers.com/server/779541904194011167",
+    "https://discordservers.com/server/787443524290215946",
+    "https://discordservers.com/server/875490982257360896",
+    "https://discordservers.com/server/963910912719335505",
+    "https://discordservers.com/server/535888848924966942",
+    "https://discordservers.com/server/845767622398050334",
+    "https://discordservers.com/server/638125832547598366",
+    "https://discordservers.com/server/540683496251719690",
+    "https://discordservers.com/server/1021329386756124682",
+    "https://discordservers.com/server/417306329225625600",
+    "https://discordservers.com/server/1110674920238755872",
+    "https://discordservers.com/server/1037740445935083591",
+    "https://discordservers.com/server/789457586393972756",
+    "https://discordservers.com/server/574815237040111617",
+    "https://discordservers.com/server/997336692111458405",
+    "https://discordservers.com/server/437716353584070677",
+    "https://discordservers.com/server/1185463717190696980",
+    "https://discordservers.com/server/1147941697481875566",
+    "https://discordservers.com/server/1498300365001588746",
+    "https://discordservers.com/server/1389271483267678344",
+    "https://discordservers.com/server/1389206182425526294",
+    "https://discordservers.com/server/1153600470389108779",
+    "https://discordservers.com/server/672495759706554369",
+    "https://discordservers.com/server/1457738743812460546",
+    "https://discordservers.com/server/1365124630540587010",
+    "https://discordservers.com/server/1371912383718752387",
+    "https://discordservers.com/server/1066723855684608060",
+    "https://discordservers.com/server/786367126679977985",
+    "https://discordservers.com/server/1185786363329654824",
+    "https://discordservers.com/server/1487485534954717234",
+    "https://discordservers.com/server/1356271583559155835",
+    "https://discordservers.com/server/1114252194028453969",
+    "https://discordservers.com/server/1546502358861611038",
+    "https://discordservers.com/server/1034952373161959535",
+    "https://discordservers.com/server/716715671118938273",
+    "https://discordservers.com/server/1008917229900943460",
+    "https://discordservers.com/server/750794585566871723",
+    "https://discordservers.com/server/1546643895310483556",
+    "https://discordservers.com/server/1393650018497597445",
+    "https://discordservers.com/server/1533502461434925056",
+    "https://discordservers.com/server/1379353273559027783",
+    "https://discordservers.com/server/1079033275114332182",
+    "https://discordservers.com/server/166132590615461889",
+    "https://discordservers.com/server/754604118554968105",
+    "https://discordservers.com/server/887916255502274571",
+    "https://discordservers.com/server/524257101833306123",
+    "https://discordservers.com/server/1430921501510729851",
+    "https://discordservers.com/server/473805904957931522",
+    "https://discordservers.com/server/514081138038407178",
+    "https://discordservers.com/server/1543652918022901780",
+    "https://discordservers.com/server/507414139656863744",
+    "https://discordservers.com/server/1448525764013195386",
+    "https://discordservers.com/server/1461790995128651896",
+    "https://discordservers.com/server/1272853124679204896",
+    "https://discordservers.com/server/585607491023273989",
+    "https://discordservers.com/server/1399934538330669098",
+    "https://discordservers.com/server/1471583500980195433",
+    "https://discordservers.com/server/790679139673571328",
+    "https://discordservers.com/server/150662382874525696",
+    "https://discordservers.com/server/845304829077225472",
+    "https://discordservers.com/server/232740312194351106",
+    "https://discordservers.com/server/928546749457502229",
+    "https://discordservers.com/server/274602906244743168"
+   ],
+   "category_hints": [
+    "general"
+   ],
+   "candidate_notes": "Listing site tags: ethical-hacking, hacking, infosec, security",
+   "confidence": "listed",
+   "history": [
+    {
+     "date": "2026-09-13",
+     "members": 8291,
+     "online": 519
+    }
+   ],
+   "category": null,
+   "tags": [],
+   "summary": null,
+   "run_by": null,
+   "website": null,
+   "beginner_friendly": null,
+   "audience": [],
+   "activities": [],
+   "region": null,
+   "language": "en",
+   "year_round": null,
+   "event": null
+  },
+  {
+   "id": "le-temple",
+   "name": "LE TEMPLE",
+   "candidate_name": "LE TEMPLE - All Discord Server",
+   "invite_url": "https://discord.gg/c54tuHSNPH",
+   "invite_code": "c54tuHSNPH",
+   "guild_id": "971465926513938453",
+   "discord_name": "LE TEMPLE",
+   "discord_description": null,
+   "members": 40,
+   "online": 8,
+   "size_tier": "tiny",
+   "verified": false,
+   "partnered": false,
+   "discoverable": false,
+   "community_features": false,
+   "verification_level": 0,
+   "vanity": null,
+   "icon_url": "https://cdn.discordapp.com/icons/971465926513938453/e16c9d1691154ee5aeeee46abaaab6ca.png?size=128",
+   "invite_expires_at": null,
+   "nsfw": false,
+   "invite_status": "ok",
+   "first_seen": "2026-09-13",
+   "last_checked": "2026-09-13",
+   "sources": [
+    "https://discordservers.com/server/971465926513938453"
+   ],
+   "category_hints": [
+    "general"
+   ],
+   "candidate_notes": "Listing site tags: osint",
+   "confidence": "listed",
+   "history": [
+    {
+     "date": "2026-09-13",
+     "members": 40,
+     "online": 8
+    }
+   ],
+   "category": null,
+   "tags": [],
+   "summary": null,
+   "run_by": null,
+   "website": null,
+   "beginner_friendly": null,
+   "audience": [],
+   "activities": [],
+   "region": null,
+   "language": "en",
+   "year_round": null,
+   "event": null
+  },
+  {
+   "id": "ironshield-studio",
+   "name": "IronShield Studio",
+   "candidate_name": "IronShield Studio - Security Discord Server",
+   "invite_url": "https://discord.gg/ajp3gNJ6Z3",
+   "invite_code": "ajp3gNJ6Z3",
+   "guild_id": "1479811004157137049",
+   "discord_name": "IronShield Studio",
+   "discord_description": null,
+   "members": 603,
+   "online": 180,
+   "size_tier": "small",
+   "verified": false,
+   "partnered": false,
+   "discoverable": false,
+   "community_features": true,
+   "verification_level": 1,
+   "vanity": null,
+   "icon_url": "https://cdn.discordapp.com/icons/1479811004157137049/9832805344eaf6338efbf60200facfda.png?size=128",
+   "invite_expires_at": null,
+   "nsfw": false,
+   "invite_status": "ok",
+   "first_seen": "2026-09-13",
+   "last_checked": "2026-09-13",
+   "sources": [
+    "https://discordservers.com/server/1479811004157137049"
+   ],
+   "category_hints": [
+    "general"
+   ],
+   "candidate_notes": "Listing site tags: security",
+   "confidence": "listed",
+   "history": [
+    {
+     "date": "2026-09-13",
+     "members": 603,
+     "online": 180
+    }
+   ],
+   "category": null,
+   "tags": [],
+   "summary": null,
+   "run_by": null,
+   "website": null,
+   "beginner_friendly": null,
+   "audience": [],
+   "activities": [],
+   "region": null,
+   "language": "en",
+   "year_round": null,
+   "event": null
+  },
+  {
+   "id": "army-of-rynlar",
+   "name": "Army of Rynlar",
+   "candidate_name": "Army of Rynlar - Yugioh Discord Server",
+   "invite_url": "https://discord.gg/eahdWME",
+   "invite_code": "eahdWME",
+   "guild_id": "293482862362099712",
+   "discord_name": "Army of Rynlar",
+   "discord_description": "A friendly gaming community with professional support and players of every level!",
+   "members": 1704,
+   "online": 145,
+   "size_tier": "small",
+   "verified": false,
+   "partnered": false,
+   "discoverable": false,
+   "community_features": true,
+   "verification_level": 2,
+   "vanity": null,
+   "icon_url": "https://cdn.discordapp.com/icons/293482862362099712/7a56ac90c2bdcb1ba6f6c308d22e8ef1.png?size=128",
+   "invite_expires_at": null,
+   "nsfw": false,
+   "invite_status": "ok",
+   "first_seen": "2026-09-13",
+   "last_checked": "2026-09-13",
+   "sources": [
+    "https://discordservers.com/server/293482862362099712"
+   ],
+   "category_hints": [
+    "general"
+   ],
+   "candidate_notes": "Listing site tags: security",
+   "confidence": "listed",
+   "history": [
+    {
+     "date": "2026-09-13",
+     "members": 1704,
+     "online": 145
+    }
+   ],
+   "category": null,
+   "tags": [],
+   "summary": null,
+   "run_by": null,
+   "website": null,
+   "beginner_friendly": null,
+   "audience": [],
+   "activities": [],
+   "region": null,
+   "language": "en",
+   "year_round": null,
+   "event": null
+  },
+  {
+   "id": "smart-elephant-exclusive-club",
+   "name": "Smart Elephant Exclusive Club",
+   "candidate_name": "Smart Elephant Exclusive Club - Nft Discord Server",
+   "invite_url": "https://discord.gg/RW8vUQRfjT",
+   "invite_code": "RW8vUQRfjT",
+   "guild_id": "940000594314297454",
+   "discord_name": "Smart Elephant Exclusive Club",
+   "discord_description": "The exclusive club for business elephants who love to live their life following their own decisions.",
+   "members": 398,
+   "online": 7,
+   "size_tier": "tiny",
+   "verified": false,
+   "partnered": false,
+   "discoverable": false,
+   "community_features": true,
+   "verification_level": 1,
+   "vanity": null,
+   "icon_url": "https://cdn.discordapp.com/icons/940000594314297454/6b47325f5ea205bfd84d2776631d003e.png?size=128",
+   "invite_expires_at": null,
+   "nsfw": false,
+   "invite_status": "ok",
+   "first_seen": "2026-09-13",
+   "last_checked": "2026-09-13",
+   "sources": [
+    "https://discordservers.com/server/940000594314297454"
+   ],
+   "category_hints": [
+    "general"
+   ],
+   "candidate_notes": "Listing site tags: blue-team",
+   "confidence": "listed",
+   "history": [
+    {
+     "date": "2026-09-13",
+     "members": 398,
+     "online": 7
+    }
+   ],
+   "category": null,
+   "tags": [],
+   "summary": null,
+   "run_by": null,
+   "website": null,
+   "beginner_friendly": null,
+   "audience": [],
+   "activities": [],
+   "region": null,
+   "language": "en",
+   "year_round": null,
+   "event": null
+  },
+  {
+   "id": "digitalchaosclub",
+   "name": "DigitalChaosClub",
+   "candidate_name": "DigitalChaosClub - Politics Discord Server",
+   "invite_url": "https://discord.gg/cvZredMSdy",
+   "invite_code": "cvZredMSdy",
+   "guild_id": "1078164916244058212",
+   "discord_name": "DigitalChaosClub",
+   "discord_description": null,
+   "members": 19,
+   "online": 9,
+   "size_tier": "tiny",
+   "verified": false,
+   "partnered": false,
+   "discoverable": false,
+   "community_features": true,
+   "verification_level": 1,
+   "vanity": null,
+   "icon_url": "https://cdn.discordapp.com/icons/1078164916244058212/f9fa309c1546f5732a62c7612d590665.png?size=128",
+   "invite_expires_at": null,
+   "nsfw": false,
+   "invite_status": "ok",
+   "first_seen": "2026-09-13",
+   "last_checked": "2026-09-13",
+   "sources": [
+    "https://discordservers.com/server/1078164916244058212"
+   ],
+   "category_hints": [
+    "general"
+   ],
+   "candidate_notes": "Listing site tags: privacy",
+   "confidence": "listed",
+   "history": [
+    {
+     "date": "2026-09-13",
+     "members": 19,
+     "online": 9
+    }
+   ],
+   "category": null,
+   "tags": [],
+   "summary": null,
+   "run_by": null,
+   "website": null,
+   "beginner_friendly": null,
+   "audience": [],
+   "activities": [],
+   "region": null,
+   "language": "en",
+   "year_round": null,
+   "event": null
   }
  ],
  "unresolved": [
@@ -33346,6 +34064,42 @@
    "source_url": "https://null.community/",
    "category_hint": "regional",
    "notes": "India's largest open, volunteer-run infosec community; Discord invite confirmed via the community's own Google Groups announcement post ('Today we are excited to announce null Discord Server') rather than a direct page fetch (main site blocks bot fetches with 403)."
+  },
+  {
+   "name": "Official Anonymous Discord Group - Anonyoum Discord Server",
+   "invite_code": "gSdanx",
+   "status": "dead",
+   "error": "Unknown Invite",
+   "source_url": "https://discordservers.com/server/345012924865314816",
+   "category_hint": "general",
+   "notes": "Listing site tags: hacking"
+  },
+  {
+   "name": "Cyber Nexus - Cybersecurity Discord Server",
+   "invite_code": "NPNdrk",
+   "status": "dead",
+   "error": "Unknown Invite",
+   "source_url": "https://discordservers.com/server/635921042526830608",
+   "category_hint": "general",
+   "notes": "Listing site tags: ctf, cybersecurity"
+  },
+  {
+   "name": "Radio Amateur in Canada - Amateur Ham Radio Discord Server",
+   "invite_code": "EM6Mf8q9",
+   "status": "dead",
+   "error": "Unknown Invite",
+   "source_url": "https://discordservers.com/server/883064908764299315",
+   "category_hint": "general",
+   "notes": "Listing site tags: sdr"
+  },
+  {
+   "name": "The Badlands - Gaming Discord Server",
+   "invite_code": "bushland-pvp",
+   "status": "dead",
+   "error": "Unknown Invite",
+   "source_url": "https://discordservers.com/server/1160554139449839686",
+   "category_hint": "general",
+   "notes": "Listing site tags: lockpicking"
   }
  ],
  "last_import": "2026-09-13",

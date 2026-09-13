@@ -3,6 +3,11 @@ const ICF = (() => {
   const CAT_LABEL = {general:'General infosec',learning:'Learning & study',ctf:'CTF & challenges',creator:'Creator community',tool:'Tool / project',hardware:'Hardware & RF',blueteam:'Blue team & DFIR',redteam:'Red team',appsec:'AppSec & bug bounty',osint:'OSINT & privacy',careers:'Careers & certs',affinity:'Affinity group',regional:'Local / regional',conference:'Conference',village:'Village',adjacent:'Adjacent hobby'};
   const SIZE_LABEL = {tiny:'Tiny (<500)',small:'Small (500–3k)',medium:'Medium (3k–15k)',large:'Large (15k–50k)',huge:'Huge (50k+)',unknown:'Unknown'};
   const REGION_LABEL = {global:'Global / online',us:'United States','us-northeast':'US Northeast','us-southeast':'US Southeast','us-midwest':'US Midwest','us-south':'US South / Texas','us-west':'US West',canada:'Canada','uk-ireland':'UK & Ireland',europe:'Europe',india:'India',asia:'Asia','australia-nz':'Australia / NZ','latin-america':'Latin America',africa:'Africa','middle-east':'Middle East'};
+  const SUBDIV = {AL:'Alabama',AK:'Alaska',AZ:'Arizona',AR:'Arkansas',CA:'California',CO:'Colorado',CT:'Connecticut',DE:'Delaware',DC:'Washington, DC',FL:'Florida',GA:'Georgia',HI:'Hawaii',ID:'Idaho',IL:'Illinois',IN:'Indiana',IA:'Iowa',KS:'Kansas',KY:'Kentucky',LA:'Louisiana',ME:'Maine',MD:'Maryland',MA:'Massachusetts',MI:'Michigan',MN:'Minnesota',MS:'Mississippi',MO:'Missouri',MT:'Montana',NE:'Nebraska',NV:'Nevada',NH:'New Hampshire',NJ:'New Jersey',NM:'New Mexico',NY:'New York',NC:'North Carolina',ND:'North Dakota',OH:'Ohio',OK:'Oklahoma',OR:'Oregon',PA:'Pennsylvania',RI:'Rhode Island',SC:'South Carolina',SD:'South Dakota',TN:'Tennessee',TX:'Texas',UT:'Utah',VT:'Vermont',VA:'Virginia',WA:'Washington',WV:'West Virginia',WI:'Wisconsin',WY:'Wyoming',AB:'Alberta',BC:'British Columbia',MB:'Manitoba',NB:'New Brunswick',NL:'Newfoundland and Labrador',NS:'Nova Scotia',ON:'Ontario',PE:'Prince Edward Island',QC:'Quebec',SK:'Saskatchewan'};
+  const countryName = code => { try { return new Intl.DisplayNames(['en'], {type:'region'}).of(code) || code; } catch (e) { return code; } };
+  // locality key for an entry: state/province code where we have one, else country code
+  const localityOf = c => c.subdivision || c.country || null;
+  const localityLabel = k => SUBDIV[k] || countryName(k);
   let DB = null;
 
   async function load() {
@@ -16,6 +21,7 @@ const ICF = (() => {
       c.summary = c.summary || c.discord_description || c.candidate_notes || '';
       c.size_tier = c.size_tier || 'unknown';
       c.region = c.region || 'global';
+      c.locality = c.subdivision || c.country || null;
     }
     return DB;
   }
@@ -58,7 +64,7 @@ const ICF = (() => {
         <dt>Size</dt><dd>${esc(SIZE_LABEL[c.size_tier] || c.size_tier)}</dd>
         ${c.beginner_friendly ? `<dt>Beginner friendly</dt><dd><span class="stars">${stars(c.beginner_friendly)}</span> ${c.beginner_friendly}/5${c.audience.length ? ' · for ' + esc(c.audience.join(', ')) : ''}</dd>` : ''}
         ${c.activities.length ? `<dt>What happens there</dt><dd>${esc(c.activities.join(', '))}</dd>` : ''}
-        ${c.region && c.region !== 'global' ? `<dt>Region</dt><dd>${esc(REGION_LABEL[c.region] || c.region)}</dd>` : ''}
+        ${c.region && c.region !== 'global' ? `<dt>Where</dt><dd>${esc([c.city, c.subdivision ? SUBDIV[c.subdivision] : null, c.country ? countryName(c.country) : null].filter(Boolean).join(', ') || REGION_LABEL[c.region] || c.region)}</dd>` : ''}
         ${c.language && c.language !== 'en' ? `<dt>Language</dt><dd>${esc(c.language)}</dd>` : ''}
         ${c.event ? `<dt>Event</dt><dd>${esc(c.event)}${c.year_round === false ? ' (active mainly around the event)' : c.year_round ? ' (active year-round)' : ''}</dd>` : ''}
         ${c.rules_note ? `<dt>Good to know</dt><dd>${esc(c.rules_note)}</dd>` : ''}
@@ -80,7 +86,7 @@ const ICF = (() => {
   }
   function closeModal() { const bg = document.querySelector('.modal-bg'); if (bg) bg.classList.remove('open'); document.body.style.overflow = ''; if (location.hash) history.replaceState(null, '', location.pathname + location.search); }
 
-  return {load, cardHTML, detailHTML, openModal, closeModal, fmt, esc, CAT_LABEL, SIZE_LABEL, REGION_LABEL, stars};
+  return {load, cardHTML, detailHTML, openModal, closeModal, fmt, esc, CAT_LABEL, SIZE_LABEL, REGION_LABEL, stars, localityOf, localityLabel};
 })();
 
 /* ---------- Browse page ---------- */
@@ -88,7 +94,7 @@ async function initBrowse() {
   const db = await ICF.load();
   const all = db.communities;
   const $ = s => document.querySelector(s);
-  const state = {q:'', cat:new Set(), tag:new Set(), size:new Set(), region:new Set(), beginner:false, alive:true, sort:'online'};
+  const state = {q:'', cat:new Set(), tag:new Set(), size:new Set(), region:new Set(), locality:new Set(), beginner:false, alive:true, sort:'online'};
   const params = new URLSearchParams(location.search);
   if (params.get('cat')) state.cat.add(params.get('cat'));
   if (params.get('tag')) state.tag.add(params.get('tag'));
@@ -97,14 +103,14 @@ async function initBrowse() {
   const count = (key, arr) => { const m = {}; for (const c of arr) for (const v of (Array.isArray(c[key]) ? c[key] : [c[key]])) if (v) m[v] = (m[v]||0)+1; return m; };
   function facet(title, key, labels, set, limit) {
     const counts = count(key, all); const keys = Object.keys(counts).sort((a,b) => counts[b]-counts[a]).slice(0, limit || 99);
-    return `<h3>${title}</h3>` + keys.map(k => `<label><input type="checkbox" data-facet="${key}" value="${ICF.esc(k)}" ${set.has(k)?'checked':''}> ${ICF.esc(labels ? (labels[k]||k) : k)}<span class="n">${counts[k]}</span></label>`).join('');
+    return `<h3>${title}</h3>` + keys.map(k => `<label><input type="checkbox" data-facet="${key}" value="${ICF.esc(k)}" ${set.has(k)?'checked':''}> ${ICF.esc(labels ? (labels[k]||k) : (key === 'locality' ? ICF.localityLabel(k) : k))}<span class="n">${counts[k]}</span></label>`).join('');
   }
   $('.filters').innerHTML = `<input class="search" type="search" placeholder="Search names, tags, descriptions…" value="${ICF.esc(state.q)}" aria-label="Search">
     <h3>Quick</h3><label><input type="checkbox" id="f-beginner"> Beginner friendly (4★+)</label><label><input type="checkbox" id="f-alive" checked> Hide dead invites</label>
-    ${facet('Category','category',ICF.CAT_LABEL,state.cat)}${facet('Topics','tags',null,state.tag,28)}${facet('Size','size_tier',ICF.SIZE_LABEL,state.size)}${facet('Region','region',ICF.REGION_LABEL,state.region)}`;
+    ${facet('Category','category',ICF.CAT_LABEL,state.cat)}${facet('Topics','tags',null,state.tag,28)}${facet('Size','size_tier',ICF.SIZE_LABEL,state.size)}${facet('Region','region',ICF.REGION_LABEL,state.region)}${facet('State / country','locality',null,state.locality,40)}`;
   $('.filters').addEventListener('change', e => {
     const t = e.target; if (t.id === 'f-beginner') state.beginner = t.checked; else if (t.id === 'f-alive') state.alive = t.checked;
-    else if (t.dataset.facet) { const set = state[{category:'cat',tags:'tag',size_tier:'size',region:'region'}[t.dataset.facet]]; t.checked ? set.add(t.value) : set.delete(t.value); }
+    else if (t.dataset.facet) { const set = state[{category:'cat',tags:'tag',size_tier:'size',region:'region',locality:'locality'}[t.dataset.facet]]; t.checked ? set.add(t.value) : set.delete(t.value); }
     render();
   });
   $('.filters .search').addEventListener('input', e => { state.q = e.target.value; render(); });
@@ -117,6 +123,7 @@ async function initBrowse() {
     if (state.tag.size && ![...state.tag].every(t => c.tags.includes(t))) return false;
     if (state.size.size && !state.size.has(c.size_tier)) return false;
     if (state.region.size && !state.region.has(c.region)) return false;
+    if (state.locality.size && !state.locality.has(c.locality)) return false;
     if (state.q) { const q = state.q.toLowerCase(); const hay = [c.name, c.summary, c.discord_description, c.run_by, c.event, ...c.tags].join(' ').toLowerCase(); if (!hay.includes(q)) return false; }
     return true;
   }
@@ -184,7 +191,9 @@ function scoreCommunity(c, a) {
   if (local) {
     const r = c.region || 'global';
     const near = r === a.region || (US.has(a.region) && r === 'us') || r === 'global' && c.category === 'village';
-    if (a.wants.includes('irl') && near && r !== 'global') { s += 5; why.push('Near you, with real-world meetups or events'); }
+    const here = a.locality && ICF.localityOf(c) === a.locality;
+    if (here) { s += a.wants.includes('irl') ? 9 : 6; why.push(`In your area (${ICF.localityLabel(a.locality)}${c.city ? ', ' + c.city : ''})`); }
+    else if (a.wants.includes('irl') && near && r !== 'global') { s += 5; why.push('In your region, with real-world meetups or events'); }
     else if (near && r !== 'global') { s += 1.5; why.push('In your region'); }
     else if (c.category !== 'village') s -= 5; // far-away local group
   }
@@ -204,9 +213,25 @@ async function initQuiz() {
   const form = document.querySelector('#quiz');
   form.innerHTML = QUIZ.map(q => `<section class="q" data-q="${q.id}"><h2>${q.title}</h2>${q.help ? `<p class="help">${q.help}</p>` : ''}<div class="opts">${q.opts.map(([v,l,h]) => `<label class="opt"><input type="${q.type==='single'?'radio':'checkbox'}" name="${q.id}" value="${v}"><span>${l}${h?`<small>${h}</small>`:''}</span></label>`).join('')}</div></section>`).join('') + '<button class="btn primary" type="submit">Show my matches</button>';
   form.addEventListener('change', e => { const q = QUIZ.find(x => x.id === e.target.name); if (q && q.max) { const boxes = [...form.querySelectorAll(`input[name=${q.id}]:checked`)]; if (boxes.length > q.max) { e.target.checked = false; } } });
+  // Narrow-down step: when a region has enough local groups, ask which state/province/country
+  const LOCAL_CATS = new Set(['regional','conference','village']);
+  const regionSection = form.querySelector('[data-q=region]');
+  const refine = document.createElement('section'); refine.className = 'q'; refine.hidden = true; regionSection.after(refine);
+  form.addEventListener('change', e => {
+    if (e.target.name !== 'region') return;
+    const r = e.target.value;
+    const counts = {};
+    for (const c of db.communities) { if (c.hidden || !LOCAL_CATS.has(c.category) || c.region !== r) continue; const k = ICF.localityOf(c); if (k) counts[k] = (counts[k]||0) + 1; }
+    const keys = Object.keys(counts).sort((a,b) => counts[b]-counts[a] || ICF.localityLabel(a).localeCompare(ICF.localityLabel(b)));
+    const total = Object.values(counts).reduce((a,b)=>a+b,0);
+    if (r === 'global' || keys.length < 2 || total < 4) { refine.hidden = true; refine.innerHTML = ''; return; }
+    const label = US.has(r) ? 'Which state?' : r === 'canada' ? 'Which province?' : 'Which country?';
+    refine.innerHTML = `<h2>${label}</h2><p class="help">We have ${total} local groups, conferences and villages in that region. Narrow it down if you like.</p><div class="opts"><label class="opt"><input type="radio" name="locality" value="" checked><span>Anywhere in the region</span></label>${keys.map(k => `<label class="opt"><input type="radio" name="locality" value="${ICF.esc(k)}"><span>${ICF.esc(ICF.localityLabel(k))}<small>${counts[k]} group${counts[k]>1?'s':''}</small></span></label>`).join('')}</div>`;
+    refine.hidden = false;
+  });
   form.addEventListener('submit', e => {
     e.preventDefault();
-    const a = {}; for (const q of QUIZ) { const v = [...form.querySelectorAll(`input[name=${q.id}]:checked`)].map(i => i.value); a[q.id] = q.type === 'single' ? (v[0] || (q.id==='region'?'global':q.id==='size'?'any':'basics')) : v; }
+    const a = {locality: form.querySelector('input[name=locality]:checked')?.value || null}; for (const q of QUIZ) { const v = [...form.querySelectorAll(`input[name=${q.id}]:checked`)].map(i => i.value); a[q.id] = q.type === 'single' ? (v[0] || (q.id==='region'?'global':q.id==='size'?'any':'basics')) : v; }
     const alive = db.communities.filter(c => c.invite_status !== 'dead' && c.category !== 'conference' && c.category !== 'village' && c.category !== 'regional');
     const scored = alive.map(c => ({c, ...scoreCommunity(c, a)})).sort((x,y) => y.s - x.s);
     // diversify: avoid 5 servers of the same category
@@ -222,7 +247,7 @@ async function initQuiz() {
     }
     picks.sort((x,y) => y.s - x.s);
     const localPool = db.communities.filter(c => c.invite_status !== 'dead' && (c.category === 'conference' || c.category === 'village' || c.category === 'regional'));
-    const local = localPool.map(c => ({c, ...scoreCommunity(c, a)})).filter(x => x.s > 0).sort((x,y) => y.s - x.s).slice(0, 4);
+    const local = localPool.map(c => ({c, ...scoreCommunity(c, a)})).filter(x => x.s > 0).sort((x,y) => y.s - x.s).slice(0, a.locality ? 6 : 4);
     const out = document.querySelector('#results');
     const row = (x, i) => `<div class="result"><div class="rank">${i+1}</div><div style="flex:1"><h3><a href="#" data-id="${ICF.esc(x.c.id)}">${ICF.esc(x.c.name)}</a> <span class="chip">${ICF.esc(ICF.CAT_LABEL[x.c.category]||x.c.category)}</span></h3><div class="note">${ICF.fmt(x.c.members)} members · ${ICF.fmt(x.c.online)} online${x.c.beginner_friendly?` · <span class="stars">${ICF.stars(x.c.beginner_friendly)}</span>`:''}</div><p style="margin:6px 0 0">${ICF.esc(x.c.summary)}</p>${x.why.length?`<ul class="why">${x.why.map(w=>`<li>${ICF.esc(w)}</li>`).join('')}</ul>`:''}<div class="join" style="margin-top:8px"><a class="btn sm primary" href="${ICF.esc(x.c.invite_url)}" target="_blank" rel="noopener">Join ↗</a><a class="btn sm" href="#" data-id="${ICF.esc(x.c.id)}">Details</a></div></div></div>`;
     out.innerHTML = `<h2>Your best matches</h2><p class="note">Join two or three, lurk for a week, then keep the one where you actually talk. Every server has a rules channel; read it first.</p>${picks.map(row).join('')}` +
