@@ -213,6 +213,14 @@ async function initQuiz() {
     const picks = []; const catCount = {};
     for (const x of scored) { if ((catCount[x.c.category]||0) >= 2 && picks.length >= 2) continue; picks.push(x); catCount[x.c.category] = (catCount[x.c.category]||0)+1; if (picks.length === 5) break; }
     for (const x of scored) { if (picks.length >= 5) break; if (!picks.includes(x)) picks.push(x); }
+    // guarantee coverage: every chosen interest gets at least one pick if any community matches it
+    for (const i of a.interests) {
+      const has = picks.some(x => INTEREST_TAGS[i].some(t => x.c.tags.includes(t)));
+      if (has) continue;
+      const best = scored.find(x => !picks.includes(x) && INTEREST_TAGS[i].some(t => x.c.tags.includes(t)));
+      if (best) { picks.splice(4, 1, best); }
+    }
+    picks.sort((x,y) => y.s - x.s);
     const localPool = db.communities.filter(c => c.invite_status !== 'dead' && (c.category === 'conference' || c.category === 'village' || c.category === 'regional'));
     const local = localPool.map(c => ({c, ...scoreCommunity(c, a)})).filter(x => x.s > 0).sort((x,y) => y.s - x.s).slice(0, 4);
     const out = document.querySelector('#results');
