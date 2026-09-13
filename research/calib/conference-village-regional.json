@@ -1,0 +1,2977 @@
+[
+{
+"id": "apres-cyber-slopes-summit",
+"name": "Apres Cyber Slopes Summit",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec"
+],
+"activities": [
+"chat",
+"local-meetups",
+"voice-events",
+"news-feed"
+],
+"members": 119,
+"online": 16,
+"region": "us-west",
+"language": "en",
+"run_by": "Apres-Cyber Slopes Summit organizers",
+"red_flags": "Very small server (119 members) with limited public information found; could not confirm an official website.",
+"summary": "This is the Discord home for the Apres-Cyber Slopes Summit, a small ski-town themed cybersecurity conference. Members use it to discuss the event, coordinate around the in-person gathering, and chat about general security topics between events. It suits people already interested in attending or who have attended a past Slopes Summit rather than newcomers looking for a general learning community."
+},
+{
+"id": "balccon2k26",
+"name": "BalCCon2k26",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"hacker-culture",
+"regional"
+],
+"activities": [
+"chat",
+"local-meetups",
+"voice-events",
+"news-feed",
+"workshops",
+"ctf-events"
+],
+"members": 368,
+"online": 65,
+"region": "europe",
+"language": "en",
+"run_by": "BalCCon community volunteers",
+"red_flags": null,
+"summary": "BalCCon (Balkan Computer Congress) is a non-commercial, community-organized hacker conference held annually in Novi Sad, Serbia, run entirely by volunteers from the regional hacker community. The Discord is used to discuss talks and workshops (chosen through an open call for papers), coordinate the event, and keep the Balkan hacker/maker community connected year-round. It suits anyone interested in the Balkan hacking scene, from curious beginners to experienced researchers presenting talks."
+},
+{
+"id": "bsidesslc",
+"name": "BSidesSLC",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"ctf",
+"regional",
+"study-group"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"workshops",
+"job-board",
+"voice-events"
+],
+"members": 884,
+"online": 133,
+"region": "us-west",
+"language": "en",
+"run_by": "BSidesSLC community volunteers",
+"red_flags": null,
+"summary": "BSidesSLC is a community-run, grassroots cybersecurity conference held in the Salt Lake City area (Sandy, Utah), with the tagline \"For the People, By the People,\" and this Discord is also linked to sister events BSidesCache and BSidesRedRocks. People use it to talk about the annual conference's talks, hands-on workshops, and CTF contests, and to network with local security professionals year-round. It's a good fit for both newcomers curious about the field and working professionals in the Utah infosec scene."
+},
+{
+"id": "bsides-charlotte",
+"name": "BSides Charlotte",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"regional",
+"ctf"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"job-board",
+"voice-events",
+"news-feed"
+],
+"members": 775,
+"online": 92,
+"region": "us-southeast",
+"language": "en",
+"run_by": "BSides Charlotte / FrostCon volunteers",
+"red_flags": null,
+"summary": "This server is the shared home for two annual Charlotte, NC-area events, BSides Charlotte and FrostCon, both focused on cybersecurity education and community building. Members discuss talks, workshops, and logistics for the events and use the space to network with the local infosec community between conferences. It suits both newcomers wanting to break into security in the Charlotte region and established professionals."
+},
+{
+"id": "bsides-columbus",
+"name": "BSides Columbus",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"regional"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"news-feed",
+"voice-events"
+],
+"members": 91,
+"online": 20,
+"region": "us-midwest",
+"language": "en",
+"run_by": "BSides Columbus organizers (with GuidePoint Security support)",
+"red_flags": null,
+"summary": "BSides Columbus is an annual cybersecurity conference in Columbus, Ohio presented with support from GuidePoint Security and community sponsors, featuring talks, workshops, and hacking villages. The Discord is where attendees and local security folks discuss the event and stay connected with the Columbus infosec community year-round. It works for both beginners curious about the field and working professionals in the area."
+},
+{
+"id": "bsides-ct",
+"name": "BSides CT",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"regional",
+"ctf",
+"study-group"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"workshops",
+"voice-events",
+"news-feed"
+],
+"members": 301,
+"online": 51,
+"region": "us-northeast",
+"language": "en",
+"run_by": "BSides CT volunteer community",
+"red_flags": null,
+"summary": "BSides CT is an all-volunteer, community-run cybersecurity conference held annually at Fairfield University in Connecticut and running since 2011. The event features talks, workshops, hands-on demos, and a CTF competition, and explicitly welcomes speakers of all experience levels; the Discord is used to plan the event and keep the Connecticut infosec community connected between conferences. It suits students and newcomers as well as established local security professionals."
+},
+{
+"id": "dcg937",
+"name": "DCG937",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"ctf",
+"general-infosec",
+"students",
+"conference"
+],
+"activities": [
+"chat",
+"ctf-events",
+"local-meetups",
+"workshops",
+"voice-events",
+"project-showcase"
+],
+"members": 323,
+"online": 42,
+"region": "us-midwest",
+"language": "en",
+"run_by": "DEF CON Group 937 / BSidesDayton volunteers",
+"red_flags": null,
+"summary": "This is the year-round Discord for DEF CON Group 937 and BSides Dayton, a volunteer-run Dayton, Ohio infosec community that hosts local meetups plus the annual BSidesDayton conference (talks, villages, and a story-driven CTF). It suits anyone in the Dayton area who wants ongoing security chat and in-person events, not just conference-week visitors."
+},
+{
+"id": "bsidesdfw",
+"name": "BSidesDFW",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"conference",
+"general-infosec",
+"networking",
+"ctf"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"project-showcase",
+"workshops",
+"voice-events"
+],
+"members": 908,
+"online": 137,
+"region": "us-south",
+"language": "en",
+"run_by": "BSides DFW volunteers",
+"red_flags": null,
+"summary": "Run by the volunteer, 501(c)(3) nonprofit behind BSides DFW, a free annual security \"unconference\" in the Dallas-Fort Worth area (typically the first Saturday in November). The Discord is the year-round hub for the local community around the event, with talk announcements, CTF chatter, and general security discussion for professionals and newcomers alike."
+},
+{
+"id": "summit-city-infosec",
+"name": "Summit City Infosec",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"conference",
+"general-infosec",
+"networking",
+"study-group"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"project-showcase",
+"study-groups"
+],
+"members": 632,
+"online": 95,
+"region": "us-midwest",
+"language": "en",
+"run_by": "Summit City Infosec / BSides Fort Wayne volunteers",
+"red_flags": null,
+"summary": "Summit City Infosec is the community group behind BSides Fort Wayne, Indiana, running local security meetups and an annual BSides conference for the region. The Discord serves as a year-round gathering spot for area security folks to chat, plan meetups, and coordinate around the conference, welcoming both beginners and working professionals."
+},
+{
+"id": "houston-bsides",
+"name": "Houston BSides",
+"category": "regional",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"conference",
+"general-infosec",
+"networking"
+],
+"activities": [
+"chat",
+"local-meetups",
+"project-showcase"
+],
+"members": 144,
+"online": 26,
+"region": "us-south",
+"language": "en",
+"run_by": "BSides Houston volunteers",
+"red_flags": "official site could not be confirmed reachable at time of research",
+"summary": "This is the Discord for BSides Houston, the Houston-area chapter of the volunteer-run global BSides security conference series. It's a smaller, moderately active space for local infosec folks to chat and connect around the annual event, useful mainly for people in or visiting the Houston area."
+},
+{
+"id": "bsides-leeds",
+"name": "BSides Leeds",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"conference",
+"general-infosec",
+"networking",
+"badgelife-maker"
+],
+"activities": [
+"chat",
+"local-meetups",
+"project-showcase",
+"voice-events"
+],
+"members": 315,
+"online": 53,
+"region": "uk-ireland",
+"language": "en",
+"run_by": "BSides Leeds volunteer team",
+"red_flags": null,
+"summary": "BSides Leeds is a UK security conference held in Leeds (next edition June 2027 at Cloth Hall Court), explicitly welcoming newcomers through industry veterans with talks, an AMA desk, and a badge challenge. The Discord is the community's ongoing chat space for attendees and locals, sponsored in part by companies like PortSwigger."
+},
+{
+"id": "bsides-memphis",
+"name": "BSides Memphis",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"conference",
+"general-infosec",
+"networking"
+],
+"activities": [
+"chat",
+"local-meetups",
+"project-showcase"
+],
+"members": 72,
+"online": 15,
+"region": "us-southeast",
+"language": "en",
+"run_by": "BSides Memphis (501(c)3 nonprofit)",
+"red_flags": null,
+"summary": "BSides Memphis is a 501(c)3 nonprofit, community-powered cybersecurity conference held annually in Memphis (next on October 3, 2026 at Epicenter Memphis). This is its small but active Discord for local networking and event chatter, suited to security professionals and enthusiasts in the Memphis area."
+},
+{
+"id": "bsidesmke",
+"name": "BSidesMKE",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"general-infosec"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"news-feed"
+],
+"members": 88,
+"online": 23,
+"region": "us-midwest",
+"language": "en",
+"run_by": "BSidesMKE volunteers",
+"red_flags": "small, low-activity server; official site currently just shows a placeholder page for the next event",
+"summary": "This is the Discord for BSidesMKE, the community-run BSides security conference in Milwaukee, Wisconsin. Members use it to coordinate around the yearly event (CFP, volunteering, sponsorships) and chat about local infosec between conferences. It suits anyone in the Milwaukee-area security community, from students to working professionals."
+},
+{
+"id": "security-bsides-prague",
+"name": "Security BSides Prague",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"general-infosec"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"news-feed"
+],
+"members": 183,
+"online": 24,
+"region": "europe",
+"language": "en",
+"run_by": "BSides Prague volunteers",
+"red_flags": null,
+"summary": "This is the Discord community tied to BSides Prague, a community-run BSides security conference in the Czech Republic. It's used mainly to coordinate and chat around the annual event and connect with the local Czech/Central European infosec scene. It suits security people in or visiting the region, at any experience level."
+},
+{
+"id": "bsidesroc",
+"name": "BSidesRoc",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"general-infosec",
+"careers"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"news-feed",
+"job-board"
+],
+"members": 402,
+"online": 68,
+"region": "us-northeast",
+"language": "en",
+"run_by": "BSidesROC volunteers",
+"red_flags": null,
+"summary": "This is the official Discord for BSidesROC, the volunteer-run BSides security conference held annually near Rochester, NY (RIT Inn & Conference Center). People use it to follow CFP/volunteer/sponsor announcements, plan meetups, and talk security year-round with the local upstate-NY community. Good fit for students and professionals in the Rochester/Western NY area."
+},
+{
+"id": "bsides-st-pete",
+"name": "BSides St Pete",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"general-infosec",
+"careers"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"job-board",
+"news-feed"
+],
+"members": 493,
+"online": 58,
+"region": "us-southeast",
+"language": "en",
+"run_by": "Cyber Ohana Project (501c3 nonprofit)",
+"red_flags": null,
+"summary": "This is the Discord for BSides St. Pete, a community-driven cybersecurity conference on Florida's Gulf Coast run by the nonprofit Cyber Ohana Project. It draws 600+ attendees for talks and hands-on trainings each year, and members use the server to coordinate around the event, network, and talk shop with the Tampa Bay-area security community. Suitable for beginners through advanced practitioners."
+},
+{
+"id": "bsides-tampa",
+"name": "BSides Tampa",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"general-infosec",
+"careers",
+"ctf"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"job-board",
+"news-feed",
+"ctf-events"
+],
+"members": 1311,
+"online": 178,
+"region": "us-southeast",
+"language": "en",
+"run_by": "BSides Tampa volunteers",
+"red_flags": null,
+"summary": "This is the Discord for BSides Tampa, one of the larger and longer-running BSides conferences in Florida. It's the most active of the Florida BSides servers here, used for CFP/volunteer coordination, networking, and general security chat throughout the year, not just around the event. It suits anyone in the Tampa Bay security community, from students to seasoned professionals."
+},
+{
+"id": "bsides-swfl",
+"name": "BSides SWFL",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"conference",
+"regional",
+"general-infosec",
+"students"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"news-feed"
+],
+"members": 65,
+"online": 14,
+"region": "us-southeast",
+"language": "en",
+"run_by": "BSides SWFL organizers",
+"red_flags": "very new/small server, only one conference held so far (2025)",
+"summary": "This is the Discord for BSides SWFL, a newer cybersecurity conference held at Florida SouthWestern State College that brings together industry professionals and students in Southwest Florida. It's a small, young community used for event coordination and local networking rather than heavy daily chat. Good fit for students and early-career people in the SWFL region."
+},
+{
+"id": "cactuscon-community",
+"name": "CactusCon Community",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"ctf",
+"students",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"workshops",
+"news-feed"
+],
+"members": 2694,
+"online": 345,
+"region": "us-west",
+"language": "en",
+"run_by": "CactusCon organizers (community-run non-profit conference)",
+"red_flags": null,
+"summary": "This is the community server for CactusCon, a long-running (14+ years) volunteer-run hacker/security conference held each February in the Phoenix, Arizona area (Mesa). Members discuss the conference CFP, talks, and villages, and use the server to stay connected between events; it welcomes newcomers alongside working security professionals."
+},
+{
+"id": "secwest-net",
+"name": "secwest.net",
+"category": "conference",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"cryptography",
+"hacker-culture",
+"binary-exploitation"
+],
+"activities": [
+"chat",
+"news-feed",
+"local-meetups"
+],
+"members": 543,
+"online": 62,
+"region": "canada",
+"language": "en",
+"run_by": "dragostech.com inc.",
+"red_flags": null,
+"summary": "This is the community server for CanSecWest (secwest.net), a long-running, research-heavy security conference held annually in Vancouver, Canada, run by dragostech.com inc. (which also runs PACSEC and the Pwn2Own contest lineage). It skews toward vulnerability researchers, reverse engineers, and offensive security professionals rather than beginners."
+},
+{
+"id": "carolinacon",
+"name": "CarolinaCon",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"hacker-culture",
+"ctf",
+"regional"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"news-feed"
+],
+"members": 318,
+"online": 50,
+"region": "us-southeast",
+"language": "en",
+"run_by": "CarolinaCon organizers (community-run)",
+"red_flags": null,
+"summary": "This is the community server for CarolinaCon, a long-running, community/volunteer-run hacker and security conference held in North Carolina. Members use it to discuss talks, CFP, and villages and to stay in touch with the regional hacker scene between events."
+},
+{
+"id": "corncon",
+"name": "CornCon",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"careers",
+"students",
+"regional"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"news-feed",
+"job-board"
+],
+"members": 238,
+"online": 36,
+"region": "us-midwest",
+"language": "en",
+"run_by": "Docent (nonprofit)",
+"red_flags": null,
+"summary": "This is the community server for CornCon, an annual cybersecurity conference in the Quad Cities area run by the nonprofit Docent, notable for pairing an industry/CISO track with youth-focused programs like a High School Cyber Career Day and Kids' Hacker Camp. It's a friendly, community-oriented space suited to students, career-changers, and working security professionals alike."
+},
+{
+"id": "cyphercon",
+"name": "CypherCon",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"hardware-hacking",
+"cryptography",
+"regional"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"workshops",
+"news-feed"
+],
+"members": 1119,
+"online": 206,
+"region": "us-midwest",
+"language": "en",
+"run_by": "CypherCon organizers (community-run)",
+"red_flags": null,
+"summary": "This is the community server for CypherCon, Wisconsin's largest cybersecurity and hacker conference, held each spring in Milwaukee. It covers a broad mix of security, hardware hacking, cryptography, and AI topics and explicitly aims to serve everyone from curious beginners to seasoned professionals."
+},
+{
+"id": "defcon",
+"name": "DEFCON",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"ctf",
+"hacker-culture",
+"village",
+"binary-exploitation"
+],
+"activities": [
+"chat",
+"ctf-events",
+"news-feed",
+"local-meetups",
+"workshops",
+"job-board",
+"voice-events"
+],
+"members": 57969,
+"online": 9764,
+"region": "global",
+"language": "en",
+"run_by": "DEF CON Communications, Inc. (Jeff Moss / \"The Dark Tangent\")",
+"red_flags": null,
+"summary": "This is the official, verified Discord server for DEF CON, the world's largest hacker conference, founded by Jeff Moss (The Dark Tangent) and run with an army of volunteer \"Goons.\" It's a massive, year-round hub covering every DEF CON village and group, CTFs, and general hacker culture, with channels and communities ranging from total beginners to elite researchers."
+},
+{
+"id": "pacific-hackers",
+"name": "Pacific Hackers",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"regional",
+"general-infosec",
+"hacker-culture",
+"ctf",
+"students"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"job-board",
+"mentorship",
+"workshops"
+],
+"members": 568,
+"online": 56,
+"region": "us-west",
+"language": "en",
+"run_by": "Pacific Hackers Association (nonprofit)",
+"red_flags": null,
+"summary": "Pacific Hackers Association is a Bay Area nonprofit hacker community that runs monthly meetups, the HackTheBay hackathon/CTF, and its own small conferences (PHACK, SunSecCon), plus a presence at RSA Conference. It suits people in or near San Francisco who want in-person meetups, mentorship, and hands-on CTF practice rather than just online chat."
+},
+{
+"id": "hardwear-io",
+"name": "Hardwear.io",
+"category": "conference",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"iot-embedded",
+"conference",
+"reverse-engineering",
+"cloud-security"
+],
+"activities": [
+"chat",
+"news-feed",
+"project-showcase",
+"ctf-events",
+"workshops"
+],
+"members": 1007,
+"online": 82,
+"region": "global",
+"language": "en",
+"run_by": "hardwear.io organizers",
+"red_flags": null,
+"summary": "Hardwear.io is a well-known hardware security conference and training series (with editions in the Netherlands, USA, and India) focused on chip-level security, embedded systems, IoT, and side-channel/fault-injection research. The Discord is where attendees, speakers, and hardware security researchers discuss talks, CTFs, and training; it leans technical and suits people already working in embedded/hardware security more than newcomers."
+},
+{
+"id": "hexacon",
+"name": "HEXACON",
+"category": "conference",
+"bf": 1,
+"audience": [
+"advanced"
+],
+"tags": [
+"conference",
+"reverse-engineering",
+"binary-exploitation",
+"malware-analysis",
+"mobile-security"
+],
+"activities": [
+"chat",
+"news-feed",
+"project-showcase"
+],
+"members": 1222,
+"online": 135,
+"region": "europe",
+"language": "en",
+"run_by": "Hexacon organizing committee (incl. Jean-Baptiste Bedrune, Jiska Classen, Ophir Harpaz)",
+"red_flags": null,
+"summary": "Hexacon is a single-track offensive-security conference in Paris built around vulnerability research and malware/exploitation topics, run by a committee of well-known infosec researchers with no corporate-sponsored talks. Its Discord is mainly for attendees and speakers of this ticket-limited (500 seats) event to coordinate and discuss deeply technical exploit-development and reverse-engineering content, not a place for beginners."
+},
+{
+"id": "jawncon",
+"name": "JawnCon",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"hardware-hacking",
+"ctf",
+"ham-radio",
+"lockpicking-physical"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"workshops",
+"voice-events",
+"project-showcase"
+],
+"members": 359,
+"online": 79,
+"region": "us-northeast",
+"language": "en",
+"run_by": "JawnCon, LLC",
+"red_flags": null,
+"summary": "JawnCon is a Philadelphia-area community security conference held at Arcadia University, covering cybersecurity, hardware hacking, AI governance, and general tech culture with CTFs, a lockpicking village, ham radio classes/exams, and a retro-tech show-and-tell. The Discord is where attendees and volunteers plan and chat between and during the yearly event, suiting locals interested in a smaller, community-run con."
+},
+{
+"id": "layerone-conference",
+"name": "LayerOne Conference",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"ctf",
+"hardware-hacking",
+"lockpicking-physical",
+"careers"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"workshops",
+"job-board",
+"project-showcase"
+],
+"members": 1056,
+"online": 168,
+"region": "us-west",
+"language": "en",
+"run_by": "LayerOne staff/volunteers",
+"red_flags": null,
+"summary": "LayerOne bills itself as Los Angeles' premier annual security conference, with talks on malware, cryptography, and ransomware alongside hands-on villages for hardware hacking, lockpicking, soldering, robotics battles, and a career village. The Discord serves attendees and volunteers coordinating around the yearly event, and welcomes students and hobbyists alongside working security researchers."
+},
+{
+"id": "cyberv",
+"name": "CyberV",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"students",
+"general-infosec",
+"ctf"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"workshops",
+"project-showcase",
+"study-groups"
+],
+"members": 2787,
+"online": 557,
+"region": "europe",
+"language": "fr",
+"run_by": "CyberV association (organizers of leHACK)",
+"red_flags": null,
+"summary": "CyberV is a French cybersecurity association connecting students, professionals, and enthusiasts around projects and events, and it organizes the well-known leHACK conference (formerly Nuit du Hack) in Paris. The Discord hosts year-round French-language discussion, project collaboration, and event planning, suiting people in the French infosec scene from students to professionals."
+},
+{
+"id": "northsec",
+"name": "NorthSec",
+"category": "conference",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"ctf",
+"pentesting",
+"reverse-engineering",
+"binary-exploitation",
+"malware-analysis",
+"cryptography"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"chat",
+"news-feed",
+"writeups"
+],
+"members": 3155,
+"online": 567,
+"region": "canada",
+"language": "en",
+"run_by": "NorthSec team",
+"red_flags": null,
+"summary": "Official Discord for NorthSec, a major Montreal-based security conference and one of the largest CTF competitions in the world, covering pentesting, network and application security, reverse engineering, malware, and cryptography. The community discusses talks, training, and the CTF (roughly 90+ teams compete each year), and stays active year-round between events. It suits people already comfortable with offensive security concepts more than absolute beginners."
+},
+{
+"id": "comfycon-au",
+"name": "ComfyCon AU",
+"category": "conference",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"conference",
+"general-infosec",
+"students",
+"mentorship",
+"ctf"
+],
+"activities": [
+"chat",
+"voice-events",
+"workshops",
+"ctf-events",
+"mentorship",
+"local-meetups"
+],
+"members": 1065,
+"online": 101,
+"region": "australia-nz",
+"language": "en",
+"run_by": "ComfyCon AU volunteers (in partnership with PancakesCon)",
+"red_flags": null,
+"summary": "Discord for ComfyCon AU, a casual, community-run Australian infosec conference that partners with the beginner-focused PancakesCon on joint online programming. It's an explicitly low-pressure, welcoming space with talks, villages, and CTF-style activities aimed at people newer to the industry rather than seasoned specialists. Good fit for beginners in Australia/APAC time zones wanting an approachable entry point into the security community."
+},
+{
+"id": "queencitycon",
+"name": "QueenCityCon",
+"category": "conference",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"conference",
+"careers",
+"general-infosec",
+"mentorship",
+"regional"
+],
+"activities": [
+"chat",
+"job-board",
+"workshops",
+"mentorship",
+"local-meetups"
+],
+"members": 143,
+"online": 26,
+"region": "us-midwest",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Discord for QueenCityCon, a community-organized, multi-day cybersecurity conference in Cincinnati, Ohio built by industry volunteers and sponsors rather than a single company. The event runs breakout sessions, hands-on workshops, and a dedicated career village with resume help and mock interviews, and it's explicitly open to anyone curious about the field. It suits newcomers looking for a friendly regional on-ramp as well as working practitioners networking locally."
+},
+{
+"id": "rvasec",
+"name": "RVAsec",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"conference",
+"lockpicking-physical"
+],
+"activities": [
+"chat",
+"ctf-events",
+"local-meetups",
+"voice-events",
+"news-feed"
+],
+"members": 358,
+"online": 61,
+"region": "us-northeast",
+"language": "en",
+"run_by": "RVAsec conference organizers",
+"red_flags": null,
+"summary": "This is the year-round Discord home for RVAsec, an annual Richmond, Virginia infosec conference with talks, a CTF, and lockpicking. Between conference dates the server keeps the community connected with chat and meetup coordination, so it suits people already in or near the Richmond security scene rather than pure newcomers looking for tutorials."
+},
+{
+"id": "saintcon",
+"name": "SAINTCON",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"hardware-hacking",
+"conference",
+"study-group",
+"lockpicking-physical"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"local-meetups",
+"hardware-help",
+"voice-events",
+"news-feed"
+],
+"members": 3498,
+"online": 541,
+"region": "us-west",
+"language": "en",
+"run_by": "UtahSAINT (nonprofit)",
+"red_flags": null,
+"summary": "SAINTCON is a volunteer-run, nonprofit cybersecurity conference held every October in Provo, Utah, and this Discord is its active year-round community hub. Members discuss security topics, coordinate local meetups, and follow sub-communities like AppSec, hardware hacking, and lock picking that mirror the conference's tracks and contests."
+},
+{
+"id": "secretcon",
+"name": "SecretCon",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"hardware-hacking",
+"ai-security",
+"conference"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"local-meetups",
+"news-feed"
+],
+"members": 425,
+"online": 77,
+"region": "us-midwest",
+"language": "en",
+"run_by": "SecretCon organizers",
+"red_flags": "Little independent verification found beyond the official site; server description on Discord was blank.",
+"summary": "SecretCon is Minnesota's annual hacker and cybersecurity conference held in the Twin Cities each spring, covering hands-on hacking, AI security, privacy, and hardware across three speaker tracks and CTFs. This Discord is its community server, drawing security pros alongside curious builders and first-time hackers in that regional scene."
+},
+{
+"id": "shellcon-community",
+"name": "ShellCon Community",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"conference",
+"hardware-hacking"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"project-showcase",
+"news-feed",
+"voice-events"
+],
+"members": 432,
+"online": 65,
+"region": "us-west",
+"language": "en",
+"run_by": "ShellCon organizers",
+"red_flags": "Official site's most recent detailed event info found was from 2021; unclear if conference is still running annually as of 2026.",
+"summary": "ShellCon is an annual information security conference held in the beach cities near Los Angeles, streaming its main talks free on YouTube/Twitch while running paid hands-on workshops. This Discord is its year-round community server for attendees and speakers to keep talking shop between events."
+},
+{
+"id": "wild-west-hackin-fest",
+"name": "Wild West Hackin' Fest",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"red-team",
+"blue-team",
+"ctf",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events",
+"workshops",
+"voice-events",
+"job-board",
+"local-meetups",
+"news-feed"
+],
+"members": 10428,
+"online": 1589,
+"region": "global",
+"language": "en",
+"run_by": "BHIS family of companies (Black Hills Information Security / Antisyphon Training / Active Countermeasures)",
+"red_flags": null,
+"summary": "This is the community Discord for Wild West Hackin' Fest, run by the BHIS family of companies (Black Hills Information Security, Antisyphon Training, Active Countermeasures). People discuss talks, workshops, and trainings from the conference (held in Deadwood, South Dakota) year-round, network with other attendees, and get updates on new events like the upcoming Mile High 2027 conference in Denver. It suits anyone into offensive/defensive security who enjoys BHIS's approachable, hands-on teaching style, from newcomers to veterans."
+},
+{
+"id": "blue-team-con",
+"name": "Blue Team Con",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"blue-team",
+"soc",
+"detection-engineering",
+"dfir",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"local-meetups",
+"job-board",
+"voice-events",
+"news-feed"
+],
+"members": 1448,
+"online": 186,
+"region": "us-midwest",
+"language": "en",
+"run_by": "Blue Team Con organizers (community-run nonprofit conference)",
+"red_flags": null,
+"summary": "Official Discord for Blue Team Con, a Chicago-based conference focused on defenders (SOC analysts, detection engineers, incident responders). Members discuss conference talks, ask defensive-security questions, and connect with other blue-teamers between events. It's a good fit for people who want to focus specifically on defense rather than general or offensive security."
+},
+{
+"id": "bsides-atlanta",
+"name": "BSides Atlanta",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"regional",
+"careers",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"q-and-a",
+"local-meetups",
+"job-board",
+"news-feed",
+"voice-events"
+],
+"members": 959,
+"online": 104,
+"region": "us-southeast",
+"language": "en",
+"run_by": "BSides Atlanta organizers (community/volunteer-run)",
+"red_flags": null,
+"summary": "This is the official Discord for BSides Atlanta, a community-run annual security conference in Atlanta (2026 event at the Georgia Tech Hotel and Conference Center). Locals use it to discuss talks, coordinate volunteering, and network with the Atlanta infosec scene, including partner groups like Atlanta Women in Cyber. It suits anyone in or near Atlanta looking to connect with the regional security community, beginners included."
+},
+{
+"id": "recon-reality-escape-convention",
+"name": "RECON | Reality Escape Convention",
+"category": "conference",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"conference",
+"binary-exploitation",
+"malware-analysis",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"writeups",
+"news-feed",
+"local-meetups"
+],
+"members": 2329,
+"online": 255,
+"region": "canada",
+"language": "en",
+"run_by": "community-run (REcon conference community)",
+"red_flags": null,
+"summary": "This is a long-running community Discord tied to REcon, a well-known reverse-engineering conference held in Montreal (with a sister event, REcon Brussels). People here discuss reverse engineering, binary exploitation, and malware analysis topics, and swap notes about the conference itself, which runs talks in both English and French. It's aimed at experienced reverse engineers and researchers rather than newcomers to security."
+},
+{
+"id": "rstcon",
+"name": "RSTCON",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"regional",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"q-and-a",
+"local-meetups",
+"news-feed"
+],
+"members": 339,
+"online": 50,
+"region": "us-southeast",
+"language": "en",
+"run_by": "RSTCON organizers",
+"red_flags": "Official site content could not be verified (returned blank/empty on fetch); details rely on secondary listings.",
+"summary": "This is described as the official Discord for RSTCON, a small hacking conference held in Savannah, Georgia. Members use it to discuss the conference and connect with the regional US security community; the server is fairly small, so activity is more modest than larger con servers. It suits people near coastal Georgia looking for a local infosec meetup community."
+},
+{
+"id": "thotcon",
+"name": "THOTCON",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"hacker-culture",
+"networking"
+],
+"activities": [
+"chat",
+"local-meetups",
+"voice-events",
+"news-feed"
+],
+"members": 824,
+"online": 157,
+"region": "us-midwest",
+"language": "en",
+"run_by": "THOTCON Infinity NFP (nonprofit)",
+"red_flags": null,
+"summary": "This is the Discord for THOTCON, a long-running nonprofit hacking conference held annually in Chicago (the venue is kept secret until the week of the event). The server is where attendees find event announcements, chat with other hackers, and keep in touch between conferences, and it suits anyone into the Chicago/Midwest hacker scene rather than pure beginners looking for structured lessons."
+},
+{
+"id": "bsides312",
+"name": "BSides312",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"ctf",
+"general-infosec",
+"regional",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"voice-events",
+"news-feed"
+],
+"members": 354,
+"online": 61,
+"region": "us-midwest",
+"language": "en",
+"run_by": "Hak4Kidz NFP",
+"red_flags": null,
+"summary": "BSides312 is Chicago's community-run BSides conference (organized by the Hak4Kidz nonprofit), held the day after THOTCON so attendees can make a full con weekend of it. The Discord is where locals discuss the event, its CTF, lockpicking village, and Linux village, and stay connected with the Chicago infosec scene year-round."
+},
+{
+"id": "bsides-vilnius",
+"name": "BSides Vilnius",
+"category": "conference",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"regional"
+],
+"activities": [
+"chat",
+"local-meetups",
+"news-feed"
+],
+"members": 253,
+"online": 34,
+"region": "europe",
+"language": "en",
+"run_by": "Elbsides volunteer organizing team",
+"red_flags": "Naming mismatch between listing label and actual conference identified from the invite/site",
+"summary": "Despite the id, this invite actually belongs to Elbsides, a volunteer-run security conference in Hamburg, Germany, held annually with keynotes, talks, and workshops kept affordable through sponsorship rather than high ticket prices. The Discord is a small, mostly event-focused chat for attendees and the local European security community rather than a beginner-teaching space."
+},
+{
+"id": "hackers-guild",
+"name": "Hackers Guild",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"hacker-culture",
+"general-infosec"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"voice-events"
+],
+"members": 557,
+"online": 115,
+"region": "us-northeast",
+"language": "en",
+"run_by": "Hackers Guild PGH",
+"red_flags": "Official site returned an error when fetched directly, so details were pieced together from listing notes",
+"summary": "This server belongs to Hackers Guild PGH, a year-round Pittsburgh hacker community that also organizes the annual GuildCon conference. It's a hub for local meetups and event planning rather than a pure beginner-lessons server, though the guild itself is community-oriented and open to newcomers interested in the local hacking scene."
+},
+{
+"id": "bsides-michigan",
+"name": "BSides Michigan",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"general-infosec",
+"regional"
+],
+"activities": [
+"chat",
+"local-meetups",
+"news-feed",
+"voice-events"
+],
+"members": 362,
+"online": 56,
+"region": "us-midwest",
+"language": "en",
+"run_by": "BSides Detroit organizing team",
+"red_flags": null,
+"summary": "This is the Discord for BSides Detroit (referred to in some listings as BSides Michigan), a community-organized security conference with an active volunteer staff team and a recurring annual schedule. The server serves as the year-round hub for the Detroit-area infosec community to discuss the event and stay in touch between conferences."
+},
+{
+"id": "bsides-nashville",
+"name": "BSides Nashville",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"general-infosec"
+],
+"activities": [
+"chat",
+"local-meetups",
+"news-feed"
+],
+"members": 126,
+"online": 20,
+"region": "us-southeast",
+"language": "en",
+"run_by": "BSides Nashville volunteers",
+"red_flags": "Only 126 members with modest activity; discord presence not confirmed on the official site itself.",
+"summary": "This is the community Discord for BSides Nashville, a volunteer-run, non-profit information security conference held in Nashville. People use it to get event announcements, schedule and ticket info, volunteer coordination, and general chat with other Nashville-area security folks. It suits locals interested in attending or volunteering at the conference more than year-round deep technical discussion."
+},
+{
+"id": "bsides-orlando",
+"name": "BSides Orlando",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"general-infosec"
+],
+"activities": [
+"chat",
+"local-meetups",
+"news-feed",
+"job-board"
+],
+"members": 1517,
+"online": 191,
+"region": "us-southeast",
+"language": "en",
+"run_by": "BSides Orlando organizers",
+"red_flags": null,
+"summary": "This is the official Discord for BSides Orlando, a community-run information security conference in Orlando, Florida, linked directly from the conference's own website. Members get conference announcements (next event September 26, 2026), can talk with other Florida-area security people, and coordinate around the annual event, with activity that appears to continue between conferences given the sizeable ongoing membership."
+},
+{
+"id": "red-team-village",
+"name": "Red Team Village",
+"category": "village",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"ctf",
+"reverse-engineering",
+"malware-analysis"
+],
+"activities": [
+"workshops",
+"ctf-events",
+"challenges",
+"voice-events",
+"chat"
+],
+"members": 27304,
+"online": 3172,
+"region": "global",
+"language": "en",
+"run_by": "Red Team Village (501(c)(3) nonprofit, DEF CON village)",
+"red_flags": null,
+"summary": "Red Team Village is a nonprofit that runs the offensive-security village at DEF CON (and appears at other cons like BSides), and its Discord is where that community lives year-round with workshops, CTFs, and short skill-building \"tactics\" on topics like red teaming, malware development, and reverse engineering. People come here for hands-on offensive security training and to connect with village organizers and volunteers. It suits those with some security fundamentals already looking to go deeper into red team tradecraft, more than absolute beginners."
+},
+{
+"id": "ru-security-club",
+"name": "RU Security Club",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"students",
+"regional",
+"study-group"
+],
+"activities": [
+"chat",
+"study-groups",
+"ctf-events",
+"workshops",
+"mentorship"
+],
+"members": 1801,
+"online": 185,
+"region": "us-northeast",
+"language": "en",
+"run_by": "Rutgers University Security Club (student-run)",
+"red_flags": null,
+"summary": "RUSEC is the official cybersecurity club at Rutgers University, run by a student executive board with instructors teaching topics like web security, forensics, reverse engineering, and malware analysis. Members compete together in collegiate competitions such as CCDC and ISTS, and the server functions as the club's main hub for coordinating meetings, study sessions, and competition prep."
+},
+{
+"id": "ethical-hacker-groep-nederland",
+"name": "Ethical Hacker Groep Nederland",
+"category": "regional",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"regional",
+"hacker-culture",
+"ctf",
+"students"
+],
+"activities": [
+"chat",
+"voice-events",
+"workshops",
+"q-and-a",
+"news-feed"
+],
+"members": 2487,
+"online": 307,
+"region": "europe",
+"language": "nl",
+"run_by": "community-run",
+"red_flags": "Not independently verified beyond the Discord directory listing; claims ('#1 Dutch hacker community') are self-described and unconfirmed.",
+"summary": "A Dutch-language ethical hacking community that describes itself as the biggest hacker community in the Netherlands, running frequent live sessions (talks, workshops, or Q&As) throughout the year. It appears to be community-run and aimed at Dutch speakers interested in ethical hacking and cybersecurity generally, with a large member base and steady online activity."
+},
+{
+"id": "bsides-pakistan",
+"name": "BSides Pakistan",
+"category": "regional",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"regional",
+"ctf",
+"students",
+"careers"
+],
+"activities": [
+"chat",
+"news-feed",
+"ctf-events",
+"local-meetups",
+"job-board"
+],
+"members": 3877,
+"online": 209,
+"region": "asia",
+"language": "en",
+"run_by": "BSides Pakistan organizers",
+"red_flags": null,
+"summary": "This is the Discord for BSides Pakistan, described as the country's premier cybersecurity community, connecting local infosec enthusiasts, students, and professionals around the annual BSides Pakistan conference and related meetups. Expect general security chat, event announcements, and networking for people in or interested in Pakistan's infosec scene."
+},
+{
+"id": "burbsec",
+"name": "BurbSec",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"voice-events",
+"job-board"
+],
+"members": 2058,
+"online": 265,
+"region": "us-midwest",
+"language": "en",
+"run_by": "community-run (BurbSec organizers)",
+"red_flags": "The invite in the batch is a Discord server-directory link rather than a direct invite; current working invite found elsewhere is discord.gg/VVYDZYmd2w.",
+"summary": "BurbSec is the online hub for a network of informal, no-pitch, no-CPE-sign-in infosec meetups that started in the Chicago suburbs and now has chapters across the US (plus Minneapolis and Las Vegas). People use the Discord to organize meetup logistics, chat about security news and tools year-round, and keep the community going between in-person gatherings. It suits anyone who wants low-key local networking with security folks rather than formal talks or CTFs."
+},
+{
+"id": "blue-team-village",
+"name": "Blue Team Village",
+"category": "village",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"soc",
+"dfir",
+"detection-engineering",
+"village",
+"ctf"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events",
+"workshops",
+"study-groups",
+"mentorship",
+"voice-events",
+"job-board"
+],
+"members": 9012,
+"online": 1433,
+"region": "global",
+"language": "en",
+"run_by": "Blue Team Village volunteers (DEF CON village)",
+"red_flags": null,
+"summary": "Blue Team Village is a DEF CON village built for and by defenders, and its Discord is where SOC analysts, DFIR practitioners, and detection engineers hang out year-round, not just during the conference. People ask defensive-security questions, join CTFs and workshops tied to BTV events, and get mentorship from more experienced defenders. It's a good fit for anyone focused on the blue-team side of security, from newcomers to seasoned analysts."
+},
+{
+"id": "malware-village",
+"name": "Malware Village",
+"category": "village",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"malware-analysis",
+"reverse-engineering",
+"ctf",
+"threat-intel"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events",
+"workshops",
+"project-showcase",
+"study-groups"
+],
+"members": 743,
+"online": 119,
+"region": "global",
+"language": "en",
+"run_by": "World Cyber Health / Lena Yu (LambdaMamba)",
+"red_flags": null,
+"summary": "Run by the nonprofit World Cyber Health and founder Lena Yu, Malware Village is the community behind the Malware Village events at DEF CON and other conferences, covering malware analysis, reverse engineering, and threat research. Members discuss malware research, join talks/workshops/contests (like the Malware Analysis Report Competition and the Malmons trading-card project), and it suits people with some existing interest in analyzing malicious code rather than absolute beginners."
+},
+{
+"id": "application-security-village",
+"name": "Application Security Village",
+"category": "village",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"web-appsec",
+"bug-bounty",
+"ctf",
+"village"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events",
+"workshops",
+"voice-events",
+"news-feed"
+],
+"members": 1582,
+"online": 159,
+"region": "global",
+"language": "en",
+"run_by": "Application Security Village volunteers",
+"red_flags": null,
+"summary": "This is the official Discord for the Application Security Village, which runs talks, CTFs, and workshops on software/application security at DEF CON and RSA Conference. Members use it to coordinate around village events (movie nights, CTFs, other conference appearances) and discuss appsec topics year-round, making it most useful for people already interested in web and application security rather than total newcomers."
+},
+{
+"id": "ekoparty-org",
+"name": "ekoparty.org",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"regional",
+"general-infosec",
+"ctf"
+],
+"activities": [
+"chat",
+"news-feed",
+"ctf-events",
+"local-meetups",
+"voice-events"
+],
+"members": 4475,
+"online": 217,
+"region": "latin-america",
+"language": "es",
+"run_by": "Ekoparty organizers",
+"red_flags": null,
+"summary": "This is the community server for Ekoparty, Latin America's largest annual information security conference held in Buenos Aires, Argentina every October. People use it to follow conference news and CFP updates, join virtual events and villages tied to the conference, and network with other Latin American security professionals and students. It is mostly Spanish-language and geared toward the region, with activity that spikes around the October event."
+},
+{
+"id": "vsec",
+"name": "VSec",
+"category": "regional",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"networking",
+"study-group"
+],
+"activities": [
+"chat",
+"local-meetups",
+"job-board",
+"study-groups"
+],
+"members": 827,
+"online": 138,
+"region": "europe",
+"language": "en",
+"run_by": "community-run (VSec / Viking Security volunteers)",
+"red_flags": null,
+"summary": "VSec (short for Viking Security) is a non-profit, community-governed platform unifying local infosec groups across Denmark and the wider Nordics, run by volunteer crews from each local community. It's used to coordinate local meetups and events and share knowledge across the region's scene, with a verification process (LinkedIn/Twitter proof) required to unlock closed channels, which makes it more suited to people already working or studying in the field than absolute newcomers."
+},
+{
+"id": "dc",
+"name": "DC²",
+"category": "conference",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"conference",
+"general-infosec",
+"networking",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"voice-events"
+],
+"members": 154,
+"online": 43,
+"region": "us-west",
+"language": "en",
+"run_by": "DEF CON Group community organizers (z0d14k, existenzkampf)",
+"red_flags": null,
+"summary": "DC² is the official DEF CON Group for Davis County in central/northern Utah, a local chapter in the worldwide DEF CON Groups (DCG) network of grassroots hacker meetups. Members use the Discord to coordinate in-person meetups, talks, and workshops in the Utah area, alongside general security chat. Good for locals in the Salt Lake City/Davis County region wanting to meet other hackers face to face."
+},
+{
+"id": "infosec-716",
+"name": "Infosec 716",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"networking",
+"careers"
+],
+"activities": [
+"chat",
+"local-meetups",
+"voice-events",
+"job-board",
+"q-and-a"
+],
+"members": 692,
+"online": 80,
+"region": "us-northeast",
+"language": "en",
+"run_by": "community-run (Infosec 716 organizers, Buffalo NY)",
+"red_flags": null,
+"summary": "Infosec 716 is a Buffalo/Western New York infosec meetup group (the \"716\" is the local area code) that streams its regular talks and meetups via Discord and Twitch, often hybrid with in-person attendance at the Bit Haven hackerspace. It's aimed at local security practitioners and students of all levels who want to network, watch talks, and connect with the regional community."
+},
+{
+"id": "radio-frequency-hackers-sanctuary",
+"name": "Radio Frequency Hackers Sanctuary",
+"category": "village",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"rf-sdr",
+"wireless",
+"hardware-hacking",
+"iot-embedded",
+"village",
+"conference"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"hardware-help",
+"voice-events",
+"news-feed"
+],
+"members": 5297,
+"online": 929,
+"region": "global",
+"language": "en",
+"run_by": "RF Hackers Sanctuary",
+"red_flags": null,
+"summary": "Run by RF Hackers Sanctuary, the volunteer group behind the RF Village and RF Capture the Flag at DEF CON and many BSides events, this server is where people discuss software-defined radio, WiFi, Bluetooth, Zigbee, and other wireless security topics year-round, not just during con season. It suits people who already have some RF or wireless security background and want to connect with village organizers, get CTF hints, or hear about guest talks."
+},
+{
+"id": "secdsm",
+"name": "SecDSM",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"networking",
+"study-group"
+],
+"activities": [
+"chat",
+"local-meetups",
+"q-and-a",
+"job-board",
+"news-feed"
+],
+"members": 1075,
+"online": 165,
+"region": "us-midwest",
+"language": "en",
+"run_by": "SecDSM organizers (community-run)",
+"red_flags": null,
+"summary": "SecDSM is the Discord for a free, vendor-neutral monthly infosec meetup in Des Moines, Iowa, where local security professionals give short tech talks over food and drinks with no sales pitches. The Discord is used to coordinate meetups, share event announcements, and keep the conversation going between in-person gatherings. It suits anyone in or near Des Moines who wants to network with local security folks, from students to working professionals."
+},
+{
+"id": "car-hacking-village-hq",
+"name": "Car Hacking Village HQ",
+"category": "village",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"car-hacking",
+"hardware-hacking",
+"iot-embedded",
+"regional",
+"village"
+],
+"activities": [
+"chat",
+"workshops",
+"project-showcase",
+"local-meetups",
+"news-feed"
+],
+"members": 2123,
+"online": 287,
+"region": "global",
+"language": "en",
+"run_by": "Car Hacking Village volunteers",
+"red_flags": null,
+"summary": "The official Discord for Car Hacking Village (CHV), a 501(c)(3) nonprofit that runs hands-on automotive security education and hacking challenges at DEF CON and other security conferences. Members discuss vehicle bus protocols (CAN, etc.), share research, and coordinate around village activities and CTF-style car-hacking challenges at events. Best suited for people with some hardware/security background who want to get into automotive security specifically."
+},
+{
+"id": "aerospace-village",
+"name": "Aerospace Village",
+"category": "village",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"village",
+"iot-embedded",
+"hardware-hacking",
+"aviation-tracking",
+"networking"
+],
+"activities": [
+"chat",
+"news-feed",
+"project-showcase",
+"workshops",
+"local-meetups",
+"voice-events"
+],
+"members": 1897,
+"online": 350,
+"region": "global",
+"language": "en",
+"run_by": "Aerospace Village (nonprofit, volunteer-run)",
+"red_flags": null,
+"summary": "Aerospace Village is a nonprofit DEF CON village that brings together hackers, engineers, pilots, and policy people to work on aviation, space, and satellite security. The Discord is where members coordinate around the annual DEF CON presence and their own STARPWN event, and share aerospace-security news and projects. It suits people already interested in aviation/space systems more than absolute beginners."
+},
+{
+"id": "physical-security-village",
+"name": "Physical Security Village",
+"category": "village",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"lockpicking-physical",
+"village",
+"hardware-hacking",
+"networking"
+],
+"activities": [
+"chat",
+"hardware-help",
+"workshops",
+"project-showcase",
+"local-meetups"
+],
+"members": 1017,
+"online": 153,
+"region": "global",
+"language": "en",
+"run_by": "Physical Security Village (nonprofit)",
+"red_flags": null,
+"summary": "Physical Security Village (PSV) is a nonprofit that runs hands-on exhibits at security conferences covering lockpicking, access control, RFID, and door-hardware bypass. On Discord members share physical-security tips and projects, volunteer to staff village booths, and discuss talks submitted through PSV's annual call for papers. It explicitly welcomes all experience levels, from curious newcomers to professional physical pentesters."
+},
+{
+"id": "noisebridge",
+"name": "Noisebridge",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"homelab",
+"programming",
+"hardware-hacking",
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"workshops",
+"voice-events",
+"project-showcase",
+"local-meetups",
+"hardware-help"
+],
+"members": 6946,
+"online": 764,
+"region": "us-west",
+"language": "en",
+"run_by": "Noisebridge (volunteer collective)",
+"red_flags": null,
+"summary": "Noisebridge is a long-running, volunteer-run hackerspace in San Francisco covering electronics, software, security, and general maker projects; the Discord mirrors the physical space's open, anyone-can-teach-or-learn culture. People coordinate open-house visits, workshops, and project collaboration here, and security is one of many topics rather than the sole focus. It suits locals wanting to get involved in the physical space as much as remote members interested in general hacker-community chat."
+},
+{
+"id": "hacdc",
+"name": "HacDC",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"homelab",
+"hardware-hacking",
+"programming",
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"workshops",
+"local-meetups",
+"project-showcase",
+"hardware-help"
+],
+"members": 1226,
+"online": 155,
+"region": "us-northeast",
+"language": "en",
+"run_by": "HacDC (member-run nonprofit hackerspace)",
+"red_flags": null,
+"summary": "HacDC is Washington DC's community hackerspace, hosting open houses, workshops, and member projects spanning electronics, radio, software, and some security topics. The Discord is used mainly to coordinate visits to the physical space and chat with members between meetups. It's aimed at DC-area people interested in a general maker/hacker community rather than a security-only server."
+},
+{
+"id": "nyc-resistor",
+"name": "NYC Resistor",
+"category": "regional",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"homelab",
+"programming",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"workshops",
+"local-meetups",
+"project-showcase",
+"hardware-help"
+],
+"members": 2586,
+"online": 278,
+"region": "us-northeast",
+"language": "en",
+"run_by": "NYC Resistor (member-run hackerspace)",
+"red_flags": "primarily a general maker space, not security-focused",
+"summary": "NYC Resistor is a Brooklyn hackerspace best known for maker/electronics work (3D printing, laser cutting, robotics), with some crossover into hardware and embedded-systems hacking rather than a dedicated security focus. The Discord is used to coordinate classes, open hack nights, and member projects at the physical space. It suits NYC-area makers and hobbyists more than people looking specifically for cybersecurity content."
+},
+{
+"id": "atlanta-cybersecurity-engineers",
+"name": "Atlanta Cybersecurity Engineers",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"ctf",
+"osint",
+"lockpicking-physical",
+"general-infosec",
+"careers"
+],
+"activities": [
+"local-meetups",
+"ctf-events",
+"workshops",
+"chat",
+"voice-events",
+"project-showcase"
+],
+"members": 2574,
+"online": 313,
+"region": "us-southeast",
+"language": "en",
+"run_by": "DC404 (community-run, Atlanta)",
+"red_flags": null,
+"summary": "This is the Discord for DC404, Atlanta's long-running monthly security meetup, which draws both working security professionals and hobbyist hackers to free, hybrid (in-person and online) gatherings at Manuel's Tavern. Meetings include talks on security, OSINT and legal topics, a NetKotH capture-the-flag competition, member show-and-tell, and a lockpicking village run with Atlanta LockSport; the Discord carries discussion between meetings. Note the invite link the group publishes tends to rotate per meeting rather than staying permanent, so an old link may expire."
+},
+{
+"id": "dc612",
+"name": "DC612",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"hacker-culture",
+"networking"
+],
+"activities": [
+"chat",
+"voice-events",
+"local-meetups",
+"news-feed"
+],
+"members": 441,
+"online": 93,
+"region": "us-midwest",
+"language": "en",
+"run_by": "community-run (DEF CON Group 612 volunteers)",
+"red_flags": null,
+"summary": "DC612 is the Minneapolis-area DEF CON group, running monthly member-led talks on security and hacking topics (held live on Discord) plus an annual in-person 'Toxic BBQ' gathering. It's a volunteer-run local hacker community suited to anyone in the Twin Cities area wanting talks and meetups rather than structured courses."
+},
+{
+"id": "dc407",
+"name": "DC407",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"ctf",
+"hacker-culture",
+"networking"
+],
+"activities": [
+"chat",
+"voice-events",
+"local-meetups",
+"workshops",
+"challenges",
+"news-feed"
+],
+"members": 816,
+"online": 121,
+"region": "us-southeast",
+"language": "en",
+"run_by": "community-run (DEF CON Group 407 volunteers)",
+"red_flags": null,
+"summary": "DC407 is the Orlando-area DEF CON group, holding regular monthly meetings (in-person at local coworking spaces and via Zoom) with talks on pentesting, Flipper Zero development, DEF CON recaps, and CTF-style challenges like Advent of Cyber. It suits Central Florida hackers of any level who want local talks and networking."
+},
+{
+"id": "adversary-village",
+"name": "Adversary Village",
+"category": "village",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"ctf",
+"detection-engineering",
+"village",
+"conference"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"chat",
+"news-feed",
+"project-showcase"
+],
+"members": 2372,
+"online": 243,
+"region": "global",
+"language": "en",
+"run_by": "Adversary Village team (independent community initiative)",
+"red_flags": null,
+"summary": "This is the Discord for Adversary Village, a community initiative and DEF CON village focused on adversary simulation/emulation, threat and ransomware emulation, breach-and-attack simulation, and purple teaming. Members discuss offensive tradecraft, join CTFs and workshops tied to the village's appearances at DEF CON and other conferences (BSides, Black Hat, RSA), and follow tool releases between events; it suits intermediate-to-advanced red/purple teamers more than newcomers."
+},
+{
+"id": "call-center-village",
+"name": "Call Center Village",
+"category": "village",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"social-engineering",
+"ctf",
+"ai-security",
+"village"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"voice-events",
+"chat"
+],
+"members": 7,
+"online": 7,
+"region": "global",
+"language": "en",
+"run_by": "Call Theory / NotifiUs, LLC (Patrick Labbett)",
+"red_flags": "This specific Discord invite has only 7 members, suggesting it is inactive or not the community's main hub.",
+"summary": "Call Center Village is a DEF CON village run by Call Theory (a phone-security company) focused on vishing and voice-channel security: voice cloning workshops, building AI voice agents, and an 'Escalation Desk' CTF where you social-engineer both AI agents and live human operators. The Discord invite listed has almost no members, so most activity likely happens on their Matrix/Mastodon channels or only during DEF CON week itself."
+},
+{
+"id": "cloud-village",
+"name": "Cloud Village",
+"category": "village",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"cloud-security",
+"ctf",
+"village",
+"conference",
+"study-group"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"chat",
+"news-feed",
+"project-showcase"
+],
+"members": 1212,
+"online": 149,
+"region": "global",
+"language": "en",
+"run_by": "community volunteers (Cloud Village team)",
+"red_flags": null,
+"summary": "Cloud Village is a volunteer-run DEF CON village dedicated to offensive and defensive cloud security, with talks, hands-on workshops, and CTF competitions. Volunteers also run Cloud Village sessions at other conferences like RSA and several BSides events, and the Discord stays active between events for cloud-security discussion."
+},
+{
+"id": "game-hacking-village",
+"name": "Game Hacking Village",
+"category": "village",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"game-hacking",
+"ctf",
+"village",
+"binary-exploitation"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"project-showcase",
+"chat",
+"news-feed"
+],
+"members": 741,
+"online": 170,
+"region": "global",
+"language": "en",
+"run_by": "community volunteers (Game Hacking Village)",
+"red_flags": null,
+"summary": "Game Hacking Village is a volunteer-run DEF CON community for reverse engineering, modding, and exploiting games as a way into security skills; it explicitly does not endorse or sell cheats. They run CTFs and talks at DEF CON 34 and stay active year-round with tutorials, YouTube content, and sponsorships from studios like Epic Games and Riot."
+},
+{
+"id": "ham-radio-village",
+"name": "Ham Radio Village",
+"category": "village",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ham-radio",
+"rf-sdr",
+"village",
+"hardware-hacking",
+"study-group"
+],
+"activities": [
+"workshops",
+"q-and-a",
+"chat",
+"hardware-help",
+"local-meetups",
+"voice-events"
+],
+"members": 2167,
+"online": 555,
+"region": "global",
+"language": "en",
+"run_by": "Ham Radio Village (501c3 nonprofit, volunteer-run)",
+"red_flags": null,
+"summary": "Ham Radio Village is a registered nonprofit run by volunteers that teaches amateur radio fundamentals year-round, not just at DEF CON: antenna-building workshops, license testing sessions, ISS contacts, and SSTV demos. It's explicitly newcomer-friendly and a good fit for anyone curious about RF alongside security."
+},
+{
+"id": "quantum-village",
+"name": "Quantum Village",
+"category": "village",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ai-security",
+"hardware-hacking",
+"ctf",
+"village",
+"cryptography"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"project-showcase",
+"chat",
+"news-feed"
+],
+"members": 632,
+"online": 57,
+"region": "global",
+"language": "en",
+"run_by": "community volunteers (Quantum Village)",
+"red_flags": null,
+"summary": "Quantum Village explores the overlap of quantum technology, cybersecurity, and hardware hacking, running the official DEF CON Quantum CTF plus talks and hands-on demos with open-source quantum hardware like the EntropyLoop QRNG. They favor hands-on tinkering over lectures and describe themselves as welcoming to the 'quantum curious', not just specialists."
+},
+{
+"id": "hackfest-ca",
+"name": "Hackfest.ca",
+"category": "conference",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"conference",
+"ctf",
+"hardware-hacking",
+"regional",
+"general-infosec"
+],
+"activities": [
+"chat",
+"news-feed",
+"local-meetups",
+"ctf-events",
+"workshops",
+"job-board"
+],
+"members": 6313,
+"online": 879,
+"region": "canada",
+"language": "fr",
+"run_by": "Hackfest organizing team",
+"red_flags": null,
+"summary": "This is the community server for Hackfest, the largest bilingual (French/English) hacking and cybersecurity conference in Canada, held annually in Quebec City since 2009. Alongside conference logistics, the server hosts year-round chat for the Quebec City infosec scene (QuebecSec monthly meetups) and discussion tied to Hackfest's villages (lockpicking, social engineering, IoT, RFID, amateur radio) and its Polarcon security-manager summit."
+},
+{
+"id": "dc215",
+"name": "DC215",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"ctf",
+"hardware-hacking"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"ctf-events",
+"mentorship",
+"project-showcase"
+],
+"members": 295,
+"online": 55,
+"region": "us-northeast",
+"language": "en",
+"run_by": "DC215 organizers (Clay Wells, Brian Jopling and volunteers)",
+"red_flags": null,
+"summary": "DC215 is Philadelphia's official DEF CON group, running monthly in-person meetups with talks, workshops, and CTFs, tied to a local hackerspace (The Toolbox). The Discord is where members coordinate meetups, share resources, and keep talking between events; it suits Philly-area hackers of any skill level who want to meet in person as well as chat online."
+},
+{
+"id": "seckc",
+"name": "SecKC",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"lockpicking-physical",
+"badgelife-maker",
+"hacker-culture"
+],
+"activities": [
+"local-meetups",
+"chat",
+"voice-events",
+"hardware-help",
+"project-showcase"
+],
+"members": 2039,
+"online": 386,
+"region": "us-midwest",
+"language": "en",
+"run_by": "community-run (SecKC organizers/volunteers)",
+"red_flags": null,
+"summary": "SecKC is Kansas City's long-running, community-run monthly hacker meetup (in-person gatherings plus an active Discord). People show off badgelife/hardware projects, practice locksport, talk shop across all skill levels, and generally hang out with the local hacker/maker crowd. Explicitly welcoming to newcomers regardless of experience, and best suited to people in or visiting the Kansas City area."
+},
+{
+"id": "dc414-your-milwaukee-area-hackers",
+"name": "dc414 - Your Milwaukee Area Hackers",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"regional",
+"hardware-hacking",
+"hacker-culture",
+"homelab"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"project-showcase",
+"hardware-help"
+],
+"members": 347,
+"online": 47,
+"region": "us-midwest",
+"language": "en",
+"run_by": "community-run (DC414 volunteers)",
+"red_flags": null,
+"summary": "DC414 is a Milwaukee-area DEF CON group whose free, public monthly meetups mix security education with hands-on projects like Meshtastic mesh networking. It's run by local volunteers and explicitly welcomes people with no IT background, making it a good on-ramp for beginners in the area as well as a hangout for existing hobbyists."
+},
+{
+"id": "dc435",
+"name": "DC435",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"study-group",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops"
+],
+"members": 307,
+"online": 58,
+"region": "us-west",
+"language": "en",
+"run_by": "community-run (DC435 volunteers)",
+"red_flags": null,
+"summary": "DC435 is the official DEF CON group for Cache Valley, Utah, meeting monthly in person at Bridgerland Technical College in Logan with member-led infosec talks and discussions. It's a volunteer-run, donation-of-time community open to students, professionals, researchers, and hobbyists regardless of skill level, with a strict no-harassment code of conduct."
+},
+{
+"id": "thelab-ms",
+"name": "TheLab.ms",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"homelab",
+"regional",
+"hacker-culture",
+"networking"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"project-showcase",
+"hardware-help"
+],
+"members": 1171,
+"online": 144,
+"region": "us-south",
+"language": "en",
+"run_by": "TheLab.ms (nonprofit, volunteer-operated)",
+"red_flags": null,
+"summary": "TheLab.ms is a volunteer-run 501(c)(3) makerspace in Richardson, Texas offering members 24/7 access to laser cutters, 3D printers, CNC machines, and electronics benches, with an active Discord for members and prospective visitors. It's a general hackerspace rather than a security-specific community, but its electronics/hardware focus and hacker-culture roots make it relevant to hardware hackers of any skill level; paid membership is required for facility access though the Discord itself is open."
+},
+{
+"id": "dc719-def-con-colorado-springs",
+"name": "DC719 DEF CON Colorado Springs",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"hacker-culture",
+"networking"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops"
+],
+"members": 268,
+"online": 64,
+"region": "us-west",
+"language": "en",
+"run_by": "community-run (DC719 volunteers)",
+"red_flags": null,
+"summary": "DC719 is one of the earliest DEF CON groups in the country, holding monthly in-person meetups (often at local breweries) for hackers, tech enthusiasts, and cybersecurity professionals in Colorado Springs. The Discord backs the in-person community and is open to anyone curious about technology and security, from newcomers to seasoned pros."
+},
+{
+"id": "dc225",
+"name": "DC225",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"ctf",
+"study-group",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"study-groups",
+"workshops"
+],
+"members": 235,
+"online": 62,
+"region": "us-south",
+"language": "en",
+"run_by": "community-run (DC225 volunteers)",
+"red_flags": null,
+"summary": "DC225 is the DEF CON group for the Baton Rouge area and greater south Louisiana (covering the 225, 337, 318, 457, 504 and 985 area codes), bringing together students, professionals, researchers, and hobbyists to discuss security and digital forensics topics and run red-team-vs-blue-team style exercises. It follows an 'each one, teach one' philosophy and explicitly welcomes people of all experience levels."
+},
+{
+"id": "dc256",
+"name": "DC256",
+"category": "regional",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"regional",
+"hardware-hacking",
+"ham-radio",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"project-showcase"
+],
+"members": 796,
+"online": 160,
+"region": "us-southeast",
+"language": "en",
+"run_by": "community-run (DC256 volunteers, started by HopeAnnihilator)",
+"red_flags": null,
+"summary": "DC256 is the official DEF CON group for Huntsville, Alabama, started in 2020, gathering hackers, infosec professionals, makers, and curious newcomers for free monthly meetings with presentations and hands-on workshops. Topics extend beyond pure security into 3D printing and ham radio, and the group is explicitly described as open and welcoming to everyone from beginners to professionals."
+},
+{
+"id": "dc253",
+"name": "dc253",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"regional",
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"voice-events"
+],
+"members": 672,
+"online": 146,
+"region": "us-west",
+"language": "en",
+"run_by": "community-run (DEF CON Group 253 organizers)",
+"red_flags": null,
+"summary": "DC253 is the Tacoma, Washington DEF CON Group, meeting in person on the last Friday of the month (recently at Devils Reef) for informal hacking and infosec talk. It's an open, casual local hangout that has also volunteered its skills to help the Tacoma Fire Department locate missing people, and it suits anyone in the South Puget Sound area curious about hacking regardless of skill level."
+},
+{
+"id": "mainesec",
+"name": "MaineSec",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"regional",
+"general-infosec",
+"ctf",
+"students",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"ctf-events",
+"voice-events"
+],
+"members": 465,
+"online": 89,
+"region": "us-northeast",
+"language": "en",
+"run_by": "DC207 / community-run",
+"red_flags": null,
+"summary": "MaineSec is a Discord hub tied to DC207, Maine's official DEF CON Group, founded by students and alumni of the University of Southern Maine to bring the state's security community together. In-person gatherings (twice monthly in Portland) feature presentations, workshops, and CTFs alongside a recurring social happy hour, and it suits students and working professionals in Maine at any skill level."
+},
+{
+"id": "dc864",
+"name": "DC864",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"ctf",
+"lockpicking-physical",
+"dfir",
+"malware-analysis",
+"reverse-engineering",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"workshops",
+"mentorship"
+],
+"members": 600,
+"online": 96,
+"region": "us-southeast",
+"language": "en",
+"run_by": "Ben Acord & Eric Hart / community-run",
+"red_flags": null,
+"summary": "DC864 is the Upstate South Carolina DEF CON Group, run by volunteers (Ben Acord and Eric Hart) out of Greenville, holding hybrid monthly meetings covering pentesting, appsec, threat hunting, malware analysis, reverse engineering, locksport, and CTF. Discord is where most day-to-day discussion happens between meetings, and it suits anyone in the Upstate SC area from newcomers to experienced practitioners looking for mentoring and mutual education."
+},
+{
+"id": "tulsec",
+"name": "TULSEC",
+"category": "regional",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"regional",
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups"
+],
+"members": 146,
+"online": 23,
+"region": "us-south",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Small, relatively low online activity for its member count.",
+"summary": "TULSEC is an independent, informal Tulsa, Oklahoma infosec meetup (a CitySec-style group, distinct from the local DEF CON group DC539) that gathers roughly monthly at a local bar or restaurant to talk shop about security. Discord is a small, low-activity extension of that in-person meetup, and it suits local Tulsa-area security folks looking to network more than beginners looking for structured help."
+},
+{
+"id": "dc702",
+"name": "DC702",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"lockpicking-physical",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"voice-events",
+"challenges"
+],
+"members": 685,
+"online": 121,
+"region": "us-west",
+"language": "en",
+"run_by": "community-run (DC702 organizers)",
+"red_flags": null,
+"summary": "DC702 is the Las Vegas DEF CON Group, run by local volunteers (points of contact Aliea Foshay and Christopher Forte), holding casual in-person meetups with socializing, lockpicking, and hacking challenges. It's the year-round local hub for the Las Vegas hacker community outside of DEF CON conference week itself, open to anyone regardless of experience level."
+},
+{
+"id": "defcon-group-s-o-paulo",
+"name": "Defcon Group São Paulo",
+"category": "regional",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"ctf",
+"cryptography",
+"reverse-engineering",
+"malware-analysis",
+"lockpicking-physical",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"local-meetups",
+"ctf-events",
+"workshops",
+"hardware-help",
+"project-showcase"
+],
+"members": 364,
+"online": 28,
+"region": "latin-america",
+"language": "pt",
+"run_by": "community-run (DEFCON Group 5511 organizers)",
+"red_flags": null,
+"summary": "DC5511 is the São Paulo, Brazil DEF CON Group, started in November 2018 as a hacking study group and now covering CTF, cryptography, lockpicking, SDR, malware analysis, reverse engineering, and pentesting. The community is active on Instagram, YouTube, and GitHub as well as Discord, and it suits Portuguese-speaking hackers and students in the São Paulo area at any skill level."
+},
+{
+"id": "def-con-delhi-group",
+"name": "DEF CON Delhi Group",
+"category": "regional",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"hacker-culture",
+"hardware-hacking",
+"networking"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops",
+"hardware-help",
+"news-feed"
+],
+"members": 2386,
+"online": 97,
+"region": "india",
+"language": "en",
+"run_by": "DC9111 volunteers (DEF CON Delhi Group)",
+"red_flags": null,
+"summary": "DC9111 is the Delhi, India chapter of the global DEF CON Groups network, run by local volunteers who organize in-person meetups covering web app security, hardware, embedded systems and RFID hacking. The Discord is used to coordinate meetups and keep the community talking between events, and it suits techies and security researchers in or near Delhi looking for a local hacking crowd rather than pure online learning."
+},
+{
+"id": "dc441392",
+"name": "DC441392",
+"category": "regional",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"regional",
+"general-infosec",
+"networking",
+"hacker-culture",
+"study-group"
+],
+"activities": [
+"chat",
+"local-meetups",
+"workshops"
+],
+"members": 43,
+"online": 4,
+"region": "uk-ireland",
+"language": "en",
+"run_by": "DC441392 volunteers (Liam)",
+"red_flags": "very small (43 members), low activity",
+"summary": "DC441392 is the Exeter, UK chapter of the DEF CON Groups network, run by local volunteer Liam, meeting in person on the first Monday of the month at a pub called The Ship. The Discord is a small companion channel for coordinating those meetups and sharing knowledge on defensive and ethical hacking topics; it suits people in or near Exeter who want a local, in-person security community rather than a large online server."
+}
+]

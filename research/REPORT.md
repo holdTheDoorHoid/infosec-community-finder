@@ -1,0 +1,283 @@
+# Research report
+
+Generated 2026-09-13.
+
+- Servers in database: **399** (visible 333, hidden as off-topic/rejected 66, dead invites 0)
+- Name-only leads that could not be resolved to a working invite: 289
+- Organizations checked and confirmed to have no public Discord (Slack/Matrix/forum instead, or none): 132
+
+## Visible servers by category
+
+- general: 45
+- conference: 45
+- tool: 44
+- regional: 36
+- creator: 24
+- learning: 20
+- ctf: 20
+- village: 14
+- redteam: 13
+- adjacent: 13
+- appsec: 12
+- osint: 12
+- careers: 11
+- blueteam: 11
+- hardware: 8
+- affinity: 5
+
+## Beginner-friendliness distribution (visible)
+
+- 1: 4
+- 2: 38
+- 3: 118
+- 4: 131
+- 5: 42
+
+## Languages (visible)
+
+- en: 312
+- es: 7
+- pt: 4
+- fr: 4
+- ru: 2
+- ar: 1
+- zh: 1
+- pl: 1
+- nl: 1
+
+## Largest 25 (members)
+
+- HackTheBox — 386,018 members, 39,915 online — ctf
+- TryHackMe — 373,427 members, 34,803 online — learning
+- OwlSec — 165,983 members, 17,905 online — redteam
+- Cyber Info — 159,989 members, 39,164 online — learning
+- David Bombal — 118,855 members, 5,336 online — creator
+- Flipper Devices — 115,748 members, 18,105 online — tool
+- NetworkChuck — 98,354 members, 9,904 online — creator
+- OffSec — 96,527 members, 12,857 online — learning
+- Professor Messer — 82,810 members, 9,318 online — creator
+- Hacker101 — 77,319 members, 4,317 online — learning
+- Kali Linux & Friends — 72,280 members, 5,217 online — tool
+- Hack4u — 72,237 members, 6,069 online — creator
+- TCM Security — 71,424 members, 8,218 online — creator
+- Overflow — 71,128 members, 4,938 online — creator
+- Black Hills Infosec — 61,406 members, 6,519 online — general
+- DEFCON — 57,969 members, 9,764 online — conference
+- Meshtastic — 52,931 members, 8,889 online — adjacent
+- Learn Prompting/HackAPrompt — 51,470 members, 2,315 online — learning
+- Project Owl: The OSINT Community — 50,812 members, 7,340 online — osint
+- Cybersecurity Station — 46,094 members, 2,945 online — careers
+- Bellingcat — 43,792 members, 4,607 online — osint
+- Nahamsec — 41,716 members, 4,561 online — creator
+- pwn.college — 41,035 members, 5,876 online — ctf
+- adafruit — 38,874 members, 4,430 online — adjacent
+- Momentum Firmware — 36,102 members, 5,393 online — tool
+
+## Hidden (rejected) servers and why
+
+- / MONOKUMA: This is a Danganronpa (anime/game) fandom server, unrelated to cybersecurity or hacking despite surfacing on an SDR/security-adjacent search.
+- 4 Finns - SWBF2: Star Wars Battlefront II gaming community focused on modded servers and reporting in-game cheaters ('hackers' in the gaming-cheater sense), not cybersecurity.
+- [nwr] Clan & Reports | Roblox BedWars: Roblox BedWars gaming clan/cheater-reporting server, not a security community
+- Alpha Force BR - 2026: Gacha gaming reroll store/community (Genshin, HSR, etc.) with no security angle.
+- Autodidatas em Inglês: English-learning/language-exchange social community, not security-related
+- BA Boosts: Old School RuneScape boosting/game-service server, not security-related
+- BA Chads: Old School RuneScape boosting/game-service server, not security-related
+- BaddBlood Customs: A FiveM vehicle-mod shop/community for a video game, unrelated to cybersecurity; matched by the unrelated search query 'comptia'.
+- BC Security Corporation: A Roblox game-development community making an Ultrakill-inspired shooter; 'Security' in the name is a game/roleplay theme, not infosec
+- BENJI CENTRAL: Gaming/streamer fan community (Brazilian creator B3NJI), not security-related
+- Black Veil Brides: Official fan server for the band Black Veil Brides, not security-related
+- Blue Flames: A 'team of editors' (video/graphic editing) community, unrelated to security; matched only on 'Blue'.
+- Blur Community: Gaming community for the racing games BLUR and Drifters; no security content.
+- Buteco dos Devs: General Brazilian tech/developer hangout server with no security focus; casual chat community for programmers and tech enthusiasts.
+- Casio Hacking Community: Vietnamese-language community about hacking/modding Casio calculators (custom firmware, programs, homebrew) — a calculator-modding hobby, not cybersecurity or a
+- CS Majors: General computer science / tech career community (interview prep, general CS chat) with only incidental security-related channels, not a security-focused server
+- Deconstruction Junction: Community for people deconstructing from religion, not security-related
+- DefCom: A Dutch-language network for Ministry of Defence (military) employees and job applicants; a defense/military careers network, not cybersecurity.
+- Defcon Zero: Despite the DEF CON-like name, this is a game development server for an indie project, unrelated to the security conference or infosec.
+- Demozoo: Demoscene archival/preservation community, not a security or hacking topic and not on the listed adjacent-hobby list.
+- Dusk Community: Blockchain/crypto project community, not security-related
+- ESPHome: Firmware framework support community for smart-home devices, not security-focused
+- Faithful: A Minecraft resource-pack creation community, unrelated to security or hacking.
+- Fusiora | VPS, Web Hosting and Dedicated: This is a VPS/game-server hosting company's support Discord; 'cyber security' is used as a marketing buzzword rather than reflecting any actual security/hacking
+- Grand Blue | Temple: Anime/manga fandom server for the works of specific manga creators, not security related.
+- GStore: A server for sharing free games, promotions, and deals; not security related.
+- HackinGO: This is a game-cheat community (cheat development/use and game-file analysis for gaming), not a security-research or infosec-learning space.
+- Home Assistant: General home-automation support community, not security-focused
+- InfoSec VPN: This invite link (discord.gg/infosec) no longer points to the infosec learning community it was originally listed for (The Many Hats Club, which disbanded in Ju
+- Intercollegiate Discord: General college-student community for research, non-profits, and startups; not focused on security or hacking despite appearing in a cybersecurity Discord list.
+- ISLM: A cryptocurrency/coin community (Islamic Coin on HAQQ network), a financial/crypto project rather than security or hacking.
+- KPCG: Krunker game moderation/anti-cheat reporting community, not a cybersecurity server; 'hackers' here means in-game cheaters.
+- KVA FAM: Gaming/esports and roleplay community, not security-related
+- Labyrinth: Tagline ('Hackers enter. Legends remain.') and gaming/programming directory placement give no verifiable indication of genuine security/hacking content; reads a
+- Les Joies du Code: General programming/developer community with no security angle
+- LinuxServer.io: Self-hosting/Docker container support community, not security-focused
+- Lost Lectures | LL | CGT: Esports/gaming team server (tryouts, players, casters, referees) with no security content despite the name resembling a talk series.
+- Make:: General maker/hobbyist Discord (Maker Faire Asheville) with no security or hacking focus.
+- Mario Kart Modding Community: Video game modding/hacking community for the Mario Kart series, a gaming fandom rather than cybersecurity.
+- MFOC: General maker/hobbyist community (Maker Faire Orange County) with no security or hacking focus.
+- Misono Mika's Tea Party: Anime/VTuber fan hangout server, not security related.
+- MissesVirus Family: Appears to be a general content-creator fan/hangout server for updates and events, not a security or hacking-focused community despite the 'virus' name.
+- Old School Boosting: Old School RuneScape boosting/game-service server, not security-related
+- OPEN SAUCE: General maker/creator convention (robotics, DIY, YouTube creator culture) with no security or hacking focus.
+- Operating System Development: General low-level/OS development and bootloader community with no dedicated security angle; it's a programming server, not a cybersecurity one.
+- PassThor 🐏: General social/hangout server for meeting people and watching movies together with gaming/events; no security content.
+- PC Help Hub: Generic PC/tech support and hangout community, not focused on security or hacking.
+- Pinewood Builders Security Team: Roleplay/gaming server for a Roblox faction ('paramilitary force' in a sci-fi game), not real-world information security
+- PRISEC | Private Security Organization: Roblox/SCP faction-warfare gaming community themed around a fictional 'security' faction, not real information security
+- r/WiiHacks: Nintendo Wii console modding/hacking community, not a security/infosec server; game console hacking fandom, not the security-hacking domain this directory cover
+- R6 Club: Discord description ('RainbowSix Reversing club') and invite code indicate this is a reverse-engineering/modding community centered on the video game Rainbow Si
+- Ratter Scanner Development: Focused narrowly on detecting Minecraft-specific malware/cheat tools via a Discord bot, not a general cybersecurity learning or discussion community.
+- Retool: General app-building/dev tool community for the Retool platform; not security-focused despite the word 'hackers' in its tagline.
+- ROBLOX: Survivor! 🍃: Roblox gaming community hosting Survivor/Big Brother style game seasons and reality TV chat; no security content.
+- SDR: Despite the name 'SDR', this server is a Roblox tierlist community for the game 'A Universal Time', not a software-defined-radio or security server.
+- St. Louis Blues: NHL sports team fan server, not a security community; matched only on the word 'Blues'.
+- Tasmota: Open-source firmware support community for smart plugs/switches, not security-focused
+- TECH HAUS: Markets itself as a commercial product ('UNLIMITED access to F.R.A.N.K') selling jailbreak frameworks for AI models rather than functioning as a genuine educati
+- THE HOUSE OF FLIES | Deftones Discord Server: Music fan server for the band Deftones, not related to security or hacking
+- The Pirates' Plunder: General pirate/gaming-themed chat community with no discernible security or hacking focus found in any listing or description.
+- The Security Breach Show 🍕 FNaF: This is a Five Nights at Freddy's (FNaF) fan community discussing the 'Security Breach' game and a related fan show, not real-world cybersecurity.
+- Undertale Yellow: Fan server for the Undertale Yellow game; no security or hacking content.
+- VD Racing League: F1 sim-racing league/gaming community, not security-related
+- Wanexia Mods ʚଓ: GTA/game mod content creator server (clothing and body mods), not security-related
+- ✦「 Endless 」✦: Gaming/fandom server centered on the Umamusume game plus Art, Azur Lane, and UFC discussion; no security content.
+- 𝗞 ✘ ᕈ 彡 𝗚𝗔𝗠𝗜𝗡𝗚 𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗧𝗬.𝗽𝘃𝘁: Esports/gaming tournament organization, not security-related
+
+## Confirmed without a public Discord
+
+- 13Cubed (no public Discord found)
+- 2600 Magazine / 2600 meetups
+- 2600 meetings (general) — traditionally IRC-based (#2600, #ca2600), no consolidated Discord found
+- AISA (Australian Information Security Association) — no Discord found, uses Facebook/website only
+- AlienVault OTX (no Discord found)
+- Andrew Ramdayal (CompTIA A+ Udemy instructor) — no official Discord found; only Udemy course pages and Facebook group mentions
+- Anomali (no Discord found)
+- Artisan's Asylum (Boston-area hackerspace) — no Discord found
+- AWS Discord (discord.gg/aws) — confirmed official but it's a general AWS community, not cybersecurity/certification-specific, so excluded for topical fit
+- Blacks In Cybersecurity (blacksincyberconf.com) — social links only (Twitch, YouTube, FB, X, IG, LinkedIn, Patreon), no Discord found on official site or connect page
+- BloodHound / SpecterOps (community historically organized via Slack, not Discord)
+- Boston Security Meetup — no Discord found via search
+- BSides Philly
+- CalyxOS - community page explicitly states Matrix is their primary medium as of Sept 2023; no Discord
+- CCDC / National Collegiate Cyber Defense Competition (ccdc.io, nationalccdc.org) — no Discord found on official site
+- Cellebrite (no dedicated Discord found)
+- Cobalt Strike (no single official standalone Discord; community discussion happens inside other vendors' Discords like Red Siege, already listed)
+- CTFtime
+- Cyber Detective (cyb_detective) - creator has stated the project/newsletter concluded and moved off Twitter/OSINT content; no current official Discord
+- Cyber Triage (no dedicated Discord found)
+- Cyber Warrior generic servers, 'Certifications Study' and 'Cyber School' study Discords — found only via third-party aggregator blurbs with no official source page to confirm authenticity/authorship, so excluded
+- Cyber.org — no official Discord found; only unrelated general 'cyber' servers exist
+- Cyber5W (no public Discord found)
+- CyberPatriot — a Discord server (discord.gg/cyberpatriot) is widely referenced by third-party community listings as the unofficial/community hub, but it could not be verified on any official uscyberpatriot.org page, so it was excluded per the no-guessing rule
+- CyberWarrior (cyberwarrior.com) — site unreachable (connection refused) at time of check, so their community Discord could not be verified
+- CyberWarrior Foundation (cyberwarrior.org) — no Discord found; only YouTube link present
+- Cybrary — official Discord community was sunset Sept 1, 2025; they moved to a web forum at forums.cybrary.it instead
+- Cyversity (cyversity.org) — no Discord found; uses a separate members-only community platform at community.cyversity.org, not Discord
+- Dallas Makerspace — page inaccessible (403)/no Discord found
+- DC312 (Chicago) — invite-only via email, no public Discord
+- DC4420 London — uses IRC (Libera Chat) and Twitter, no Discord
+- DC443 (Severn, MD) — uses Slack, no Discord
+- DEF CON Hardware Hacking Village (dchhv.org links only to Twitter/Mastodon/Bluesky, no Discord invite found)
+- denhac (Denver hackerspace) — no Discord found on main site
+- disinformation research / journalism OSINT / missing persons OSINT - no distinct, verifiable official Discord servers found for these categories beyond Trace Labs and Bellingcat, both already listed
+- Div0 / Division Zero (Singapore) — site references a Discord ('Digital Kampung') but the invite link is JS-rendered and could not be captured from the static page
+- EFF / digital rights - no official EFF Discord found; EFF participates in the DEF CON Discord but does not run its own
+- EMBA firmware analyzer / binwalk (GitHub repos carry no Discord invite; community support is via GitHub issues/discussions)
+- Embedded Systems Village (no dedicated village Discord found; distinct from unrelated same-named Discords)
+- Evil Crow RF (GitHub README cites discord.gg/jECPUtdrnW but that invite now returns 404/expired, no replacement found)
+- Evilginx (kgretzky's 'Evilginx Mastery' Discord is private, invite-only for paid course enrollees, not a public invite)
+- Freedom of the Press Foundation - no official Discord found
+- Freeside Atlanta (hackerspace) — no Discord found
+- Geolocation/GeoGuessr OSINT - only found gaming-focused GeoGuessr Discords (official game server plus fan communities), none with an OSINT/security framing that fits this directory
+- Glasgow Interface Explorer (chat happens on 1BitSquared's Discord via a bridged #glasgow channel, but no exact standalone invite URL could be captured from 1bitsquared.com/pages/chat, which embeds rather than links it)
+- Google Cybersecurity Certificate — no official Coursera/Google-branded Discord found; only unrelated generic study servers
+- Grant Collins / collinsinfosec — active on YouTube/X/LinkedIn documenting a cybersecurity career journey, but no Discord invite found on his channels
+- GrapheneOS - already in existing_names.txt
+- GRIMM (grimm-co.com blocked automated access; no verifiable public Discord invite found)
+- Hack Club — confirmed uses Slack (hackclub.com/slack), not Discord
+- Hack-A-Sat (no official organizer Discord invite found; only individual competing teams appear to run their own servers)
+- HackerSploit
+- Hackfest (Canada) — site references discord.hackfest.ca but the redirect target could not be verified (broken SSL/Cloudflare error)
+- HackTricks (community links to a Discord but no official invite URL could be verified on hacktricks.wiki or their GitHub)
+- Hive13 (Cincinnati hackerspace) — no Discord found, phone/Twitter/wiki only
+- Hive76 (Philadelphia hackerspace) — uses Slack, no Discord
+- Hunchly (hunch.ly) - no Discord link on official site; an unverified third-party 'hunch' server invite exists but could not be confirmed as official
+- i3Detroit (hackerspace) — uses IRC (Libera.chat #i3Detroit) and Google Groups, no Discord
+- ICS Village (site icsvillage.com carries no Discord invite; likely coordinates via DEF CON's own Discord/Slack channels)
+- Impacket / Fortra (official community is a Slack workspace, not Discord)
+- IoT Village (no current valid Discord invite found on iotvillage.org or official socials; a previously circulated invite code KJWzBshKhG now returns 404/expired)
+- IppSec
+- ISC2 (CISSP / CC study groups) — isc2chapters.isc2.org and community.isc2.org have no live Discord link on official pages (old ISC2 community CISSP/CC Discord threads now redirect/dead)
+- Josh Madakor — runs a Cyber Range Alumni Discord for paid course students only; no public invite link published
+- JTAGulator / EXPLIoT (references an EXPLIoT Discord for support but no invite link could be located on expliot.io or grandideastudio.com)
+- Kase Scenarios - X posts (@kasescenarios) state they have a 10k+ member Discord community, but no invite link found on their own site (kasescenarios.com) or blog to capture verbatim
+- LiveOverflow
+- Magnet Forensics (references DFIR Discord Server for community talks, no separate dedicated public invite found)
+- Maltego (general company Discord, separate from Community CTF) - only the community-ctf-linked invite above was confirmed
+- Metasploit / Rapid7
+- Metasploit / Rapid7 (official community channels are GitHub Discussions and Rapid7 community forums, no Discord)
+- Micah Hoffman / My OSINT Training - no dedicated Discord found distinct from IntelTechniques' own training chat (which is not Discord-based)
+- Minorities in Cybersecurity (MiC, mincybsec.org) — no Discord found; social links only (Twitter, LinkedIn, Instagram)
+- MISP (no Discord found)
+- ModRetro / ModRetro Chromatic (no official Discord server found; ModRetro added Discord *streaming* support but has no own community server)
+- MYDFIR (community hosted on Skool, not Discord)
+- Mythic C2 (its-a-feature) (README points to a Bloodhound Slack community, not Discord)
+- NetSecFocus / OSCP study community (long-standing OSCP study community operates on Slack, not Discord)
+- NixIntel (Steven Harris) - no Discord found; site nixintel.info lists no Discord community
+- NoVA Hackers (novahackers.com) — Meetup/Twitter/GitHub only, no Discord found
+- OpenCTI (no Discord found)
+- Operation Code — official site returned repeated errors/rate-limiting; known to run primarily on Slack, not confirmed Discord
+- OSINT Combine - training company, no Discord found on official site (osintcombine.com)
+- OSINT Curious Project (osintcurio.us) - project formally shut down; site says 'We have closed The OSINT Curious Project', no active Discord
+- OSINT Dojo (osintdojo.com) - resources site references other communities but has no Discord of its own
+- OSINT Framework (osintframework.com, Justin Nordine) - site links only to Twitter and GitHub, no Discord
+- OSINT Industries - re-launch of Discord announced via X (@OSINTindustries) but exact invite URL could not be verified from an official page (X post unreachable via fetch, HTTP 402); official site osint.industries lists Twitter/YouTube/LinkedIn/Bluesky/Telegram only, no Discord
+- OSINT4Good - appears to be a hashtag/initiative associated with Trace Labs and DEF CON, not a standalone server
+- OWASP
+- Pentester Academy (bootcamp mentions a Discord channel for enrolled students but no public invite link found)
+- Philly Sec — no Discord found via search
+- Privacy Guides
+- Privacy Guides (privacyguides.org) - community lives on Matrix/Discourse/Mastodon; no Discord
+- Pumping Station: One (Chicago hackerspace) — no Discord found
+- Purplecon / Kawaiicon (NZ, formerly Kiwicon) — no Discord found, uses Twitter/email
+- r00tz Asylum — no Discord found on official site, contact is via email only
+- Raices Cyber — official site (raicescyber.org) has no Discord link listed anywhere in nav/footer/programs pages
+- ROP Emporium (no Discord found; ropemporium.com has no community-link section)
+- RTL-SDR (rtl-sdr.com) or the SDR Enthusiasts community
+- RTL-SDR Community (widely referenced discord.gg/THYngts invite is expired/invalid; no current official replacement located)
+- SANS / GIAC — sans.org community page has no Discord invite; SANS uses other community channels
+- SDRangel (no official Discord found; project community coordinates via groups.io and GitHub)
+- Search Party CTF - this is Trace Labs' event; participants join the existing Trace Labs Discord (already in existing_names.txt), not a separate server
+- SecTalks (Australia/international chapters) — no consolidated Discord found across chapters
+- Security Onion (uses GitHub Discussions, explicitly declined Slack/Discord)
+- ShadowDragon - no official company Discord found
+- Shodan - no official Discord; only unofficial fan server 'SHODANPEDIA' found, and help.shodan.io lists no Discord community link
+- Sliver C2 / Bishop Fox (Bishop Fox runs occasional Discord workshops but there is no dedicated public Sliver/Bishop Fox Discord invite published)
+- Social Engineering Community / SE Village (se.community site lists no Discord invite; DEF CON forum references a Discord but no invite URL was published there)
+- Sofia Santos / Gralhix - promotes OSINT-FR and Bellingcat's Discord rather than running her own
+- Splunk (Slack community, no Discord)
+- Techlore
+- Techlore - officially sunset their Discord server in Jan 2024 in favor of their forum (discuss.techlore.tech)
+- The C2 Matrix (Jorge Orchilles) (site has no Discord invite, only Twitter/X contacts)
+- The Many Hats Club (could not resolve/verify current official domain or invite)
+- The New Oil (thenewoil.org) - no Discord found
+- Tindie (tindie.com footer inaccessible to fetch; no Discord invite located)
+- Tor Project - official forum thread confirms no official Discord server exists; Tor uses Matrix for relay-related chat
+- Total Seminars own site (totalsem.com) — homepage has no Discord link itself; had to rely on Mike Meyers' own LinkedIn post as the source instead
+- TSCM / counter-surveillance (no dedicated community Discord found; professional TSCM sites carry no Discord links)
+- VetSec (vetsec.org) — no Discord found; social links only (LinkedIn, X, YouTube)
+- vx-underground
+- Wall of Sheep / Packet Hacking Village (wallofsheep.com / phvillage.io carry no Discord invite; community activity appears to run through DEF CON's Discord/Mastodon instead)
+- WGU / SNHU / Purdue cyber student Discords — only found tiny (13-95 member) unofficial/university-club servers, too low quality/scale to include with confidence
+- WHID Injector / O.MG (no official Discord found)
+- WiCyS (Women in CyberSecurity)
+- WiGLE
+- WiGLE / WarDriving (WiGLE.net has no official Discord; wardriving community chat is fragmented across unofficial/regional servers)
+- WISP (Women in Security and Privacy, wisporg.com) — no Discord found; social links only
+- Women's Society of Cyberjutsu (WSC) — uses Slack for community; official site returned 403, no Discord confirmed
+- Xerocraft (Tucson makerspace) — no Discord found
+- Zero2Automated (Discord exists but is exclusive to paying course students, not a public/joinable invite)
+
+## Sources
+
+Seed file from the maintainer; LSOH conference tracker (82 Discord links); Discord server directory (`discord.com/servers?query=`, 35 queries); Disboard and top.gg listings (names only, Cloudflare-gated); GitHub lists (mhxion awesome-discord-communities, web3Gurung, UberGuidoZ, johnnyxmas gist); flare.io, Stefan Bargan, Olivia Gallucci, Blue Team Academy, Jordan Snapper (LinkedIn) roundups; topical web research across 13 clusters; a per-conference pass over 182 conferences; DEF CON villages; an invite-recovery pass over 170 dead/name-only leads; a gap pass over 7 thin categories; a notables check. Every invite was resolved through Discord's public invite preview and de-duplicated by guild id.
+

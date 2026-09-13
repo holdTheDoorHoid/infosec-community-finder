@@ -1,0 +1,1942 @@
+[
+{
+"id": "bruce-firmware",
+"name": "Bruce Firmware",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"wireless",
+"red-team",
+"iot-embedded",
+"flipper-zero",
+"rfid-nfc"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase",
+"news-feed"
+],
+"members": 21609,
+"online": 3168,
+"region": "global",
+"language": "en",
+"run_by": "BruceDevices / pr3y and contributors",
+"red_flags": "Some offensive-security tooling (deauth, evil portal) can be misused; devs state it's for authorized testing only",
+"summary": "This is the official support server for Bruce, an open-source ESP32 firmware (maintained by BruceDevices/GitHub contributors like bmorcelli) that packs offensive-security tools such as WiFi deauth/evil portal, BLE attacks, Sub-GHz RF, and NFC/RFID into portable hardware like M5Stack and LILYGO devices. People come here to get help flashing and using the firmware, troubleshoot hardware, and share builds; it's aimed at people already comfortable with ESP32 hardware hacking rather than complete newcomers. It also promotes an official storefront selling a companion device (RF REAPER)."
+},
+{
+"id": "high-code",
+"name": "High Code",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"rfid-nfc",
+"wireless",
+"iot-embedded",
+"flipper-zero",
+"badgelife-maker"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": 3057,
+"online": 508,
+"region": "latin-america",
+"language": "pt",
+"run_by": "High Code team",
+"red_flags": null,
+"summary": "High Code is the community around a Brazilian-made multi-tool hardware device positioned as an alternative to the Flipper Zero, used for RF/RFID/NFC and general hardware-hacking experimentation. Members discuss the device's firmware, hardware mods, and use cases, largely in Portuguese given its Brazilian origin. It suits people already interested in Flipper-style pentesting gadgets rather than absolute beginners to security."
+},
+{
+"id": "hak5",
+"name": "Hak5",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"pentesting",
+"red-team",
+"hardware-hacking",
+"networking",
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase",
+"news-feed",
+"job-board"
+],
+"members": 27810,
+"online": 3646,
+"region": "global",
+"language": "en",
+"run_by": "Hak5",
+"red_flags": null,
+"summary": "Hak5 is a long-running (since 2005) pentest-hardware company known for the WiFi Pineapple, USB Rubber Ducky, Bash Bunny, and other physical-access hacking tools, and this Discord-verified server is where pen-testers, students, and hobbyists talk tech, get help with Hak5 gear, and follow their podcast/video content. It's welcoming to a wide range of skill levels since Hak5's own material spans introductory to advanced. A solid general hub for anyone into pentest hardware, not just Hak5 product owners."
+},
+{
+"id": "nyan-devices",
+"name": "Nyan Devices",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"wireless",
+"rf-sdr",
+"iot-embedded",
+"flipper-zero"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": 2830,
+"online": 338,
+"region": "global",
+"language": "en",
+"run_by": "Nyan Devices",
+"red_flags": null,
+"summary": "Nyan Devices builds beginner-friendly, menu-driven wireless security research gadgets, notably the nyanBOX, aimed at making WiFi/RF hacking approachable without deep coding knowledge. This Discord is where users get setup help, discuss firmware features, and share what they've built with the devices. It's a good fit for newcomers to hardware/wireless hacking looking for an easier on-ramp than fully DIY ESP32 projects."
+},
+{
+"id": "pwnagotchi-unofficial",
+"name": "Pwnagotchi Unofficial",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"wireless",
+"rf-sdr",
+"homelab",
+"programming",
+"networking"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase",
+"news-feed"
+],
+"members": 6289,
+"online": 1352,
+"region": "global",
+"language": "en",
+"run_by": "community-run (fan server, not evilsocket's official channel)",
+"red_flags": "Unofficial — the official Pwnagotchi community uses a forum (community.pwnagotchi.ai) and Slack, not this Discord",
+"summary": "This is an unofficial fan/support hub for Pwnagotchi, the open-source Raspberry Pi gadget by evilsocket that uses AI to capture WiFi handshakes for WPA cracking. People share builds, firmware tweaks, plugins and troubleshoot hardware here, alongside chatting about the wider WiFi-hacking hobby. Good fit for hobbyists building or customizing their own Pwnagotchi unit, though it's unofficial (the project's own community lives on its forum and Slack)."
+},
+{
+"id": "rfid-love-by-iceman",
+"name": "🔒 RFID Love by Iceman",
+"category": "tool",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"rfid-nfc",
+"iot-embedded",
+"reverse-engineering",
+"networking"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase",
+"writeups"
+],
+"members": 20095,
+"online": 3038,
+"region": "global",
+"language": "en",
+"run_by": "Iceman (Proxmark3 Iceman-fork maintainer)",
+"red_flags": null,
+"summary": "Run around Iceman, maintainer of the widely-used Iceman fork of the Proxmark3 firmware/client, this server is where RFID and NFC hackers get help with Proxmark3, Flipper Zero and Chameleon devices, share scripts, and discuss card/tag cloning and access-control research. It's a solid hub for anyone building RFID hacking skills, from curious beginners to people contributing firmware code, though the pace assumes you already know roughly what RFID/NFC hacking involves."
+},
+{
+"id": "offensive-appliances",
+"name": "Offensive Appliances",
+"category": "hardware",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"iot-embedded",
+"homelab",
+"badgelife-maker"
+],
+"activities": [
+"chat",
+"hardware-help",
+"project-showcase"
+],
+"members": 272,
+"online": 44,
+"region": "global",
+"language": "en",
+"run_by": null,
+"red_flags": "No public description or findable website/socials — limited information to verify legitimacy or activity level",
+"summary": "This small server (going by the name 'Hacker's Night Light' and its 'Offensive Appliances' branding) appears centered on building and modifying everyday hardware/gadgets into penetration-testing or red-team tools, in the DIY badgelife/hardware-hacking hobbyist vein. There's no public description or website found, so details are limited; it looks like a niche maker community for people already comfortable with electronics and offensive-security hardware projects rather than a beginner starting point."
+},
+{
+"id": "netgotchi",
+"name": "Netgotchi",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"networking",
+"iot-embedded",
+"homelab"
+],
+"activities": [
+"chat",
+"hardware-help",
+"project-showcase"
+],
+"members": 178,
+"online": 30,
+"region": "global",
+"language": "en",
+"run_by": null,
+"red_flags": "No public description or findable official source — small, low-confidence read based on the name alone",
+"summary": "Netgotchi appears to be a small DIY hardware project/community (in the Pwnagotchi-style 'gotchi' gadget lineage) focused on a network-monitoring or network-scanning tablet-style device, where members discuss builds, firmware and troubleshooting. No official description or site was found, so this reading is based on the name and the small, low-traffic size of the server; it looks aimed at people already into DIY network/security gadgets rather than newcomers."
+},
+{
+"id": "airplanes-live-ads-b-plane-tracking",
+"name": "Airplanes.Live - ADS-B plane tracking",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"aviation-tracking",
+"rf-sdr",
+"homelab",
+"networking"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase",
+"news-feed"
+],
+"members": 6789,
+"online": 995,
+"region": "global",
+"language": "en",
+"run_by": "Airplanes.Live (volunteer-run project)",
+"red_flags": null,
+"summary": "Airplanes.Live runs a free, community-fed ADS-B flight-tracking network built from volunteer SDR feeders, and this Discord is where feeder operators get help setting up receivers, discuss MLAT and coverage, and talk about the aircraft database and mobile apps. It's an adjacent SDR/aviation-tracking hobby rather than security-focused, and it's friendly to beginners setting up their first receiver."
+},
+{
+"id": "crowd-supply",
+"name": "Crowd Supply",
+"category": "adjacent",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"homelab",
+"hardware-hacking",
+"badgelife-maker",
+"iot-embedded"
+],
+"activities": [
+"chat",
+"project-showcase",
+"q-and-a",
+"news-feed"
+],
+"members": 3600,
+"online": 736,
+"region": "global",
+"language": "en",
+"run_by": "Crowd Supply, Inc.",
+"red_flags": null,
+"summary": "Crowd Supply is a crowdfunding and store platform for open-source hardware, and this Discord is where backers and makers discuss campaigns, ask questions about specific gadgets, and see new hardware projects (including plenty of security- and privacy-oriented devices like SDRs and pentesting tools) as they launch. It's a general hardware-maker community rather than a security-focused one, but security hardware enthusiasts will find kindred projects here."
+},
+{
+"id": "vcfed",
+"name": "VCFed",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"homelab",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"project-showcase",
+"local-meetups",
+"hardware-help",
+"news-feed"
+],
+"members": 1494,
+"online": 360,
+"region": "global",
+"language": "en",
+"run_by": "Vintage Computer Federation (501c3 nonprofit)",
+"red_flags": null,
+"summary": "The Vintage Computer Federation is a nonprofit dedicated to preserving computing history through museum exhibits, restoration workshops, and Vintage Computer Festival events across North America. This Discord is where retrocomputing enthusiasts chat, share restoration projects, and coordinate around those festivals; it's a hobbyist/preservation community, not a security-focused one, though many hardware hackers overlap here."
+},
+{
+"id": "open-source-hardware-association",
+"name": "Open Source Hardware Association",
+"category": "adjacent",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"badgelife-maker",
+"homelab",
+"iot-embedded",
+"conference"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"news-feed",
+"workshops"
+],
+"members": 2130,
+"online": 197,
+"region": "global",
+"language": "en",
+"run_by": "Open Source Hardware Association (OSHWA)",
+"red_flags": "Primarily a general open-hardware/maker community rather than security-specific; relevance to a cybersecurity directory is limited to hardware-hacking overlap.",
+"summary": "This is the Discord tied to the Open Source Hardware Association (OSHWA) and its annual Open Hardware Summit. It's not a security-focused server per se, but a hub for open-source hardware makers, certification-program participants, and summit attendees to share projects and discuss hardware design between events. It suits hardware hackers and makers more than dedicated security researchers, though there's overlap with hardware-hacking interests."
+},
+{
+"id": "cyberdrain",
+"name": "CyberDrain",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"cloud-security",
+"tool-support",
+"homelab",
+"programming"
+],
+"activities": [
+"hardware-help",
+"q-and-a",
+"project-showcase",
+"chat"
+],
+"members": 11257,
+"online": 1774,
+"region": "global",
+"language": "en",
+"run_by": "Kelvin Tegelaar / CyberDrain",
+"red_flags": null,
+"summary": "CyberDrain is an open-source project and community started by Kelvin Tegelaar that builds tools for managing and securing Microsoft 365 tenants at scale (CIPP and related automation), aimed at managed service providers. The Discord is where MSP admins get support on those tools, troubleshoot multi-tenant Microsoft 365 security/compliance setups, and talk to the developers directly. It's really a support server for practicing MSP engineers rather than a general security-learning space, so it assumes solid Microsoft 365/IT admin background."
+},
+{
+"id": "msps-us",
+"name": "MSPs Я Us",
+"category": "adjacent",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"homelab",
+"networking",
+"careers",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"job-board",
+"project-showcase"
+],
+"members": 6889,
+"online": 1287,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Could not independently verify server contents beyond the listing description; low visibility into moderation and activity quality",
+"summary": "MSPs Я Us (linked via an \"MSP Exchange\" invite) is a community for people who run or work at managed service providers, covering the broader IT-and-security concerns of running client environments: RMM tools, backups, vendor comparisons, and security compliance for clients. It's adjacent to security rather than a dedicated infosec server, useful mainly to practicing MSP technicians and owners rather than newcomers to security. Limited public information was available beyond the Discord listing itself."
+},
+{
+"id": "any-run-community",
+"name": "ANY.RUN Community",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"malware-analysis",
+"threat-intel",
+"blue-team",
+"soc"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"project-showcase"
+],
+"members": 20505,
+"online": 4236,
+"region": "global",
+"language": "en",
+"run_by": "ANY.RUN",
+"red_flags": null,
+"summary": "This is the official community for ANY.RUN, an interactive online malware sandbox used by SOC teams and analysts to detonate and study malware and phishing samples. People discuss sandbox findings, share malware analysis writeups, ask product questions, and follow threat intel news from the ANY.RUN team. It suits working analysts and researchers already familiar with malware analysis more than absolute beginners."
+},
+{
+"id": "evil-m5project",
+"name": "Evil-M5Project",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"wireless",
+"iot-embedded",
+"tool-support",
+"red-team"
+],
+"activities": [
+"hardware-help",
+"q-and-a",
+"project-showcase",
+"chat"
+],
+"members": 2354,
+"online": 311,
+"region": "global",
+"language": "en",
+"run_by": "7h30th3r0n3",
+"red_flags": null,
+"summary": "The official support server for 7h30th3r0n3's open-source projects, Evil-M5Project (an M5Stack-based WiFi pentesting tool with deauth, beacon spam, captive portal and wardriving features) and Raspyjack. People come here for setup help, firmware updates, and to show off their builds. Best suited to those already doing hardware/WiFi pentesting rather than complete beginners."
+},
+{
+"id": "infishark-community",
+"name": "InfiShark Community",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"beginner"
+],
+"tags": [
+"iot-embedded",
+"hardware-hacking",
+"rf-sdr",
+"wireless",
+"tool-support",
+"badgelife-maker"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase",
+"news-feed"
+],
+"members": 3143,
+"online": 346,
+"region": "global",
+"language": "en",
+"run_by": "InfiShark Tech",
+"red_flags": "Sells hardware product; some hype/marketing tone",
+"summary": "This is the official support and maker community for InfiShark Tech's BLEShark Nano, a pocket multi-tool for Wi-Fi, Bluetooth, and infrared security research. People discuss firmware features, get device support, share builds using the open-source SDK, and get previews of upcoming InfiShark products. It suits hobbyists and hardware hackers already interested in wireless pentesting gadgets rather than general beginners."
+},
+{
+"id": "ghidra-community",
+"name": "GHIDRA Community",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"tool-support",
+"binary-exploitation",
+"programming"
+],
+"activities": [
+"q-and-a",
+"chat",
+"writeups"
+],
+"members": 749,
+"online": 106,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This is a fan/community support server (not run by the NSA) for users of Ghidra, the free software reverse-engineering suite, where people discuss usage, scripting, and development of the tool and its plugins. It's most useful to people already using Ghidra for reverse engineering rather than a general security-learning space."
+},
+{
+"id": "pince",
+"name": "PINCE",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"tool-support",
+"game-hacking",
+"programming"
+],
+"activities": [
+"q-and-a",
+"chat",
+"project-showcase"
+],
+"members": 661,
+"online": 139,
+"region": "global",
+"language": "en",
+"run_by": "korcankaraokcu (PINCE project)",
+"red_flags": null,
+"summary": "This is the official support server for PINCE, an open-source GDB front-end used as a Cheat Engine-style memory scanning and reverse-engineering tool on Linux, mostly aimed at game modding but usable on any Linux process. It's a small, focused space for users and contributors of the tool rather than a general security community."
+},
+{
+"id": "rm-flipper-hacks-uncensored",
+"name": "RM Flipper & Hacks Uncensored",
+"category": "tool",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"rfid-nfc",
+"wireless",
+"iot-embedded",
+"general-infosec"
+],
+"activities": [
+"chat",
+"hardware-help",
+"q-and-a",
+"project-showcase"
+],
+"members": 14559,
+"online": 2333,
+"region": "global",
+"language": "en",
+"run_by": "RogueMaster (dc0xx and contributors)",
+"red_flags": null,
+"summary": "This is the support and discussion server for RogueMaster, a popular free custom firmware fork for the Flipper Zero device, covering Wi-Fi, RFID/NFC, SubGHz, Amiibo, and pentesting-adjacent features. People come here for help installing and configuring the firmware, sharing custom builds/assets, and discussing Flipper hardware hacking. It suits Flipper Zero owners at any level, though general beginner security questions unrelated to the firmware are off-topic."
+},
+{
+"id": "awesome-fuzzing",
+"name": "Awesome Fuzzing",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"binary-exploitation",
+"malware-analysis",
+"programming",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"writeups"
+],
+"members": 4605,
+"online": 746,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A discussion community centered on fuzzers and fuzzing techniques for vulnerability discovery, loosely tied to the well-known 'awesome-fuzzing' curated resource lists on GitHub. Members talk about specific fuzzing tools, share research, and help debug fuzzing harnesses. It's best suited to people who already have some background in vulnerability research or exploit development rather than total beginners."
+},
+{
+"id": "sick-codes-questions-docker-osx-hacking-github-development-s",
+"name": "Sick Codes - Questions, Docker-OSX, Hacking, GitHub Development, Support",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"tool-support",
+"hacker-culture",
+"linux",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": 7600,
+"online": 868,
+"region": "global",
+"language": "en",
+"run_by": "Sick Codes",
+"red_flags": null,
+"summary": "The official support Discord for Sick Codes, a security researcher known for the Docker-OSX project (running macOS in Docker/KVM) and other hardware/software hacking work. People come here to ask questions about Docker-OSX and Sick Codes' other GitHub projects, discuss Linux/security research, and get development support, so it's more useful if you're already comfortable with these specific tools than if you're just starting out."
+},
+{
+"id": "amass",
+"name": "Amass",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"osint",
+"web-appsec",
+"tool-support",
+"networking"
+],
+"activities": [
+"q-and-a",
+"chat",
+"hardware-help"
+],
+"members": 4888,
+"online": 262,
+"region": "global",
+"language": "en",
+"run_by": "OWASP Amass Project (Jeff Foley)",
+"red_flags": null,
+"summary": "The official support server for OWASP Amass, an open-source attack-surface-mapping and asset-discovery tool used heavily in recon for bug bounty and pentesting. People come here for installation help, usage questions, and to talk with the maintainers (led by Jeff Foley) about the tool's development; general beginner hacking questions are off-topic."
+},
+{
+"id": "chipwhisperer-chat",
+"name": "ChipWhisperer Chat",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"iot-embedded",
+"tool-support",
+"programming"
+],
+"activities": [
+"hardware-help",
+"q-and-a",
+"project-showcase",
+"chat"
+],
+"members": 1232,
+"online": 147,
+"region": "global",
+"language": "en",
+"run_by": "NewAE Technology",
+"red_flags": null,
+"summary": "This is the official support and discussion server for ChipWhisperer, the open-source side-channel power analysis and voltage/clock glitching toolchain made by NewAE Technology. People come here to get help with ChipWhisperer hardware and Python API, discuss fault-injection and side-channel research, and share embedded-security projects. It's best suited to those already doing hardware/embedded security work rather than someone new to the field, since general beginner questions are off-topic."
+},
+{
+"id": "biohackers-digital",
+"name": "Biohackers Digital",
+"category": "hardware",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"rfid-nfc",
+"iot-embedded",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": 4000,
+"online": 878,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A community for people interested in subdermal implants such as RFID chips and magnets, and body-hacking/biohacking more broadly. People discuss implant procedures, RFID/NFC hardware, and body autonomy; it is explicitly not affiliated with the Dangerous Things company despite sounding similar. Good fit for anyone curious about RFID implants or grinder/biohacking culture rather than software security specifically."
+},
+{
+"id": "flipper-devices",
+"name": "Flipper Devices",
+"category": "tool",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"flipper-zero",
+"iot-embedded",
+"rfid-nfc",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase",
+"news-feed"
+],
+"members": 115748,
+"online": 18105,
+"region": "global",
+"language": "en",
+"run_by": "Flipper Devices Inc.",
+"red_flags": null,
+"summary": "This is the official Discord for Flipper Devices, makers of the Flipper Zero portable hacking multi-tool. People get firmware and hardware support, share custom apps and GPIO/sub-GHz projects, and discuss updates directly from the Flipper team. It's the go-to place for anything Flipper Zero-specific, though general beginner security questions unrelated to the device are off-topic."
+},
+{
+"id": "kali-linux-friends",
+"name": "Kali Linux & Friends",
+"category": "tool",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"linux",
+"pentesting",
+"ctf",
+"general-infosec",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"ctf-events",
+"study-groups"
+],
+"members": 72280,
+"online": 5217,
+"region": "global",
+"language": "en",
+"run_by": "OffSec (Kali Linux team)",
+"red_flags": null,
+"summary": "This is the official Kali Linux Discord run by OffSec, created as a real-time chat space for the Kali community alongside the existing forums, covering Kali Linux usage, penetration testing tools, and related OffSec projects. It draws a huge, very active membership spanning total beginners asking setup questions to experienced pentesters, so answers and tone can vary by channel."
+},
+{
+"id": "kismetwireless",
+"name": "KismetWireless",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"wireless",
+"rf-sdr",
+"hardware-hacking",
+"networking",
+"linux"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": 3225,
+"online": 268,
+"region": "global",
+"language": "en",
+"run_by": "Kismet project (Mike Kershaw / dragorn)",
+"red_flags": null,
+"summary": "This is the official support and discussion server for Kismet, the open-source Wi-Fi/Bluetooth/RF sniffer, wardriving, and intrusion detection tool. People use it to get help configuring Kismet, discuss wardriving rigs and RF hardware, and talk with the tool's maintainers and other advanced users; general beginner networking questions are mostly off-topic."
+},
+{
+"id": "lockpickers-united",
+"name": "Lockpickers United",
+"category": "adjacent",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"lockpicking-physical",
+"hacker-culture",
+"hardware-hacking"
+],
+"activities": [
+"chat",
+"q-and-a",
+"challenges",
+"project-showcase",
+"workshops",
+"giveaways"
+],
+"members": 12106,
+"online": 2807,
+"region": "global",
+"language": "en",
+"run_by": "community-run (Lock Pickers United)",
+"red_flags": null,
+"summary": "Lockpickers United is a large, long-running locksport community that grew out of r/lockpicking, welcoming complete beginners as well as competitive pickers to learn techniques, take on lock-picking challenges, and show off tools and picks. It's a physical-security/hardware-adjacent hobbyist space rather than a digital-security server, but it's a natural fit for anyone into hands-on security tinkering."
+},
+{
+"id": "regames",
+"name": "REGames",
+"category": "hardware",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"malware-analysis",
+"programming",
+"game-hacking",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"hardware-help"
+],
+"members": 4922,
+"online": 976,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "game reverse-engineering communities sometimes attract cheat-development discussion; keep an eye on channel rules",
+"summary": "REGames is a community-run server for people who enjoy reverse engineering video games, including cheat/anti-cheat mechanics and game security, with members also discussing general reverse engineering, malware analysis, and low-level programming. It suits hobbyists and intermediate reverse engineers exploring games as their entry point, more than absolute beginners to security."
+},
+{
+"id": "signalseverywhere",
+"name": "SignalsEverywhere",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"rf-sdr",
+"ham-radio",
+"hardware-hacking",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase",
+"voice-events"
+],
+"members": 1043,
+"online": 191,
+"region": "global",
+"language": "en",
+"run_by": "Harold Giddings (Corrosive) / Signals Everywhere",
+"red_flags": null,
+"summary": "SignalsEverywhere is the community around Harold 'Corrosive' Giddings' YouTube channel and podcast about software-defined radio and radio communications. Members share SDR projects, troubleshoot hardware and software setup, and discuss scanning, decoding, and ham radio topics. It suits radio and SDR hobbyists of any level, including newcomers just getting into RF, more than dedicated pentesters."
+},
+{
+"id": "unofficial-ine-elearnsecurity-pta-server",
+"name": "Unofficial INE/eLearnSecurity/PTA Server",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"certifications",
+"study-group",
+"pentesting",
+"web-appsec",
+"students"
+],
+"activities": [
+"q-and-a",
+"study-groups",
+"chat",
+"mentorship"
+],
+"members": 5809,
+"online": 625,
+"region": "global",
+"language": "en",
+"run_by": "community-run (unofficial, not operated by INE)",
+"red_flags": null,
+"summary": "This is a fan-run (unofficial) support and study server for students of INE/eLearnSecurity courses and certifications like eJPT and PTA. Members help each other with course material, discuss cybersecurity topics, and occasionally host events with community members or industry guests. It suits people actively working through INE/eLearnSecurity training who want peer help, though it's less useful if you're not enrolled in those courses."
+},
+{
+"id": "xconnect",
+"name": "xConnect",
+"category": "hardware",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"car-hacking",
+"hardware-hacking",
+"iot-embedded",
+"programming"
+],
+"activities": [
+"chat",
+"hardware-help",
+"project-showcase",
+"q-and-a"
+],
+"members": 1228,
+"online": 175,
+"region": "global",
+"language": "en",
+"run_by": "xConnect / InfoX1337",
+"red_flags": "sells hardware/devices alongside community support",
+"summary": "xConnect is the official community server for xconnect.cc, a project selling Arduino-based hardware and tutorials for modifying and hacking car instrument clusters and dashboards. Members share projects, get help wiring up cluster boards and writing Arduino sketches, and discuss automotive electronics tinkering. It suits people already interested in car electronics/hardware hacking rather than general cybersecurity beginners."
+},
+{
+"id": "flipper-zero-unleashed",
+"name": "Flipper Zero Unleashed",
+"category": "tool",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"iot-embedded",
+"hardware-hacking",
+"flipper-zero",
+"rfid-nfc",
+"tool-support"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": 29320,
+"online": 5094,
+"region": "global",
+"language": "en",
+"run_by": "Unleashed firmware developers/community (unofficial, not affiliated with Flipper Devices)",
+"red_flags": "Unofficial/third-party firmware, not endorsed by Flipper Devices; general beginner questions unrelated to Flipper may be off-topic.",
+"summary": "This is an unofficial support community for the Unleashed custom firmware for Flipper Zero, focused on electronics, programming, and getting the most out of the device. People come here for help flashing and configuring Unleashed, discussing RF/RFID/NFC features, and troubleshooting hardware issues. It suits Flipper Zero owners running or considering this custom firmware, from beginners needing setup help to advanced users building features."
+},
+{
+"id": "momentum-firmware",
+"name": "Momentum Firmware",
+"category": "tool",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"iot-embedded",
+"hardware-hacking",
+"flipper-zero",
+"rfid-nfc",
+"tool-support"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": 36102,
+"online": 5393,
+"region": "global",
+"language": "en",
+"run_by": "Momentum Firmware developers (Next-Flip)",
+"red_flags": null,
+"summary": "This is the official Discord for Momentum, a popular custom Flipper Zero firmware built as a continuation of the Xtreme firmware project. Members get support installing and using Momentum, discuss its features (RFID/NFC, sub-GHz, GPIO, etc.), and talk with the developers directly. It's best for Flipper Zero owners who want a feature-rich alternative firmware and need setup or troubleshooting help."
+},
+{
+"id": "gametec-live",
+"name": "GameTec_live",
+"category": "tool",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"rfid-nfc",
+"hardware-hacking",
+"tool-support",
+"iot-embedded"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": 346,
+"online": 35,
+"region": "global",
+"language": "en",
+"run_by": "GameTec-live",
+"red_flags": null,
+"summary": "Community server run by GameTec-live, developer of ChameleonUltraGUI, the companion app for the ChameleonUltra RFID/NFC tool. People come here for help using the ChameleonUltra hardware and GUI software, to report bugs, and to discuss RFID/NFC hacking projects. Best suited to people who already own or are setting up a ChameleonUltra."
+},
+{
+"id": "hashcat",
+"name": "hashcat",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"tool-support",
+"cryptography",
+"red-team",
+"pentesting",
+"forensics"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 9422,
+"online": 1085,
+"region": "global",
+"language": "en",
+"run_by": "hashcat dev team",
+"red_flags": null,
+"summary": "This is the official hashcat Discord, run by the hashcat development team and used for support with the popular open-source password-cracking tool. People ask about hash types, rule syntax, GPU performance, benchmarking, and troubleshoot cracking sessions with help from developers and experienced crackers. Assumes some familiarity with password cracking concepts, though basic setup questions get answered."
+},
+{
+"id": "wireshark",
+"name": "Wireshark",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"networking",
+"tool-support",
+"forensics",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 14590,
+"online": 1522,
+"region": "global",
+"language": "en",
+"run_by": "Wireshark Foundation",
+"red_flags": null,
+"summary": "This is the official Discord for the Wireshark project, the widely used open-source network protocol analyzer. Members ask packet-capture and dissector questions, get help interpreting traffic, and discuss Wireshark development and plugins directly with maintainers and experienced users. Welcoming to newcomers learning packet analysis as well as developers extending the tool."
+},
+{
+"id": "radare",
+"name": "radare",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"binary-exploitation",
+"tool-support",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 1134,
+"online": 150,
+"region": "global",
+"language": "en",
+"run_by": "radareorg / radare2 maintainers",
+"red_flags": null,
+"summary": "This is the official community server for radare2 (and its r2 ecosystem, including Cutter), the open-source reverse-engineering and binary analysis framework. Discussion centers on using radare2's command-line and scripting interface, disassembly, debugging, and contributing to the project. Best suited to people already doing reverse engineering rather than complete beginners, since general RE tutoring is off-topic."
+},
+{
+"id": "wazuh-community",
+"name": "Wazuh | Community",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"soc",
+"detection-engineering",
+"tool-support",
+"cloud-security"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"study-groups"
+],
+"members": 5409,
+"online": 714,
+"region": "global",
+"language": "en",
+"run_by": "Wazuh Inc.",
+"red_flags": null,
+"summary": "This is the official Discord for Wazuh, the free open-source security platform for threat detection, log analysis, and SIEM/XDR use cases. People here troubleshoot Wazuh deployments, ask about rules and integrations, and discuss detection and response workflows with the Wazuh team and other users. Aimed at people already running or evaluating Wazuh in a blue-team/SOC context rather than absolute beginners to security."
+},
+{
+"id": "sigmahq-community",
+"name": "SigmaHQ Community",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"detection-engineering",
+"blue-team",
+"soc",
+"threat-intel",
+"tool-support"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"news-feed"
+],
+"members": 892,
+"online": 121,
+"region": "global",
+"language": "en",
+"run_by": "SigmaHQ maintainers (Nasreddine Bencherchali, Florian Roth, and others)",
+"red_flags": null,
+"summary": "This is the official Discord for SigmaHQ, the open-source project behind the Sigma generic SIEM detection-rule format used by thousands of detection engineers. Members discuss writing and reviewing Sigma rules, log-source coverage, and contribute to the public rule repository, with participation from the project's core maintainers. Geared toward people already doing detection engineering rather than newcomers to security."
+},
+{
+"id": "suricata-community-chat",
+"name": "Suricata Community Chat",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"detection-engineering",
+"networking",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"news-feed"
+],
+"members": 1470,
+"online": 142,
+"region": "global",
+"language": "en",
+"run_by": "Open Information Security Foundation (OISF)",
+"red_flags": null,
+"summary": "This is the official community Discord for Suricata, the open-source IDS/IPS/network security monitoring engine built by the nonprofit Open Information Security Foundation (OISF). People come here to ask configuration and rule-writing questions, troubleshoot deployments, and talk with the developers about the engine's development. It suits network defenders and detection engineers already using or evaluating Suricata rather than security beginners."
+},
+{
+"id": "great-scott-gadgets-community",
+"name": "Great Scott Gadgets Community",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"rf-sdr",
+"wireless",
+"reverse-engineering"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": 4862,
+"online": 997,
+"region": "global",
+"language": "en",
+"run_by": "Great Scott Gadgets",
+"red_flags": null,
+"summary": "The official community and support Discord for Great Scott Gadgets, maker of HackRF, YARD Stick One, Ubertooth, and GreatFET open-source SDR and RF hardware. Members discuss using and building on these devices and can ask technical support questions, though the maintainers note staff aren't on duty around the clock (GitHub issues are preferred for tracked bugs). Good fit for people already doing SDR/RF hardware hacking rather than absolute beginners."
+},
+{
+"id": "meshtastic",
+"name": "Meshtastic",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"rf-sdr",
+"wireless",
+"iot-embedded",
+"homelab",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase",
+"news-feed"
+],
+"members": 52931,
+"online": 8889,
+"region": "global",
+"language": "en",
+"run_by": "Meshtastic project",
+"red_flags": null,
+"summary": "The official Discord for Meshtastic, an open-source off-grid LoRa mesh networking project for cheap, low-power radio devices. It's a large, active maker/RF hobbyist hub where people share builds, troubleshoot firmware and antennas, and discuss mesh networking use cases; it isn't a security-focused server but sits in the adjacent RF/hardware hobby space many infosec-curious hardware hackers also frequent. Welcoming to newcomers getting into LoRa/mesh radio."
+},
+{
+"id": "sdr-2",
+"name": "SDR++",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"rf-sdr",
+"wireless",
+"hardware-hacking",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": 5656,
+"online": 919,
+"region": "global",
+"language": "en",
+"run_by": "SDR++ project (Alexandre Rouma / contributors)",
+"red_flags": null,
+"summary": "The official community Discord for SDR++, a free cross-platform software-defined radio receiver application. Members ask setup and hardware-compatibility questions, discuss plugins, and talk with the developer and contributors about the software's direction. Fits people already using or building SDR software rather than complete newcomers to radio."
+},
+{
+"id": "toool-us",
+"name": "TOOOL US",
+"category": "hardware",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"lockpicking-physical",
+"hardware-hacking",
+"hacker-culture",
+"networking"
+],
+"activities": [
+"chat",
+"hardware-help",
+"local-meetups",
+"workshops",
+"project-showcase"
+],
+"members": 1200,
+"online": 224,
+"region": "us-northeast",
+"language": "en",
+"run_by": "The Open Organisation Of Lockpickers (TOOOL) US",
+"red_flags": null,
+"summary": "TOOOL (The Open Organisation Of Lockpickers) US is the American chapter of a 501(c)(3) nonprofit devoted to teaching lock picking and physical-security research; it runs local chapter meetups and the Lockfest competition and supports lockpick villages at conferences including DEF CON. The Discord is the org's general hangout for members to chat about locks, techniques, and events. It's welcoming to newcomers wanting to learn a hands-on physical-security skill as well as experienced pickers."
+},
+{
+"id": "gnu-radio-world",
+"name": "GNU Radio World",
+"category": "hardware",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"rf-sdr",
+"hardware-hacking",
+"programming",
+"homelab"
+],
+"activities": [
+"chat",
+"hardware-help",
+"project-showcase",
+"q-and-a"
+],
+"members": 12,
+"online": 2,
+"region": "global",
+"language": "en",
+"run_by": "777arc (developer of gnuradio-world)",
+"red_flags": "very small/low-activity server (12 members)",
+"summary": "GNU Radio World is a small community around a free browser-based SDR flowgraph editor (build a flowgraph, run it, and see live spectrum/waterfall plots without installing Python or GNU Radio locally), maintained by developer 777arc. The Discord is a low-traffic hangout for people experimenting with software-defined radio hardware like RTL-SDR, PlutoSDR, and HackRF, discussing flowgraphs and the tool itself. It suits people who already know some SDR/GNU Radio basics rather than complete newcomers to radio."
+},
+{
+"id": "spiderfoot",
+"name": "SpiderFoot",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"osint",
+"tool-support",
+"programming"
+],
+"activities": [
+"q-and-a",
+"chat",
+"hardware-help",
+"project-showcase"
+],
+"members": 3512,
+"online": 290,
+"region": "global",
+"language": "en",
+"run_by": "SpiderFoot / Steve Micallef",
+"red_flags": null,
+"summary": "This is the official support server for SpiderFoot, an open-source OSINT automation and attack-surface reconnaissance tool. People come here to get help configuring modules and API keys, report bugs, request features, and discuss OSINT automation workflows with the tool's maintainers and other users. It suits people already using or evaluating SpiderFoot rather than OSINT beginners looking for a tutorial community."
+},
+{
+"id": "meshos",
+"name": "MeshOS",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"iot-embedded",
+"rf-sdr",
+"hardware-hacking",
+"homelab"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": 10230,
+"online": 1449,
+"region": "global",
+"language": "en",
+"run_by": "MeshCore project",
+"red_flags": null,
+"summary": "The official community for MeshCore, an open-source LoRa mesh networking firmware for off-grid radio communication devices. Members discuss firmware configuration, hardware builds, node deployment, and mesh network troubleshooting. It suits hobbyists doing LoRa/RF and off-grid mesh networking projects rather than traditional cybersecurity work."
+},
+{
+"id": "grapheneos-private-and-secure-mobile-os-with-android-app-com",
+"name": "GrapheneOS: private and secure mobile OS with Android app compatibility",
+"category": "tool",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"mobile-security",
+"privacy",
+"linux",
+"general-infosec"
+],
+"activities": [
+"q-and-a",
+"chat",
+"news-feed",
+"project-showcase"
+],
+"members": 34037,
+"online": 6030,
+"region": "global",
+"language": "en",
+"run_by": "GrapheneOS project",
+"red_flags": null,
+"summary": "This is the official support and discussion server for GrapheneOS, the open-source, privacy- and security-hardened Android-based mobile OS. People come here to get installation and usage help, discuss hardening/app-compatibility questions, follow release news, and talk with the developers and experienced users; it suits anyone using or considering GrapheneOS, from curious beginners asking setup questions to privacy/security-focused power users."
+},
+{
+"id": "techno-tim-s-technology-community",
+"name": "Techno Tim's Technology Community",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"homelab",
+"linux",
+"networking",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"voice-events",
+"workshops"
+],
+"members": 10703,
+"online": 2272,
+"region": "global",
+"language": "en",
+"run_by": "Techno Tim (YouTuber)",
+"red_flags": null,
+"summary": "This is the community server for YouTuber Techno Tim, who makes homelab, self-hosting, Kubernetes and networking content. Members share their homelab builds, troubleshoot self-hosted services, and chat about hardware and software projects; it's not security-focused but does touch on network hardening and home infrastructure, so it suits homelab hobbyists and self-hosters of any experience level rather than dedicated infosec learners."
+},
+{
+"id": "open-source-cartridge-reader",
+"name": "Open Source Cartridge Reader",
+"category": "tool",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"iot-embedded",
+"homelab",
+"programming"
+],
+"activities": [
+"hardware-help",
+"q-and-a",
+"project-showcase",
+"chat"
+],
+"members": 1142,
+"online": 240,
+"region": "global",
+"language": "en",
+"run_by": "OSCR project (community-run)",
+"red_flags": null,
+"summary": "This is the build-support server for the Open Source Cartridge Reader (OSCR, also known as the Sanni Cart Reader), an open-source hardware device for dumping and preserving retro game cartridges. People here troubleshoot builds, share firmware/PCB revisions, and discuss soldering and flashing issues; it suits retro-console/hardware hackers and DIY electronics builders rather than general beginners, since questions assume some familiarity with soldering and microcontrollers."
+},
+{
+"id": "ads-b-sdr-feeder-image",
+"name": "ADS-B / SDR Feeder Image",
+"category": "tool",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"rf-sdr",
+"aviation-tracking",
+"hardware-hacking",
+"homelab"
+],
+"activities": [
+"hardware-help",
+"q-and-a",
+"chat",
+"news-feed"
+],
+"members": 483,
+"online": 86,
+"region": "global",
+"language": "en",
+"run_by": "adsb.im project (dirkhh and contributors)",
+"red_flags": null,
+"summary": "This is the support server for the adsb.im feeder image, an open-source SD-card image that turns a Raspberry Pi and SDR dongle into an ADS-B/AIS/radiosonde tracking feeder for aircraft, ship, and weather-balloon signals. People here get setup help, troubleshoot antenna/receiver issues, and discuss feeding data to aggregator networks; it suits SDR and flight-tracking hobbyists rather than dedicated security learners."
+},
+{
+"id": "1bitsquared",
+"name": "1BitSquared",
+"category": "hardware",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"iot-embedded",
+"homelab",
+"programming",
+"badgelife-maker"
+],
+"activities": [
+"chat",
+"hardware-help",
+"project-showcase",
+"q-and-a"
+],
+"members": 4949,
+"online": 957,
+"region": "global",
+"language": "en",
+"run_by": "1BitSquared",
+"red_flags": null,
+"summary": "1BitSquared runs this server as the community and support hub for their open-source electronics products (like Black Magic Probe debug tools) and the broader world of embedded systems, FPGA and ASIC design. It suits people already building or debugging hardware/firmware projects rather than newcomers looking for a security-specific angle."
+},
+{
+"id": "secureblue",
+"name": "secureblue",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"linux",
+"tool-support",
+"homelab",
+"privacy"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": 1891,
+"online": 212,
+"region": "global",
+"language": "en",
+"run_by": "secureblue project (open-source, community-run)",
+"red_flags": null,
+"summary": "secureblue is the support and development community for the secureblue project, a hardened, security-focused immutable Linux distribution (built on Fedora Silverblue/Atomic). People discuss configuration, hardening choices, and troubleshooting for the OS itself; general Linux-newbie questions are somewhat off-topic since the project assumes real familiarity with atomic/immutable distros. Best for Linux users interested in system hardening rather than security beginners generally."
+},
+{
+"id": "hackaday",
+"name": "Hackaday",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"iot-embedded",
+"homelab",
+"programming",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"project-showcase",
+"q-and-a",
+"news-feed",
+"voice-events"
+],
+"members": 3548,
+"online": 699,
+"region": "global",
+"language": "en",
+"run_by": "Hackaday",
+"red_flags": null,
+"summary": "This is the official Discord for Hackaday, the long-running hardware hacking and DIY electronics blog/media outlet. People show off builds, get feedback on projects (including hardware-security-adjacent ones like reverse engineering and badge hacking), and chat about Hackaday articles and events like Supercon; it's a general maker/hardware-hacking crowd rather than a dedicated infosec server."
+},
+{
+"id": "adafruit",
+"name": "adafruit",
+"category": "adjacent",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"iot-embedded",
+"hardware-hacking",
+"homelab",
+"badgelife-maker",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"hardware-help",
+"voice-events"
+],
+"members": 38874,
+"online": 4430,
+"region": "global",
+"language": "en",
+"run_by": "Adafruit Industries",
+"red_flags": null,
+"summary": "This is Adafruit's official community server for makers using their boards, sensors, and CircuitPython ecosystem. People get help wiring projects, show off builds, and chat with Adafruit staff and other hobbyists during live \"Ask an Engineer\" style events; it's a beginner-friendly electronics/maker space with only occasional overlap into hardware-security topics (RFID, badge hacking, etc.), not a dedicated infosec community."
+},
+{
+"id": "ghostesp",
+"name": "GhostESP",
+"category": "tool",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"wireless",
+"rf-sdr",
+"tool-support",
+"iot-embedded"
+],
+"activities": [
+"hardware-help",
+"q-and-a",
+"project-showcase",
+"chat",
+"news-feed"
+],
+"members": 3244,
+"online": 372,
+"region": "global",
+"language": "en",
+"run_by": "GhostESP / GhostESP-Revival project",
+"red_flags": null,
+"summary": "GhostESP is an open-source ESP32 firmware for Wi-Fi/BLE wireless security testing (AP scanning, deauth, evil portal, pineapple detection), and this is the project's official support Discord linked from its GitHub. People come here for install help, firmware feature discussion, and showing off builds; general beginner cybersecurity questions are off-topic outside of using this specific tool."
+},
+{
+"id": "m5stack",
+"name": "M5Stack",
+"category": "tool",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"iot-embedded",
+"badgelife-maker",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase",
+"news-feed"
+],
+"members": 4874,
+"online": 867,
+"region": "global",
+"language": "en",
+"run_by": "M5Stack",
+"red_flags": null,
+"summary": "This is the official Discord for M5Stack, the Chinese maker of ESP32-based stackable dev boards (Core, Atom, Cardputer, StickC) that the security-hardware scene builds on for tools like Marauder, Bruce, and Evil Crow firmwares. Most chat is general IoT/embedded development and product support rather than security-specific, but the hardware itself is a common base for Wi-Fi/BLE pentest and CTF gadgets. Good fit for anyone building or debugging on M5Stack hardware, security-focused or not."
+},
+{
+"id": "cardputer",
+"name": "CardPuter",
+"category": "tool",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"wireless",
+"iot-embedded",
+"badgelife-maker"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": 2166,
+"online": 272,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A community (not M5Stack's own) built around the M5Stack Cardputer, the pocket ESP32 device widely flashed with hacking firmwares like Bruce, Marauder, Ghost ESP and Evil Crow-W for Wi-Fi/BLE recon and deauth demos. People trade firmware builds, troubleshoot flashing, and show off case mods and add-ons. Suits anyone already running or curious about Cardputer hacking firmware; general beginner electronics questions are somewhat off-topic."
+},
+{
+"id": "gbatemp",
+"name": "GBAtemp",
+"category": "adjacent",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"game-hacking",
+"hacker-culture",
+"programming",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"project-showcase"
+],
+"members": 6435,
+"online": 1029,
+"region": "global",
+"language": "en",
+"run_by": "GBAtemp",
+"red_flags": null,
+"summary": "GBAtemp's official Discord mirrors its long-running forum: console modding, homebrew, jailbreaking, and emulation across Nintendo, PlayStation, and Xbox hardware. Members help each other flash custom firmware, hack save files, and build homebrew apps, which overlaps with retro-console hacking and reverse engineering more than mainstream infosec. Good for anyone into console/game hacking as a hobby rather than professional security work."
+},
+{
+"id": "lockpicking101-com",
+"name": "Lockpicking101.com",
+"category": "hardware",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"lockpicking-physical",
+"hacker-culture",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"challenges"
+],
+"members": 876,
+"online": 113,
+"region": "global",
+"language": "en",
+"run_by": "Lockpicking101.com forum staff",
+"red_flags": null,
+"summary": "This is the companion Discord for Lockpicking101.com, one of the oldest locksport forums online, run by longtime forum staff. People discuss pick techniques, lock/safe hardware, share pick-collection and lock-defeat videos, and help newcomers get started with their first picks. A solid entry point for anyone curious about physical security and locksport, which regularly intersects with hacker-con villages (DEF CON's Lockpick Village, etc.)."
+},
+{
+"id": "software-defined-radio",
+"name": "Software Defined Radio",
+"category": "adjacent",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"rf-sdr",
+"wireless",
+"hardware-hacking",
+"homelab"
+],
+"activities": [
+"chat",
+"q-and-a",
+"hardware-help",
+"project-showcase"
+],
+"members": 446,
+"online": 41,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Small/quiet server (only ~40 typically online) relative to its member count.",
+"summary": "A community-run Discord for software-defined radio hobbyists, covering HackRF, PortaPack, RTL-SDR dongles, GNU Radio, and general radio-hacking projects like decoding pagers, ADS-B, and other RF signals. It's smaller and quieter than the big SDR subreddits/forums but is a genuine, on-topic gathering point listed on rtl-sdr.com's own forum. Fits hobbyists building or troubleshooting SDR setups; not a structured course."
+},
+{
+"id": "maltego-community-osint",
+"name": "Maltego Community OSINT",
+"category": "tool",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"osint",
+"ctf",
+"tool-support"
+],
+"activities": [
+"ctf-events",
+"workshops",
+"q-and-a",
+"challenges",
+"chat"
+],
+"members": 1516,
+"online": 162,
+"region": "global",
+"language": "en",
+"run_by": "Maltego Technologies",
+"red_flags": null,
+"summary": "The official community Discord for Maltego, the OSINT graphing/link-analysis tool, run by Maltego Technologies. Members get help with the tool, join weekly OSINT101 challenges and CTFs, and attend live sessions with the Maltego team. Good for beginners specifically wanting to learn OSINT investigation techniques through Maltego."
+},
+{
+"id": "havoc-framework",
+"name": "Havoc Framework",
+"category": "tool",
+"bf": 1,
+"audience": [
+"advanced",
+"intermediate"
+],
+"tags": [
+"red-team",
+"tool-support",
+"pentesting",
+"reverse-engineering"
+],
+"activities": [
+"q-and-a",
+"chat",
+"project-showcase"
+],
+"members": 4147,
+"online": 646,
+"region": "global",
+"language": "en",
+"run_by": "C5pider / Havoc Framework project",
+"red_flags": "Source repository is archived, so ongoing development/support activity may be declining",
+"summary": "The community/support Discord for Havoc, a post-exploitation command and control (C2) framework created by C5pider, linked from the project's GitHub README. Members discuss agent development, modules, and usage of the framework for red team operations. The underlying GitHub repo is archived, so activity here may be winding down; it's aimed squarely at experienced red-teamers and malware/C2 developers, not newcomers."
+}
+]

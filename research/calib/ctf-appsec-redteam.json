@@ -1,0 +1,1396 @@
+[
+{
+"id": "red-team-alliance",
+"name": "Red Team Alliance",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"lockpicking-physical",
+"certifications",
+"hacker-culture",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"workshops",
+"news-feed",
+"job-board"
+],
+"members": 1114,
+"online": 201,
+"region": "global",
+"language": "en",
+"run_by": "Red Team Alliance",
+"red_flags": "Commercial training company runs the server, so expect some promotion of paid courses/tools",
+"summary": "Red Team Alliance is a professional training and certification company (Covert Entry Associate/Professional/Expert) focused on physical red teaming, lock bypass, and covert entry, and this Discord is the community for their students and instructors. Conversation centers on physical security, breaking into buildings legally as part of engagements, and their courses/tools, so it fits people already working in or pursuing red team/physical pentest careers more than absolute beginners. They also sell training and hardware tools through affiliated storefronts."
+},
+{
+"id": "root-me",
+"name": "Root-Me",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"wargames",
+"web-appsec",
+"reverse-engineering",
+"binary-exploitation",
+"cryptography"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events",
+"challenges",
+"writeups",
+"study-groups"
+],
+"members": 28426,
+"online": 5245,
+"region": "global",
+"language": "en",
+"run_by": "Root-Me (community-run)",
+"red_flags": null,
+"summary": "Root-Me is a free, community-run hacking and CTF-style learning platform (French-founded, bilingual French/English) with hundreds of practice challenges across web, crypto, reverse engineering, forensics and more. The Discord is where players discuss challenges, ask for hints, and talk about the platform's events and rankings. It suits people who want structured wargame-style practice, from newcomers working through easy challenges up to advanced players chasing rare validations."
+},
+{
+"id": "bounty-hunters",
+"name": "Bounty Hunters",
+"category": "appsec",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"pentesting",
+"red-team"
+],
+"activities": [
+"chat",
+"q-and-a",
+"writeups",
+"challenges",
+"job-board",
+"news-feed"
+],
+"members": 18746,
+"online": 1852,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Bounty Hunters is a large community-run server for bug bounty hunters and web/app security researchers to share writeups, discuss vulnerability findings, and help each other learn hunting techniques. It's active with both newer learners asking questions and experienced hunters sharing methodology. It suits anyone focused specifically on bug bounty and web application security rather than general infosec."
+},
+{
+"id": "hacking-bug-bounty-espa-a-gorka-el-bochi-morillo",
+"name": "HACKING / BUG BOUNTY ESPAÑA  | GORKA EL BOCHI MORILLO",
+"category": "appsec",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"pentesting",
+"study-group",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"writeups"
+],
+"members": 1564,
+"online": 123,
+"region": "global",
+"language": "es",
+"run_by": "Gorka \"El Bochi\" Morillo",
+"red_flags": null,
+"summary": "A Spanish-language community centered on bug bounty hunting and pentesting, run around the creator/handle 'Gorka El Bochi Morillo.' Members share learning resources and discuss techniques together, aiming to bring Spanish-speaking hackers into one space rather than scattering them across smaller servers."
+},
+{
+"id": "hackthebox",
+"name": "HackTheBox",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"wargames",
+"pentesting",
+"web-appsec",
+"certifications",
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"ctf-events",
+"chat",
+"q-and-a",
+"study-groups",
+"writeups",
+"challenges",
+"job-board"
+],
+"members": 386018,
+"online": 39915,
+"region": "global",
+"language": "en",
+"run_by": "Hack The Box",
+"red_flags": null,
+"summary": "The official Discord for HackTheBox, the well-known platform for hands-on penetration-testing practice. People work through Academy learning paths, tackle vulnerable 'boxes' and challenges, and discuss infosec topics with a huge, very active global membership spanning total beginners to seasoned professionals."
+},
+{
+"id": "whoamidiscord",
+"name": "whoamidiscord",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"wargames",
+"web-appsec",
+"students",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"challenges",
+"chat",
+"q-and-a",
+"writeups"
+],
+"members": 8053,
+"online": 1125,
+"region": "global",
+"language": "en",
+"run_by": "whoamitang",
+"red_flags": null,
+"summary": "Run by the whoamitang project, this server centers on hands-on hacking practice through 20+ free CTF-style labs plus weekly challenges. It's built for people who want to learn offensive security by actually doing it rather than just reading about it, with an active and reportedly friendly community answering questions. Good fit for beginners and intermediates wanting practical, guided CTF practice."
+},
+{
+"id": "bugcrowd-community",
+"name": "Bugcrowd Community",
+"category": "appsec",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"red-team",
+"careers",
+"ctf"
+],
+"activities": [
+"chat",
+"q-and-a",
+"job-board",
+"ctf-events",
+"news-feed"
+],
+"members": 20759,
+"online": 1586,
+"region": "global",
+"language": "en",
+"run_by": "Bugcrowd",
+"red_flags": null,
+"summary": "The official Discord for Bugcrowd, a major crowdsourced bug bounty and vulnerability disclosure platform, where security researchers talk shop about bug hunting, submissions, and programs. It ties into Bugcrowd University and the researcher leaderboard, so it's useful for people already doing or seriously pursuing bug bounty work. Beginners can lurk and learn but the discussion assumes some familiarity with web app security."
+},
+{
+"id": "thjcc-ctf",
+"name": "THJCC CTF",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"youth",
+"web-appsec",
+"reverse-engineering",
+"cryptography",
+"binary-exploitation"
+],
+"activities": [
+"ctf-events",
+"chat",
+"q-and-a",
+"writeups"
+],
+"members": 1294,
+"online": 326,
+"region": "asia",
+"language": "zh",
+"run_by": "community-run (Taiwan student CTF organizers)",
+"red_flags": null,
+"summary": "The Discord for THJCC, an online jeopardy-style CTF competition aimed at Taiwanese high school and vocational school students, covering web, reverse engineering, crypto, pwn, and misc categories. It functions mainly as event support and chat around the competition, and is a good fit for younger, beginner-to-intermediate students in Taiwan wanting an entry point into CTFs."
+},
+{
+"id": "tcp1p-server",
+"name": "TCP1P Server",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"web-appsec",
+"reverse-engineering",
+"cryptography",
+"binary-exploitation",
+"students"
+],
+"activities": [
+"chat",
+"ctf-events",
+"challenges",
+"writeups",
+"study-groups"
+],
+"members": 4672,
+"online": 888,
+"region": "asia",
+"language": "en",
+"run_by": "TCP1P (community CTF team, Indonesia)",
+"red_flags": null,
+"summary": "The community around TCP1P, an active Indonesian CTF team that also runs its own CTF competitions and shares knowledge with newcomers. Members practice challenges together, discuss writeups, and chat casually (including non-security banter like Wordle), making it a friendly entry point for Indonesian-speaking beginners interested in CTFs."
+},
+{
+"id": "omnictf-public",
+"name": "OmniCTF | Public",
+"category": "ctf",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"wargames",
+"general-infosec",
+"reverse-engineering",
+"binary-exploitation"
+],
+"activities": [
+"ctf-events",
+"chat",
+"challenges",
+"writeups",
+"news-feed"
+],
+"members": 1169,
+"online": 163,
+"region": "europe",
+"language": "en",
+"run_by": "OmniCTF team",
+"red_flags": null,
+"summary": "The public Discord for OmniCTF, a CTF competition and community that started with a group of young security enthusiasts in Romania and has grown into an international CTF with its own challenge authors and organizers. People here play and help organize CTFs, discuss challenges, and connect with other competitive players; it suits those who already enjoy CTF-style problem solving more than absolute beginners."
+},
+{
+"id": "secur0-bug-bounty",
+"name": "Secur0 | Bug bounty",
+"category": "appsec",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"ctf",
+"study-group",
+"careers"
+],
+"activities": [
+"ctf-events",
+"challenges",
+"writeups",
+"job-board",
+"study-groups",
+"q-and-a",
+"chat"
+],
+"members": 1836,
+"online": 224,
+"region": "europe",
+"language": "es",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Secur0 is described as Spain's largest hacker community, centered on its own bug bounty platform where members have collectively reported thousands of real vulnerabilities to companies. Beyond bug hunting, members run CTFs with prizes, share write-ups, post job and scholarship opportunities, and support each other across skill levels in a relaxed, Spanish-language chat."
+},
+{
+"id": "official-hackmyvm",
+"name": "Official HackMyVM",
+"category": "ctf",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"wargames",
+"reverse-engineering",
+"binary-exploitation"
+],
+"activities": [
+"chat",
+"ctf-events",
+"challenges",
+"writeups",
+"q-and-a"
+],
+"members": 2626,
+"online": 157,
+"region": "global",
+"language": "en",
+"run_by": "HackMyVM",
+"red_flags": null,
+"summary": "The official Discord for HackMyVM, a free CTF platform offering over 300 downloadable vulnerable virtual machines and dozens of hacking challenges. The server is where players discuss VMs, share hints and writeups, and get help getting unstuck, making it useful for anyone practicing penetration-testing skills through hands-on boxes rather than lectures."
+},
+{
+"id": "imaginaryctf",
+"name": "ImaginaryCTF",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"wargames",
+"reverse-engineering",
+"binary-exploitation",
+"cryptography"
+],
+"activities": [
+"ctf-events",
+"challenges",
+"writeups",
+"chat",
+"q-and-a"
+],
+"members": 14162,
+"online": 1976,
+"region": "global",
+"language": "en",
+"run_by": "ImaginaryCTF team (community-run)",
+"red_flags": null,
+"summary": "ImaginaryCTF runs its own daily mini-challenges plus periodic larger CTF competitions across web, pwn, reverse engineering, crypto and misc categories, all discussed and hinted in the Discord. It suits people who already know CTF basics and want frequent practice, with help channels for people getting stuck."
+},
+{
+"id": "blockchain-pentesting",
+"name": "Blockchain PenTesting",
+"category": "appsec",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"web-appsec",
+"cryptography",
+"study-group",
+"ctf",
+"general-infosec"
+],
+"activities": [
+"chat",
+"study-groups",
+"challenges",
+"q-and-a"
+],
+"members": 2332,
+"online": 118,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Small and low-activity relative to member count (118 online of 2332); could not verify current activity level or moderation quality",
+"summary": "A niche resource hub for people learning blockchain and smart-contract security, where members share study materials, CTF-style challenges and discussion aimed at researchers and learners at various levels. It's small and specialized rather than a general infosec hangout, so it best suits someone specifically interested in Web3/blockchain security."
+},
+{
+"id": "cosmodiumcs",
+"name": "CosmodiumCS",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"malware-analysis",
+"reverse-engineering",
+"binary-exploitation",
+"general-infosec",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"writeups",
+"challenges"
+],
+"members": 1638,
+"online": 175,
+"region": "global",
+"language": "en",
+"run_by": "Cosmo (CosmodiumCS)",
+"red_flags": "Focus on building actual malware/RATs and 'cyber weapons' — legitimate educational framing but content could be misused; some paid course upsells.",
+"summary": "CosmodiumCS is run by 'Cosmo,' an offensive-security educator who teaches malware development, binary exploitation, Windows internals, and C2/RAT building through paid courses and free resources (PDFs, tools, code snippets on GitHub). The Discord is where students and offensive-dev enthusiasts discuss malware and tool development, share resources, and get help with course material. It suits people already comfortable with programming who want to learn offensive tooling and malware internals, not absolute beginners."
+},
+{
+"id": "hackerone",
+"name": "HackerOne",
+"category": "appsec",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"ctf",
+"careers",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"challenges",
+"news-feed",
+"job-board"
+],
+"members": 1865,
+"online": 107,
+"region": "global",
+"language": "en",
+"run_by": "community-run (unofficial, HackerOne-adjacent)",
+"red_flags": "Unofficial fan community, not run by HackerOne itself; HackerOne's official learner community is the separate Hacker101 Discord.",
+"summary": "This is a fan/community-run Discord for people who hunt bugs on the HackerOne bug bounty platform (it is explicitly labeled unofficial, distinct from HackerOne's own Hacker101 Discord). Members trade tips on recon, report writing, and specific programs, and discuss bug bounty news and write-ups. It suits people already doing or starting web/app bug bounty hunting rather than total security newcomers."
+},
+{
+"id": "red-siege",
+"name": "Red Siege",
+"category": "redteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"tool-support",
+"general-infosec",
+"vendor"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"news-feed"
+],
+"members": 3503,
+"online": 698,
+"region": "global",
+"language": "en",
+"run_by": "Red Siege Information Security",
+"red_flags": "Vendor-run community for a paid consulting/training firm; content skews toward promoting Red Siege's own offerings.",
+"summary": "This is the community Discord run by Red Siege Information Security, an offensive-security consulting firm known for penetration testing training, SiegeCast talks, and open-source red-team tools. Members ask the Red Siege team about their tools and offerings and discuss current attacker techniques. It fits people already working in or studying offensive security who want direct access to a boutique pentest firm's practitioners."
+},
+{
+"id": "hack-different",
+"name": "Hack Different",
+"category": "appsec",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"mobile-security",
+"hacker-culture",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"hardware-help"
+],
+"members": 3642,
+"online": 636,
+"region": "global",
+"language": "en",
+"run_by": "checkra1n team / Hack Different community",
+"red_flags": null,
+"summary": "Started by the checkra1n jailbreak developers, this community is dedicated to reverse engineering, jailbreaking, and security research on Apple hardware and software (iOS, macOS, and related silicon). Members share research, tools, and technical discussion, but it explicitly is not a jailbreak customer-support server, so it suits people who already have some reverse-engineering background rather than beginners just wanting help unlocking a device."
+},
+{
+"id": "hack-this-site",
+"name": "Hack This Site",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"wargames",
+"binary-exploitation",
+"web-appsec",
+"hacker-culture"
+],
+"activities": [
+"ctf-events",
+"challenges",
+"q-and-a",
+"chat",
+"writeups"
+],
+"members": 24410,
+"online": 1722,
+"region": "global",
+"language": "en",
+"run_by": "HackThisSite",
+"red_flags": null,
+"summary": "Companion Discord to HackThisSite.org, a long-running (since 2003) free legal training ground of hacking challenges and wargames. Members discuss the site's missions and CTFs, get help when stuck, and talk general ethical hacking and programming; it's aimed at people who want hands-on practice rather than lecture-style learning."
+},
+{
+"id": "owlsec",
+"name": "OwlSec",
+"category": "redteam",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"red-team",
+"ctf",
+"pentesting",
+"mentorship",
+"study-group",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"mentorship",
+"chat",
+"study-groups",
+"challenges",
+"voice-events"
+],
+"members": 165983,
+"online": 17905,
+"region": "global",
+"language": "en",
+"run_by": "OwlSec",
+"red_flags": "monetized mentorship/subscription model; verify claimed mentor credentials before paying",
+"summary": "A very large, fast-growing hacking/CTF community centered on red teaming and ethical hacking practice, with mentors running small-group and 1-on-1 sessions. It offers a paid subscription tier for extra channels, events and perks alongside its free general community, so beginners get a welcoming on-ramp but should know some of the best features are behind a paywall."
+},
+{
+"id": "0x0539-net",
+"name": "0x0539.net",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"binary-exploitation",
+"reverse-engineering",
+"ctf",
+"general-infosec"
+],
+"activities": [
+"chat",
+"challenges",
+"writeups"
+],
+"members": 1307,
+"online": 96,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "very little independent information available; small membership, verify activity level before relying on it",
+"summary": "A smaller, community-run server focused on exploit research and offensive security topics such as vulnerability research and binary exploitation. There's little public documentation on it beyond hacker-Discord listings, so it appears to be a niche, practitioner-oriented hangout rather than a beginner-teaching space."
+},
+{
+"id": "cylab-security-academy-formerly-picoctf",
+"name": "CyLab Security Academy (formerly picoCTF)",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"students",
+"study-group",
+"general-infosec",
+"programming"
+],
+"activities": [
+"ctf-events",
+"q-and-a",
+"study-groups",
+"chat",
+"news-feed"
+],
+"members": 24718,
+"online": 2773,
+"region": "global",
+"language": "en",
+"run_by": "Carnegie Mellon University CyLab",
+"red_flags": null,
+"summary": "This is the official Discord for CyLab Security Academy, Carnegie Mellon University's free cybersecurity learning platform formerly known as picoCTF, where members get help on practice challenges, form teams for the annual picoCTF competition, and discuss beginner-friendly security topics. It's built specifically for newcomers and students, with a large, very active community and staff who answer hint requests without giving away solutions."
+},
+{
+"id": "redteamsec",
+"name": "RedTeamSec",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"blue-team",
+"general-infosec",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"writeups"
+],
+"members": 2251,
+"online": 221,
+"region": "global",
+"language": "en",
+"run_by": "community-run (r/redteamsec moderators)",
+"red_flags": null,
+"summary": "This is the Discord tied to the r/redteamsec subreddit, a community-run space for discussing offensive security tradecraft, tooling, and blue team detection topics. It's aimed at people who already have some pentesting or red team background rather than absolute beginners, with discussion skewing toward technique-level detail."
+},
+{
+"id": "low-level-exploitation-lle-closed",
+"name": "Low Level Exploitation (LLE) (closed)",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"binary-exploitation",
+"reverse-engineering",
+"malware-analysis",
+"ctf",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"writeups",
+"challenges",
+"project-showcase"
+],
+"members": 954,
+"online": 99,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Server marked closed by source listing; may be inactive or defunct",
+"summary": "Low Level Exploitation (LLE) is a community centered on binary exploitation and low-level offensive security work such as reverse engineering and writing exploits. Discussion assumes existing programming/systems knowledge, so it suits people already comfortable with C, assembly, or reverse engineering rather than newcomers. Note: this server is currently listed as closed/invite may not be active."
+},
+{
+"id": "overthewire",
+"name": "OverTheWire",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"wargames",
+"ctf",
+"binary-exploitation",
+"linux",
+"students"
+],
+"activities": [
+"ctf-events",
+"challenges",
+"q-and-a",
+"chat",
+"mentorship",
+"writeups"
+],
+"members": 27643,
+"online": 3194,
+"region": "global",
+"language": "en",
+"run_by": "OverTheWire team",
+"red_flags": null,
+"summary": "This is the official support Discord for OverTheWire, the long-running free wargame set (Bandit, Natas, Krypton, and more) that teaches Linux, web, and binary security fundamentals through progressive levels. People come here for hints and help getting unstuck on specific levels, making it a classic starting point for absolute beginners learning practical security skills. Linked directly from the OverTheWire website as its official chat."
+},
+{
+"id": "pwn-college",
+"name": "pwn.college",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"binary-exploitation",
+"ctf",
+"reverse-engineering",
+"linux",
+"study-group"
+],
+"activities": [
+"q-and-a",
+"challenges",
+"study-groups",
+"chat",
+"writeups"
+],
+"members": 41035,
+"online": 5876,
+"region": "global",
+"language": "en",
+"run_by": "pwn.college (originating from Arizona State University's Order of the Overflow / hacking club, now pwn.college LLC)",
+"red_flags": null,
+"summary": "pwn.college is a free binary-exploitation and systems-security training platform (organized as 'dojos' with a belt-ranking progression) originally built out of Arizona State University's hacking club and now run as pwn.college LLC. The Discord is where students get help on dojo challenges, discuss Linux/exploitation fundamentals, and chat with staff and fellow learners, making it well suited to complete beginners working through the white-belt material as well as more advanced CTF players."
+},
+{
+"id": "portswigger",
+"name": "PortSwigger",
+"category": "appsec",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"web-appsec",
+"bug-bounty",
+"pentesting",
+"tool-support",
+"ctf"
+],
+"activities": [
+"q-and-a",
+"chat",
+"challenges",
+"news-feed",
+"writeups"
+],
+"members": 19425,
+"online": 2745,
+"region": "global",
+"language": "en",
+"run_by": "PortSwigger",
+"red_flags": null,
+"summary": "This is the official Discord for PortSwigger, the company behind Burp Suite and the free Web Security Academy. People use it to ask Burp Suite usage questions, discuss web app pentesting and bug bounty techniques, get help on Web Security Academy labs, and occasionally interact with PortSwigger staff and researchers. It suits anyone learning web security through the Academy as well as working pentesters and bug bounty hunters already using Burp."
+},
+{
+"id": "pwnable-kr",
+"name": "pwnable.kr",
+"category": "ctf",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"binary-exploitation",
+"reverse-engineering",
+"ctf",
+"wargames",
+"linux"
+],
+"activities": [
+"q-and-a",
+"challenges",
+"chat",
+"writeups"
+],
+"members": 898,
+"online": 137,
+"region": "global",
+"language": "en",
+"run_by": "pwnable.kr (run by Lee Seungjin / 'redshell')",
+"red_flags": null,
+"summary": "pwnable.kr is a long-running Korean-origin wargame site focused on binary exploitation and reverse-engineering puzzles, and this small Discord is where its players (mostly English-speaking internationally as well as Korean) discuss challenges and get occasional hints. It's a much quieter, more niche community than the big CTF-team servers, and suits people who already have some programming/Linux background rather than absolute newcomers."
+},
+{
+"id": "b01lersctf",
+"name": "b01lersCTF",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"binary-exploitation",
+"reverse-engineering",
+"web-appsec",
+"regional",
+"students"
+],
+"activities": [
+"ctf-events",
+"challenges",
+"chat",
+"workshops",
+"local-meetups"
+],
+"members": 3141,
+"online": 524,
+"region": "us-midwest",
+"language": "en",
+"run_by": "b01lers (Purdue University CTF team)",
+"red_flags": null,
+"summary": "b01lers is Purdue University's competitive CTF team, and this server is the public Discord for the b01lersCTF competition they run each year (they keep a separate club Discord for actual Purdue members). It's mostly active around their annual CTF and bootcamp CTF events, useful for competitors coordinating teams, asking about challenges, and following results; Purdue students looking to join the club itself should look at their main club server instead."
+},
+{
+"id": "dicectf",
+"name": "DiceCTF",
+"category": "ctf",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"binary-exploitation",
+"web-appsec",
+"cryptography",
+"reverse-engineering"
+],
+"activities": [
+"ctf-events",
+"challenges",
+"chat",
+"writeups"
+],
+"members": 6142,
+"online": 1221,
+"region": "global",
+"language": "en",
+"run_by": "DiceGang",
+"red_flags": null,
+"summary": "DiceCTF is run by DiceGang, a well-known competitive CTF team, and this Discord is where they announce and run their annual DiceCTF competition (quals and finals) plus general chat with other strong CTF players. It's aimed more at people who already play CTFs seriously than absolute beginners, though the challenge discussion and writeups shared around each event are useful learning material for anyone comfortable with the basics."
+},
+{
+"id": "ctf-course",
+"name": "ctf-course",
+"category": "ctf",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"binary-exploitation",
+"reverse-engineering",
+"ctf",
+"wargames",
+"study-group"
+],
+"activities": [
+"q-and-a",
+"challenges",
+"writeups",
+"study-groups"
+],
+"members": 3141,
+"online": 342,
+"region": "global",
+"language": "en",
+"run_by": "guyinatuxedo",
+"red_flags": null,
+"summary": "This is the support Discord for Nightmare, guyinatuxedo's free open-source course walking through 90+ binary exploitation and reverse-engineering CTF challenges with full writeups. People come here to ask for help when they're stuck on a specific challenge in the course and to discuss pwn/RE techniques more generally. It suits people who already have basic programming/Linux knowledge and are working through the course, rather than absolute beginners."
+},
+{
+"id": "hack-smarter",
+"name": "Hack Smarter",
+"category": "redteam",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"pentesting",
+"red-team",
+"ctf",
+"study-group",
+"careers"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events",
+"study-groups",
+"job-board",
+"voice-events"
+],
+"members": 23186,
+"online": 3095,
+"region": "global",
+"language": "en",
+"run_by": "Hack Smarter Labs",
+"red_flags": "affiliated with a paid training product; expect upselling",
+"summary": "Hack Smarter is the community tied to Hack Smarter Labs (hacksmarter.org), which sells paid pentesting/evasion training with videos and hands-on labs, but the Discord itself is a large free hub for people learning offensive security and pentesting as a career path. Members chat about tools, techniques, and certifications, and there are study groups and career discussion alongside promotion of the paid courses. It suits people serious about breaking into professional penetration testing, with the caveat that some channels double as sales funnels for the paid labs."
+},
+{
+"id": "ctflearn",
+"name": "CTFlearn",
+"category": "ctf",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"wargames",
+"web-appsec",
+"reverse-engineering",
+"cryptography",
+"study-group"
+],
+"activities": [
+"q-and-a",
+"challenges",
+"writeups",
+"chat"
+],
+"members": 12095,
+"online": 1022,
+"region": "global",
+"language": "en",
+"run_by": "CTFlearn",
+"red_flags": null,
+"summary": "This is the official Discord for CTFlearn, a free jeopardy-style CTF practice platform used by over 150,000 people to solve standalone challenges across web, crypto, forensics, and reverse engineering. The Discord is where people ask for hints (without spoiling answers outright), report platform issues, and discuss challenge categories. It's aimed squarely at beginners and intermediates building CTF skills at their own pace, not a competitive team."
+},
+{
+"id": "hacktoria",
+"name": "HACKTORIA",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"osint",
+"ctf",
+"students"
+],
+"activities": [
+"ctf-events",
+"challenges",
+"writeups",
+"chat",
+"q-and-a"
+],
+"members": 2157,
+"online": 285,
+"region": "global",
+"language": "en",
+"run_by": "Hacktoria (independent OSINT CTF platform, content by Klumgongyn)",
+"red_flags": null,
+"summary": "Hacktoria runs story-driven OSINT capture-the-flag events where players investigate fictional scenarios (tracking a character across social media, images, and public records) to find flags. The Discord is where people discuss ongoing and past operations, share hints and write-ups, and check the leaderboard; there's also a 24/7 practice track for newcomers. It's a good fit for people who want to learn practical open-source-intelligence investigation skills through gamified challenges rather than formal courses."
+},
+{
+"id": "immunefi",
+"name": "Immunefi",
+"category": "appsec",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"cloud-security",
+"jobs"
+],
+"activities": [
+"chat",
+"job-board",
+"news-feed",
+"writeups"
+],
+"members": 15973,
+"online": 1374,
+"region": "global",
+"language": "en",
+"run_by": "Immunefi",
+"red_flags": "token/crypto-adjacent branding ($IMU) mixed into an otherwise legitimate security bounty platform",
+"summary": "Immunefi runs a bug bounty platform for smart contracts and Web3 protocols, and its Discord is where whitehats discuss bounty programs, payouts, and vulnerability disclosures on that platform. It's aimed at experienced security researchers already comfortable auditing blockchain code, not a place for general infosec beginners."
+},
+{
+"id": "sherlock",
+"name": "Sherlock 🕵",
+"category": "appsec",
+"bf": 1,
+"audience": [
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"jobs"
+],
+"activities": [
+"chat",
+"challenges",
+"job-board",
+"writeups"
+],
+"members": 11824,
+"online": 1122,
+"region": "global",
+"language": "en",
+"run_by": "Sherlock",
+"red_flags": null,
+"summary": "Sherlock runs paid smart-contract audit contests, and its Discord is where auditors coordinate on live contest rounds, discuss findings, and follow payouts. This is a professional/advanced venue for experienced smart-contract security auditors, not a learning space for newcomers."
+},
+{
+"id": "code4rena",
+"name": "Code4rena",
+"category": "appsec",
+"bf": 1,
+"audience": [
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"jobs"
+],
+"activities": [
+"chat",
+"challenges",
+"job-board",
+"writeups"
+],
+"members": 34,
+"online": 2,
+"region": "global",
+"language": "en",
+"run_by": "Code4rena",
+"red_flags": "very low member count (34) on this invite link suggests it may not be the platform's main/official server, or the invite is stale",
+"summary": "Code4rena runs competitive smart-contract security audits where researchers race to find vulnerabilities in sponsor codebases for prize pools; the Discord coordinates contest announcements, findings discussion, and payouts. It's built for experienced smart-contract auditors, not general infosec beginners, and this particular server invite appears to have very low membership relative to the platform's actual community."
+},
+{
+"id": "the-white-circle",
+"name": "The White Circle",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"wargames",
+"general-infosec",
+"students",
+"study-group"
+],
+"activities": [
+"chat",
+"ctf-events",
+"writeups",
+"study-groups",
+"mentorship"
+],
+"members": 2161,
+"online": 188,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "The White Circle is an international, volunteer-run community of security students, hobbyists and professionals built around a competitive CTF team that plays events like Cyber Apocalypse and NahamCon and publishes public writeups afterward. Beyond CTFs it curates learning resources and gives out community badges, making it a good fit for people who want to learn by doing challenges alongside others."
+},
+{
+"id": "nyusec",
+"name": "NYUSEC",
+"category": "ctf",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ctf",
+"students",
+"study-group",
+"reverse-engineering",
+"binary-exploitation"
+],
+"activities": [
+"ctf-events",
+"study-groups",
+"workshops",
+"q-and-a",
+"chat",
+"mentorship"
+],
+"members": 3015,
+"online": 245,
+"region": "us-northeast",
+"language": "en",
+"run_by": "NYU OSIRIS Lab",
+"red_flags": null,
+"summary": "NYUSEC is the Discord for NYU's OSIRIS Lab, the university's competitive CTF team and security research group. Members run and practice for CTF competitions, hold workshops on topics like reverse engineering and binary exploitation, and mentor newer students, though a lot of activity centers on NYU students specifically. Outsiders can lurk and learn from CTF-focused discussion even if they're not NYU-affiliated."
+},
+{
+"id": "patchstack-alliance",
+"name": "Patchstack Alliance",
+"category": "redteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"vendor",
+"news-cve"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"job-board",
+"writeups"
+],
+"members": 3341,
+"online": 307,
+"region": "global",
+"language": "en",
+"run_by": "Patchstack",
+"red_flags": null,
+"summary": "Patchstack Alliance is the vulnerability-disclosure/bug-bounty community run by Patchstack, a company focused on WordPress and open-source software security. Members are open-source developers and security researchers who report and discuss vulnerabilities, often for bounty rewards through Patchstack's program. Best suited to people who already do vulnerability research rather than newcomers just starting out."
+},
+{
+"id": "intigriti",
+"name": "Intigriti",
+"category": "appsec",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"ctf",
+"careers"
+],
+"activities": [
+"chat",
+"ctf-events",
+"job-board",
+"news-feed",
+"challenges",
+"writeups"
+],
+"members": 15378,
+"online": 1702,
+"region": "global",
+"language": "en",
+"run_by": "Intigriti",
+"red_flags": null,
+"summary": "This is the official community for Intigriti, a European bug bounty and vulnerability disclosure platform. Members discuss live programs on the platform, share writeups and tips, and get help from Intigriti staff and fellow researchers; it suits people already doing or actively learning bug bounty hunting rather than absolute beginners."
+},
+{
+"id": "zero-point-security",
+"name": "Zero-Point Security",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"certifications",
+"study-group"
+],
+"activities": [
+"q-and-a",
+"study-groups",
+"chat",
+"job-board"
+],
+"members": 13139,
+"online": 2468,
+"region": "global",
+"language": "en",
+"run_by": "Rasta Mouse / Zero-Point Security",
+"red_flags": null,
+"summary": "The official Discord for Zero-Point Security, the red-team training company run by Rasta Mouse behind the CRTO and CRTL certifications. Members discuss course content, C2 tradecraft, and certification prep. Best suited to people already working toward or holding a red-team background rather than absolute beginners."
+},
+{
+"id": "covert-access-team",
+"name": "Covert Access Team",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"red-team",
+"pentesting",
+"social-engineering",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"writeups",
+"news-feed"
+],
+"members": 404,
+"online": 64,
+"region": "global",
+"language": "en",
+"run_by": "Brian Harris",
+"red_flags": "One commenter noted the original invite link had expired as of Oct 2024, suggesting possible low/inconsistent activity.",
+"summary": "Run by Brian Harris, a physical penetration testing (covert entry / black team) trainer, as a companion to his Covert Access Team Substack newsletter. Members swap war stories and advice on physical security assessments, social engineering, and full red team engagements. Best suited to people already working in or actively studying physical/red-team security rather than absolute beginners."
+},
+{
+"id": "hacker-associate",
+"name": "Hacker Associate",
+"category": "redteam",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"pentesting",
+"red-team",
+"certifications",
+"careers",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"workshops",
+"challenges",
+"job-board"
+],
+"members": 2147,
+"online": 60,
+"region": "india",
+"language": "en",
+"run_by": "Hacker Associate",
+"red_flags": "Commercial training/certification vendor promoting its own paid products; treat marketing claims (e.g. '80+ certifications', 'only organization in India') with skepticism.",
+"summary": "Hacker Associate is an India-based commercial cybersecurity training company offering paid certifications (offensive hacking, web app pentesting, cloud security, forensics, and more) plus VAPT services to businesses and governments. The Discord is their community hub for students and prospects to ask questions, hear about workshops/events, and get updates on their courses. Fits people considering or enrolled in their paid certification tracks more than casual learners."
+},
+{
+"id": "corelan",
+"name": "Corelan",
+"category": "redteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"binary-exploitation",
+"reverse-engineering",
+"red-team",
+"general-infosec",
+"careers"
+],
+"activities": [
+"chat",
+"q-and-a",
+"mentorship",
+"writeups",
+"study-groups"
+],
+"members": 601,
+"online": 93,
+"region": "global",
+"language": "en",
+"run_by": "Corelan Consulting",
+"red_flags": null,
+"summary": "Corelan is the long-running exploit-development and vulnerability research community built around the classic Corelan tutorials (Corelan Consulting, founded 2007). The Discord is a place to ask about exploit dev, reverse engineering, debugging/tooling, and OS internals, get career guidance, and prep for certifications like OSCE/OSED. It suits people who already have some security fundamentals and want to go deep on binary exploitation, more than absolute beginners."
+}
+]

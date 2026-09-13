@@ -1,0 +1,1250 @@
+[
+{
+"id": "willstunforfood",
+"name": "WillStunForFood",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"wireless",
+"iot-embedded",
+"hacker-culture",
+"badgelife-maker",
+"general-infosec"
+],
+"activities": [
+"chat",
+"project-showcase",
+"hardware-help",
+"q-and-a",
+"voice-events"
+],
+"members": 18992,
+"online": 2720,
+"region": "global",
+"language": "en",
+"run_by": "justcallmekoko (WillStunForFood)",
+"red_flags": "Content mixes in guns/firearms topics unrelated to security, which may surprise a purely infosec-seeking newcomer",
+"summary": "This is the community around justcallmekoko, the creator of the popular ESP32 Marauder WiFi/Bluetooth pentesting firmware, whose channel also covers guns, general tech, and 3D printing. People show off builds, ask for help flashing and using Marauder-based hardware, and chat about maker/hacking projects more broadly. It suits hobbyists into ESP32 hardware hacking and 3D-printed gadgets, though it is not a narrowly focused infosec-only server."
+},
+{
+"id": "try-hard-security-hacknow",
+"name": "Try Hard Security [HackNow]",
+"category": "careers",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"careers",
+"study-group",
+"mentorship",
+"general-infosec",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"mentorship",
+"job-board"
+],
+"members": 30813,
+"online": 2759,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Try Hard Security (also known as HackNow) is a large community built around helping people break into cybersecurity careers for free, mixing students with working professionals who answer questions and offer mentorship. Typical activity is career advice, study support, and general chat rather than hands-on hacking challenges, making it a good fit for people just starting out or trying to land their first infosec job."
+},
+{
+"id": "jh-discord",
+"name": "JH Discord",
+"category": "creator",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"general-infosec",
+"programming",
+"students"
+],
+"activities": [
+"chat",
+"ctf-events",
+"q-and-a",
+"challenges",
+"study-groups"
+],
+"members": 30213,
+"online": 3750,
+"region": "global",
+"language": "en",
+"run_by": "John Hammond",
+"red_flags": null,
+"summary": "This is the official Discord for John Hammond, a popular cybersecurity YouTuber known for CTF walkthroughs, malware analysis videos, and beginner-friendly security education. The community plays CTFs together, discusses his videos, and welcomes newcomers who are just starting to learn hacking and security concepts, fitting its stated goal of free cybersecurity education 'without the fluff.'"
+},
+{
+"id": "cyber-jobs-hunting",
+"name": "Cyber Jobs Hunting",
+"category": "careers",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"careers",
+"jobs",
+"certifications",
+"study-group"
+],
+"activities": [
+"job-board",
+"q-and-a",
+"chat",
+"study-groups"
+],
+"members": 17486,
+"online": 1646,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Large member count relative to activity; job-board servers like this can attract low-effort recruiter spam so verify postings independently",
+"summary": "This is a community-run job board and support server focused entirely on helping people break into or move up in the cybersecurity industry. Members post and find openings, ask about resumes, certifications, and interview prep, and discuss career paths. It's aimed squarely at job seekers and career-changers rather than technical skill-building itself."
+},
+{
+"id": "security-weekly",
+"name": "Security Weekly",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"news-cve",
+"careers",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"voice-events",
+"news-feed",
+"q-and-a"
+],
+"members": 4192,
+"online": 340,
+"region": "global",
+"language": "en",
+"run_by": "Security Weekly / SC World (CyberRisk Alliance)",
+"red_flags": null,
+"summary": "Security Weekly is a long-running cybersecurity podcast/media network (now part of SC World/CyberRisk Alliance, originally founded by Paul Asadoorian) producing shows on security news, pentesting, and enterprise security leadership. The Discord is the fan and listener community around those shows, where people discuss episodes, security news, and chat with hosts and each other. It suits people of any level who enjoy security podcasts and want to talk shop informally."
+},
+{
+"id": "hack4u",
+"name": "Hack4u",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"pentesting",
+"web-appsec",
+"certifications",
+"study-group",
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"study-groups",
+"q-and-a",
+"workshops",
+"ctf-events"
+],
+"members": 72237,
+"online": 6069,
+"region": "global",
+"language": "es",
+"run_by": "Hack4u / s4vitar",
+"red_flags": null,
+"summary": "A large Spanish-speaking ethical-hacking community built around the Hack4u training brand (associated with the well-known Spanish-language hacking content creator s4vitar). Members learn pentesting and CTF skills together, follow along with courses/videos, and ask questions, making it a good fit for Spanish speakers starting out in offensive security."
+},
+{
+"id": "pc-security-channel",
+"name": "PC Security Channel",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"malware-analysis",
+"news-cve",
+"certifications"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"voice-events"
+],
+"members": 17626,
+"online": 2921,
+"region": "global",
+"language": "en",
+"run_by": "The PC Security Channel LTD (Leo)",
+"red_flags": null,
+"summary": "The community for The PC Security Channel, a London-based YouTube channel run by Leo that produces widely-watched videos on malware, antivirus testing, and general cybersecurity. Members discuss the channel's videos, malware trends, and security software, and ask basic security questions. A good fit for viewers of the channel and beginners curious about malware and endpoint security topics."
+},
+{
+"id": "nahamsec",
+"name": "Nahamsec",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"ctf",
+"careers",
+"mentorship",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events",
+"job-board",
+"voice-events",
+"mentorship",
+"writeups",
+"news-feed"
+],
+"members": 41716,
+"online": 4561,
+"region": "global",
+"language": "en",
+"run_by": "NahamSec (Ben Sadeghipour)",
+"red_flags": null,
+"summary": "The official community around bug bounty hunter and content creator NahamSec (Ben Sadeghipour), known for live-hacking streams and the NahamCon conference/CTF. Members discuss bug bounty hunting and web application security, share writeups, and get help breaking into the field; it's large and active enough to suit newcomers as well as working pentesters and bounty hunters."
+},
+{
+"id": "tcm-security",
+"name": "TCM Security",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"pentesting",
+"certifications",
+"careers",
+"study-group",
+"general-infosec",
+"red-team"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"job-board",
+"mentorship",
+"news-feed",
+"voice-events"
+],
+"members": 71424,
+"online": 8218,
+"region": "global",
+"language": "en",
+"run_by": "TCM Security (Heath Adams)",
+"red_flags": null,
+"summary": "The official server for TCM Security, the pentest-training company founded by Heath 'The Cyber Mentor' Adams, best known for practical certifications like PNPT and PJPT and hands-on courses through TCM Academy. It's one of the largest infosec Discords around, with channels for exam/course study help, career advice, and general security chat, suiting people working toward certifications as much as newcomers deciding where to start."
+},
+{
+"id": "cyberstudents",
+"name": "CyberStudents",
+"category": "careers",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"certifications",
+"study-group",
+"ctf",
+"students",
+"careers",
+"general-infosec"
+],
+"activities": [
+"study-groups",
+"ctf-events",
+"q-and-a",
+"job-board",
+"chat"
+],
+"members": 4905,
+"online": 621,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A community built around helping cybersecurity students, offering learning resources, certification-pathway guidance, and cyber CTFs. It suits students and early-career people trying to figure out which certs to pursue and wanting study partners along the way."
+},
+{
+"id": "oalabs",
+"name": "OALABS",
+"category": "creator",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"malware-analysis",
+"reverse-engineering",
+"general-infosec",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"workshops",
+"writeups"
+],
+"members": 5925,
+"online": 1541,
+"region": "global",
+"language": "en",
+"run_by": "OALabs (Sean Wilson & collaborators)",
+"red_flags": null,
+"summary": "OALABS is the community around the OALabs open-source malware reverse-engineering project and YouTube/Twitch channel, known for live malware unpacking and RE tutorials using tools like x64dbg and IDA. Members are mostly reverse engineers and malware analysts sharing samples, tool tips, and techniques, so it suits people who already have some RE or debugging background more than absolute beginners."
+},
+{
+"id": "eric-parker",
+"name": "Eric Parker",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"hacker-culture",
+"news-cve"
+],
+"activities": [
+"chat",
+"news-feed",
+"q-and-a"
+],
+"members": 4845,
+"online": 1665,
+"region": "global",
+"language": "en",
+"run_by": "Eric Parker",
+"red_flags": null,
+"summary": "This is the community Discord for YouTuber Eric Parker, whose videos aim to improve general public awareness of technology and cybersecurity topics. Members discuss his videos, ask tech/security questions, and chat about current scams and security news. It suits viewers of his content and beginners wanting an approachable, non-technical entry point into security topics."
+},
+{
+"id": "critical-thinking-podcast",
+"name": "Critical Thinking Podcast",
+"category": "creator",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"red-team",
+"ctf",
+"hacker-culture",
+"jobs"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"writeups",
+"job-board",
+"voice-events"
+],
+"members": 11235,
+"online": 1845,
+"region": "global",
+"language": "en",
+"run_by": "Justin Gardner (rhynorater) and Joseph Thacker (Rez0)",
+"red_flags": "Paid membership tiers push for exclusive content",
+"summary": "This is the companion community for the Critical Thinking - Bug Bounty Podcast, hosted by full-time bug bounty hunters Justin Gardner and Joseph Thacker. Members discuss bug bounty tactics, dissect writeups, and talk about the latest web hacking and AI-assisted hacking techniques covered on the show, with some paid tiers offering masterclasses and extra training content. It best suits people already doing or seriously pursuing bug bounty work rather than absolute beginners."
+},
+{
+"id": "infosec-prep",
+"name": "InfoSec Prep",
+"category": "careers",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"certifications",
+"study-group",
+"careers",
+"jobs",
+"general-infosec"
+],
+"activities": [
+"study-groups",
+"q-and-a",
+"job-board",
+"chat",
+"giveaways"
+],
+"members": 13321,
+"online": 2992,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A large study-and-support community built around preparing for infosec certifications like Security+, OSCP and CISSP, with dedicated channels per exam, career-advice discussion and occasional AMAs from working practitioners (e.g. Bishop Fox consultants). It has previously given away exam vouchers and practice-lab material to members, and suits anyone actively studying toward a cert or an early infosec career."
+},
+{
+"id": "squachtopia",
+"name": "Squachtopia",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"rfid-nfc",
+"wireless",
+"homelab",
+"general-infosec"
+],
+"activities": [
+"chat",
+"hardware-help",
+"project-showcase",
+"q-and-a",
+"voice-events"
+],
+"members": 14047,
+"online": 1834,
+"region": "global",
+"language": "en",
+"run_by": "TalkingSasquach (skizzophrenic)",
+"red_flags": null,
+"summary": "This is the hangout server for TalkingSasquach (skizzophrenic), a YouTuber who makes Flipper Zero tutorials, animations, and 3D-printing/tech content. Members share Flipper Zero mods, animations, and other gadget-hacking projects and help each other troubleshoot, alongside general tech chat. It suits Flipper Zero owners and hardware-hacking hobbyists more than deep infosec professionals."
+},
+{
+"id": "arcanum-discord",
+"name": "Arcanum Discord",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"careers",
+"mentorship",
+"study-group",
+"ai-security"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"mentorship",
+"job-board",
+"workshops"
+],
+"members": 8739,
+"online": 1147,
+"region": "global",
+"language": "en",
+"run_by": "Jason Haddix / Arcanum Security",
+"red_flags": null,
+"summary": "This is the community Discord for Jason Haddix, a well-known bug bounty hunter and CEO of Arcanum Security, tied to his Bug Hunter's Methodology (TBHM) training and other courses. Public channels cover bug bounty and appsec discussion, recon tips, and career/resume help, while paying students of his trainings get access to private channels with monthly hunts and extra resources. It suits people interested in bug bounty and web hacking, from those just starting out to working professionals taking his paid courses."
+},
+{
+"id": "darknet-diaries-community",
+"name": "Darknet Diaries Community",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"hacker-culture",
+"news-cve"
+],
+"activities": [
+"chat",
+"news-feed",
+"q-and-a"
+],
+"members": 23692,
+"online": 3467,
+"region": "global",
+"language": "en",
+"run_by": "Jack Rhysider / Darknet Diaries community moderators",
+"red_flags": null,
+"summary": "The official community-driven Discord for the Darknet Diaries podcast, hosted by Jack Rhysider, where listeners discuss episodes covering hacking, cybercrime, and privacy stories. It's mostly general chat for podcast fans rather than hands-on technical training, so it suits newcomers wanting an approachable entry into infosec topics as much as seasoned professionals who enjoy the show."
+},
+{
+"id": "cybersecurity-station",
+"name": "Cybersecurity Station",
+"category": "careers",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"certifications",
+"study-group",
+"careers",
+"jobs",
+"general-infosec"
+],
+"activities": [
+"study-groups",
+"q-and-a",
+"workshops",
+"job-board",
+"mentorship"
+],
+"members": 46094,
+"online": 2945,
+"region": "global",
+"language": "en",
+"run_by": "community-run (Certification Station team)",
+"red_flags": null,
+"summary": "Also known as Certification Station, this server brings subject-matter experts, teachers, and students together to help people pass cybersecurity exams like CISSP, CCSP, CISM, CISA, Security+, CySA+, CEH, and OSCP, entirely for free. Members run study/quiz sessions, informal bootcamps, and Q&A with certified professionals around the clock. It's aimed at anyone actively studying for a certification, from entry-level (Security+/Pentest+) through advanced (CISSP/OSCP)."
+},
+{
+"id": "comptia-study-group",
+"name": "CompTIA Study Group",
+"category": "careers",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"certifications",
+"study-group",
+"careers"
+],
+"activities": [
+"study-groups",
+"q-and-a",
+"mentorship",
+"voice-events"
+],
+"members": 17122,
+"online": 1952,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A large, free study-group server for people working toward CompTIA certifications such as A+, Network+, and Security+. Members use voice and text channels to study together, ask exam questions, and support each other through certification prep. It's a good fit for total newcomers to IT/security who are just starting the certification path."
+},
+{
+"id": "cyberwox-academy",
+"name": "Cyberwox Academy",
+"category": "creator",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"careers",
+"study-group",
+"mentorship",
+"homelab",
+"general-infosec"
+],
+"activities": [
+"mentorship",
+"study-groups",
+"job-board",
+"workshops",
+"q-and-a",
+"project-showcase"
+],
+"members": 7414,
+"online": 643,
+"region": "global",
+"language": "en",
+"run_by": "Cyberwox Academy",
+"red_flags": null,
+"summary": "Run by the Cyberwox Academy team (creators of the Cyberwox YouTube channel), this server is built to help people break into an entry-level cybersecurity career. Members get help building home labs, resume/interview prep, and Q&A/AMA sessions with industry professionals, with some extras (mock interviews, career coaching) reserved for paid subscribers. It's explicitly aimed at students and career-changers rather than seasoned practitioners."
+},
+{
+"id": "day-0",
+"name": "DAY[0]",
+"category": "creator",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"binary-exploitation",
+"reverse-engineering",
+"ctf",
+"general-infosec",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"writeups",
+"project-showcase"
+],
+"members": 3735,
+"online": 541,
+"region": "global",
+"language": "en",
+"run_by": "dayzerosec",
+"red_flags": "The Day[0] podcast itself has reportedly ended after 283 episodes; the Discord's current activity level is unverified.",
+"summary": "This is the community hub for the Day[0] podcast (dayzerosec), which for years covered recent vulnerabilities, exploits, and CTF writeups. Members discuss vulnerability research, binary exploitation, and reverse engineering, and share writeups from the podcast and elsewhere. Best suited to people already comfortable with security fundamentals who want deep technical discussion rather than beginner hand-holding."
+},
+{
+"id": "gynvael-s-tech-chat",
+"name": "Gynvael's Tech Chat",
+"category": "creator",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"reverse-engineering",
+"programming",
+"hacker-culture",
+"ctf"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"writeups",
+"project-showcase"
+],
+"members": 5937,
+"online": 989,
+"region": "global",
+"language": "en",
+"run_by": "Gynvael Coldwind / Paged Out! zine",
+"red_flags": null,
+"summary": "Run by Gynvael Coldwind, a well-known security researcher and co-founder of the Paged Out! zine, this server mixes deeply technical discussion of programming, reverse engineering, and security with general tech chat and memes. It also functions as the community hub for Paged Out! contributors and readers, so expect talk about zine submissions alongside CTF and low-level hacking topics."
+},
+{
+"id": "joe-grand-s-official-server",
+"name": "Joe Grand's Official Server",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"hardware-hacking",
+"badgelife-maker",
+"hacker-culture",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase",
+"hardware-help",
+"workshops"
+],
+"members": 1990,
+"online": 209,
+"region": "global",
+"language": "en",
+"run_by": "Joe Grand (Kingpin)",
+"red_flags": null,
+"summary": "The official community server for Joe Grand (Kingpin), a longtime hardware hacker and former L0pht member known for badge design, electronics reverse engineering, and his YouTube channel. Members discuss electronics, hardware hacking, badge/PCB projects, and Joe's ongoing work, and it welcomes hobbyists as well as experienced hardware folks."
+},
+{
+"id": "seccareers",
+"name": "/seccareers",
+"category": "careers",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"careers",
+"jobs",
+"certifications",
+"study-group",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"job-board",
+"study-groups",
+"mentorship"
+],
+"members": 5083,
+"online": 370,
+"region": "global",
+"language": "en",
+"run_by": "community-run (seccareers.dev)",
+"red_flags": null,
+"summary": "Also known as seccareers.dev, this community-run server focuses on helping people break into cybersecurity through discussion of internships, entry-level roles, new-grad opportunities, and certification study. It's aimed squarely at students and career-changers who want practical advice on landing a first security job rather than deep technical content."
+},
+{
+"id": "networkchuck",
+"name": "NetworkChuck",
+"category": "creator",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"networking",
+"linux",
+"homelab",
+"certifications",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"voice-events",
+"project-showcase",
+"study-groups",
+"job-board"
+],
+"members": 98354,
+"online": 9904,
+"region": "global",
+"language": "en",
+"run_by": "NetworkChuck",
+"red_flags": null,
+"summary": "This is the main community server for NetworkChuck, a YouTuber with 2.8M+ subscribers making beginner-friendly videos on networking, CCNA, Linux, and homelabs, with cybersecurity as one recurring topic among others. It's a huge, active hangout where people ask IT/networking questions, show off homelab projects, and chat about certs and career paths. It's a great fit for IT/networking beginners with a security interest, less so for someone wanting security as the sole focus."
+},
+{
+"id": "david-bombal",
+"name": "David Bombal",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"networking",
+"certifications",
+"general-infosec",
+"linux",
+"careers"
+],
+"activities": [
+"chat",
+"q-and-a",
+"voice-events",
+"job-board",
+"study-groups",
+"news-feed"
+],
+"members": 118855,
+"online": 5336,
+"region": "global",
+"language": "en",
+"run_by": "David Bombal",
+"red_flags": null,
+"summary": "This is the community server for David Bombal, a CCIE-certified YouTuber (3M+ subscribers) whose channel and podcast cover networking, Linux, Python, CCNA/CCIE, and ethical hacking guest interviews. Members discuss networking and cybersecurity career paths, certifications, and content from his videos and podcast guests. It suits beginners to intermediates interested in the networking side of IT with a growing ethical-hacking angle, more than dedicated offensive-security practitioners."
+},
+{
+"id": "overflow",
+"name": "Overflow",
+"category": "creator",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"binary-exploitation",
+"ctf",
+"general-infosec",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events",
+"project-showcase",
+"writeups"
+],
+"members": 71128,
+"online": 4938,
+"region": "global",
+"language": "en",
+"run_by": "LiveOverflow community (fan/community-run, tied to the LiveOverflow YouTube channel)",
+"red_flags": "Not clearly Discord-verified/partnered despite large size (~71k); appears community-run rather than officially operated by LiveOverflow himself, so quality/moderation may vary.",
+"summary": "This is the community built around LiveOverflow's YouTube channel and its reverse-engineering, binary exploitation, and CTF content. Members discuss hacking challenges, share writeups, and talk about the kind of low-level security topics LiveOverflow covers, alongside general tech chat. It suits people who enjoy that channel's style and want to go deeper into exploitation and CTFs with like-minded viewers."
+},
+{
+"id": "hacker-valley",
+"name": "Hacker Valley",
+"category": "creator",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"careers",
+"hacker-culture",
+"study-group"
+],
+"activities": [
+"chat",
+"q-and-a",
+"voice-events",
+"news-feed",
+"job-board"
+],
+"members": 511,
+"online": 28,
+"region": "global",
+"language": "en",
+"run_by": "Hacker Valley Studio (Ron Eddings and Chris Cochran)",
+"red_flags": null,
+"summary": "This is the official Discord for the Hacker Valley Studio podcast, hosted by Ron Eddings and Chris Cochran, which interviews cybersecurity professionals and covers career stories in the industry. Members chat about the show's episodes, cybersecurity careers, and industry news. It suits listeners of the podcast and people interested in the human/career side of infosec rather than deep technical hacking."
+},
+{
+"id": "jeremy-s-it-lab",
+"name": "Jeremy's IT Lab",
+"category": "careers",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"certifications",
+"study-group",
+"networking",
+"students",
+"careers"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"mentorship"
+],
+"members": 26721,
+"online": 2149,
+"region": "global",
+"language": "en",
+"run_by": "Jeremy McDowell (Jeremy's IT Lab)",
+"red_flags": null,
+"summary": "This is the community around Jeremy's IT Lab, a free YouTube CCNA and networking course run by Jeremy McDowell. People come here to ask questions while working through the CCNA material, get study support, and discuss networking fundamentals and certification progress. It's aimed squarely at networking/IT beginners studying for Cisco certifications, not security-specific hacking."
+},
+{
+"id": "unixguy-cyber-security",
+"name": "UnixGuy Cyber Security",
+"category": "careers",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"careers",
+"certifications",
+"study-group",
+"mentorship",
+"jobs",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"job-board",
+"mentorship",
+"study-groups"
+],
+"members": 14581,
+"online": 889,
+"region": "global",
+"language": "en",
+"run_by": "UnixGuy (cybersecurity consultant and content creator)",
+"red_flags": null,
+"summary": "This is the community tied to UnixGuy's cybersecurity career podcast and YouTube channel, run by a working cybersecurity consultant with a large following. People here ask about breaking into cybersecurity, get resume/job-search advice, and share stories of landing their first security roles. It's aimed squarely at beginners and career-changers trying to get into the field, less about hands-on technical hacking."
+},
+{
+"id": "badgemakers",
+"name": "BadgeMakers",
+"category": "creator",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"badgelife-maker",
+"hardware-hacking",
+"hacker-culture",
+"village"
+],
+"activities": [
+"chat",
+"project-showcase",
+"workshops",
+"local-meetups",
+"hardware-help"
+],
+"members": 1285,
+"online": 315,
+"region": "global",
+"language": "en",
+"run_by": "badge.life / BadgeMakers community (volunteer organizers)",
+"red_flags": null,
+"summary": "BadgeMakers is the community behind badge.life, the archive and hub for the \"badgelife\" scene of custom electronic conference badges and SAOs (Simple Add-Ons). On Discord, badge designers and PCB artists share works-in-progress, get soldering/design help, and coordinate the badgelife village that shows up at DEF CON each year. It's aimed at people who already want to design or build electronic badges rather than general beginners to hacking."
+},
+{
+"id": "queercord-queercon",
+"name": "QueerCord (Queercon)",
+"category": "affinity",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"affinity-lgbtq",
+"conference",
+"mentorship",
+"general-infosec"
+],
+"activities": [
+"chat",
+"local-meetups",
+"mentorship",
+"voice-events",
+"giveaways"
+],
+"members": 1561,
+"online": 299,
+"region": "global",
+"language": "en",
+"run_by": "Queercon (nonprofit)",
+"red_flags": null,
+"summary": "Queercon is a nonprofit dedicated to LGBTQIA+ people in infosec and IT, best known for its DEF CON week parties and social mixers, and the Discord is where that community stays connected year-round with mentorship and casual chat. It's explicitly framed as a friendly, safe space open to everyone, not just LGBTQIA+ members."
+},
+{
+"id": "i-am-jakoby",
+"name": "I am Jakoby",
+"category": "creator",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"hardware-hacking",
+"iot-embedded",
+"badgelife-maker",
+"general-infosec",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"project-showcase",
+"hardware-help",
+"voice-events"
+],
+"members": 2168,
+"online": 202,
+"region": "global",
+"language": "en",
+"run_by": "I Am Jakoby",
+"red_flags": null,
+"summary": "This is the fan/community server for I Am Jakoby, a hacker, veteran and content creator known for BadUSB and Flipper Zero-style hardware hacking projects (like his 'Hacker Goose' payload) featured on Hak5 and other outlets. It's a hangout for people who follow his YouTube/TikTok content and want to chat about hardware hacking, gadgets and payload projects rather than a structured course."
+},
+{
+"id": "professor-messer",
+"name": "Professor Messer",
+"category": "creator",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"certifications",
+"study-group",
+"careers",
+"general-infosec"
+],
+"activities": [
+"study-groups",
+"q-and-a",
+"chat",
+"mentorship",
+"job-board"
+],
+"members": 82810,
+"online": 9318,
+"region": "global",
+"language": "en",
+"run_by": "Professor Messer (James Messer)",
+"red_flags": null,
+"summary": "This is the official study community for Professor Messer, the free CompTIA training YouTube channel (A+, Network+, Security+ courses). People come here to discuss study strategies, ask questions while working through the free courses, and support each other toward certification exams. Very welcoming to complete beginners since that's the whole audience of the underlying content."
+},
+{
+"id": "cybervalkyries",
+"name": "⤷ ゛/cybervalkyries",
+"category": "affinity",
+"bf": 5,
+"audience": [
+"beginner"
+],
+"tags": [
+"affinity-women",
+"youth",
+"mentorship",
+"study-group",
+"general-infosec",
+"ctf"
+],
+"activities": [
+"chat",
+"mentorship",
+"study-groups",
+"ctf-events",
+"workshops",
+"project-showcase"
+],
+"members": 557,
+"online": 74,
+"region": "global",
+"language": "en",
+"run_by": "CyberValkyries (student-led, volunteer team)",
+"red_flags": null,
+"summary": "CyberValkyries is a student-led, volunteer-run global movement dedicated to getting girls and young women started in cybersecurity, offering mentorship, beginner-friendly CTF practice, workshops, and a supportive online hangout. It started as this Discord server in 2024 and remains its main hub, aimed squarely at newcomers rather than working professionals."
+},
+{
+"id": "laic-latinas-in-cyber",
+"name": "LAIC - Latinas In Cyber",
+"category": "affinity",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"affinity-women",
+"careers",
+"mentorship",
+"study-group",
+"general-infosec"
+],
+"activities": [
+"chat",
+"mentorship",
+"study-groups",
+"job-board",
+"workshops"
+],
+"members": 1277,
+"online": 18,
+"region": "global",
+"language": "en",
+"run_by": "Latinas in Cyber (nonprofit)",
+"red_flags": null,
+"summary": "Latinas in Cyber (LAIC) is a nonprofit founded in 2022 to support Latinas and allies breaking into and advancing in cybersecurity careers, through mentorship programs, certification support, and networking. The Discord is where members connect, get career advice, and hear about LAIC programs like the Mentorship Academy; it suits Latinas (and allies) at any career stage, from students to working professionals."
+},
+{
+"id": "blackgirlshack",
+"name": "BlackGirlsHack",
+"category": "affinity",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"affinity-bipoc",
+"affinity-women",
+"mentorship",
+"study-group",
+"careers",
+"general-infosec"
+],
+"activities": [
+"study-groups",
+"mentorship",
+"workshops",
+"job-board",
+"voice-events",
+"chat",
+"local-meetups"
+],
+"members": 552,
+"online": 21,
+"region": "us-southeast",
+"language": "en",
+"run_by": "BlackGirlsHack (nonprofit)",
+"red_flags": null,
+"summary": "BlackGirlsHack is a nonprofit that trains Black women and girls for cybersecurity careers, bridging the gap between school and industry. The Discord hosts study groups, training workshops, resume reviews and mock interviews alongside general chat, and it explicitly serves everyone from middle/high schoolers (via its BlackKidsHack outreach) through working professionals."
+},
+{
+"id": "ncl-community",
+"name": "NCL Community",
+"category": "affinity",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"students",
+"ctf",
+"study-group",
+"mentorship",
+"careers",
+"general-infosec"
+],
+"activities": [
+"study-groups",
+"ctf-events",
+"mentorship",
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 9668,
+"online": 1575,
+"region": "global",
+"language": "en",
+"run_by": "National Cyber League (Cyber Skyline)",
+"red_flags": null,
+"summary": "This is the official community Discord for the National Cyber League (NCL), a season-based cybersecurity competition for high school and college students. Players and coaches use it to find teammates, get help with challenges, and follow league announcements, with NCL staff (like the Community Engagement Manager) participating directly."
+},
+{
+"id": "level-effect",
+"name": "Level Effect",
+"category": "careers",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"soc",
+"dfir",
+"blue-team",
+"study-group",
+"careers",
+"detection-engineering"
+],
+"activities": [
+"study-groups",
+"q-and-a",
+"chat",
+"job-board",
+"workshops"
+],
+"members": 2981,
+"online": 233,
+"region": "global",
+"language": "en",
+"run_by": "Level Effect",
+"red_flags": "Commercial training vendor promoting paid subscription tiers (Trial/Adventurer/Guardian/Guild).",
+"summary": "Level Effect is a commercial cybersecurity training company (led by Rob Noeth and Anthony Bendas) built around its 'Guardian Foundry' platform of structured courses and hands-on labs for SOC analyst, DFIR, and detection-engineering skills. The Discord is where students discuss coursework, get help on labs, and hear from alumni now working at companies like Bank of America and Huntress. Good fit for people starting or advancing a blue-team/SOC career who want structured, guided learning."
+},
+{
+"id": "r-itcareerquestions-discord",
+"name": "/r/ITCareerQuestions Discord",
+"category": "careers",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"careers",
+"jobs",
+"study-group",
+"general-infosec",
+"certifications"
+],
+"activities": [
+"q-and-a",
+"job-board",
+"chat",
+"study-groups"
+],
+"members": 2251,
+"online": 524,
+"region": "global",
+"language": "en",
+"run_by": "community-run (r/ITCareerQuestions moderators)",
+"red_flags": "Could not independently confirm an official link-back from the subreddit sidebar; treat as community-listed rather than confirmed-official.",
+"summary": "This is the companion Discord for the r/ITCareerQuestions subreddit, a large community-run space where people ask about breaking into or advancing in IT and cybersecurity careers, resumes, certifications, and job hunting. It's not security-specific — most traffic is general IT career advice — but security career questions are welcome alongside networking, sysadmin, and helpdesk topics. Good for beginners weighing certs or a first IT/security job, less useful for deep technical security discussion."
+}
+]

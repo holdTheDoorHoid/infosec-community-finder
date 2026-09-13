@@ -24779,18 +24779,41 @@
      "online": 879
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
-   "language": "en",
-   "year_round": null,
-   "event": null
+   "category": "conference",
+   "tags": [
+    "conference",
+    "ctf",
+    "hardware-hacking",
+    "regional",
+    "general-infosec"
+   ],
+   "summary": "This is the community server for Hackfest, the largest bilingual (French/English) hacking and cybersecurity conference in Canada, held annually in Quebec City since 2009. Alongside conference logistics, the server hosts year-round chat for the Quebec City infosec scene (QuebecSec monthly meetups) and discussion tied to Hackfest's villages (lockpicking, social engineering, IoT, RFID, amateur radio) and its Polarcon security-manager summit.",
+   "run_by": "Hackfest organizing team",
+   "website": "https://hackfest.ca/",
+   "beginner_friendly": 3,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "news-feed",
+    "local-meetups",
+    "ctf-events",
+    "workshops",
+    "job-board"
+   ],
+   "region": "canada",
+   "language": "fr",
+   "year_round": true,
+   "event": "Hackfest",
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "cyberverse-ethical-hacking-coding-infosec-programming",
@@ -24831,18 +24854,36 @@
      "online": 812
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
+   "category": "general",
+   "tags": [
+    "general-infosec",
+    "programming",
+    "ctf",
+    "students"
+   ],
+   "summary": "A general-purpose Discord for people learning ethical hacking, cybersecurity and coding together, discovered via Discord's own server directory rather than any named organization or public figure. It's a broad chat-and-learn hub for beginners and hobbyists rather than a structured course, CTF team, or company-run community.",
+   "run_by": "community-run",
    "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "study-groups"
+   ],
+   "region": "global",
    "language": "en",
    "year_round": null,
-   "event": null
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": "Could not independently verify server liveness beyond Discord's directory listing; little else known about who moderates it.",
+   "recon_confidence": "low",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "the-white-circle",
@@ -24883,18 +24924,40 @@
      "online": 188
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "ctf",
+   "tags": [
+    "ctf",
+    "wargames",
+    "general-infosec",
+    "students",
+    "study-group"
+   ],
+   "summary": "The White Circle is an international, volunteer-run community of security students, hobbyists and professionals built around a competitive CTF team that plays events like Cyber Apocalypse and NahamCon and publishes public writeups afterward. Beyond CTFs it curates learning resources and gives out community badges, making it a good fit for people who want to learn by doing challenges alongside others.",
+   "run_by": "community-run",
+   "website": "https://twc1rcle.com/",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "ctf-events",
+    "writeups",
+    "study-groups",
+    "mentorship"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "i-am-jakoby",
@@ -24935,18 +24998,38 @@
      "online": 202
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
+   "category": "creator",
+   "tags": [
+    "hardware-hacking",
+    "iot-embedded",
+    "badgelife-maker",
+    "general-infosec",
+    "hacker-culture"
+   ],
+   "summary": "This is the fan/community server for I Am Jakoby, a hacker, veteran and content creator known for BadUSB and Flipper Zero-style hardware hacking projects (like his 'Hacker Goose' payload) featured on Hak5 and other outlets. It's a hangout for people who follow his YouTube/TikTok content and want to chat about hardware hacking, gadgets and payload projects rather than a structured course.",
+   "run_by": "I Am Jakoby",
    "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "beginner_friendly": 3,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "project-showcase",
+    "hardware-help",
+    "voice-events"
+   ],
+   "region": "global",
    "language": "en",
    "year_round": null,
-   "event": null
+   "event": null,
+   "github": null,
+   "youtube": "https://www.youtube.com/@I_am_Jakoby",
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "medium",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "1bitsquared",
@@ -24987,18 +25070,38 @@
      "online": 957
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "hardware",
+   "tags": [
+    "hardware-hacking",
+    "iot-embedded",
+    "homelab",
+    "programming",
+    "badgelife-maker"
+   ],
+   "summary": "1BitSquared runs this server as the community and support hub for their open-source electronics products (like Black Magic Probe debug tools) and the broader world of embedded systems, FPGA and ASIC design. It suits people already building or debugging hardware/firmware projects rather than newcomers looking for a security-specific angle.",
+   "run_by": "1BitSquared",
+   "website": "https://1bitsquared.com/",
+   "beginner_friendly": 2,
+   "audience": [
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "hardware-help",
+    "project-showcase",
+    "q-and-a"
+   ],
+   "region": "global",
    "language": "en",
    "year_round": null,
-   "event": null
+   "event": null,
+   "github": "https://github.com/blacksphere/blackmagic",
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "kase",
@@ -25039,18 +25142,38 @@
      "online": 784
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "osint",
+   "tags": [
+    "osint",
+    "ctf",
+    "study-group",
+    "general-infosec"
+   ],
+   "summary": "Kase Scenarios makes narrative, choose-your-own-path OSINT training exercises, and this is their official Discord where 10,000+ members discuss scenarios, get unstuck with hints, and talk shop about open-source investigation techniques. It's aimed at people who want hands-on, self-paced OSINT practice rather than formal certification study.",
+   "run_by": "Kase Scenarios",
+   "website": "https://kasescenarios.com/",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "challenges",
+    "study-groups",
+    "mentorship",
+    "q-and-a"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "cyber-security",
@@ -25091,18 +25214,35 @@
      "online": 777
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
+   "category": "general",
+   "tags": [
+    "general-infosec",
+    "ctf",
+    "programming"
+   ],
+   "summary": "A general-purpose community-run Discord for people interested in cyber security topics, hacking, and tech chat. It's not tied to any organization, brand, or subreddit despite similar naming, and the vibe is casual chat and Q&A rather than structured lessons. Fine for beginners looking for a place to ask questions and talk shop.",
+   "run_by": "community-run",
    "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "news-feed"
+   ],
+   "region": "global",
    "language": "en",
    "year_round": null,
-   "event": null
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": "Could not verify any official affiliation (e.g., with r/Cybersecurity); appears to be an independently run generic server despite the name.",
+   "recon_confidence": "low",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "cti-cyber-threat-intelligence",
@@ -25143,18 +25283,36 @@
      "online": 110
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
+   "category": "blueteam",
+   "tags": [
+    "threat-intel",
+    "detection-engineering",
+    "blue-team",
+    "news-cve"
+   ],
+   "summary": "CTI-Hub is a community focused on curating and sharing current cyber threat intelligence: IOCs, threat actor reporting, and CTI news. It suits practitioners and analysts already working in or studying threat intelligence rather than absolute beginners, since discussion assumes some blue-team/CTI background.",
+   "run_by": "community-run",
    "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "beginner_friendly": 2,
+   "audience": [
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "news-feed",
+    "writeups"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "medium",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "nyusec",
@@ -25195,18 +25353,41 @@
      "online": 245
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "ctf",
+   "tags": [
+    "ctf",
+    "students",
+    "study-group",
+    "reverse-engineering",
+    "binary-exploitation"
+   ],
+   "summary": "NYUSEC is the Discord for NYU's OSIRIS Lab, the university's competitive CTF team and security research group. Members run and practice for CTF competitions, hold workshops on topics like reverse engineering and binary exploitation, and mentor newer students, though a lot of activity centers on NYU students specifically. Outsiders can lurk and learn from CTF-focused discussion even if they're not NYU-affiliated.",
+   "run_by": "NYU OSIRIS Lab",
+   "website": "https://osiris.cyber.nyu.edu/",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "ctf-events",
+    "study-groups",
+    "workshops",
+    "q-and-a",
+    "chat",
+    "mentorship"
+   ],
+   "region": "us-northeast",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": "https://github.com/osiris-lab",
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "professor-messer",
@@ -25247,18 +25428,38 @@
      "online": 9318
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "creator",
+   "tags": [
+    "certifications",
+    "study-group",
+    "careers",
+    "general-infosec"
+   ],
+   "summary": "This is the official study community for Professor Messer, the free CompTIA training YouTube channel (A+, Network+, Security+ courses). People come here to discuss study strategies, ask questions while working through the free courses, and support each other toward certification exams. Very welcoming to complete beginners since that's the whole audience of the underlying content.",
+   "run_by": "Professor Messer (James Messer)",
+   "website": "https://www.professormesser.com/",
+   "beginner_friendly": 5,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "study-groups",
+    "q-and-a",
+    "chat",
+    "mentorship",
+    "job-board"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": "https://www.youtube.com/user/professormesser",
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "patchstack-alliance",
@@ -25299,18 +25500,38 @@
      "online": 307
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "redteam",
+   "tags": [
+    "bug-bounty",
+    "web-appsec",
+    "vendor",
+    "news-cve"
+   ],
+   "summary": "Patchstack Alliance is the vulnerability-disclosure/bug-bounty community run by Patchstack, a company focused on WordPress and open-source software security. Members are open-source developers and security researchers who report and discuss vulnerabilities, often for bounty rewards through Patchstack's program. Best suited to people who already do vulnerability research rather than newcomers just starting out.",
+   "run_by": "Patchstack",
+   "website": "https://patchstack.com/alliance/",
+   "beginner_friendly": 3,
+   "audience": [
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "news-feed",
+    "job-board",
+    "writeups"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "secureblue",
@@ -25351,18 +25572,37 @@
      "online": 212
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
+   "category": "tool",
+   "tags": [
+    "linux",
+    "tool-support",
+    "homelab",
+    "privacy"
+   ],
+   "summary": "secureblue is the support and development community for the secureblue project, a hardened, security-focused immutable Linux distribution (built on Fedora Silverblue/Atomic). People discuss configuration, hardening choices, and troubleshooting for the OS itself; general Linux-newbie questions are somewhat off-topic since the project assumes real familiarity with atomic/immutable distros. Best for Linux users interested in system hardening rather than security beginners generally.",
+   "run_by": "secureblue project (open-source, community-run)",
    "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "beginner_friendly": 2,
+   "audience": [
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "hardware-help",
+    "project-showcase"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": "https://github.com/secureblue/secureblue",
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "intigriti",
@@ -25403,18 +25643,39 @@
      "online": 1702
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "appsec",
+   "tags": [
+    "bug-bounty",
+    "web-appsec",
+    "ctf",
+    "careers"
+   ],
+   "summary": "This is the official community for Intigriti, a European bug bounty and vulnerability disclosure platform. Members discuss live programs on the platform, share writeups and tips, and get help from Intigriti staff and fellow researchers; it suits people already doing or actively learning bug bounty hunting rather than absolute beginners.",
+   "run_by": "Intigriti",
+   "website": "https://www.intigriti.com",
+   "beginner_friendly": 3,
+   "audience": [
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "ctf-events",
+    "job-board",
+    "news-feed",
+    "challenges",
+    "writeups"
+   ],
+   "region": "global",
    "language": "en",
    "year_round": null,
-   "event": null
+   "event": null,
+   "github": null,
+   "youtube": "https://www.youtube.com/@Intigriti",
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "hackaday",
@@ -25457,21 +25718,43 @@
      "online": 699
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "adjacent",
+   "tags": [
+    "hardware-hacking",
+    "iot-embedded",
+    "homelab",
+    "programming",
+    "hacker-culture"
+   ],
+   "summary": "This is the official Discord for Hackaday, the long-running hardware hacking and DIY electronics blog/media outlet. People show off builds, get feedback on projects (including hardware-security-adjacent ones like reverse engineering and badge hacking), and chat about Hackaday articles and events like Supercon; it's a general maker/hardware-hacking crowd rather than a dedicated infosec server.",
+   "run_by": "Hackaday",
+   "website": "https://hackaday.com",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "project-showcase",
+    "q-and-a",
+    "news-feed",
+    "voice-events"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
+   "year_round": true,
    "event": null,
    "alt_invites": [
     "NkbHrAW7NG"
-   ]
+   ],
+   "github": null,
+   "youtube": "https://www.youtube.com/@Hackaday",
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "adafruit",
@@ -25513,18 +25796,39 @@
      "online": 4430
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "adjacent",
+   "tags": [
+    "iot-embedded",
+    "hardware-hacking",
+    "homelab",
+    "badgelife-maker",
+    "programming"
+   ],
+   "summary": "This is Adafruit's official community server for makers using their boards, sensors, and CircuitPython ecosystem. People get help wiring projects, show off builds, and chat with Adafruit staff and other hobbyists during live \"Ask an Engineer\" style events; it's a beginner-friendly electronics/maker space with only occasional overlap into hardware-security topics (RFID, badge hacking, etc.), not a dedicated infosec community.",
+   "run_by": "Adafruit Industries",
+   "website": "https://www.adafruit.com",
+   "beginner_friendly": 5,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "project-showcase",
+    "hardware-help",
+    "voice-events"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": "https://github.com/adafruit",
+   "youtube": "https://www.youtube.com/@adafruit",
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "dc215",
@@ -25567,21 +25871,43 @@
      "online": 55
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "regional",
+    "general-infosec",
+    "ctf",
+    "hardware-hacking"
+   ],
+   "summary": "DC215 is Philadelphia's official DEF CON group, running monthly in-person meetups with talks, workshops, and CTFs, tied to a local hackerspace (The Toolbox). The Discord is where members coordinate meetups, share resources, and keep talking between events; it suits Philly-area hackers of any skill level who want to meet in person as well as chat online.",
+   "run_by": "DC215 organizers (Clay Wells, Brian Jopling and volunteers)",
+   "website": "https://dc215.org",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "workshops",
+    "ctf-events",
+    "mentorship",
+    "project-showcase"
+   ],
+   "region": "us-northeast",
    "language": "en",
-   "year_round": null,
-   "event": null,
+   "year_round": true,
+   "event": "DEF CON",
    "alt_invites": [
     "7mNqaTdHFd"
-   ]
+   ],
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "cybervalkyries",
@@ -25622,18 +25948,40 @@
      "online": 74
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "affinity",
+   "tags": [
+    "affinity-women",
+    "youth",
+    "mentorship",
+    "study-group",
+    "general-infosec",
+    "ctf"
+   ],
+   "summary": "CyberValkyries is a student-led, volunteer-run global movement dedicated to getting girls and young women started in cybersecurity, offering mentorship, beginner-friendly CTF practice, workshops, and a supportive online hangout. It started as this Discord server in 2024 and remains its main hub, aimed squarely at newcomers rather than working professionals.",
+   "run_by": "CyberValkyries (student-led, volunteer team)",
+   "website": "https://cybervalkyries.org",
+   "beginner_friendly": 5,
+   "audience": [
+    "beginner"
+   ],
+   "activities": [
+    "chat",
+    "mentorship",
+    "study-groups",
+    "ctf-events",
+    "workshops",
+    "project-showcase"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "laic-latinas-in-cyber",
@@ -25674,18 +26022,39 @@
      "online": 18
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "affinity",
+   "tags": [
+    "affinity-women",
+    "careers",
+    "mentorship",
+    "study-group",
+    "general-infosec"
+   ],
+   "summary": "Latinas in Cyber (LAIC) is a nonprofit founded in 2022 to support Latinas and allies breaking into and advancing in cybersecurity careers, through mentorship programs, certification support, and networking. The Discord is where members connect, get career advice, and hear about LAIC programs like the Mentorship Academy; it suits Latinas (and allies) at any career stage, from students to working professionals.",
+   "run_by": "Latinas in Cyber (nonprofit)",
+   "website": "https://latinasincyber.com",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "mentorship",
+    "study-groups",
+    "job-board",
+    "workshops"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "blackgirlshack",
@@ -25726,18 +26095,42 @@
      "online": 21
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "affinity",
+   "tags": [
+    "affinity-bipoc",
+    "affinity-women",
+    "mentorship",
+    "study-group",
+    "careers",
+    "general-infosec"
+   ],
+   "summary": "BlackGirlsHack is a nonprofit that trains Black women and girls for cybersecurity careers, bridging the gap between school and industry. The Discord hosts study groups, training workshops, resume reviews and mock interviews alongside general chat, and it explicitly serves everyone from middle/high schoolers (via its BlackKidsHack outreach) through working professionals.",
+   "run_by": "BlackGirlsHack (nonprofit)",
+   "website": "https://blackgirlshack.org/",
+   "beginner_friendly": 5,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "study-groups",
+    "mentorship",
+    "workshops",
+    "job-board",
+    "voice-events",
+    "chat",
+    "local-meetups"
+   ],
+   "region": "us-southeast",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "ncl-community",
@@ -25778,18 +26171,41 @@
      "online": 1575
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "affinity",
+   "tags": [
+    "students",
+    "ctf",
+    "study-group",
+    "mentorship",
+    "careers",
+    "general-infosec"
+   ],
+   "summary": "This is the official community Discord for the National Cyber League (NCL), a season-based cybersecurity competition for high school and college students. Players and coaches use it to find teammates, get help with challenges, and follow league announcements, with NCL staff (like the Community Engagement Manager) participating directly.",
+   "run_by": "National Cyber League (Cyber Skyline)",
+   "website": "https://nationalcyberleague.org/about/community",
+   "beginner_friendly": 5,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "study-groups",
+    "ctf-events",
+    "mentorship",
+    "chat",
+    "q-and-a",
+    "news-feed"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "forensic-focus",
@@ -25830,18 +26246,39 @@
      "online": 92
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "blueteam",
+   "tags": [
+    "dfir",
+    "forensics",
+    "news-cve",
+    "general-infosec",
+    "study-group"
+   ],
+   "summary": "Forensic Focus runs a well-known digital-forensics news site and training/webinar business, and this Discord is their official discussion hub for DFIR professionals, students and academics. Members share and discuss forensics news, tools and casework questions; it suits people already studying or working in digital forensics more than total beginners.",
+   "run_by": "Forensic Focus",
+   "website": "https://www.forensicfocus.com/",
+   "beginner_friendly": 3,
+   "audience": [
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "news-feed",
+    "q-and-a",
+    "chat",
+    "writeups",
+    "job-board"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "medium",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "vx-feed",
@@ -25882,18 +26319,36 @@
      "online": 1059
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "blueteam",
+   "tags": [
+    "threat-intel",
+    "malware-analysis",
+    "news-cve",
+    "dfir",
+    "general-infosec"
+   ],
+   "summary": "VX Feed is vx-underground's automated Discord feed that posts ransomware group activity, government cybersecurity alerts, and vendor threat-intel reports as they happen. It's mostly a low-interaction firehose of intelligence rather than a discussion or help community, so it suits analysts and researchers who want raw threat data rather than newcomers looking for guidance.",
+   "run_by": "vx-underground",
+   "website": "https://vx-underground.org/",
+   "beginner_friendly": 2,
+   "audience": [
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "news-feed",
+    "chat"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": "https://github.com/vxunderground",
+   "youtube": null,
+   "rules_note": "primarily an automated news feed, not a chat-heavy community",
+   "red_flags": "vx-underground also hosts malware sample archives and a paid donor tier for a private Discord; keep this listing scoped to the free public VX Feed",
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "soc-prime-cybersec-community",
@@ -25934,18 +26389,38 @@
      "online": 193
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "blueteam",
+   "tags": [
+    "detection-engineering",
+    "threat-intel",
+    "soc",
+    "general-infosec",
+    "careers"
+   ],
+   "summary": "SOC Prime, the company behind the Sigma-based Threat Detection Marketplace, runs this Discord for detection engineers and SOC analysts to discuss Sigma rule writing, threat news, and their Uncoder IDE. It's also the hub for SOC Prime's Threat Bounty program, where members can get paid for publishing detection rules, so it suits people already working in or studying detection engineering more than absolute beginners.",
+   "run_by": "SOC Prime",
+   "website": "https://socprime.com/",
+   "beginner_friendly": 3,
+   "audience": [
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "news-feed",
+    "workshops"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "ghostesp",
@@ -25986,18 +26461,39 @@
      "online": 372
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "tool",
+   "tags": [
+    "hardware-hacking",
+    "wireless",
+    "rf-sdr",
+    "tool-support",
+    "iot-embedded"
+   ],
+   "summary": "GhostESP is an open-source ESP32 firmware for Wi-Fi/BLE wireless security testing (AP scanning, deauth, evil portal, pineapple detection), and this is the project's official support Discord linked from its GitHub. People come here for install help, firmware feature discussion, and showing off builds; general beginner cybersecurity questions are off-topic outside of using this specific tool.",
+   "run_by": "GhostESP / GhostESP-Revival project",
+   "website": "https://ghostesp.net/",
+   "beginner_friendly": 2,
+   "audience": [
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "hardware-help",
+    "q-and-a",
+    "project-showcase",
+    "chat",
+    "news-feed"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": "https://github.com/GhostESP-Revival/GhostESP",
+   "youtube": null,
+   "rules_note": "for educational/ethical security research only; unauthorized use is illegal per project's own notice",
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "m5stack",
@@ -26038,18 +26534,39 @@
      "online": 867
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "tool",
+   "tags": [
+    "hardware-hacking",
+    "iot-embedded",
+    "badgelife-maker",
+    "programming"
+   ],
+   "summary": "This is the official Discord for M5Stack, the Chinese maker of ESP32-based stackable dev boards (Core, Atom, Cardputer, StickC) that the security-hardware scene builds on for tools like Marauder, Bruce, and Evil Crow firmwares. Most chat is general IoT/embedded development and product support rather than security-specific, but the hardware itself is a common base for Wi-Fi/BLE pentest and CTF gadgets. Good fit for anyone building or debugging on M5Stack hardware, security-focused or not.",
+   "run_by": "M5Stack",
+   "website": "https://m5stack.com/",
+   "beginner_friendly": 3,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "hardware-help",
+    "project-showcase",
+    "news-feed"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": "https://github.com/m5stack",
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "cardputer",
@@ -26090,18 +26607,37 @@
      "online": 272
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "tool",
+   "tags": [
+    "hardware-hacking",
+    "wireless",
+    "iot-embedded",
+    "badgelife-maker"
+   ],
+   "summary": "A community (not M5Stack's own) built around the M5Stack Cardputer, the pocket ESP32 device widely flashed with hacking firmwares like Bruce, Marauder, Ghost ESP and Evil Crow-W for Wi-Fi/BLE recon and deauth demos. People trade firmware builds, troubleshoot flashing, and show off case mods and add-ons. Suits anyone already running or curious about Cardputer hacking firmware; general beginner electronics questions are somewhat off-topic.",
+   "run_by": "community-run",
+   "website": "https://cardputer.wiki/",
+   "beginner_friendly": 3,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "hardware-help",
+    "project-showcase"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "medium",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "gbatemp",
@@ -26142,18 +26678,38 @@
      "online": 1029
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "adjacent",
+   "tags": [
+    "game-hacking",
+    "hacker-culture",
+    "programming",
+    "students"
+   ],
+   "summary": "GBAtemp's official Discord mirrors its long-running forum: console modding, homebrew, jailbreaking, and emulation across Nintendo, PlayStation, and Xbox hardware. Members help each other flash custom firmware, hack save files, and build homebrew apps, which overlaps with retro-console hacking and reverse engineering more than mainstream infosec. Good for anyone into console/game hacking as a hobby rather than professional security work.",
+   "run_by": "GBAtemp",
+   "website": "https://gbatemp.net/",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "news-feed",
+    "project-showcase"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "medium",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "lockpicking101-com",
@@ -26194,18 +26750,37 @@
      "online": 113
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "hardware",
+   "tags": [
+    "lockpicking-physical",
+    "hacker-culture",
+    "students"
+   ],
+   "summary": "This is the companion Discord for Lockpicking101.com, one of the oldest locksport forums online, run by longtime forum staff. People discuss pick techniques, lock/safe hardware, share pick-collection and lock-defeat videos, and help newcomers get started with their first picks. A solid entry point for anyone curious about physical security and locksport, which regularly intersects with hacker-con villages (DEF CON's Lockpick Village, etc.).",
+   "run_by": "Lockpicking101.com forum staff",
+   "website": "https://www.lockpicking101.com/",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "project-showcase",
+    "challenges"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "medium",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "software-defined-radio",
@@ -26246,18 +26821,38 @@
      "online": 41
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
+   "category": "adjacent",
+   "tags": [
+    "rf-sdr",
+    "wireless",
+    "hardware-hacking",
+    "homelab"
+   ],
+   "summary": "A community-run Discord for software-defined radio hobbyists, covering HackRF, PortaPack, RTL-SDR dongles, GNU Radio, and general radio-hacking projects like decoding pagers, ADS-B, and other RF signals. It's smaller and quieter than the big SDR subreddits/forums but is a genuine, on-topic gathering point listed on rtl-sdr.com's own forum. Fits hobbyists building or troubleshooting SDR setups; not a structured course.",
+   "run_by": "community-run",
    "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "beginner_friendly": 3,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "hardware-help",
+    "project-showcase"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": "Small/quiet server (only ~40 typically online) relative to its member count.",
+   "recon_confidence": "medium",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "osint-fr",
@@ -26298,18 +26893,40 @@
      "online": 4089
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
-   "language": "en",
-   "year_round": null,
-   "event": null
+   "category": "osint",
+   "tags": [
+    "osint",
+    "privacy",
+    "general-infosec",
+    "students"
+   ],
+   "summary": "OSINT-FR is a French nonprofit association (founded 2019) dedicated to popular education in open-source intelligence, and this is its main Discord, one of the largest French-speaking OSINT communities online. Members (researchers, journalists, security professionals, and hobbyists) share OSINT methodology and tools, get monthly presentations, and organize real-world meetups and challenges in various French cities. Best suited to French speakers interested in OSINT, from curious beginners to working analysts.",
+   "run_by": "OSINT-FR association",
+   "website": "https://osintfr.com/",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "workshops",
+    "study-groups",
+    "local-meetups",
+    "news-feed"
+   ],
+   "region": "europe",
+   "language": "fr",
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "brigada-osint",
@@ -26350,18 +26967,36 @@
      "online": 96
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
+   "category": "osint",
+   "tags": [
+    "osint",
+    "privacy",
+    "general-infosec"
+   ],
+   "summary": "A Spanish-language community of open-source intelligence analysts tied to the Brigada Osint podcast (hosted by cyber intelligence analyst Aimery Parekh). Members discuss OSINT techniques, tools, privacy and data protection, and follow along with podcast/YouTube content. Best fit for Spanish-speaking newcomers and hobbyists wanting to get into OSINT.",
+   "run_by": "Aimery Parekh / Brigada Osint podcast community",
    "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
-   "language": "en",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "news-feed",
+    "study-groups"
+   ],
+   "region": "latin-america",
+   "language": "es",
    "year_round": null,
-   "event": null
+   "event": null,
+   "github": null,
+   "youtube": "https://www.youtube.com/channel/UCPf8qLXg8f--PTW9UAAOfZg",
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "medium",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "osint-for-all",
@@ -26402,18 +27037,34 @@
      "online": 34
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
+   "category": "osint",
+   "tags": [
+    "osint",
+    "general-infosec"
+   ],
+   "summary": "A general-purpose OSINT chat community with free text and voice channels where members discuss open-source intelligence resources and techniques. It's a smaller, informal server rather than a structured course, so it suits people who already have some basic curiosity about OSINT and want casual discussion.",
+   "run_by": "community-run",
    "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "beginner_friendly": 3,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "voice-events"
+   ],
+   "region": "global",
    "language": "en",
    "year_round": null,
-   "event": null
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": "Limited information available beyond the invite listing; no official website found",
+   "recon_confidence": "low",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "maltego-community-osint",
@@ -26454,18 +27105,37 @@
      "online": 162
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "tool",
+   "tags": [
+    "osint",
+    "ctf",
+    "tool-support"
+   ],
+   "summary": "The official community Discord for Maltego, the OSINT graphing/link-analysis tool, run by Maltego Technologies. Members get help with the tool, join weekly OSINT101 challenges and CTFs, and attend live sessions with the Maltego team. Good for beginners specifically wanting to learn OSINT investigation techniques through Maltego.",
+   "run_by": "Maltego Technologies",
+   "website": "https://www.maltego.com/community-ctf/",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "ctf-events",
+    "workshops",
+    "q-and-a",
+    "challenges",
+    "chat"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "antisyphon-training",
@@ -26506,18 +27176,42 @@
      "online": 3412
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "learning",
+   "tags": [
+    "general-infosec",
+    "study-group",
+    "red-team",
+    "blue-team",
+    "certifications"
+   ],
+   "summary": "The community hub for Antisyphon Training, Black Hills Information Security's pay-what-you-can training arm founded by John Strand. People discuss courses, attend AMAs and webcasts, and get study support across red and blue team topics regardless of budget. Very welcoming to beginners thanks to the pay-what-you-can training philosophy and large, active member base.",
+   "run_by": "Antisyphon Training / Black Hills Information Security (John Strand)",
+   "website": "https://www.antisyphontraining.com/",
+   "beginner_friendly": 5,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "q-and-a",
+    "study-groups",
+    "workshops",
+    "voice-events",
+    "job-board",
+    "chat",
+    "news-feed"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "zero-point-security",
@@ -26558,18 +27252,37 @@
      "online": 2468
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "redteam",
+   "tags": [
+    "red-team",
+    "pentesting",
+    "certifications",
+    "study-group"
+   ],
+   "summary": "The official Discord for Zero-Point Security, the red-team training company run by Rasta Mouse behind the CRTO and CRTL certifications. Members discuss course content, C2 tradecraft, and certification prep. Best suited to people already working toward or holding a red-team background rather than absolute beginners.",
+   "run_by": "Rasta Mouse / Zero-Point Security",
+   "website": "https://www.zeropointsecurity.co.uk/",
+   "beginner_friendly": 2,
+   "audience": [
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "q-and-a",
+    "study-groups",
+    "chat",
+    "job-board"
+   ],
+   "region": "global",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "havoc-framework",
@@ -26610,18 +27323,36 @@
      "online": 646
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
+   "category": "tool",
+   "tags": [
+    "red-team",
+    "tool-support",
+    "pentesting",
+    "reverse-engineering"
+   ],
+   "summary": "The community/support Discord for Havoc, a post-exploitation command and control (C2) framework created by C5pider, linked from the project's GitHub README. Members discuss agent development, modules, and usage of the framework for red team operations. The underlying GitHub repo is archived, so activity here may be winding down; it's aimed squarely at experienced red-teamers and malware/C2 developers, not newcomers.",
+   "run_by": "C5pider / Havoc Framework project",
    "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "beginner_friendly": 1,
+   "audience": [
+    "advanced",
+    "intermediate"
+   ],
+   "activities": [
+    "q-and-a",
+    "chat",
+    "project-showcase"
+   ],
+   "region": "global",
    "language": "en",
    "year_round": null,
-   "event": null
+   "event": null,
+   "github": "https://github.com/HavocFramework/Havoc",
+   "youtube": null,
+   "rules_note": "Discussion assumes offensive-security tooling knowledge; not for how-to-hack-X requests",
+   "red_flags": "Source repository is archived, so ongoing development/support activity may be declining",
+   "recon_confidence": "medium",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "covert-access-team",
@@ -26662,18 +27393,37 @@
      "online": 64
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "redteam",
+   "tags": [
+    "red-team",
+    "pentesting",
+    "social-engineering",
+    "general-infosec"
+   ],
+   "summary": "Run by Brian Harris, a physical penetration testing (covert entry / black team) trainer, as a companion to his Covert Access Team Substack newsletter. Members swap war stories and advice on physical security assessments, social engineering, and full red team engagements. Best suited to people already working in or actively studying physical/red-team security rather than absolute beginners.",
+   "run_by": "Brian Harris",
+   "website": "https://covertaccessteam.substack.com/",
+   "beginner_friendly": 2,
+   "audience": [
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "writeups",
+    "news-feed"
+   ],
+   "region": "global",
    "language": "en",
    "year_round": null,
-   "event": null
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": "One commenter noted the original invite link had expired as of Oct 2024, suggesting possible low/inconsistent activity.",
+   "recon_confidence": "medium",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "hacker-associate",
@@ -26714,18 +27464,39 @@
      "online": 60
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "redteam",
+   "tags": [
+    "pentesting",
+    "red-team",
+    "certifications",
+    "careers",
+    "general-infosec"
+   ],
+   "summary": "Hacker Associate is an India-based commercial cybersecurity training company offering paid certifications (offensive hacking, web app pentesting, cloud security, forensics, and more) plus VAPT services to businesses and governments. The Discord is their community hub for students and prospects to ask questions, hear about workshops/events, and get updates on their courses. Fits people considering or enrolled in their paid certification tracks more than casual learners.",
+   "run_by": "Hacker Associate",
+   "website": "https://hackerassociate.com/",
+   "beginner_friendly": 3,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "workshops",
+    "challenges",
+    "job-board"
+   ],
+   "region": "india",
    "language": "en",
    "year_round": null,
-   "event": null
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": "Commercial training/certification vendor promoting its own paid products; treat marketing claims (e.g. '80+ certifications', 'only organization in India') with skepticism.",
+   "recon_confidence": "medium",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "corelan",
@@ -26766,18 +27537,39 @@
      "online": 93
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "redteam",
+   "tags": [
+    "binary-exploitation",
+    "reverse-engineering",
+    "red-team",
+    "general-infosec",
+    "careers"
+   ],
+   "summary": "Corelan is the long-running exploit-development and vulnerability research community built around the classic Corelan tutorials (Corelan Consulting, founded 2007). The Discord is a place to ask about exploit dev, reverse engineering, debugging/tooling, and OS internals, get career guidance, and prep for certifications like OSCE/OSED. It suits people who already have some security fundamentals and want to go deep on binary exploitation, more than absolute beginners.",
+   "run_by": "Corelan Consulting",
+   "website": "https://www.corelan.be/",
+   "beginner_friendly": 2,
+   "audience": [
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "q-and-a",
+    "mentorship",
+    "writeups",
+    "study-groups"
+   ],
+   "region": "global",
    "language": "en",
    "year_round": null,
-   "event": null
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": "Zero tolerance for harassment/hate speech; stay on cybersecurity topics.",
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "level-effect",
@@ -26818,18 +27610,40 @@
      "online": 233
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "careers",
+   "tags": [
+    "soc",
+    "dfir",
+    "blue-team",
+    "study-group",
+    "careers",
+    "detection-engineering"
+   ],
+   "summary": "Level Effect is a commercial cybersecurity training company (led by Rob Noeth and Anthony Bendas) built around its 'Guardian Foundry' platform of structured courses and hands-on labs for SOC analyst, DFIR, and detection-engineering skills. The Discord is where students discuss coursework, get help on labs, and hear from alumni now working at companies like Bank of America and Huntress. Good fit for people starting or advancing a blue-team/SOC career who want structured, guided learning.",
+   "run_by": "Level Effect",
+   "website": "https://leveleffect.com/",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "study-groups",
+    "q-and-a",
+    "chat",
+    "job-board",
+    "workshops"
+   ],
+   "region": "global",
    "language": "en",
    "year_round": null,
-   "event": null
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": "Commercial training vendor promoting paid subscription tiers (Trial/Adventurer/Guardian/Guild).",
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "r-itcareerquestions-discord",
@@ -26870,18 +27684,38 @@
      "online": 524
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
+   "category": "careers",
+   "tags": [
+    "careers",
+    "jobs",
+    "study-group",
+    "general-infosec",
+    "certifications"
+   ],
+   "summary": "This is the companion Discord for the r/ITCareerQuestions subreddit, a large community-run space where people ask about breaking into or advancing in IT and cybersecurity careers, resumes, certifications, and job hunting. It's not security-specific — most traffic is general IT career advice — but security career questions are welcome alongside networking, sysadmin, and helpdesk topics. Good for beginners weighing certs or a first IT/security job, less useful for deep technical security discussion.",
+   "run_by": "community-run (r/ITCareerQuestions moderators)",
    "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "q-and-a",
+    "job-board",
+    "chat",
+    "study-groups"
+   ],
+   "region": "global",
    "language": "en",
    "year_round": null,
-   "event": null
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": "Could not independently confirm an official link-back from the subreddit sidebar; treat as community-listed rather than confirmed-official.",
+   "recon_confidence": "low",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "seckc",
@@ -26922,18 +27756,40 @@
      "online": 386
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "regional",
+    "general-infosec",
+    "lockpicking-physical",
+    "badgelife-maker",
+    "hacker-culture"
+   ],
+   "summary": "SecKC is Kansas City's long-running, community-run monthly hacker meetup (in-person gatherings plus an active Discord). People show off badgelife/hardware projects, practice locksport, talk shop across all skill levels, and generally hang out with the local hacker/maker crowd. Explicitly welcoming to newcomers regardless of experience, and best suited to people in or visiting the Kansas City area.",
+   "run_by": "community-run (SecKC organizers/volunteers)",
+   "website": "https://seckc.org/",
+   "beginner_friendly": 5,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "local-meetups",
+    "chat",
+    "voice-events",
+    "hardware-help",
+    "project-showcase"
+   ],
+   "region": "us-midwest",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "dc414-your-milwaukee-area-hackers",
@@ -26974,18 +27830,39 @@
      "online": 47
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "general-infosec",
+    "regional",
+    "hardware-hacking",
+    "hacker-culture",
+    "homelab"
+   ],
+   "summary": "DC414 is a Milwaukee-area DEF CON group whose free, public monthly meetups mix security education with hands-on projects like Meshtastic mesh networking. It's run by local volunteers and explicitly welcomes people with no IT background, making it a good on-ramp for beginners in the area as well as a hangout for existing hobbyists.",
+   "run_by": "community-run (DC414 volunteers)",
+   "website": "https://dc414.org",
+   "beginner_friendly": 5,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "workshops",
+    "project-showcase",
+    "hardware-help"
+   ],
+   "region": "us-midwest",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": "DEF CON",
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "dc435",
@@ -27026,18 +27903,37 @@
      "online": 58
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "general-infosec",
+    "regional",
+    "study-group",
+    "hacker-culture"
+   ],
+   "summary": "DC435 is the official DEF CON group for Cache Valley, Utah, meeting monthly in person at Bridgerland Technical College in Logan with member-led infosec talks and discussions. It's a volunteer-run, donation-of-time community open to students, professionals, researchers, and hobbyists regardless of skill level, with a strict no-harassment code of conduct.",
+   "run_by": "community-run (DC435 volunteers)",
+   "website": "https://dc435.org",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "workshops"
+   ],
+   "region": "us-west",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": "DEF CON",
+   "github": null,
+   "youtube": null,
+   "rules_note": "code of conduct bans harassment/drugs/drinking at events; minors need parental supervision",
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "thelab-ms",
@@ -27078,18 +27974,40 @@
      "online": 144
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "hardware-hacking",
+    "homelab",
+    "regional",
+    "hacker-culture",
+    "networking"
+   ],
+   "summary": "TheLab.ms is a volunteer-run 501(c)(3) makerspace in Richardson, Texas offering members 24/7 access to laser cutters, 3D printers, CNC machines, and electronics benches, with an active Discord for members and prospective visitors. It's a general hackerspace rather than a security-specific community, but its electronics/hardware focus and hacker-culture roots make it relevant to hardware hackers of any skill level; paid membership is required for facility access though the Discord itself is open.",
+   "run_by": "TheLab.ms (nonprofit, volunteer-operated)",
+   "website": "https://thelab.ms",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "workshops",
+    "project-showcase",
+    "hardware-help"
+   ],
+   "region": "us-south",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": "facility membership costs $50/month (discounts available); Discord access itself is free",
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "dc719-def-con-colorado-springs",
@@ -27130,18 +28048,37 @@
      "online": 64
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "general-infosec",
+    "regional",
+    "hacker-culture",
+    "networking"
+   ],
+   "summary": "DC719 is one of the earliest DEF CON groups in the country, holding monthly in-person meetups (often at local breweries) for hackers, tech enthusiasts, and cybersecurity professionals in Colorado Springs. The Discord backs the in-person community and is open to anyone curious about technology and security, from newcomers to seasoned pros.",
+   "run_by": "community-run (DC719 volunteers)",
+   "website": "https://www.dc719.org",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "workshops"
+   ],
+   "region": "us-west",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": "DEF CON",
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "dc225",
@@ -27182,18 +28119,40 @@
      "online": 62
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "general-infosec",
+    "regional",
+    "ctf",
+    "study-group",
+    "hacker-culture"
+   ],
+   "summary": "DC225 is the DEF CON group for the Baton Rouge area and greater south Louisiana (covering the 225, 337, 318, 457, 504 and 985 area codes), bringing together students, professionals, researchers, and hobbyists to discuss security and digital forensics topics and run red-team-vs-blue-team style exercises. It follows an 'each one, teach one' philosophy and explicitly welcomes people of all experience levels.",
+   "run_by": "community-run (DC225 volunteers)",
+   "website": "https://defcon225.org",
+   "beginner_friendly": 5,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "ctf-events",
+    "study-groups",
+    "workshops"
+   ],
+   "region": "us-south",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": "DEF CON",
+   "github": "https://github.com/dc225",
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "dc256",
@@ -27234,18 +28193,39 @@
      "online": 160
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "general-infosec",
+    "regional",
+    "hardware-hacking",
+    "ham-radio",
+    "hacker-culture"
+   ],
+   "summary": "DC256 is the official DEF CON group for Huntsville, Alabama, started in 2020, gathering hackers, infosec professionals, makers, and curious newcomers for free monthly meetings with presentations and hands-on workshops. Topics extend beyond pure security into 3D printing and ham radio, and the group is explicitly described as open and welcoming to everyone from beginners to professionals.",
+   "run_by": "community-run (DC256 volunteers, started by HopeAnnihilator)",
+   "website": "https://dc256.org",
+   "beginner_friendly": 5,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "workshops",
+    "project-showcase"
+   ],
+   "region": "us-southeast",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": "DEF CON",
+   "github": null,
+   "youtube": "https://www.youtube.com/watch?v=eSGcIIPmNhA",
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "dc253",
@@ -27286,18 +28266,35 @@
      "online": 146
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "regional",
+    "general-infosec",
+    "hacker-culture"
+   ],
+   "summary": "DC253 is the Tacoma, Washington DEF CON Group, meeting in person on the last Friday of the month (recently at Devils Reef) for informal hacking and infosec talk. It's an open, casual local hangout that has also volunteered its skills to help the Tacoma Fire Department locate missing people, and it suits anyone in the South Puget Sound area curious about hacking regardless of skill level.",
+   "run_by": "community-run (DEF CON Group 253 organizers)",
+   "website": "https://www.dc253.org",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "voice-events"
+   ],
+   "region": "us-west",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": "DEF CON",
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "mainesec",
@@ -27338,18 +28335,39 @@
      "online": 89
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "regional",
+    "general-infosec",
+    "ctf",
+    "students",
+    "hacker-culture"
+   ],
+   "summary": "MaineSec is a Discord hub tied to DC207, Maine's official DEF CON Group, founded by students and alumni of the University of Southern Maine to bring the state's security community together. In-person gatherings (twice monthly in Portland) feature presentations, workshops, and CTFs alongside a recurring social happy hour, and it suits students and working professionals in Maine at any skill level.",
+   "run_by": "DC207 / community-run",
+   "website": "https://www.dc207.org",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "workshops",
+    "ctf-events",
+    "voice-events"
+   ],
+   "region": "us-northeast",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": "DEF CON",
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "dc864",
@@ -27390,18 +28408,43 @@
      "online": 96
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "regional",
+    "general-infosec",
+    "ctf",
+    "lockpicking-physical",
+    "dfir",
+    "malware-analysis",
+    "reverse-engineering",
+    "hacker-culture"
+   ],
+   "summary": "DC864 is the Upstate South Carolina DEF CON Group, run by volunteers (Ben Acord and Eric Hart) out of Greenville, holding hybrid monthly meetings covering pentesting, appsec, threat hunting, malware analysis, reverse engineering, locksport, and CTF. Discord is where most day-to-day discussion happens between meetings, and it suits anyone in the Upstate SC area from newcomers to experienced practitioners looking for mentoring and mutual education.",
+   "run_by": "Ben Acord & Eric Hart / community-run",
+   "website": "https://www.dc864.org",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "ctf-events",
+    "workshops",
+    "mentorship"
+   ],
+   "region": "us-southeast",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": "DEF CON",
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "tulsec",
@@ -27442,18 +28485,34 @@
      "online": 23
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "regional",
+    "general-infosec",
+    "hacker-culture"
+   ],
+   "summary": "TULSEC is an independent, informal Tulsa, Oklahoma infosec meetup (a CitySec-style group, distinct from the local DEF CON group DC539) that gathers roughly monthly at a local bar or restaurant to talk shop about security. Discord is a small, low-activity extension of that in-person meetup, and it suits local Tulsa-area security folks looking to network more than beginners looking for structured help.",
+   "run_by": "community-run",
+   "website": "https://www.tulsec.com",
+   "beginner_friendly": 3,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups"
+   ],
+   "region": "us-south",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": null,
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": "Small, relatively low online activity for its member count.",
+   "recon_confidence": "medium",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "dc702",
@@ -27494,18 +28553,38 @@
      "online": 121
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "regional",
+    "general-infosec",
+    "lockpicking-physical",
+    "hacker-culture"
+   ],
+   "summary": "DC702 is the Las Vegas DEF CON Group, run by local volunteers (points of contact Aliea Foshay and Christopher Forte), holding casual in-person meetups with socializing, lockpicking, and hacking challenges. It's the year-round local hub for the Las Vegas hacker community outside of DEF CON conference week itself, open to anyone regardless of experience level.",
+   "run_by": "community-run (DC702 organizers)",
+   "website": "https://www.dc702.space",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "voice-events",
+    "challenges"
+   ],
+   "region": "us-west",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": "DEF CON",
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "defcon-group-s-o-paulo",
@@ -27546,18 +28625,44 @@
      "online": 28
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
-   "language": "en",
-   "year_round": null,
-   "event": null
+   "category": "regional",
+   "tags": [
+    "regional",
+    "general-infosec",
+    "ctf",
+    "cryptography",
+    "reverse-engineering",
+    "malware-analysis",
+    "lockpicking-physical",
+    "hacker-culture"
+   ],
+   "summary": "DC5511 is the São Paulo, Brazil DEF CON Group, started in November 2018 as a hacking study group and now covering CTF, cryptography, lockpicking, SDR, malware analysis, reverse engineering, and pentesting. The community is active on Instagram, YouTube, and GitHub as well as Discord, and it suits Portuguese-speaking hackers and students in the São Paulo area at any skill level.",
+   "run_by": "community-run (DEFCON Group 5511 organizers)",
+   "website": "https://dc5511.org",
+   "beginner_friendly": 4,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "ctf-events",
+    "workshops",
+    "hardware-help",
+    "project-showcase"
+   ],
+   "region": "latin-america",
+   "language": "pt",
+   "year_round": true,
+   "event": "DEF CON",
+   "github": "https://github.com/DCG5511",
+   "youtube": "https://www.youtube.com/channel/UCoFYqS1c_4lXjfwo07e1otg",
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "def-con-delhi-group",
@@ -27598,18 +28703,40 @@
      "online": 97
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "regional",
+    "general-infosec",
+    "hacker-culture",
+    "hardware-hacking",
+    "networking"
+   ],
+   "summary": "DC9111 is the Delhi, India chapter of the global DEF CON Groups network, run by local volunteers who organize in-person meetups covering web app security, hardware, embedded systems and RFID hacking. The Discord is used to coordinate meetups and keep the community talking between events, and it suits techies and security researchers in or near Delhi looking for a local hacking crowd rather than pure online learning.",
+   "run_by": "DC9111 volunteers (DEF CON Delhi Group)",
+   "website": "https://defcon9111.org/",
+   "beginner_friendly": 3,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "workshops",
+    "hardware-help",
+    "news-feed"
+   ],
+   "region": "india",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": "DEF CON",
+   "github": "https://github.com/harsh98trivedi/defcon9111",
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": null,
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   },
   {
    "id": "dc441392",
@@ -27650,18 +28777,38 @@
      "online": 4
     }
    ],
-   "category": null,
-   "tags": [],
-   "summary": null,
-   "run_by": null,
-   "website": null,
-   "beginner_friendly": null,
-   "audience": [],
-   "activities": [],
-   "region": null,
+   "category": "regional",
+   "tags": [
+    "regional",
+    "general-infosec",
+    "networking",
+    "hacker-culture",
+    "study-group"
+   ],
+   "summary": "DC441392 is the Exeter, UK chapter of the DEF CON Groups network, run by local volunteer Liam, meeting in person on the first Monday of the month at a pub called The Ship. The Discord is a small companion channel for coordinating those meetups and sharing knowledge on defensive and ethical hacking topics; it suits people in or near Exeter who want a local, in-person security community rather than a large online server.",
+   "run_by": "DC441392 volunteers (Liam)",
+   "website": "http://www.dc441392.org.uk",
+   "beginner_friendly": 3,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "activities": [
+    "chat",
+    "local-meetups",
+    "workshops"
+   ],
+   "region": "uk-ireland",
    "language": "en",
-   "year_round": null,
-   "event": null
+   "year_round": true,
+   "event": "DEF CON",
+   "github": null,
+   "youtube": null,
+   "rules_note": null,
+   "red_flags": "very small (43 members), low activity",
+   "recon_confidence": "high",
+   "recon_date": "2026-09-13"
   }
  ],
  "unresolved": [

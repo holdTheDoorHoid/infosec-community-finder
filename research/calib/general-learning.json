@@ -1,0 +1,1959 @@
+[
+{
+"id": "phish-club",
+"name": "Phish Club",
+"category": "general",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"study-group",
+"mentorship",
+"careers",
+"students"
+],
+"activities": [
+"workshops",
+"ctf-events",
+"mentorship",
+"study-groups",
+"local-meetups",
+"chat"
+],
+"members": 907,
+"online": 113,
+"region": "us",
+"language": "en",
+"run_by": "Phish Club (volunteer nonprofit board)",
+"red_flags": null,
+"summary": "Phish Club is a volunteer-run 501(c)(3) nonprofit that runs hands-on cybersecurity workshops, CTF nights, mentorship, and social events aimed at making the field approachable and fun rather than intimidating. It's explicitly welcoming to all skill levels, from complete beginners and job-seekers to working professionals looking to mentor, with free membership and both online and in-person activity."
+},
+{
+"id": "simply-cyber",
+"name": "SIMPLY CYBER",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"careers",
+"mentorship",
+"study-group",
+"students",
+"certifications"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"job-board",
+"mentorship",
+"voice-events",
+"news-feed",
+"workshops"
+],
+"members": 19831,
+"online": 2167,
+"region": "global",
+"language": "en",
+"run_by": "Gerald Auger / Simply Cyber",
+"red_flags": null,
+"summary": "Run by Gerald Auger (the Simply Cyber YouTube channel and courses), this large community is built around helping people break into or grow a cybersecurity career, including career-changers and veterans with no IT background. Members swap study advice, resume/job help, and home-lab tips, get a weekly threat brief, and can join voice study sessions, making it one of the more explicitly beginner-oriented career-focused servers around."
+},
+{
+"id": "black-hills-infosec",
+"name": "Black Hills Infosec",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"red-team",
+"blue-team",
+"pentesting",
+"study-group"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"workshops",
+"job-board"
+],
+"members": 61406,
+"online": 6519,
+"region": "global",
+"language": "en",
+"run_by": "Black Hills Information Security",
+"red_flags": null,
+"summary": "This is the official Discord for Black Hills Information Security (BHIS), a well-known security consulting and training company that publishes free webcasts, tools, and blog content. The server functions as a broad infosec hangout where members ask and answer questions across red team, blue team, and general security topics, with BHIS staff and a large community of practitioners participating. Its size and topic range make it useful for beginners through experienced professionals."
+},
+{
+"id": "dropout-phreaks",
+"name": "Dropout Phreaks",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"programming"
+],
+"activities": [
+"chat",
+"ctf-events",
+"workshops",
+"project-showcase",
+"q-and-a"
+],
+"members": 26600,
+"online": 3162,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Limited independent information available beyond the Discord listing sites and a LinkedIn roundup; harder to verify who specifically runs it.",
+"summary": "Dropout Phreaks is a large general-interest community for ethical hackers, coders, and tech hobbyists that runs live workshops and CTF events alongside everyday chat. It suits people who want an active, casual hangout to learn hacking basics and take part in occasional challenges rather than a highly structured curriculum."
+},
+{
+"id": "offsec",
+"name": "OffSec",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"certifications",
+"pentesting",
+"linux",
+"study-group",
+"careers"
+],
+"activities": [
+"q-and-a",
+"study-groups",
+"chat",
+"news-feed",
+"mentorship"
+],
+"members": 96527,
+"online": 12857,
+"region": "global",
+"language": "en",
+"run_by": "OffSec",
+"red_flags": null,
+"summary": "This is the official Discord for OffSec, the company behind Kali Linux and certifications like OSCP, OSWE, and OSEP. People use it to get help with OffSec courses and labs, discuss certification study strategies, and talk shop with other students and alumni pursuing hands-on penetration testing skills. It suits anyone working through OffSec's training pipeline, from PEN-100 beginners to advanced cert-holders."
+},
+{
+"id": "the-security-and-networking-community",
+"name": "The Security and Networking Community",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"networking",
+"study-group",
+"careers"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"news-feed"
+],
+"members": 3700,
+"online": 158,
+"region": "global",
+"language": "en",
+"run_by": "Packt Publishing",
+"red_flags": "Fairly small and low activity for its size (158 online of 3700 members); relatively niche/book-focused",
+"summary": "This is Packt Publishing's Discord for readers of its security and networking books, where members discuss book content, ask technical questions, and talk shop with other IT/security professionals. It's more of a book-club-style companion community than a hands-on hacking space, tied to Packt's catalog rather than a single tool or CTF. It suits people already reading Packt security titles who want a place to ask questions and compare notes."
+},
+{
+"id": "tryhackme",
+"name": "TryHackMe",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"pentesting",
+"web-appsec",
+"study-group",
+"students",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events",
+"study-groups",
+"mentorship",
+"challenges",
+"news-feed",
+"job-board"
+],
+"members": 373427,
+"online": 34803,
+"region": "global",
+"language": "en",
+"run_by": "TryHackMe",
+"red_flags": null,
+"summary": "This is the official Discord for TryHackMe, a London-based gamified cybersecurity training platform with guided learning paths and hands-on labs in penetration testing, security analysis, and more. The server is huge and very active, with channels for asking questions on specific rooms, finding study buddies, and general beginner-friendly infosec chat. It's one of the most beginner-welcoming servers around, built for people starting out in ethical hacking as well as those working through intermediate paths."
+},
+{
+"id": "hacktrace-ranges-and-training",
+"name": "Hacktrace Ranges and Training",
+"category": "learning",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"pentesting",
+"general-infosec",
+"wargames"
+],
+"activities": [
+"chat",
+"ctf-events",
+"challenges"
+],
+"members": 5574,
+"online": 617,
+"region": "global",
+"language": "en",
+"run_by": "Hacktrace (independent training range project)",
+"red_flags": "Official website returned an error when checked and no independent coverage was found, so legitimacy and quality of the 'range' product could not be verified.",
+"summary": "This server promotes an external site (hacktrace-ranges.id) offering hands-on offensive-hacking practice ranges. People chat about penetration testing exercises and presumably work through the range's challenges together, aimed at those wanting practical hacking practice beyond theory."
+},
+{
+"id": "public-club",
+"name": "public club",
+"category": "general",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"binary-exploitation",
+"game-hacking",
+"malware-analysis",
+"programming",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"writeups",
+"project-showcase",
+"q-and-a"
+],
+"members": 7319,
+"online": 2286,
+"region": "global",
+"language": "en",
+"run_by": "secret.club (community of independent security researchers)",
+"red_flags": null,
+"summary": "The public companion Discord to secret.club, a technical security-research blog written by well-known low-level researchers (contributors like mrexodia and memN0ps) covering reverse engineering, anti-cheat internals, OS/kernel exploitation and binary exploitation. Discussion assumes real technical background, so it suits people already comfortable with reverse engineering or systems programming more than absolute beginners."
+},
+{
+"id": "spyboy-cybersec",
+"name": "Spyboy Cybersec",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"networking",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 15306,
+"online": 922,
+"region": "global",
+"language": "en",
+"run_by": "Spyboy (community-run blog/site)",
+"red_flags": null,
+"summary": "A general educational hub for people getting into ethical hacking and cybersecurity, tied to the Spyboy blog/resource site. Members chat about security news, tools, and basics, and ask questions in a casual setting rather than following a structured curriculum. Suits beginners looking for a general-purpose place to lurk and ask questions."
+},
+{
+"id": "0xswezy-cybersecurity",
+"name": "0xSwezy | Cybersecurity",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"programming",
+"privacy",
+"web-appsec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"project-showcase"
+],
+"members": 3403,
+"online": 732,
+"region": "global",
+"language": "en",
+"run_by": "Swezy (swezy.dev)",
+"red_flags": null,
+"summary": "The official community around swezy.dev, a personal site/creator covering cybersecurity, development, privacy, and research. Discussion spans a mix of security topics, coding, and privacy tooling rather than one narrow focus, more informal than curriculum-driven. Suits people who follow Swezy's content or want a mixed dev-and-security hangout."
+},
+{
+"id": "cyber-info",
+"name": "Cyber Info",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"study-group",
+"students",
+"certifications",
+"careers"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"mentorship",
+"giveaways",
+"news-feed"
+],
+"members": 159989,
+"online": 39164,
+"region": "global",
+"language": "en",
+"run_by": "Cyber Info (nonprofit, community-run)",
+"red_flags": null,
+"summary": "A large nonprofit-run cybersecurity education community aimed at giving everyone, especially beginners, easy access to learning resources, mentorship, and study support. People ask questions, join study groups, get advice on certifications and career paths, and occasionally win sponsored training vouchers. One of the more explicitly beginner-welcoming general infosec servers given its scale and stated mission."
+},
+{
+"id": "hackcess-cybersecurity",
+"name": "Hackcess - Cybersecurity",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"programming",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 1516,
+"online": 160,
+"region": "europe",
+"language": "fr",
+"run_by": "community-run",
+"red_flags": "Very little verifiable information beyond the Discord listing itself.",
+"summary": "A French-language cybersecurity and programming community with a short marketing-style tagline and relatively sparse public information. It appears to function as a general chat space for people interested in security and coding rather than a structured learning program."
+},
+{
+"id": "security",
+"name": "Security | مـنـصة صـحيـح",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"programming",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups"
+],
+"members": 11478,
+"online": 878,
+"region": "middle-east",
+"language": "ar",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "An Arabic-language IT community covering programming and cybersecurity as an educational space. It functions as a general hub where members discuss IT topics and ask questions, aimed at Arabic-speaking learners rather than advanced specialists."
+},
+{
+"id": "malwaretech",
+"name": "MalwareTech",
+"category": "learning",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"malware-analysis",
+"reverse-engineering",
+"blue-team",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"writeups",
+"project-showcase"
+],
+"members": 5582,
+"online": 889,
+"region": "global",
+"language": "en",
+"run_by": "Marcus Hutchins (MalwareTech)",
+"red_flags": null,
+"summary": "The community server tied to security researcher Marcus Hutchins (MalwareTech, known for stopping the WannaCry ransomware outbreak), focused on reverse engineering and malware analysis. Members discuss malware internals, share research and writeups, and dig into low-level technical topics, making it best suited to people with at least some programming or RE background."
+},
+{
+"id": "rootkit-researchers",
+"name": "Rootkit Researchers",
+"category": "general",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"malware-analysis",
+"reverse-engineering",
+"red-team",
+"dfir",
+"forensics"
+],
+"activities": [
+"chat",
+"q-and-a",
+"writeups",
+"project-showcase",
+"news-feed"
+],
+"members": 14705,
+"online": 3349,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A research-oriented community for people working on rootkits, malware analysis, red teaming, and digital forensics/incident response. It skews toward practitioners already comfortable with low-level systems topics rather than absolute beginners, with a large and quite active member base."
+},
+{
+"id": "cyberedu",
+"name": "CyberEDU",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"study-group",
+"programming",
+"certifications",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"news-feed"
+],
+"members": 5353,
+"online": 855,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Could not verify who runs it or its actual activity level beyond the Discord directory listing.",
+"summary": "A community-run Discord aimed at people just starting out in cybersecurity, with general chat and channels for asking questions about getting into the field. It leans toward beginners exploring career paths and study resources rather than advanced technical work."
+},
+{
+"id": "backdoor",
+"name": "~ backdoor",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"linux",
+"ctf",
+"programming",
+"networking"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events",
+"study-groups"
+],
+"members": 1899,
+"online": 282,
+"region": "europe",
+"language": "ru",
+"run_by": "community-run",
+"red_flags": "Small server with limited independent information available beyond its own description.",
+"summary": "A Russian-language community for people who prefer the terminal over GUIs, covering Linux, cybersecurity, programming, networking, sysadmin work, and CTFs. It's a general hangout and knowledge-sharing space rather than a structured course, suited to Russian-speaking beginners and intermediates comfortable chatting in that language."
+},
+{
+"id": "primesec",
+"name": "PrimeSec",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"red-team",
+"bug-bounty",
+"osint",
+"malware-analysis",
+"reverse-engineering",
+"certifications"
+],
+"activities": [
+"chat",
+"ctf-events",
+"study-groups",
+"writeups",
+"q-and-a"
+],
+"members": 1542,
+"online": 175,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A community-run Discord covering red teaming, ethical hacking, bug bounty, and OSINT, with regular CTFs and free study material for certs like OSCP. It's aimed at people actively building offensive-security skills rather than casual browsers, and covers a wide spread of topics from malware analysis to exploit development."
+},
+{
+"id": "hack-nexus",
+"name": "Hack Nexus",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"pentesting",
+"study-group",
+"programming"
+],
+"activities": [
+"chat",
+"ctf-events",
+"q-and-a",
+"study-groups",
+"workshops"
+],
+"members": 2227,
+"online": 276,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Server description mentions accepting donations/support from members, which is common but worth noting.",
+"summary": "A community-run hub for ethical hacking and cybersecurity that mixes beginner-friendly help with CTF competitions and pentesting discussion. Members range from newcomers to working pentesters, and the server describes itself as focused on teaching and building courses/tools for its members."
+},
+{
+"id": "dex-security",
+"name": "Dex Security",
+"category": "general",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"osint",
+"networking",
+"linux",
+"programming",
+"study-group"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"ctf-events",
+"mentorship"
+],
+"members": 2636,
+"online": 216,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A faith-based cybersecurity and ethical hacking community aimed at beginners and students, covering Linux, networking, OSINT, Python, CTFs, and bug bounty basics. It's built around asking questions, sharing knowledge, and mentorship rather than competitive prestige, so it suits newcomers looking for a supportive, values-aligned space to learn."
+},
+{
+"id": "dion-training",
+"name": "Dion Training",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"certifications",
+"study-group",
+"careers",
+"general-infosec"
+],
+"activities": [
+"q-and-a",
+"study-groups",
+"chat",
+"workshops"
+],
+"members": 15589,
+"online": 1640,
+"region": "global",
+"language": "en",
+"run_by": "Jason Dion / Dion Training",
+"red_flags": null,
+"summary": "Run by Jason Dion and his instructor team at Dion Training, an IT certification prep company (CompTIA Platinum Partner) known for Udemy courses, practice exams and labs. The Discord is where students ask exam questions, get study help for CompTIA (Security+, Network+, PenTest+, CySA+, etc.), ISC2, LPI and PeopleCert/ITIL certs, and find discounted vouchers. Best fit for beginners and career-changers working toward a specific certification rather than open-ended security research."
+},
+{
+"id": "server",
+"name": "ᴘɪʀᴀᴛᴇ ꜱʜɪᴘ",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"hacker-culture",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events"
+],
+"members": 4107,
+"online": 685,
+"region": "latin-america",
+"language": "pt",
+"run_by": "community-run",
+"red_flags": "Very little independent information available beyond the server's own tagline; theme/branding is informal and hard to verify seriousness or moderation quality.",
+"summary": "A Brazilian/Portuguese-language server ('Pirate Ship') focused on security and hacking, with a playful pirate theme running through its channels and branding. Members chat about hacking topics and presumably run challenges, but there is little public information beyond the Discord listing itself, so specifics on structure and moderation are unclear. Likely suits Portuguese-speaking hobbyists looking for informal hacking chat rather than a structured program."
+},
+{
+"id": "hackstation",
+"name": "HackStation",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"study-group",
+"ctf",
+"mentorship"
+],
+"activities": [
+"q-and-a",
+"chat",
+"mentorship",
+"study-groups"
+],
+"members": 6388,
+"online": 864,
+"region": "latin-america",
+"language": "pt",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Described as one of the largest Brazilian cybersecurity communities, HackStation is a Portuguese-language server where members exchange knowledge and get their questions answered by verified security professionals. It appeals to Brazilian beginners and intermediates wanting a place to ask 'how do I get into security' type questions in their own language. Specifics on structured courses or events beyond general Q&A were not independently verifiable."
+},
+{
+"id": "diosdelared",
+"name": "DIOSDELARED",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"hacker-culture",
+"ctf",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events"
+],
+"members": 1952,
+"online": 104,
+"region": "latin-america",
+"language": "es",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "DiosDeLaRed is a long-running Spanish-language community (since 2007) dedicated to information security and ethical hacking, predating Discord itself as a forum/community before moving there. It's a general hangout for Spanish-speaking hackers to discuss techniques and share knowledge. Fits Spanish speakers looking for an established, veteran-run community rather than a structured beginner course."
+},
+{
+"id": "evil-sec",
+"name": "Evil Sec",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"pentesting",
+"dfir",
+"soc",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a",
+"workshops",
+"study-groups"
+],
+"members": 5639,
+"online": 335,
+"region": "latin-america",
+"language": "es",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A Spanish-language cybersecurity community offering talks and classes on SOC operations, digital forensics, and pentesting. It suits Spanish-speaking beginners and intermediates who want structured lessons alongside general discussion rather than a purely chat-only space."
+},
+{
+"id": "zaufana-trzecia-strona",
+"name": "Zaufana Trzecia Strona",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"privacy",
+"news-cve",
+"malware-analysis"
+],
+"activities": [
+"chat",
+"news-feed",
+"q-and-a"
+],
+"members": 4630,
+"online": 732,
+"region": "europe",
+"language": "pl",
+"run_by": "Piotr Konieczny / Niebezpiecznik-adjacent ZaufanaTrzeciaStrona.pl",
+"red_flags": null,
+"summary": "This is the Discord companion to ZaufanaTrzeciaStrona.pl (\"z3s\"), one of Poland's best-known infosec news and analysis blogs run by security journalist Piotr Konieczny. Members discuss breaking security news, privacy, and data-protection topics in Polish, drawing a mixed crowd from curious readers to working security professionals."
+},
+{
+"id": "whitehat-security",
+"name": "WhiteHat Security",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"pentesting",
+"malware-analysis",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a",
+"mentorship"
+],
+"members": 35057,
+"online": 2478,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Generic branding ('WhiteHat Security') not tied to a known organization; verify legitimacy before recommending prominently",
+"summary": "A large, general-purpose information security community where professionals across skill levels answer questions and discuss infosec topics broadly rather than any single specialty. It suits newcomers looking for a place to ask basic questions as well as more experienced practitioners who want to chat, though the generic name makes it hard to distinguish a distinct focus or organizer."
+},
+{
+"id": "uncover-it",
+"name": "Uncover it",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"osint",
+"privacy"
+],
+"activities": [
+"chat",
+"news-feed",
+"q-and-a"
+],
+"members": 5149,
+"online": 780,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Little independent information available beyond the server's own description; unverified server.",
+"summary": "Uncover It is a small community-run server focused on raising awareness of scams and malware and helping members avoid them. People share warnings about active scams, discuss suspicious links/messages, and chat generally about staying safe online. It suits casual users wanting a lighter, scam-awareness-focused space rather than deep technical security training."
+},
+{
+"id": "server-2",
+"name": "𝐒𝐞𝐜𝐄𝐧𝐭",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"red-team",
+"blue-team",
+"web-appsec",
+"osint",
+"reverse-engineering",
+"bug-bounty"
+],
+"activities": [
+"chat",
+"ctf-events",
+"challenges",
+"q-and-a",
+"project-showcase"
+],
+"members": 1065,
+"online": 119,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "SecEnt is a broad, community-run cybersecurity server covering both offensive and defensive topics: CTFs, red team, blue team, web security, OSINT, reverse engineering, and bug bounty, alongside general programming and AI discussion. It suits people who want a wide-ranging hub touching many security specialties rather than a single focused niche."
+},
+{
+"id": "meta4sec",
+"name": "Meta4sec",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"study-group",
+"ctf",
+"bug-bounty",
+"careers"
+],
+"activities": [
+"chat",
+"voice-events",
+"q-and-a",
+"study-groups",
+"project-showcase"
+],
+"members": 12868,
+"online": 1325,
+"region": "asia",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Meta4sec is an education-focused ethical hacking community, popular in Indonesia, that runs daily voice sessions plus weekly and monthly cybersecurity events. Members discuss general infosec topics, share bug bounty proof-of-concepts, and support each other's learning in a busy, active chat."
+},
+{
+"id": "pwned-labs",
+"name": "Pwned Labs",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"cloud-security",
+"ai-security",
+"study-group",
+"red-team",
+"blue-team",
+"certifications"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"workshops",
+"job-board",
+"challenges"
+],
+"members": 11338,
+"online": 1323,
+"region": "global",
+"language": "en",
+"run_by": "Pwned Labs",
+"red_flags": "Paid bootcamps/certifications are commercially promoted",
+"summary": "Pwned Labs is a cloud and AI security training platform (based in Dubai) offering hands-on labs, bootcamps with vendor-style certifications (for AWS, Azure, GCP), and cyber ranges; this Discord is its community hub where over 10,000 practitioners discuss cloud/AI attack and defense techniques and support each other's learning. It suits people specifically wanting to learn cloud security, from newcomers using the free academy tier up to advanced practitioners pursuing their paid certifications. Some content and certifications require payment."
+},
+{
+"id": "cyber-security-centre",
+"name": "Cyber Security Centre",
+"category": "general",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"careers"
+],
+"activities": [
+"chat",
+"job-board",
+"news-feed"
+],
+"members": 902,
+"online": 49,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Relatively small and new (est. 2024); limited independent verification found.",
+"summary": "This is a networking-focused community for cybersecurity industry professionals, launched in 2024, where members discuss security topics and connect professionally. It leans toward working practitioners rather than absolute beginners, based on its own description as a space for industry professionals to network and collaborate."
+},
+{
+"id": "y3ll0wj4ck3t",
+"name": "Y3LL0WJ4CK3T",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"linux",
+"networking",
+"certifications",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"ctf-events"
+],
+"members": 1516,
+"online": 124,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A community-run Discord aimed at people building cybersecurity skills from the ground up, covering Linux basics, networking, and OSCP exam prep. Members discuss study paths, ask questions, and work through beginner-to-intermediate hacking topics together, making it a decent fit for newcomers heading toward a pentesting certification."
+},
+{
+"id": "sechub",
+"name": "SecHub",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events"
+],
+"members": 536,
+"online": 48,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Small and lower activity relative to member count; little independent verification available.",
+"summary": "A small, general-purpose cybersecurity chat server describing itself as home to friendly white-hat hackers willing to help newcomers. Activity centers on casual security discussion and some CTF talk rather than structured courses, so it suits people who just want a place to chat and ask questions."
+},
+{
+"id": "amberlabs",
+"name": "AmberLabs",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"ctf",
+"mentorship",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events",
+"mentorship",
+"study-groups"
+],
+"members": 690,
+"online": 86,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "AmberLabs is a hands-on cybersecurity learning community where members work through practical security challenges, CTFs, and mentoring together rather than just reading theory. It's pitched at people who learn by doing, from beginners picking up fundamentals to those looking for peer collaboration on harder challenges."
+},
+{
+"id": "hard-way-hacking-coding",
+"name": "Hard Way Hacking & Coding",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"programming",
+"ctf",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 21913,
+"online": 1939,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A large, long-running Discord community mixing ethical hacking, general programming, and infosec discussion, aimed at people who want to learn 'the hard way' through practice and peer conversation rather than a formal curriculum. Its size (over 20,000 members) means a steady stream of activity, with both beginner questions and more advanced coding/security talk happening side by side."
+},
+{
+"id": "astralguard",
+"name": "AstralGuard",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner"
+],
+"tags": [
+"ctf",
+"students",
+"mentorship",
+"regional",
+"general-infosec"
+],
+"activities": [
+"chat",
+"ctf-events",
+"study-groups",
+"mentorship"
+],
+"members": 285,
+"online": 22,
+"region": "africa",
+"language": "en",
+"run_by": "AstralGuard Cyber Academy",
+"red_flags": "Very small (under 300 members); little independent verification available.",
+"summary": "AstralGuard Cyber Academy is a small beginner-focused cybersecurity training community with roots in Africa (Uganda), explicitly welcoming newcomers into ethical hacking fundamentals alongside CTF practice. It suits people just starting out who want an encouraging, discipline-oriented environment rather than an advanced technical deep-dive."
+},
+{
+"id": "cybersecurity-artists",
+"name": "Cybersecurity Artists",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"programming",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"ctf-events",
+"project-showcase"
+],
+"members": 202,
+"online": 26,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Small server (about 200 members, ~26 online) with little independent information available beyond a Disboard listing; limited activity and low confidence in details.",
+"summary": "A small community-run Discord centered on hacking, programming, and CTF discussion. Members chat about security topics and occasionally participate in CTF challenges together. It suits hobbyists and beginners looking for a low-key, informal hangout rather than a structured learning program."
+},
+{
+"id": "hacker101",
+"name": "Hacker101",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"bug-bounty",
+"web-appsec",
+"ctf",
+"mentorship",
+"general-infosec"
+],
+"activities": [
+"q-and-a",
+"ctf-events",
+"mentorship",
+"study-groups",
+"writeups"
+],
+"members": 77319,
+"online": 4317,
+"region": "global",
+"language": "en",
+"run_by": "HackerOne",
+"red_flags": null,
+"summary": "This is HackerOne's official Discord for its free Hacker101 training program, where learners work through web hacking videos and CTF challenges and get help from more experienced bug bounty hunters. It's a large, active community well suited to people starting out in web application security and bug bounty hunting, with plenty of mentorship and Q&A."
+},
+{
+"id": "locke",
+"name": "LOCKE",
+"category": "general",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"networking",
+"cryptography",
+"careers",
+"students"
+],
+"activities": [
+"chat",
+"ctf-events",
+"q-and-a",
+"giveaways"
+],
+"members": 5328,
+"online": 609,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "LOCKE is a community-run server aimed at people getting into ethical hacking and IT/security broadly, covering CTF challenges, networking, cryptography, mobile security, and career discussion. It's explicitly pitched at newcomers with guidance on breaking into the field and runs its own CTF challenges with prizes."
+},
+{
+"id": "reverse-engineering",
+"name": "Reverse Engineering",
+"category": "general",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"binary-exploitation",
+"malware-analysis",
+"ctf",
+"hardware-hacking",
+"game-hacking"
+],
+"activities": [
+"chat",
+"q-and-a",
+"challenges",
+"hardware-help"
+],
+"members": 27571,
+"online": 6047,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "This is a large community-run server dedicated to reverse engineering, covering exploitation, malware analysis, hardware, software cracking/protections, and general modding topics, with dedicated help and CTF channels. It suits people who already have some technical grounding and want to go deeper into low-level security topics rather than absolute beginners."
+},
+{
+"id": "digital-overdose",
+"name": "Digital Overdose",
+"category": "general",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"study-group",
+"mentorship",
+"hacker-culture",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a",
+"ctf-events",
+"study-groups",
+"workshops",
+"mentorship"
+],
+"members": 1709,
+"online": 231,
+"region": "global",
+"language": "en",
+"run_by": "Digital Overdose (community-run, volunteer staff)",
+"red_flags": null,
+"summary": "A volunteer-run infosec and ethical-hacking community that hosts regular tutoring sessions and study help in text and voice channels, plus its own yearly beginner-focused cybersecurity conference and CTF. It explicitly aims to be a safe, harassment-free space for newcomers to learn alongside professionals."
+},
+{
+"id": "0x00sec-official",
+"name": "0x00sec Official",
+"category": "general",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"reverse-engineering",
+"malware-analysis",
+"general-infosec",
+"hacker-culture",
+"programming",
+"ctf"
+],
+"activities": [
+"chat",
+"q-and-a",
+"writeups",
+"project-showcase",
+"challenges"
+],
+"members": 9610,
+"online": 975,
+"region": "global",
+"language": "en",
+"run_by": "0x00sec (community-run)",
+"red_flags": null,
+"summary": "Discord home of the long-running 0x00sec hacker forum, where members discuss malware development/analysis, reverse engineering, exploit development and general computer science topics in real time. It's relaxed and mod-accessible, but conversation assumes some existing technical background more than the affiliated forum's beginner articles do."
+},
+{
+"id": "pen-ace-hacking-time",
+"name": "Pen Ace - Hacking Time",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"study-group"
+],
+"activities": [
+"chat",
+"q-and-a"
+],
+"members": 81,
+"online": 13,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Very small server (81 members), no independent verification of content or moderation quality found.",
+"summary": "A small, low-membership community themed around penetration testing and hacking ('Pen Ace / Hacking Time'), likely used for casual discussion and Q&A among a handful of hobbyists. No official website or further public documentation could be found, so details about who runs it or its exact focus remain unclear. It may suit beginners looking for informal chat, but its small size and lack of visible activity make it a lower-confidence pick."
+},
+{
+"id": "infosec-community",
+"name": "InfoSec Community",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"networking",
+"careers",
+"ctf",
+"study-group"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 5516,
+"online": 514,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A general-purpose infosec discussion server that has circulated in multiple community-curated lists of active cybersecurity Discords (alongside servers listed by security researchers and bloggers). Members discuss general security news, tools, and questions, though no official site or detailed public write-up describing its moderation or specific focus could be found. It likely suits people wanting broad security chat rather than a specialized niche."
+},
+{
+"id": "offsec-2",
+"name": "offsec",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"pentesting",
+"certifications",
+"study-group",
+"mentorship",
+"red-team"
+],
+"activities": [
+"q-and-a",
+"study-groups",
+"mentorship",
+"chat",
+"workshops"
+],
+"members": 909,
+"online": 72,
+"region": "global",
+"language": "en",
+"run_by": "OffSec (Offensive Security)",
+"red_flags": null,
+"summary": "This is the official Discord for OffSec, the company behind Kali Linux and the OSCP/PEN-200 certification track. Learners studying for OSCP and other OffSec certs come here to ask questions, get help on Proving Grounds machines, and attend weekly office hours with OffSec staff. It suits anyone actively working through OffSec courses or the OSCP path, from newcomers to Proving Grounds veterans."
+},
+{
+"id": "sans-offensive-operations",
+"name": "SANS Offensive Operations",
+"category": "learning",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"pentesting",
+"red-team",
+"certifications",
+"study-group",
+"ctf"
+],
+"activities": [
+"q-and-a",
+"study-groups",
+"ctf-events",
+"workshops",
+"news-feed"
+],
+"members": 13575,
+"online": 1530,
+"region": "global",
+"language": "en",
+"run_by": "SANS Institute",
+"red_flags": null,
+"summary": "This is the official Discord for SANS Offensive Operations, the SANS Institute's line of penetration testing, red team, exploit development and purple team courses. Students in those SANS courses use it for course-specific channels, support during live SANS workshops, and occasional CTF events tied to SANS training. It's most useful to people currently taking or considering a SANS offensive security course rather than casual beginners."
+},
+{
+"id": "pentest-laboratories",
+"name": "Pentest Laboratories",
+"category": "general",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"pentesting",
+"general-infosec",
+"ctf",
+"study-group"
+],
+"activities": [
+"chat",
+"q-and-a",
+"voice-events"
+],
+"members": 1455,
+"online": 141,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Little independent information available beyond listing sites; activity level uncertain",
+"summary": "Pentest Laboratories is a community-run Discord for people practicing and discussing penetration testing, with general text and voice chat. It's a smaller, informal hangout rather than a structured course or lab platform, useful for casual discussion and questions about pentesting topics."
+},
+{
+"id": "republic-of-hackers",
+"name": "Republic of Hackers",
+"category": "general",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"careers",
+"mentorship",
+"ctf",
+"study-group"
+],
+"activities": [
+"chat",
+"q-and-a",
+"mentorship",
+"job-board",
+"voice-events",
+"ctf-events"
+],
+"members": 1486,
+"online": 192,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "A past incident reported the server being compromised and used for a fake airdrop scam (2024); confirm current admin diligence before trusting links posted there",
+"summary": "Republic of Hackers is a community-run server for hackers and infosec enthusiasts of all skill levels, with a competitive CTF team registered on CTFtime. Beyond general chat, members get help with mock interviews, resume reviews, and breaking into a cybersecurity career, alongside live sessions and networking. It's aimed squarely at people trying to learn fundamentals and land their first infosec job."
+},
+{
+"id": "deadpixelsec",
+"name": "DeadPixelSec",
+"category": "general",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"mentorship",
+"ctf",
+"red-team",
+"blue-team",
+"certifications"
+],
+"activities": [
+"chat",
+"q-and-a",
+"mentorship",
+"ctf-events",
+"study-groups",
+"workshops"
+],
+"members": 2644,
+"online": 545,
+"region": "global",
+"language": "en",
+"run_by": "The Blind Hacker / DeadPixelSec community",
+"red_flags": null,
+"summary": "DeadPixelSec grew out of a CTF team started in 2019 around The Blind Hacker's journey as a visually impaired infosec professional, and has become a broad mentoring community covering red team, blue team, sysadmin, and certifications. It welcomes people from complete beginners to working professionals and has dedicated channels for certs, jobs, and both offensive and defensive topics. It's a solid pick for beginners looking for a supportive, mentorship-oriented general infosec community."
+},
+{
+"id": "below0day",
+"name": "Below0Day",
+"category": "general",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"news-cve",
+"ctf"
+],
+"activities": [
+"chat",
+"news-feed",
+"q-and-a"
+],
+"members": 1357,
+"online": 44,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Very little independent information available; activity level and moderation quality unverified",
+"summary": "Below0Day appears to be a general infosec/vulnerability-research-adjacent Discord community, listed alongside other hacker Discord servers, but little independent detail about its structure or activity was found beyond that. Treat this as a smaller, less-documented community server pending firsthand confirmation."
+},
+{
+"id": "thehivemind",
+"name": "TheHiveMind",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"study-group",
+"mentorship",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"mentorship",
+"writeups"
+],
+"members": 8355,
+"online": 1167,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A community-run cybersecurity education server where members share study resources and support each other through learning. It has a curated resource library (nicknamed 'The Graveyard') of vetted notes and writeups, and hosts study sessions aimed at people building skills at a beginner-to-intermediate level."
+},
+{
+"id": "cyberspatial",
+"name": "Cyberspatial",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"students",
+"study-group"
+],
+"activities": [
+"chat",
+"q-and-a",
+"workshops",
+"news-feed"
+],
+"members": 1783,
+"online": 74,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "Cyberspatial is a general cybersecurity chat and education community aimed at making security culture and learning accessible to beginners as well as more experienced enthusiasts. Members discuss security news, share resources, and can attend occasional webinars or workshops. It suits people looking for a casual, welcoming entry point into infosec discussion rather than a highly structured program."
+},
+{
+"id": "netsecstudents",
+"name": "netsecstudents",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"students",
+"study-group",
+"networking",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups"
+],
+"members": 2649,
+"online": 224,
+"region": "global",
+"language": "en",
+"run_by": "community-run (r/netsecstudents moderators)",
+"red_flags": null,
+"summary": "This is the Discord companion to the r/netsecstudents subreddit, a community-run space where people studying network security and cybersecurity ask questions and discuss coursework, certifications, and getting started in the field. It suits students and self-learners early in their security journey looking for casual discussion rather than structured training."
+},
+{
+"id": "shellsharks",
+"name": "shellsharks",
+"category": "general",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"programming",
+"hacker-culture"
+],
+"activities": [
+"chat",
+"news-feed",
+"writeups",
+"project-showcase",
+"ctf-events"
+],
+"members": 758,
+"online": 52,
+"region": "global",
+"language": "en",
+"run_by": "Mike (Shellsharks)",
+"red_flags": null,
+"summary": "Shellsharks is run by Mike, a security researcher and blogger, who built the community out of a CTF-focused meet-up group and now covers infosec, technology, and life topics on his blog and podcast. On Discord, members discuss security news and articles, share writeups, and talk shop with other practitioners. It suits people already working in or studying infosec who want ongoing discussion rather than structured lessons."
+},
+{
+"id": "trustedsec",
+"name": "TrustedSec",
+"category": "general",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"red-team",
+"pentesting",
+"careers",
+"news-cve"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"job-board",
+"voice-events"
+],
+"members": 10913,
+"online": 1574,
+"region": "global",
+"language": "en",
+"run_by": "TrustedSec",
+"red_flags": null,
+"summary": "TrustedSec is a well-known offensive security consultancy founded by David Kennedy, and this is their official community Discord for discussing all things cybersecurity, promoted through their podcast and social channels. Members chat with each other and sometimes TrustedSec staff about red teaming, pentesting, and security news. It suits working security professionals and students who want to be around a large, active general-infosec crowd rather than structured beginner content."
+},
+{
+"id": "kc7",
+"name": "KC7",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"threat-intel",
+"detection-engineering",
+"students",
+"blue-team",
+"study-group"
+],
+"activities": [
+"challenges",
+"study-groups",
+"q-and-a",
+"chat",
+"workshops",
+"mentorship"
+],
+"members": 7593,
+"online": 563,
+"region": "global",
+"language": "en",
+"run_by": "KC7 Foundation",
+"red_flags": null,
+"summary": "KC7 is the Discord for the KC7 Foundation's free cyber-detective game, where players investigate simulated intrusions using realistic threat-actor data in Azure Data Explorer/Kusto. It's built specifically to help students and career-changers with no background break into cybersecurity analysis and threat intelligence through hands-on scenarios, workshops, and peer support. Very welcoming to complete beginners."
+},
+{
+"id": "cryptohack",
+"name": "CryptoHack",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"cryptography",
+"ctf",
+"study-group",
+"programming"
+],
+"activities": [
+"q-and-a",
+"challenges",
+"study-groups",
+"chat",
+"writeups"
+],
+"members": 10770,
+"online": 1802,
+"region": "global",
+"language": "en",
+"run_by": "CryptoHack (community-run, founded by Robin/Jack and collaborators)",
+"red_flags": null,
+"summary": "CryptoHack is a free, community-run platform for learning modern applied cryptography through hands-on programming challenges, and this Discord is its main hub for discussing those challenges, cryptography news, and general math/programming questions. New members answer a short cryptography-themed verification question to get in, and can link their CryptoHack profile for special roles; it works well for people starting from zero on crypto as well as CTF players sharpening cryptography skills."
+},
+{
+"id": "networkchuck-academy",
+"name": "NetworkChuck Academy",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner"
+],
+"tags": [
+"certifications",
+"networking",
+"study-group",
+"careers",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"voice-events",
+"job-board"
+],
+"members": 11167,
+"online": 1198,
+"region": "global",
+"language": "en",
+"run_by": "NetworkChuck Academy",
+"red_flags": "tied to a paid course product; some channels focused on upselling courses",
+"summary": "This is the official Discord for NetworkChuck Academy, the paid course platform (CCNA, A+, cybersecurity, cloud, scripting) spun off from NetworkChuck's YouTube channel. Students use it to get help with course material, join study groups toward certifications, and get career advice from fellow learners. It's structured around people actively enrolled in or considering the Academy's courses, making it a good fit for beginners following a guided certification path rather than open-ended CTF or hacking discussion."
+},
+{
+"id": "arcadia",
+"name": "Arcadia",
+"category": "general",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"reverse-engineering",
+"hacker-culture",
+"programming"
+],
+"activities": [
+"chat",
+"project-showcase",
+"writeups"
+],
+"members": 3975,
+"online": 531,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "The invite/description ('cyberpunks, rogue artists, midnight philosophers... neon-lit shadows') does not clearly match bettercap's official Discord (bettercap.org links to a different invite, discord.gg/btZpkp45gQ), so this may not actually be the official tool-support server despite the candidate match.",
+"summary": "A general hacking and reverse-engineering chat community with a cyberpunk-themed branding, where members discuss dissecting systems, writing tools, and offensive/defensive security topics. The candidate data links this server to bettercap (the MITM/network-attack framework), but the server's own description reads as a broad hacker community rather than tool-specific support, so that connection is uncertain. Best suited for people already comfortable with security and RE concepts rather than newcomers."
+},
+{
+"id": "learn-prompting-hackaprompt",
+"name": "Learn Prompting/HackAPrompt",
+"category": "learning",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"ai-security",
+"ctf",
+"study-group",
+"general-infosec"
+],
+"activities": [
+"chat",
+"study-groups",
+"ctf-events",
+"challenges",
+"workshops",
+"news-feed"
+],
+"members": 51470,
+"online": 2315,
+"region": "global",
+"language": "en",
+"run_by": "Sander Schulhoff / Learn Prompting",
+"red_flags": null,
+"summary": "This is the community behind Learn Prompting (an educational site with prompt-engineering and AI red-teaming courses, led by Sander Schulhoff) and HackAPrompt, one of the largest AI red-teaming/prompt-injection competitions. People take courses, discuss AI security techniques, and compete in prompt-hacking challenges together. It suits anyone from curious beginners to security folks specializing in AI/LLM red teaming."
+},
+{
+"id": "cyberverse-ethical-hacking-coding-infosec-programming",
+"name": "CyberVerse Ethical Hacking, Coding, InfoSec & Programming",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"programming",
+"ctf",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups"
+],
+"members": 7415,
+"online": 812,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Could not independently verify server liveness beyond Discord's directory listing; little else known about who moderates it.",
+"summary": "A general-purpose Discord for people learning ethical hacking, cybersecurity and coding together, discovered via Discord's own server directory rather than any named organization or public figure. It's a broad chat-and-learn hub for beginners and hobbyists rather than a structured course, CTF team, or company-run community."
+},
+{
+"id": "cyber-security",
+"name": "Cyber Security",
+"category": "general",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"general-infosec",
+"ctf",
+"programming"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed"
+],
+"members": 5773,
+"online": 777,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Could not verify any official affiliation (e.g., with r/Cybersecurity); appears to be an independently run generic server despite the name.",
+"summary": "A general-purpose community-run Discord for people interested in cyber security topics, hacking, and tech chat. It's not tied to any organization, brand, or subreddit despite similar naming, and the vibe is casual chat and Q&A rather than structured lessons. Fine for beginners looking for a place to ask questions and talk shop."
+},
+{
+"id": "antisyphon-training",
+"name": "Antisyphon Training",
+"category": "learning",
+"bf": 5,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"general-infosec",
+"study-group",
+"red-team",
+"blue-team",
+"certifications"
+],
+"activities": [
+"q-and-a",
+"study-groups",
+"workshops",
+"voice-events",
+"job-board",
+"chat",
+"news-feed"
+],
+"members": 34032,
+"online": 3412,
+"region": "global",
+"language": "en",
+"run_by": "Antisyphon Training / Black Hills Information Security (John Strand)",
+"red_flags": null,
+"summary": "The community hub for Antisyphon Training, Black Hills Information Security's pay-what-you-can training arm founded by John Strand. People discuss courses, attend AMAs and webcasts, and get study support across red and blue team topics regardless of budget. Very welcoming to beginners thanks to the pay-what-you-can training philosophy and large, active member base."
+}
+]

@@ -1,0 +1,693 @@
+[
+{
+"id": "trace-labs",
+"name": "Trace Labs",
+"category": "osint",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"osint",
+"ctf",
+"privacy",
+"study-group",
+"general-infosec"
+],
+"activities": [
+"ctf-events",
+"chat",
+"workshops",
+"study-groups",
+"q-and-a",
+"news-feed"
+],
+"members": 30208,
+"online": 3342,
+"region": "global",
+"language": "en",
+"run_by": "Trace Labs",
+"red_flags": null,
+"summary": "The official server for Trace Labs, a nonprofit that runs crowdsourced OSINT CTF competitions to help locate missing people. People here train in OSINT techniques, take part in the organization's regular missing-persons CTFs, and connect with a large, very active international OSINT community; it suits anyone from OSINT beginners to seasoned investigators who want their skills to have a real-world impact."
+},
+{
+"id": "cyberdefenders",
+"name": "CyberDefenders",
+"category": "blueteam",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"dfir",
+"soc",
+"malware-analysis",
+"detection-engineering",
+"ctf",
+"certifications"
+],
+"activities": [
+"ctf-events",
+"challenges",
+"q-and-a",
+"study-groups",
+"writeups",
+"job-board"
+],
+"members": 18428,
+"online": 1947,
+"region": "global",
+"language": "en",
+"run_by": "CyberDefenders (Muhammad Alharmeel and Ahmed Shawky)",
+"red_flags": null,
+"summary": "CyberDefenders is the community around the cyberdefenders.org training platform, which bills itself as a top resource for SOC analysts and offers scenario-based blue team labs in digital forensics, threat hunting, and incident response, plus role-based certifications. The Discord is where members discuss labs, get help on challenges, and talk shop about defensive security careers."
+},
+{
+"id": "server-3",
+"name": "Центр цифровых расследований",
+"category": "osint",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"osint",
+"general-infosec",
+"privacy"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"writeups"
+],
+"members": 4689,
+"online": 375,
+"region": "europe",
+"language": "ru",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "A Russian-language community describing itself as one of the largest Russian-speaking information security and OSINT communities, run with its own 'academy' for training. Members discuss investigative techniques, practical OSINT methodology, and tools; it suits Russian-speaking beginners through intermediates interested in digital investigations."
+},
+{
+"id": "bosint-osintnova",
+"name": "BosINT / OSINTNova",
+"category": "osint",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"osint",
+"privacy",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"project-showcase",
+"news-feed"
+],
+"members": 4161,
+"online": 556,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "BosINT/OSINTNova is a community for OSINT researchers, ethical hackers, and cybersecurity professionals who share investigative tools, discuss techniques, and collaborate on open-source-intelligence work. It has a relaxed, welcoming tone for both beginners and experienced investigators, with general chat and resource-sharing as the main activity."
+},
+{
+"id": "the-osintion",
+"name": "The OSINTion",
+"category": "osint",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"osint",
+"privacy",
+"study-group"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"project-showcase"
+],
+"members": 2747,
+"online": 236,
+"region": "global",
+"language": "en",
+"run_by": "Joe Gray (C3PJoe) / The OSINTion",
+"red_flags": null,
+"summary": "Run by OSINT trainer Joe Gray (C3PJoe) alongside The OSINTion training/community project, this server is a hub for people learning and practicing open-source intelligence techniques, tools, and resources. Members share OSINT tips and discuss investigations, and the community also promotes Gray's paid training courses, making it a good fit for OSINT newcomers as well as practicing investigators."
+},
+{
+"id": "core-cti",
+"name": "CORE.CTI",
+"category": "blueteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"threat-intel",
+"blue-team",
+"news-cve",
+"general-infosec"
+],
+"activities": [
+"chat",
+"news-feed",
+"writeups"
+],
+"members": 993,
+"online": 104,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "CORE.CTI is a community focused on cyber threat intelligence, where members share and discuss current threat intel, malware/threat-actor news, and analysis. It's aimed at people already working in or studying CTI/blue team roles rather than absolute beginners, functioning as a discussion and news-sharing hub for the discipline."
+},
+{
+"id": "project-owl-the-osint-community",
+"name": "Project Owl: The OSINT Community",
+"category": "osint",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"osint",
+"general-infosec",
+"news-cve"
+],
+"activities": [
+"chat",
+"news-feed",
+"q-and-a",
+"study-groups"
+],
+"members": 50812,
+"online": 7340,
+"region": "global",
+"language": "en",
+"run_by": "Project Owl team",
+"red_flags": null,
+"summary": "Project Owl bills itself as the world's biggest OSINT community, a large hub for open-source intelligence and real-time global event monitoring, with country- and region-specific channels for tracking geopolitical, military, and government news. Members trade OSINT techniques and interpretations of unfolding events, making it a good fit for anyone curious about OSINT from hobbyists through to more serious analysts."
+},
+{
+"id": "bellingcat",
+"name": "Bellingcat",
+"category": "osint",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"osint",
+"general-infosec",
+"news-cve"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"project-showcase",
+"news-feed"
+],
+"members": 43792,
+"online": 4607,
+"region": "global",
+"language": "en",
+"run_by": "Bellingcat",
+"red_flags": null,
+"summary": "Run by the Bellingcat open-source investigation collective, this is where thousands of OSINT enthusiasts discuss ongoing news stories, crowdsource pieces of investigative research, and share research tools and techniques. It suits anyone interested in digital investigation and open-source research, from curious beginners to people contributing to real Bellingcat-adjacent projects."
+},
+{
+"id": "threat-hunter-community",
+"name": "Threat Hunter Community",
+"category": "blueteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"threat-intel",
+"detection-engineering",
+"dfir",
+"study-group"
+],
+"activities": [
+"q-and-a",
+"chat",
+"study-groups",
+"voice-events",
+"workshops"
+],
+"members": 28606,
+"online": 2538,
+"region": "global",
+"language": "en",
+"run_by": "Active Countermeasures",
+"red_flags": null,
+"summary": "Run by Active Countermeasures (the AC-Hunter threat-hunting tool company), this server exists for people practicing or learning threat hunting to ask questions and share techniques, and hosts periodic virtual meetups/classes with guest speakers like John Strand and Bill Stearns. It suits people who already have some blue-team/networking background rather than absolute beginners."
+},
+{
+"id": "blue-team-labs-online",
+"name": "Blue Team Labs Online ☁",
+"category": "blueteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"blue-team",
+"soc",
+"dfir",
+"ctf",
+"study-group"
+],
+"activities": [
+"ctf-events",
+"challenges",
+"writeups",
+"study-groups",
+"news-feed",
+"q-and-a"
+],
+"members": 6752,
+"online": 609,
+"region": "global",
+"language": "en",
+"run_by": "Security Blue Team",
+"red_flags": null,
+"summary": "This is the official community for Blue Team Labs Online (BTLO), a browser-based cyber range where members practice SOC-analyst style investigations (log analysis, malware triage, digital forensics) without setting up a VM. The Discord is used for announcements about new labs, discussion of challenges, and general blue-team chat. It suits people who already know basic security tools and want to sharpen investigation skills rather than absolute beginners."
+},
+{
+"id": "digital-forensics",
+"name": "Digital Forensics",
+"category": "blueteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"dfir",
+"forensics",
+"blue-team",
+"careers",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"job-board",
+"news-feed",
+"study-groups"
+],
+"members": 3957,
+"online": 625,
+"region": "global",
+"language": "en",
+"run_by": "community-run (DFIR professionals)",
+"red_flags": null,
+"summary": "Run by working DFIR professionals, this server (started in 2018, and a repeat Forensic 4:cast \"DFIR Resource of the Year\" winner) brings together law enforcement, private-sector examiners, and students to discuss digital forensics and incident response cases and tooling. The tone is professional and case-focused rather than casual meme chat, with people networking, sharing techniques, and helping troubleshoot investigations. Best for those already working in or seriously studying DFIR rather than absolute beginners."
+},
+{
+"id": "globalnews-watch",
+"name": "GlobalNews.Watch",
+"category": "osint",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"osint",
+"news-cve",
+"general-infosec"
+],
+"activities": [
+"chat",
+"news-feed",
+"q-and-a"
+],
+"members": 4210,
+"online": 322,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "GlobalNews.Watch is a community for following breaking world events using open-source intelligence, sharing verified sources and countering misinformation as news happens. Members post and discuss live events, from conflicts to disasters, using OSINT techniques rather than formal security research. It suits people interested in current-events monitoring and OSINT methods more than technical hacking or pentesting."
+},
+{
+"id": "centri",
+"name": "Centri",
+"category": "blueteam",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"blue-team",
+"soc",
+"dfir",
+"detection-engineering",
+"ctf",
+"certifications",
+"study-group"
+],
+"activities": [
+"ctf-events",
+"study-groups",
+"q-and-a",
+"chat",
+"job-board",
+"writeups"
+],
+"members": 22721,
+"online": 2386,
+"region": "global",
+"language": "en",
+"run_by": "Security Blue Team",
+"red_flags": "Sells paid courses/certifications alongside the free community content",
+"summary": "This is the official Discord for Security Blue Team, the company behind Blue Team Labs Online (BTLO) and blue-team certifications like BTL1/BTL2. People come here to get support on BTLO challenges, discuss SOC/DFIR/threat-intel study material, and chat about defensive security careers. It suits beginners through intermediates who are working through blue-team labs or certification paths."
+},
+{
+"id": "letsdefend",
+"name": "LetsDefend",
+"category": "blueteam",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"blue-team",
+"soc",
+"dfir",
+"detection-engineering",
+"study-group",
+"certifications"
+],
+"activities": [
+"chat",
+"q-and-a",
+"study-groups",
+"challenges",
+"workshops",
+"job-board"
+],
+"members": 29834,
+"online": 1710,
+"region": "global",
+"language": "en",
+"run_by": "LetsDefend (part of Hack The Box)",
+"red_flags": null,
+"summary": "LetsDefend is a hands-on blue-team training platform (now part of Hack The Box) offering simulated SOC environments where learners investigate real attack scenarios mapped to MITRE ATT&CK, working toward roles like SOC analyst, DFIR specialist, or malware analyst. The Discord is where the large learner community asks questions about labs and courses, discusses defensive-security topics, and helps each other progress through free and paid learning paths. It's a good fit for beginners specifically wanting to break into blue-team/SOC work."
+},
+{
+"id": "faytuks-news-osint",
+"name": "Faytuks News [OSINT]",
+"category": "osint",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"osint",
+"threat-intel",
+"news-cve"
+],
+"activities": [
+"chat",
+"news-feed",
+"q-and-a"
+],
+"members": 24008,
+"online": 4481,
+"region": "global",
+"language": "en",
+"run_by": "community-run (Faytuks)",
+"red_flags": "Focus is general news/OSINT on world events (often conflict/disaster footage), not infosec-specific; content can be graphic",
+"summary": "A large OSINT-driven news community that aggregates and discusses breaking world events, conflicts, and disasters in real time using open-source intelligence techniques. Volunteers and dedicated OSINT hobbyists post and verify raw footage, satellite imagery, and social-media sourced updates as events unfold. It suits people interested in OSINT methodology and current-events analysis rather than traditional cybersecurity topics like pentesting or malware."
+},
+{
+"id": "kase",
+"name": "Kase",
+"category": "osint",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"osint",
+"ctf",
+"study-group",
+"general-infosec"
+],
+"activities": [
+"chat",
+"challenges",
+"study-groups",
+"mentorship",
+"q-and-a"
+],
+"members": 9540,
+"online": 784,
+"region": "global",
+"language": "en",
+"run_by": "Kase Scenarios",
+"red_flags": null,
+"summary": "Kase Scenarios makes narrative, choose-your-own-path OSINT training exercises, and this is their official Discord where 10,000+ members discuss scenarios, get unstuck with hints, and talk shop about open-source investigation techniques. It's aimed at people who want hands-on, self-paced OSINT practice rather than formal certification study."
+},
+{
+"id": "cti-cyber-threat-intelligence",
+"name": "CTI - Cyber Threat Intelligence",
+"category": "blueteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"threat-intel",
+"detection-engineering",
+"blue-team",
+"news-cve"
+],
+"activities": [
+"chat",
+"news-feed",
+"writeups"
+],
+"members": 935,
+"online": 110,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": null,
+"summary": "CTI-Hub is a community focused on curating and sharing current cyber threat intelligence: IOCs, threat actor reporting, and CTI news. It suits practitioners and analysts already working in or studying threat intelligence rather than absolute beginners, since discussion assumes some blue-team/CTI background."
+},
+{
+"id": "forensic-focus",
+"name": "Forensic Focus",
+"category": "blueteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"dfir",
+"forensics",
+"news-cve",
+"general-infosec",
+"study-group"
+],
+"activities": [
+"news-feed",
+"q-and-a",
+"chat",
+"writeups",
+"job-board"
+],
+"members": 1149,
+"online": 92,
+"region": "global",
+"language": "en",
+"run_by": "Forensic Focus",
+"red_flags": null,
+"summary": "Forensic Focus runs a well-known digital-forensics news site and training/webinar business, and this Discord is their official discussion hub for DFIR professionals, students and academics. Members share and discuss forensics news, tools and casework questions; it suits people already studying or working in digital forensics more than total beginners."
+},
+{
+"id": "vx-feed",
+"name": "VX Feed",
+"category": "blueteam",
+"bf": 2,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"threat-intel",
+"malware-analysis",
+"news-cve",
+"dfir",
+"general-infosec"
+],
+"activities": [
+"news-feed",
+"chat"
+],
+"members": 6768,
+"online": 1059,
+"region": "global",
+"language": "en",
+"run_by": "vx-underground",
+"red_flags": "vx-underground also hosts malware sample archives and a paid donor tier for a private Discord; keep this listing scoped to the free public VX Feed",
+"summary": "VX Feed is vx-underground's automated Discord feed that posts ransomware group activity, government cybersecurity alerts, and vendor threat-intel reports as they happen. It's mostly a low-interaction firehose of intelligence rather than a discussion or help community, so it suits analysts and researchers who want raw threat data rather than newcomers looking for guidance."
+},
+{
+"id": "soc-prime-cybersec-community",
+"name": "SOC Prime Cybersec Community",
+"category": "blueteam",
+"bf": 3,
+"audience": [
+"intermediate",
+"advanced"
+],
+"tags": [
+"detection-engineering",
+"threat-intel",
+"soc",
+"general-infosec",
+"careers"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"workshops"
+],
+"members": 3061,
+"online": 193,
+"region": "global",
+"language": "en",
+"run_by": "SOC Prime",
+"red_flags": null,
+"summary": "SOC Prime, the company behind the Sigma-based Threat Detection Marketplace, runs this Discord for detection engineers and SOC analysts to discuss Sigma rule writing, threat news, and their Uncoder IDE. It's also the hub for SOC Prime's Threat Bounty program, where members can get paid for publishing detection rules, so it suits people already working in or studying detection engineering more than absolute beginners."
+},
+{
+"id": "osint-fr",
+"name": "OSINT-FR",
+"category": "osint",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate",
+"advanced"
+],
+"tags": [
+"osint",
+"privacy",
+"general-infosec",
+"students"
+],
+"activities": [
+"chat",
+"q-and-a",
+"workshops",
+"study-groups",
+"local-meetups",
+"news-feed"
+],
+"members": 30987,
+"online": 4089,
+"region": "europe",
+"language": "fr",
+"run_by": "OSINT-FR association",
+"red_flags": null,
+"summary": "OSINT-FR is a French nonprofit association (founded 2019) dedicated to popular education in open-source intelligence, and this is its main Discord, one of the largest French-speaking OSINT communities online. Members (researchers, journalists, security professionals, and hobbyists) share OSINT methodology and tools, get monthly presentations, and organize real-world meetups and challenges in various French cities. Best suited to French speakers interested in OSINT, from curious beginners to working analysts."
+},
+{
+"id": "brigada-osint",
+"name": "Brigada Osint",
+"category": "osint",
+"bf": 4,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"osint",
+"privacy",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"news-feed",
+"study-groups"
+],
+"members": 1772,
+"online": 96,
+"region": "latin-america",
+"language": "es",
+"run_by": "Aimery Parekh / Brigada Osint podcast community",
+"red_flags": null,
+"summary": "A Spanish-language community of open-source intelligence analysts tied to the Brigada Osint podcast (hosted by cyber intelligence analyst Aimery Parekh). Members discuss OSINT techniques, tools, privacy and data protection, and follow along with podcast/YouTube content. Best fit for Spanish-speaking newcomers and hobbyists wanting to get into OSINT."
+},
+{
+"id": "osint-for-all",
+"name": "Osint For All",
+"category": "osint",
+"bf": 3,
+"audience": [
+"beginner",
+"intermediate"
+],
+"tags": [
+"osint",
+"general-infosec"
+],
+"activities": [
+"chat",
+"q-and-a",
+"voice-events"
+],
+"members": 755,
+"online": 34,
+"region": "global",
+"language": "en",
+"run_by": "community-run",
+"red_flags": "Limited information available beyond the invite listing; no official website found",
+"summary": "A general-purpose OSINT chat community with free text and voice channels where members discuss open-source intelligence resources and techniques. It's a smaller, informal server rather than a structured course, so it suits people who already have some basic curiosity about OSINT and want casual discussion."
+}
+]
