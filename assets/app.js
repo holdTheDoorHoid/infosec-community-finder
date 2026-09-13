@@ -19,7 +19,7 @@ const ICF = (() => {
     }
     return DB;
   }
-  const fmt = n => n == null ? '—' : n >= 1000 ? (n/1000).toFixed(n >= 10000 ? 0 : 1) + 'k' : String(n);
+  const fmt = n => n == null ? '—' : n >= 1e6 ? (n/1e6).toFixed(n >= 1e7 ? 0 : 1) + 'M' : n >= 1000 ? (n/1000).toFixed(n >= 10000 ? 0 : 1) + 'k' : String(n);
   const esc = s => String(s ?? '').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
   const stars = n => n ? '★'.repeat(n) + '☆'.repeat(5 - n) : '';
   const initials = name => (name || '?').split(/\s+/).slice(0,2).map(w => w[0]).join('').toUpperCase();
