@@ -32765,6 +32765,7 @@
    "history": [],
    "category": "blueteam",
    "tags": [
+    "blue-team",
     "cloud-security",
     "detection-engineering",
     "networking",
@@ -32795,7 +32796,13 @@
    "rules_note": "Self-service signup via slack.k8s.io.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Category is blueteam and content covers cluster/workload hardening and detection (#sig-security, Falco) but the blue-team tag itself was missing."
+    }
+   ]
   },
   {
    "id": "binary-ninja-slack",
@@ -32968,7 +32975,8 @@
     "blue-team",
     "soc",
     "detection-engineering",
-    "dfir"
+    "dfir",
+    "tool-support"
    ],
    "summary": "Official community Slack for Wazuh, the open-source SIEM/XDR platform, run by Wazuh Inc. Members ask for help with installation, write and troubleshoot detection rules, and discuss integrations with other security tooling. It's aimed at users and admins of Wazuh, from people standing up their first instance to experienced blue teamers building out detections.",
    "run_by": "Wazuh Inc.",
@@ -32995,7 +33003,13 @@
    "rules_note": "Join link published on wazuh.com/community/, self-service signup.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Official Wazuh product support Slack; missing tool-support tag that its sibling Wazuh mailing list entry already carries."
+    }
+   ]
   },
   {
    "id": "elastic-community-slack",
@@ -33099,6 +33113,7 @@
    "history": [],
    "category": "blueteam",
    "tags": [
+    "blue-team",
     "cloud-security",
     "detection-engineering",
     "homelab",
@@ -33128,7 +33143,13 @@
    "rules_note": "Join via slack.cncf.io self-service signup; workspace is broad, search for #falco or #cilium channels specifically.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Same gap as the sibling Kubernetes Slack entry: category blueteam, security content (Falco, Cilium) but no blue-team tag."
+    }
+   ]
   },
   {
    "id": "steampipe-turbot-community-slack",
@@ -35580,7 +35601,8 @@
     "blue-team",
     "networking",
     "cloud-security",
-    "homelab"
+    "homelab",
+    "tool-support"
    ],
    "summary": "This is the official support forum for OPNsense, an open-source FreeBSD-based firewall/router distribution, run by the project's developers and community volunteers. People ask configuration questions, troubleshoot IDS/IPS and VPN setups, and discuss plugin development and release notes, with sub-forums split by language and topic. It's aimed at people already running or planning to run OPNsense - sysadmins, homelabbers, and network security practitioners - rather than general security beginners.",
    "run_by": "Deciso B.V. / OPNsense project",
@@ -35606,7 +35628,13 @@
    "rules_note": "Free self-service forum registration; ~59,000 members, ~268,000 posts across multiple language sub-forums.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Official single-product support forum, matching peers (Sleuth Kit, Graylog, Elastic, Wazuh mailing list) that all carry tool-support; this one was missing it."
+    }
+   ]
   },
   {
    "id": "netgate-pfsense-forum",
@@ -35646,7 +35674,8 @@
     "blue-team",
     "networking",
     "homelab",
-    "cloud-security"
+    "cloud-security",
+    "tool-support"
    ],
    "summary": "This is Netgate's official community forum for pfSense, a widely used open-source firewall/router platform, moderated by Netgate staff and community volunteers. Members troubleshoot firewall rules, VPN and IDS/IPS configuration, and hardware compatibility, with over a hundred thousand topics accumulated in the main pfSense category and separate language sub-forums. It suits network admins and homelabbers running or evaluating pfSense rather than security beginners with no networking background.",
    "run_by": "Netgate",
@@ -35672,7 +35701,13 @@
    "rules_note": "Free self-service forum registration; ~122,000 topics in the pfSense category, 14+ language sub-forums.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Same as OPNsense Forum: official single-product (pfSense) support forum missing the tool-support tag its peers carry."
+    }
+   ]
   },
   {
    "id": "hak5-forums",
@@ -36400,7 +36435,7 @@
    "summary": "r/cybersecurity is one of Reddit's largest general infosec subreddits, where people discuss industry news, ask career and certification questions, and share advice on breaking into the field. It's commonly recommended as a first stop for newcomers because of its high volume of beginner-friendly Q&A alongside general news discussion.",
    "run_by": "community-run",
    "website": null,
-   "beginner_friendly": 5,
+   "beginner_friendly": 4,
    "audience": [
     "beginner",
     "intermediate"
@@ -36423,7 +36458,13 @@
    "rules_note": "Join by subscribing to the subreddit on Reddit; no approval needed to read, standard Reddit account needed to post.",
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "bf5 is an outlier vs. peers with the same score (r/HowToHack, r/netsecstudents) which have curated onboarding wikis/mentorship; r/cybersecurity is primarily general industry news and often redirects basic 'how do I start' questions elsewhere, so bf4 fits the scale better."
+    }
+   ]
   },
   {
    "id": "r-netsec",
@@ -38539,8 +38580,7 @@
    "tags": [
     "certifications",
     "study-group",
-    "careers",
-    "general-infosec"
+    "careers"
    ],
    "summary": "A subreddit dedicated to the (ISC)2 CISSP certification, where people study together, share exam experiences, ask about study materials, and discuss whether the credential is worth pursuing for a given career stage. It suits IT/security professionals with several years of experience since CISSP requires prior work history, rather than absolute beginners.",
    "run_by": "community-run",
@@ -38568,7 +38608,13 @@
    "rules_note": "Join via Reddit account and subreddit rules (no exam dumps/braindumps allowed).",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "general-infosec tag doesn't fit a narrow, cert-specific subreddit; sibling r-isc2 (same topic family) correctly omits it."
+    }
+   ]
   },
   {
    "id": "r-sysadmin",
@@ -46152,7 +46198,7 @@
      "online": 137
     }
    ],
-   "category": "redteam",
+   "category": "ctf",
    "tags": [
     "ctf",
     "students",
@@ -46186,7 +46232,13 @@
    "rules_note": "Weekly in-person meetups Wednesdays 3pm during term, room announced on Discord; has a Code of Conduct.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Tags (ctf, students, binary-exploitation, reverse-engineering) and summary describe a university CTF/hacking-challenge club, not an offensive red-team practice; category should match the ctf classification used for peer university clubs."
+    }
+   ]
   },
   {
    "id": "cybersoc",
@@ -46912,7 +46964,8 @@
     "pentesting",
     "programming",
     "certifications",
-    "study-group"
+    "study-group",
+    "careers"
    ],
    "summary": "Guia Anônima is a Brazilian information-security education project (YouTube channel, courses, and podcast) that runs this Discord as its community hub. People come here to ask questions about getting started in ethical hacking/pentesting, discuss the project's Python-for-hackers and networking courses, and follow career tips in Portuguese; it is aimed squarely at newcomers to the field in Brazil.",
    "run_by": "Guia Anônima (community-run education project)",
@@ -46944,7 +46997,13 @@
    "rules_note": "Server language is Brazilian Portuguese; joins via a public invite on the project's site.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary explicitly mentions 'career tips' as regular content but the tag list omits 'careers'; added for consistency."
+    }
+   ]
   },
   {
    "id": "bc-security",
@@ -47147,7 +47206,7 @@
    "summary": "Run by the ProjectDiscovery team, this Discord is the hub for Nuclei, Subfinder, httpx and their other open-source security-automation tools. People troubleshoot tool usage, share and discuss Nuclei templates, and talk vulnerability-scanning workflows for appsec and bug-bounty work; it suits practitioners already doing recon and scanning more than absolute beginners.",
    "run_by": "ProjectDiscovery",
    "website": "https://projectdiscovery.io",
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -47169,7 +47228,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Narrow tool-support server (Nuclei/Subfinder/httpx), audience intermediate/advanced only, summary says 'more than absolute beginners' — bf2 matches peer tool servers, not bf3."
+    }
+   ]
   },
   {
    "id": "caido",
@@ -47446,7 +47511,7 @@
    "summary": "This is the official Discord for Exegol, a community-maintained Docker-based hacking environment/toolbox popular in French and wider pentest circles as an alternative to full pentest distros. Members get help installing and configuring the containerized toolset, discuss included tools, and report issues to the maintainers. It suits people already comfortable with pentesting workflows and Docker rather than absolute beginners.",
    "run_by": "Exegol project (community-maintained)",
    "website": "https://exegol.com/",
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -47467,7 +47532,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "bf3 is inconsistent with peer narrow tool-support servers (audience intermediate/advanced only, summary explicitly excludes absolute beginners) — matches the bf2 cluster (e.g. tracecat, rhino-security-labs, akto)."
+    }
+   ]
   },
   {
    "id": "x64dbg",
@@ -47963,7 +48034,7 @@
    "summary": "This is the official community Discord for TheHive and Cortex, an open-source security case-management platform and analysis engine run by the company StrangeBee (founded by TheHive's original creators). SOC analysts and incident responders use it to ask deployment and integration questions and discuss the tools with StrangeBee staff and other users. It suits people already working in DFIR/SOC roles rather than security newcomers.",
    "run_by": "StrangeBee (company behind TheHive and Cortex)",
    "website": "https://strangebee.com/",
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -47984,7 +48055,13 @@
    "rules_note": "Community/support Discord for TheHive (case management) and Cortex (analysis engine); mostly deployment and usage questions from SOC/DFIR practitioners.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Narrow single-product DFIR tool server, audience intermediate/advanced only, summary excludes security newcomers — bf2 matches peers (e.g. tracecat), not bf3."
+    }
+   ]
   },
   {
    "id": "crowdsec",
@@ -48036,7 +48113,7 @@
    "summary": "This is the official support Discord for CrowdSec, an open-source, crowdsourced IDS/IPS/WAF that detects malicious behavior from logs and shares a community IP blocklist. Sysadmins and blue teamers ask setup and configuration questions, share detection scenarios, and get help from the CrowdSec team directly. It suits people deploying the tool on their own infrastructure more than security beginners.",
    "run_by": "CrowdSec (company)",
    "website": "https://www.crowdsec.net/",
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -48057,7 +48134,13 @@
    "rules_note": "Official support Discord for the CrowdSec open-source IDS/IPS/WAF; audience is sysadmins and blue teamers deploying the agent and sharing blocklist data.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Narrow single-product tool server, audience intermediate/advanced only, summary excludes security beginners — bf2 matches peer tool servers, not bf3."
+    }
+   ]
   },
   {
    "id": "dfir-iris",
@@ -48165,7 +48248,7 @@
    "summary": "This is the community Discord for Shuffle, an open-source SOAR (security orchestration, automation and response) platform built by and for security professionals. Security engineers here discuss building automation workflows, integrating tools via the platform's connectors, and get support from the lead maintainer and other users. It suits people already running or evaluating SOAR tooling rather than newcomers to security.",
    "run_by": "Shuffle (open-source project, led by maintainer 'Frikky')",
    "website": "https://shuffler.io/",
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -48186,7 +48269,13 @@
    "rules_note": "Support/community Discord for the Shuffle open-source SOAR platform; audience is security engineers building automation workflows.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Narrow SOAR tool server, audience intermediate/advanced only, summary excludes newcomers — should be bf2 like the nearly identical tracecat-community entry, not bf3."
+    }
+   ]
   },
   {
    "id": "tracecat-community",
@@ -48566,7 +48655,7 @@
      "online": 2707
     }
    ],
-   "category": "adjacent",
+   "category": "hardware",
    "tags": [
     "rf-sdr",
     "iot-embedded",
@@ -48601,7 +48690,13 @@
    "rules_note": "Joins via a vanity redirect link (meshcore.gg) to the Discord invite.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Same type of community as r-meshtastic (open-source LoRa mesh hardware/firmware hobby, not tied to one commercial product) which is correctly categorized 'hardware'; meshcore-io was inconsistently labeled 'adjacent'."
+    }
+   ]
   },
   {
    "id": "satdump",
@@ -48985,7 +49080,7 @@
    "summary": "This is the official community for PentesterLab, a platform with hundreds of hands-on labs and videos teaching web application vulnerabilities, exploitation, and code review. People come here to get unstuck on a specific lab, discuss CVEs, and share tips without spoiling answers for others, and the platform explicitly markets itself to newcomers in web pentesting as well as working professionals. A free tier plus a paid subscription for deeper content make it approachable to start with.",
    "run_by": "PentesterLab",
    "website": "https://www.pentesterlab.com",
-   "beginner_friendly": 5,
+   "beginner_friendly": 4,
    "audience": [
     "beginner",
     "intermediate"
@@ -49008,7 +49103,13 @@
    "rules_note": "Join via the public Discord invite; some content requires a paid PentesterLab Pro subscription.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "This is a single paid product's community/support Discord rather than a mentored beginner hub; per the scale note, a tool-support-style server for one product should rarely score 5, so bf4 is more consistent."
+    }
+   ]
   },
   {
    "id": "hetty",
@@ -49422,7 +49523,7 @@
      "online": 222
     }
    ],
-   "category": "general",
+   "category": "learning",
    "tags": [
     "general-infosec",
     "programming",
@@ -49456,7 +49557,13 @@
    "rules_note": "Join via free Discord invite (also linked from their Linktree) or register on the underc0de.org forum.",
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Miscategorized as 'general' while its sibling forum entry (same org, same content: courses, certification advice, structured challenges, study-group tag) is correctly 'learning' — should match."
+    }
+   ]
   },
   {
    "id": "hackndo",
@@ -50385,8 +50492,9 @@
      "online": 255
     }
    ],
-   "category": "redteam",
+   "category": "tool",
    "tags": [
+    "tool-support",
     "red-team",
     "pentesting",
     "ai-security",
@@ -50418,7 +50526,13 @@
    "rules_note": "Self-service Discord invite; primarily tool support and usage discussion, not a general pentesting learning community.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Single-product support Discord for the Strix tool; matches the 'tool (one product/project support)' category definition rather than redteam, and was missing the tool-support tag that sibling entries (viper-platform, adscan-community, packj) carry."
+    }
+   ]
   },
   {
    "id": "imhex",
@@ -50534,8 +50648,9 @@
      "online": 144
     }
    ],
-   "category": "redteam",
+   "category": "tool",
    "tags": [
+    "tool-support",
     "red-team",
     "pentesting",
     "ai-security",
@@ -50567,7 +50682,13 @@
    "rules_note": "Self-service Discord invite; vendor-run community centered on Keygraph's product and open-source tool.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Support community for one product (Keygraph's Shannon); fits 'tool' category, not redteam, and needed the tool-support tag for consistency with equivalent entries."
+    }
+   ]
   },
   {
    "id": "quivr",
@@ -51018,8 +51139,9 @@
      "online": 133
     }
    ],
-   "category": "redteam",
+   "category": "tool",
    "tags": [
+    "tool-support",
     "red-team",
     "pentesting",
     "ai-security",
@@ -51050,7 +51172,13 @@
    "rules_note": "Self-service Discord invite; tool-focused community for an autonomous AI pentesting platform.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Support community for one product (PentAGI); fits 'tool' category, not redteam, and needed the tool-support tag for consistency with equivalent entries."
+    }
+   ]
   },
   {
    "id": "docker-slim-community",
@@ -51102,7 +51230,7 @@
    "summary": "This is the support and discussion server for Slim (SlimToolkit), an open-source tool maintained by its creator with the open-source community and Root.io that shrinks and hardens Docker container images without changing their behavior. People come here to ask about image minification, generated security profiles, Dockerfile linting, and to report issues or contribute; it suits developers and DevOps/cloud-security practitioners already comfortable with containers rather than absolute beginners.",
    "run_by": "SlimToolkit open-source project (Root.io)",
    "website": null,
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -51123,7 +51251,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Narrow single-tool support server, audience intermediate/advanced only, summary says 'rather than absolute beginners' — should match bf2 peers, not bf3."
+    }
+   ]
   },
   {
    "id": "safeline-waf",
@@ -51175,7 +51309,7 @@
    "summary": "Run by Chaitin, a Chinese security company, this is the community hub for SafeLine, a self-hosted open-source web application firewall used on hundreds of thousands of sites. Members ask for help deploying and tuning the WAF, discuss detection rules and false positives, and get support from staff and other admins; it's aimed at sysadmins and appsec-minded developers rather than newcomers to security.",
    "run_by": "Chaitin Technology",
    "website": "https://waf.chaitin.com",
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -51196,7 +51330,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Narrow single-product WAF support server, audience intermediate/advanced only, summary excludes newcomers — bf2 matches equivalent tool-support peers, not bf3."
+    }
+   ]
   },
   {
    "id": "screenpipe-com-yc-s26",
@@ -51326,7 +51466,15 @@
    "rules_note": null,
    "red_flags": "Core content is jailbreak/prompt-injection material designed to bypass AI safety systems; some members may use techniques for harmful ends. Beginners should be aware the tone is irreverent/adversarial, not educational-first.",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "hidden": true,
+   "exclude_reason": "Core activity is trading AI jailbreak/prompt-injection prompts to bypass safety systems, not security learning; the entry's own red_flags note harmful-use risk and an adversarial, non-educational tone, making it unsafe to recommend in a beginner/intermediate-facing directory.",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Red_flags text itself documents harmful-use risk and an adversarial (not educational) culture, meeting the hide criterion for red_flags that make a listing unsafe to recommend."
+    }
+   ]
   },
   {
    "id": "optimizer",
@@ -51547,7 +51695,7 @@
    "summary": "This Discord is run around System Informer (formerly Process Hacker), a free open-source Windows process/resource monitor maintained by Winsider Seminars & Solutions, a company focused on Windows internals training. Members use the tool to inspect processes, network connections, and kernel-level activity, often for debugging or hunting malware, and the server is where users get help, report bugs, and discuss development; it suits people already comfortable with Windows internals more than total beginners.",
    "run_by": "Winsider Seminars & Solutions, Inc.",
    "website": "https://systeminformer.com",
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -51568,7 +51716,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Narrow single-tool support server, audience intermediate/advanced only, summary says 'more than total beginners' — bf2 matches peer tool servers, not bf3."
+    }
+   ]
   },
   {
    "id": "pentestgpt",
@@ -52979,7 +53133,7 @@
    "tags": [
     "web-appsec",
     "programming",
-    "detection-engineering"
+    "general-infosec"
    ],
    "summary": "Discord server for the Python Code Quality Authority (PyCQA), home of Bandit, a static-analysis linter that scans Python code for common security issues. Contributors and users discuss Bandit rule development, false positives, and integration into CI pipelines; it's a niche appsec tooling channel rather than a general learning space.",
    "run_by": "PyCQA (open-source project)",
@@ -53005,7 +53159,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "'detection-engineering' refers to SOC/blue-team detection content, not a static-analysis linter (Bandit); swapped for the more accurate general-infosec tag."
+    }
+   ]
   },
   {
    "id": "reconftw",
@@ -53198,8 +53358,7 @@
    "tags": [
     "reverse-engineering",
     "programming",
-    "tool-support",
-    "hacker-culture"
+    "tool-support"
    ],
    "summary": "This is the support and discussion server for Recaf, an open-source Java bytecode editor maintained by developer Col-E. People come here to ask usage questions, report bugs, and discuss reverse engineering and modifying compiled Java applications, so it suits those already comfortable with Java internals and bytecode rather than newcomers to security.",
    "run_by": "Col-E (open-source project)",
@@ -53225,7 +53384,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "'hacker-culture' doesn't fit a Java bytecode editor's support server; the described activity is purely tool usage and RE, not culture/community content."
+    }
+   ]
   },
   {
    "id": "cyberstrikeai",
@@ -53911,7 +54076,7 @@
      "online": 9
     }
    ],
-   "category": "redteam",
+   "category": "tool",
    "tags": [
     "red-team",
     "pentesting",
@@ -53943,7 +54108,13 @@
    "rules_note": null,
    "red_flags": "A red-team adversary simulation tool; use is intended for authorized testing only.",
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Already tagged tool-support and is a single-product (Viper) support server; category should be 'tool' rather than redteam, matching the category definition."
+    }
+   ]
   },
   {
    "id": "wigolo",
@@ -54304,7 +54475,6 @@
    "tags": [
     "cloud-security",
     "general-infosec",
-    "careers",
     "tool-support"
    ],
    "summary": "This server is built around CISO Assistant, an open-source GRC (governance, risk, and compliance) platform made by the French cybersecurity company Intuitem. People here discuss risk management, compliance frameworks, audits, and privacy/TPRM workflows, and get support using the tool directly from its developers and other GRC practitioners. It suits security professionals and GRC/compliance folks more than hands-on hackers.",
@@ -54332,7 +54502,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "'careers' tag doesn't match the described content (risk/compliance/audit tool support), which never mentions jobs or career discussion."
+    }
+   ]
   },
   {
    "id": "zen",
@@ -58228,7 +58404,7 @@
      "online": 19
     }
    ],
-   "category": "redteam",
+   "category": "tool",
    "tags": [
     "red-team",
     "pentesting",
@@ -58260,7 +58436,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Single-product (ADscan) support server already tagged tool-support; category should be 'tool' rather than redteam."
+    }
+   ]
   },
   {
    "id": "packj-discord-community",
@@ -58302,7 +58484,7 @@
      "online": 1
     }
    ],
-   "category": "appsec",
+   "category": "tool",
    "tags": [
     "cloud-security",
     "programming",
@@ -58333,7 +58515,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Single-product (Packj) support server already tagged tool-support; category should be 'tool' rather than appsec, matching the category definition."
+    }
+   ]
   },
   {
    "id": "softscale-web-agency-saas",
@@ -58445,7 +58633,7 @@
      "online": 51
     }
    ],
-   "category": "tool",
+   "category": "hardware",
    "tags": [
     "iot-embedded",
     "hardware-hacking",
@@ -58478,7 +58666,13 @@
    "rules_note": null,
    "red_flags": "Firmware includes offensive features (deauth, jamming, BLE flooding) framed as security testing/education; usage may be illegal in some jurisdictions.",
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Community is built around flashing and using a physical ESP32+CC1101 hardware board, matching the 'hardware' pattern used for Bjorn, HackRF PortaPack Mayhem, Minigotchi, and Kiisu.io, not the single-software-tool 'tool' pattern."
+    }
+   ]
   },
   {
    "id": "wintergate",
@@ -58591,7 +58785,7 @@
      "online": 137
     }
    ],
-   "category": "tool",
+   "category": "hardware",
    "tags": [
     "hardware-hacking",
     "rf-sdr",
@@ -58624,7 +58818,13 @@
    "rules_note": null,
    "red_flags": "Firmware supports RF jamming, brute-forcing, and rolling-code attacks (RollJam/Rollback) — transmitting these signals is illegal in many places without authorization.",
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Community centers on a physical CC1101-based RF hacking board and its firmware, the same pattern as other physical-device servers labeled 'hardware' elsewhere in this file (e.g. Kiisu.io, HackRF PortaPack Mayhem), not a single-software-tool support server."
+    }
+   ]
   },
   {
    "id": "ctfnote",
@@ -58865,7 +59065,7 @@
      "online": 572
     }
    ],
-   "category": "tool",
+   "category": "hardware",
    "tags": [
     "hardware-hacking",
     "flipper-zero",
@@ -58898,7 +59098,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "This is a general Flipper Zero device community (firmware, RFID/NFC, sub-GHz, IR), not support for a single software tool/project, so it belongs in 'hardware' alongside Wall of Flippers and Kiisu.io rather than 'tool'."
+    }
+   ]
   },
   {
    "id": "cccs-aurora",
@@ -59362,7 +59568,7 @@
      "online": 20
     }
    ],
-   "category": "hardware",
+   "category": "tool",
    "tags": [
     "rf-sdr",
     "hardware-hacking",
@@ -59393,7 +59599,13 @@
    "rules_note": "Join via Discord invite link; discussion is focused on the RF Swift toolbox and its supported hardware/tools.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "RF Swift is a pure software container toolbox for a single project (PentHertz's RF Swift), not a physical device or general RF/hardware category — matches the 'tool' (single-project support) pattern used for FutureSDR, IQEngine, and FISSURE, not the 'hardware' pattern."
+    }
+   ]
   },
   {
    "id": "jones-inc",
@@ -59817,7 +60029,15 @@
    "rules_note": null,
    "red_flags": "Only 3 members total — effectively unlaunched as a community.",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "hidden": true,
+   "exclude_reason": "Only 3 total members and the entry itself notes it is 'effectively unlaunched as a community' — nothing here for a visitor to join or learn from yet.",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "No functioning community exists yet to recommend to readers."
+    }
+   ]
   },
   {
    "id": "rctf",
@@ -61009,7 +61229,7 @@
    "summary": "FadSec Lab is a suite of ad-free, privacy-focused open-source apps (WiFade, FadCam, FadCrypt, Fadocx and others) built mainly by one developer known as anonfaded (Faded). The Discord is where users of these apps get support, report bugs, request features, and discuss privacy and security tooling for Android, Windows and Linux.",
    "run_by": "anonfaded (Faded)",
    "website": null,
-   "beginner_friendly": 4,
+   "beginner_friendly": 3,
    "audience": [
     "beginner",
     "intermediate"
@@ -61032,7 +61252,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Standard single-developer app-support server (bug reports, feature requests) with no stated beginner mentorship, matching bf3 peers like Zen rather than bf4."
+    }
+   ]
   },
   {
    "id": "openqore-community",
@@ -61344,7 +61570,8 @@
     "lockpicking-physical",
     "ctf",
     "reverse-engineering",
-    "ics-ot"
+    "ics-ot",
+    "red-team"
    ],
    "summary": "Cybersecurity Sacramento / DC916 is the DEF CON group for the greater Sacramento area, bringing together hackers, makers, students and security professionals for monthly meetings (second Wednesday, in-person and via Discord) covering lock-picking, hardware/badge hacking, CTFs, reverse engineering, red-teaming and ICS security. It welcomes hobbyists and students alongside working practitioners.",
    "run_by": "community-run (DEF CON Group DC916)",
@@ -61373,7 +61600,13 @@
    "rules_note": "Group maintains a published Code of Conduct; meetings are second Wednesday of the month, 7-8:30pm.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary explicitly mentions red-teaming as a covered topic, but the red-team tag was missing."
+    }
+   ]
   },
   {
    "id": "dc757",
@@ -61508,7 +61741,7 @@
    "summary": "This is the Phoenix, Arizona DEF CON Group (DC602), a local hacker and security meetup that gathers monthly in person with a Discord (and puzzle-gated Slack) backing it online. People show up for talks, hallway networking, and general hacker-culture socializing rather than structured training.",
    "run_by": "community-run (DEF CON Group DC602)",
    "website": "https://www.dc602.org/",
-   "beginner_friendly": 4,
+   "beginner_friendly": 3,
    "audience": [
     "beginner",
     "intermediate",
@@ -61534,7 +61767,13 @@
    "rules_note": "In-person meetings held 3rd Thursday monthly at a Phoenix venue; doors lock ~6:05pm, ping Discord/Slack to be let in if late.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Description is generic talks + hallway networking with no explicit beginner-welcome language; DC4822 Warsaw has the same profile and is rated 3, so 4 is an outlier."
+    }
+   ]
   },
   {
    "id": "defcon-4822-warsaw",
@@ -61661,7 +61900,7 @@
    "summary": "This is DC512, the Austin, Texas DEF CON Group, which holds a monthly in-person meetup (currently at a local brewery) where members network and give short talks on hacking and security topics. Its Discord is the online hub for the same community between meetups.",
    "run_by": "community-run (DEF CON Group DC512)",
    "website": "https://dc512.org/",
-   "beginner_friendly": 4,
+   "beginner_friendly": 3,
    "audience": [
     "beginner",
     "intermediate",
@@ -61684,7 +61923,13 @@
    "rules_note": "Meets 1st Monday monthly; RSVP/details mainly coordinated via Meetup.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Monthly talks + networking with no explicit beginner-welcome statement, same profile as DC4822 Warsaw (rated 3); inconsistent to rate this one 4."
+    }
+   ]
   },
   {
    "id": "dc209-cybersecurity-collective",
@@ -62416,7 +62661,7 @@
    "summary": "DC970 is the Northern Colorado DEF CON group serving Fort Collins and the surrounding area, running regular meetings on topics like red team tradecraft, malware analysis, and packet analysis. Members also do CTF competitions together and share writeups, suiting local infosec folks who want in-person talks plus an online Discord for ongoing chat.",
    "run_by": "community-run",
    "website": "https://dc970.org",
-   "beginner_friendly": 4,
+   "beginner_friendly": 3,
    "audience": [
     "beginner",
     "intermediate",
@@ -62440,7 +62685,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Topics (red team tradecraft, malware analysis, packet analysis) skew advanced and there is no explicit beginner-welcome language, unlike peer DC groups rated 4-5."
+    }
+   ]
   },
   {
    "id": "fubar-labs",
@@ -63303,7 +63554,7 @@
    "summary": "Brmlab is Prague's first hackerspace, a member-run physical space where people work on electronics, robotics, programming, digital art, and general hacking projects. The Discord is an extension of the in-person space, used for coordinating meetups, sharing projects, and general tech chat; security is one interest among many rather than the sole focus.",
    "run_by": "community-run (Brmlab hackerspace)",
    "website": "https://brmlab.cz/",
-   "beginner_friendly": 4,
+   "beginner_friendly": 3,
    "audience": [
     "beginner",
     "intermediate",
@@ -63328,7 +63579,13 @@
    "rules_note": "Open weekly Tuesday meetups at the physical space; Discord invite listed on the homepage.",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "No explicit newcomer-welcome language, unlike peer hackerspaces (HSBXL, CCC Hamburg, Warsaw Hackerspace) rated 4; closer to realraum's profile, which is rated 3."
+    }
+   ]
   },
   {
    "id": "bitraf",
@@ -64257,7 +64514,7 @@
      "online": 138
     }
    ],
-   "category": "careers",
+   "category": "creator",
    "tags": [
     "certifications",
     "study-group",
@@ -64291,7 +64548,13 @@
    "rules_note": "Join via public Discord invite; oriented toward CompTIA exam-takers.",
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Run by a single personality/company (Mike Meyers/Total Seminars) around his own content, matching the pattern of other creator-run entries (ProjectSecurity, Cyber Insecurity) rather than a neutral careers hub like r/ISC2."
+    }
+   ]
   },
   {
    "id": "cyber-insecurity",

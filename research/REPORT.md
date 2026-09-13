@@ -2,32 +2,32 @@
 
 Generated 2026-09-13.
 
-- Servers in database: **867** (visible 691, hidden as off-topic/rejected 145, dead invites 0)
+- Servers in database: **867** (visible 689, hidden as off-topic/rejected 147, dead invites 0)
 - Name-only leads that could not be resolved to a working invite: 368
 - Organizations checked and confirmed to have no public Discord (Slack/Matrix/forum instead, or none): 921
 
 ## Visible servers by category
 
-- tool: 141
-- learning: 78
-- ctf: 67
+- tool: 144
+- learning: 79
+- ctf: 68
 - regional: 64
-- general: 63
+- general: 62
 - conference: 50
-- creator: 33
-- adjacent: 33
+- creator: 34
+- hardware: 34
+- adjacent: 32
 - blueteam: 32
-- hardware: 31
-- redteam: 29
-- appsec: 20
+- redteam: 22
+- appsec: 19
 - osint: 19
-- careers: 14
+- careers: 13
 - village: 13
 - affinity: 4
 
 ## Visible by platform
 
-- discord: 589
+- discord: 587
 - reddit: 47
 - forum: 32
 - matrix: 9
@@ -38,14 +38,14 @@ Generated 2026-09-13.
 ## Beginner-friendliness distribution (visible)
 
 - 1: 4
-- 2: 125
-- 3: 200
-- 4: 246
-- 5: 116
+- 2: 131
+- 3: 197
+- 4: 243
+- 5: 114
 
 ## Languages (visible)
 
-- en: 639
+- en: 637
 - fr: 16
 - es: 12
 - pt: 7
@@ -78,7 +78,6 @@ Generated 2026-09-13.
 - Overflow — 71,134 members, 5,033 online — creator (discord)
 - Fosstodon — 62,697 members, 0 online — adjacent (mastodon)
 - Black Hills Infosec — 61,406 members, 6,808 online — general (discord)
-- BASI — 60,669 members, 8,651 online — redteam (discord)
 - DEFCON — 57,969 members, 10,118 online — conference (discord)
 - Meshtastic — 52,930 members, 9,155 online — adjacent (discord)
 - Learn Prompting/HackAPrompt — 51,469 members, 2,343 online — learning (discord)
@@ -86,6 +85,7 @@ Generated 2026-09-13.
 - Cybersecurity Station — 46,094 members, 3,014 online — careers (discord)
 - Bellingcat — 43,792 members, 4,779 online — osint (discord)
 - Nahamsec — 41,716 members, 4,661 online — creator (discord)
+- pwn.college — 41,040 members, 6,011 online — ctf (discord)
 
 ## Hidden (rejected) servers and why
 
@@ -104,6 +104,7 @@ Generated 2026-09-13.
 - BA Boosts: Old School RuneScape boosting/game-service server, not security-related
 - BA Chads: Old School RuneScape boosting/game-service server, not security-related
 - BaddBlood Customs: A FiveM vehicle-mod shop/community for a video game, unrelated to cybersecurity; matched by the unrelated search query 'comptia'.
+- BASI: Core activity is trading AI jailbreak/prompt-injection prompts to bypass safety systems, not security learning; the entry's own red_flags note harmful-use risk 
 - BC Security Corporation: A Roblox game-development community making an Ultrakill-inspired shooter; 'Security' in the name is a game/roleplay theme, not infosec
 - BENJI CENTRAL: Gaming/streamer fan community (Brazilian creator B3NJI), not security-related
 - BentoPDF: BentoPDF is a general-purpose PDF editing/conversion toolkit; its client-side/no-upload design is a privacy convenience feature, not a security or hacking focus
@@ -118,6 +119,7 @@ Generated 2026-09-13.
 - camera.ui: auto: GitHub repo with no security-related description/topics
 - carlasim: CARLA is an open-source autonomous-driving simulator; this Discord and its associated GitHub resource list are about robotics/self-driving simulation, not cyber
 - Casio Hacking Community: Vietnamese-language community about hacking/modding Casio calculators (custom firmware, programs, homebrew) — a calculator-modding hobby, not cybersecurity or a
+- clawdstrike: Only 3 total members and the entry itself notes it is 'effectively unlaunched as a community' — nothing here for a visitor to join or learn from yet.
 - Clickswave: auto: GitHub repo with no security-related description/topics
 - CS Majors: General computer science / tech career community (interview prep, general CS chat) with only incidental security-related channels, not a security-focused server
 - DataTorch: DataTorch is a browser-based computer-vision data-annotation/labeling platform (positioned as a coco-annotator successor); it has no cybersecurity focus, so it 
