@@ -639,7 +639,7 @@
     "careers",
     "students"
    ],
-   "summary": "Phish Club is a volunteer-run 501(c)(3) nonprofit that runs hands-on cybersecurity workshops, CTF nights, mentorship, and social events aimed at making the field approachable and fun rather than intimidating. It's explicitly welcoming to all skill levels, from complete beginners and job-seekers to working professionals looking to mentor, with free membership and both online and in-person activity.",
+   "summary": "A volunteer-run 501(c)(3) nonprofit that hosts hands-on cybersecurity workshops, CTF nights, mentorship, and social events aimed at making the field approachable rather than intimidating. It welcomes all skill levels, from complete beginners and job-seekers to professionals who mentor, with free membership and both online and in-person activity.",
    "run_by": "Phish Club (volunteer nonprofit board)",
    "website": "https://phishclub.org",
    "beginner_friendly": 5,
@@ -664,7 +664,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name."
+    }
+   ]
   },
   {
    "id": "offensive-appliances",
@@ -1413,7 +1419,7 @@
      "online": 137
     }
    ],
-   "category": "regional",
+   "category": "conference",
    "tags": [
     "regional",
     "conference",
@@ -1447,7 +1453,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Single-event BSides Discord identical in nature to bsidesslc/bsides-charlotte/etc, all of which are categorized 'conference'; 'regional' is inconsistent with those peers."
+    }
+   ]
   },
   {
    "id": "summit-city-infosec",
@@ -1487,7 +1499,7 @@
      "online": 95
     }
    ],
-   "category": "regional",
+   "category": "conference",
    "tags": [
     "regional",
     "conference",
@@ -1520,7 +1532,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "This is the BSides Fort Wayne conference Discord, same profile as other single-event BSides entries categorized 'conference'."
+    }
+   ]
   },
   {
    "id": "houston-bsides",
@@ -1559,7 +1577,7 @@
      "online": 26
     }
    ],
-   "category": "regional",
+   "category": "conference",
    "tags": [
     "regional",
     "conference",
@@ -1589,7 +1607,13 @@
    "rules_note": null,
    "red_flags": "official site could not be confirmed reachable at time of research",
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Single-event BSides Houston Discord; inconsistent with identical peer entries (bsidesslc, bsides-ct, etc.) categorized 'conference'."
+    }
+   ]
   },
   {
    "id": "bsides-leeds",
@@ -1628,7 +1652,7 @@
      "online": 53
     }
    ],
-   "category": "regional",
+   "category": "conference",
    "tags": [
     "regional",
     "conference",
@@ -1660,7 +1684,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Single-event BSides Leeds Discord; inconsistent with identical peer entries categorized 'conference'."
+    }
+   ]
   },
   {
    "id": "bsides-memphis",
@@ -1699,7 +1729,7 @@
      "online": 15
     }
    ],
-   "category": "regional",
+   "category": "conference",
    "tags": [
     "regional",
     "conference",
@@ -1729,7 +1759,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Single-event BSides Memphis Discord; inconsistent with identical peer entries categorized 'conference'."
+    }
+   ]
   },
   {
    "id": "bsidesmke",
@@ -3214,7 +3250,7 @@
    "summary": "Official Discord for NorthSec, a major Montreal-based security conference and one of the largest CTF competitions in the world, covering pentesting, network and application security, reverse engineering, malware, and cryptography. The community discusses talks, training, and the CTF (roughly 90+ teams compete each year), and stays active year-round between events. It suits people already comfortable with offensive security concepts more than absolute beginners.",
    "run_by": "NorthSec team",
    "website": "https://nsec.io",
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -3235,7 +3271,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Audience is intermediate/advanced only and summary says it suits people 'already comfortable with offensive security concepts more than absolute beginners' -- matches bf=2 (narrow/advanced), like peer conferences secwest-net and hardwear-io, not bf=3."
+    }
+   ]
   },
   {
    "id": "open-sauce",
@@ -4622,7 +4664,15 @@
    "rules_note": "Note: the source listing labeled this 'BSides Vilnius' but the linked Discord and site both point to Elbsides (Hamburg), not a Vilnius event.",
    "red_flags": "Naming mismatch between listing label and actual conference identified from the invite/site",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "hidden": true,
+   "exclude_reason": "The entry is titled/id'd 'BSides Vilnius' but the researcher's own summary and red_flags note the invite actually belongs to a completely different conference, Elbsides in Hamburg, Germany. A user searching for BSides Vilnius would be misdirected to an unrelated community, and this mismatch cannot be fixed by editing category/tags/summary alone.",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Listing name/id does not match the actual community behind the invite; misleading as currently labeled."
+    }
+   ]
   },
   {
    "id": "hackers-guild",
@@ -5410,7 +5460,8 @@
     "pentesting",
     "linux",
     "study-group",
-    "careers"
+    "careers",
+    "mentorship"
    ],
    "summary": "This is the official Discord for OffSec, the company behind Kali Linux and certifications like OSCP, OSWE, and OSEP. People use it to get help with OffSec courses and labs, discuss certification study strategies, and talk shop with other students and alumni pursuing hands-on penetration testing skills. It suits anyone working through OffSec's training pipeline, from PEN-100 beginners to advanced cert-holders.",
    "run_by": "OffSec",
@@ -5440,7 +5491,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Activities list includes mentorship (weekly office hours) but the tag was missing."
+    }
+   ]
   },
   {
    "id": "cyberdrain",
@@ -6898,7 +6955,8 @@
     "study-group",
     "students",
     "certifications",
-    "careers"
+    "careers",
+    "mentorship"
    ],
    "summary": "A large nonprofit-run cybersecurity education community aimed at giving everyone, especially beginners, easy access to learning resources, mentorship, and study support. People ask questions, join study groups, get advice on certifications and career paths, and occasionally win sponsored training vouchers. One of the more explicitly beginner-welcoming general infosec servers given its scale and stated mission.",
    "run_by": "Cyber Info (nonprofit, community-run)",
@@ -6925,7 +6983,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Activities list mentorship explicitly; tag was missing."
+    }
+   ]
   },
   {
    "id": "bugcrowd-community",
@@ -7857,7 +7921,7 @@
     "binary-exploitation",
     "students"
    ],
-   "summary": "The community around TCP1P, an active Indonesian CTF team that also runs its own CTF competitions and shares knowledge with newcomers. Members practice challenges together, discuss writeups, and chat casually (including non-security banter like Wordle), making it a friendly entry point for Indonesian-speaking beginners interested in CTFs.",
+   "summary": "The community around TCP1P, an active Indonesian CTF team that also runs its own CTF competitions and shares knowledge with newcomers. Members practice challenges together, discuss writeups, and chat casually (including non-security banter like Wordle), making it a friendly entry point for beginners interested in CTFs.",
    "run_by": "TCP1P (community CTF team, Indonesia)",
    "website": null,
    "beginner_friendly": 4,
@@ -7881,7 +7945,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary called it a hub for 'Indonesian-speaking beginners' while the record's language field is 'en'; removed the contradictory language claim rather than guess at the actual chat language."
+    }
+   ]
   },
   {
    "id": "primesec",
@@ -8233,7 +8303,8 @@
     "networking",
     "linux",
     "programming",
-    "study-group"
+    "study-group",
+    "mentorship"
    ],
    "summary": "A faith-based cybersecurity and ethical hacking community aimed at beginners and students, covering Linux, networking, OSINT, Python, CTFs, and bug bounty basics. It's built around asking questions, sharing knowledge, and mentorship rather than competitive prestige, so it suits newcomers looking for a supportive, values-aligned space to learn.",
    "run_by": "community-run",
@@ -8262,7 +8333,13 @@
    "rules_note": "Explicitly faith-based (Christian) community framing.",
    "red_flags": null,
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary and activities both center on mentorship but the tag was missing."
+    }
+   ]
   },
   {
    "id": "cyberstudents",
@@ -8734,7 +8811,7 @@
     "ctf",
     "programming"
    ],
-   "summary": "DiosDeLaRed is a long-running Spanish-language community (since 2007) dedicated to information security and ethical hacking, predating Discord itself as a forum/community before moving there. It's a general hangout for Spanish-speaking hackers to discuss techniques and share knowledge. Fits Spanish speakers looking for an established, veteran-run community rather than a structured beginner course.",
+   "summary": "A long-running Spanish-language community (since 2007) dedicated to information security and ethical hacking, predating Discord itself as a forum before moving there. It's a general hangout for Spanish-speaking hackers to discuss techniques and share knowledge, fitting those who want an established, veteran-run community rather than a structured beginner course.",
    "run_by": "community-run",
    "website": null,
    "beginner_friendly": 3,
@@ -8757,7 +8834,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name."
+    }
+   ]
   },
   {
    "id": "evil-sec",
@@ -9158,7 +9241,8 @@
     "general-infosec",
     "pentesting",
     "malware-analysis",
-    "students"
+    "students",
+    "mentorship"
    ],
    "summary": "A large, general-purpose information security community where professionals across skill levels answer questions and discuss infosec topics broadly rather than any single specialty. It suits newcomers looking for a place to ask basic questions as well as more experienced practitioners who want to chat, though the generic name makes it hard to distinguish a distinct focus or organizer.",
    "run_by": "community-run",
@@ -9188,7 +9272,13 @@
    "rules_note": null,
    "red_flags": "Generic branding ('WhiteHat Security') not tied to a known organization; verify legitimacy before recommending prominently",
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Activities list includes mentorship; tag was missing."
+    }
+   ]
   },
   {
    "id": "ratter-scanner-development",
@@ -9303,7 +9393,7 @@
     "osint",
     "privacy"
    ],
-   "summary": "Uncover It is a small community-run server focused on raising awareness of scams and malware and helping members avoid them. People share warnings about active scams, discuss suspicious links/messages, and chat generally about staying safe online. It suits casual users wanting a lighter, scam-awareness-focused space rather than deep technical security training.",
+   "summary": "A small community-run server focused on raising awareness of scams and malware and helping members avoid them. People share warnings about active scams, discuss suspicious links and messages, and chat generally about staying safe online. It suits casual users wanting a lighter, scam-awareness-focused space rather than deep technical security training.",
    "run_by": "community-run",
    "website": null,
    "beginner_friendly": 3,
@@ -9325,7 +9415,13 @@
    "rules_note": null,
    "red_flags": "Little independent information available beyond the server's own description; unverified server.",
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name."
+    }
+   ]
   },
   {
    "id": "eric-parker",
@@ -9707,7 +9803,8 @@
     "ctf",
     "students",
     "regional",
-    "study-group"
+    "study-group",
+    "mentorship"
    ],
    "summary": "RUSEC is the official cybersecurity club at Rutgers University, run by a student executive board with instructors teaching topics like web security, forensics, reverse engineering, and malware analysis. Members compete together in collegiate competitions such as CCDC and ISTS, and the server functions as the club's main hub for coordinating meetings, study sessions, and competition prep.",
    "run_by": "Rutgers University Security Club (student-run)",
@@ -9733,7 +9830,13 @@
    "rules_note": "Primarily oriented toward Rutgers University students",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Activities list includes 'mentorship' (instructors teaching members) but the tag was missing."
+    }
+   ]
   },
   {
    "id": "bc-security-corporation",
@@ -10003,7 +10106,7 @@
     "reverse-engineering",
     "bug-bounty"
    ],
-   "summary": "SecEnt is a broad, community-run cybersecurity server covering both offensive and defensive topics: CTFs, red team, blue team, web security, OSINT, reverse engineering, and bug bounty, alongside general programming and AI discussion. It suits people who want a wide-ranging hub touching many security specialties rather than a single focused niche.",
+   "summary": "A broad, community-run cybersecurity server covering both offensive and defensive topics: CTFs, red team, blue team, web security, OSINT, reverse engineering, and bug bounty, alongside general programming and AI discussion. It suits people who want a wide-ranging hub touching many security specialties rather than a single focused niche.",
    "run_by": "community-run",
    "website": null,
    "beginner_friendly": 3,
@@ -10027,7 +10130,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name (SecEnt)."
+    }
+   ]
   },
   {
    "id": "blur-community",
@@ -11487,7 +11596,7 @@
     "bug-bounty",
     "careers"
    ],
-   "summary": "Meta4sec is an education-focused ethical hacking community, popular in Indonesia, that runs daily voice sessions plus weekly and monthly cybersecurity events. Members discuss general infosec topics, share bug bounty proof-of-concepts, and support each other's learning in a busy, active chat.",
+   "summary": "An education-focused ethical hacking community, popular in Indonesia, that runs daily voice sessions plus weekly and monthly cybersecurity events. Members discuss general infosec topics, share bug bounty proof-of-concepts, and support each other's learning in a busy, active chat.",
    "run_by": "community-run",
    "website": null,
    "beginner_friendly": 4,
@@ -11511,7 +11620,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name."
+    }
+   ]
   },
   {
    "id": "bosint-osintnova",
@@ -11926,7 +12041,7 @@
     "blue-team",
     "certifications"
    ],
-   "summary": "Pwned Labs is a cloud and AI security training platform (based in Dubai) offering hands-on labs, bootcamps with vendor-style certifications (for AWS, Azure, GCP), and cyber ranges; this Discord is its community hub where over 10,000 practitioners discuss cloud/AI attack and defense techniques and support each other's learning. It suits people specifically wanting to learn cloud security, from newcomers using the free academy tier up to advanced practitioners pursuing their paid certifications. Some content and certifications require payment.",
+   "summary": "This is the community hub for Pwned Labs, a Dubai-based cloud and AI security training platform offering hands-on labs, bootcamps with vendor-style certifications (AWS, Azure, GCP), and cyber ranges, where practitioners discuss cloud and AI attack and defense techniques and support each other's learning. It suits people specifically wanting to learn cloud security, from newcomers using the free academy tier up to advanced practitioners pursuing paid certifications. Some content and certifications require payment.",
    "run_by": "Pwned Labs",
    "website": "https://pwnedlabs.io",
    "beginner_friendly": 4,
@@ -11952,7 +12067,13 @@
    "rules_note": null,
    "red_flags": "Paid bootcamps/certifications are commercially promoted",
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name and stated an inflated approximate member count."
+    }
+   ]
   },
   {
    "id": "nwr-clan-reports-roblox-bedwars",
@@ -13493,7 +13614,7 @@
     "general-infosec",
     "study-group"
    ],
-   "summary": "AmberLabs is a hands-on cybersecurity learning community where members work through practical security challenges, CTFs, and mentoring together rather than just reading theory. It's pitched at people who learn by doing, from beginners picking up fundamentals to those looking for peer collaboration on harder challenges.",
+   "summary": "A hands-on cybersecurity learning community where members work through practical security challenges, CTFs, and mentoring together rather than just reading theory. It's pitched at people who learn by doing, from beginners picking up fundamentals to those looking for peer collaboration on harder challenges.",
    "run_by": "community-run",
    "website": null,
    "beginner_friendly": 4,
@@ -13517,7 +13638,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name."
+    }
+   ]
   },
   {
    "id": "hard-way-hacking-coding",
@@ -13713,7 +13840,7 @@
     "regional",
     "general-infosec"
    ],
-   "summary": "AstralGuard Cyber Academy is a small beginner-focused cybersecurity training community with roots in Africa (Uganda), explicitly welcoming newcomers into ethical hacking fundamentals alongside CTF practice. It suits people just starting out who want an encouraging, discipline-oriented environment rather than an advanced technical deep-dive.",
+   "summary": "A small beginner-focused cybersecurity training community with roots in Africa (Uganda), run as AstralGuard Cyber Academy and explicitly welcoming newcomers into ethical hacking fundamentals alongside CTF practice. It suits people just starting out who want an encouraging, discipline-oriented environment rather than an advanced technical deep-dive.",
    "run_by": "AstralGuard Cyber Academy",
    "website": null,
    "beginner_friendly": 5,
@@ -13735,7 +13862,13 @@
    "rules_note": null,
    "red_flags": "Very small (under 300 members); little independent verification available.",
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server/organization name."
+    }
+   ]
   },
   {
    "id": "cybersecurity-artists",
@@ -14000,9 +14133,10 @@
     "networking",
     "cryptography",
     "careers",
-    "students"
+    "students",
+    "mobile-security"
    ],
-   "summary": "LOCKE is a community-run server aimed at people getting into ethical hacking and IT/security broadly, covering CTF challenges, networking, cryptography, mobile security, and career discussion. It's explicitly pitched at newcomers with guidance on breaking into the field and runs its own CTF challenges with prizes.",
+   "summary": "A community-run server aimed at people getting into ethical hacking and IT/security broadly, covering CTF challenges, networking, cryptography, mobile security, and career discussion. It's explicitly pitched at newcomers with guidance on breaking into the field and runs its own CTF challenges with prizes.",
    "run_by": "community-run",
    "website": null,
    "beginner_friendly": 5,
@@ -14025,7 +14159,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary mentions mobile security but the tag was missing; also rewrote summary to stop it starting with the server name."
+    }
+   ]
   },
   {
    "id": "reverse-engineering",
@@ -14083,7 +14223,7 @@
    "summary": "This is a large community-run server dedicated to reverse engineering, covering exploitation, malware analysis, hardware, software cracking/protections, and general modding topics, with dedicated help and CTF channels. It suits people who already have some technical grounding and want to go deeper into low-level security topics rather than absolute beginners.",
    "run_by": "community-run",
    "website": null,
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -14107,7 +14247,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Audience is intermediate/advanced only and content assumes real technical grounding, matching peers scored 2 (public-club, rootkit-researchers) rather than the 3 it had."
+    }
+   ]
   },
   {
    "id": "ghidra-community",
@@ -14376,7 +14522,7 @@
    "summary": "Discord home of the long-running 0x00sec hacker forum, where members discuss malware development/analysis, reverse engineering, exploit development and general computer science topics in real time. It's relaxed and mod-accessible, but conversation assumes some existing technical background more than the affiliated forum's beginner articles do.",
    "run_by": "0x00sec (community-run)",
    "website": "https://0x00sec.org/",
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -14397,7 +14543,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Audience is intermediate/advanced only with no beginner content noted; inconsistent with peers (public-club, rootkit-researchers) scored 2 for the same profile."
+    }
+   ]
   },
   {
    "id": "imaginaryctf",
@@ -15197,7 +15349,15 @@
    "rules_note": "Discord access is tied to having an OffSec account/course enrollment for full channel access",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "hidden": true,
+   "exclude_reason": "duplicate of OffSec: Both entries are the official OffSec (Offensive Security) Discord; 'offsec' has 96,527 members vs 909 for 'offsec-2', indicating the latter is a stale/duplicate scrape of the same server.",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Duplicate entry; see duplicates list."
+    }
+   ]
   },
   {
    "id": "sans-offensive-operations",
@@ -15323,7 +15483,7 @@
     "ctf",
     "study-group"
    ],
-   "summary": "Pentest Laboratories is a community-run Discord for people practicing and discussing penetration testing, with general text and voice chat. It's a smaller, informal hangout rather than a structured course or lab platform, useful for casual discussion and questions about pentesting topics.",
+   "summary": "A community-run Discord for people practicing and discussing penetration testing, with general text and voice chat. It's a smaller, informal hangout rather than a structured course or lab platform, useful for casual discussion and questions about pentesting topics.",
    "run_by": "community-run",
    "website": null,
    "beginner_friendly": 3,
@@ -15345,7 +15505,13 @@
    "rules_note": null,
    "red_flags": "Little independent information available beyond listing sites; activity level uncertain",
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name."
+    }
+   ]
   },
   {
    "id": "republic-of-hackers",
@@ -15395,7 +15561,7 @@
     "ctf",
     "study-group"
    ],
-   "summary": "Republic of Hackers is a community-run server for hackers and infosec enthusiasts of all skill levels, with a competitive CTF team registered on CTFtime. Beyond general chat, members get help with mock interviews, resume reviews, and breaking into a cybersecurity career, alongside live sessions and networking. It's aimed squarely at people trying to learn fundamentals and land their first infosec job.",
+   "summary": "A community-run server for hackers and infosec enthusiasts of all skill levels, with a competitive CTF team registered on CTFtime. Beyond general chat, members get help with mock interviews, resume reviews, and breaking into a cybersecurity career, alongside live sessions and networking. It's aimed squarely at people trying to learn fundamentals and land their first infosec job.",
    "run_by": "community-run",
    "website": null,
    "beginner_friendly": 5,
@@ -15423,7 +15589,13 @@
    "rules_note": null,
    "red_flags": "A past incident reported the server being compromised and used for a fake airdrop scam (2024); confirm current admin diligence before trusting links posted there",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name."
+    }
+   ]
   },
   {
    "id": "deadpixelsec",
@@ -15474,7 +15646,7 @@
     "blue-team",
     "certifications"
    ],
-   "summary": "DeadPixelSec grew out of a CTF team started in 2019 around The Blind Hacker's journey as a visually impaired infosec professional, and has become a broad mentoring community covering red team, blue team, sysadmin, and certifications. It welcomes people from complete beginners to working professionals and has dedicated channels for certs, jobs, and both offensive and defensive topics. It's a solid pick for beginners looking for a supportive, mentorship-oriented general infosec community.",
+   "summary": "This community grew out of a CTF team started in 2019 around The Blind Hacker's journey as a visually impaired infosec professional, and has become a broad mentoring community covering red team, blue team, sysadmin, and certifications. It welcomes people from complete beginners to working professionals and has dedicated channels for certs, jobs, and both offensive and defensive topics, making it a solid pick for beginners wanting a supportive, mentorship-oriented space.",
    "run_by": "The Blind Hacker / DeadPixelSec community",
    "website": "https://deadpixelsec.com",
    "beginner_friendly": 5,
@@ -15501,7 +15673,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name."
+    }
+   ]
   },
   {
    "id": "below0day",
@@ -15548,7 +15726,7 @@
     "news-cve",
     "ctf"
    ],
-   "summary": "Below0Day appears to be a general infosec/vulnerability-research-adjacent Discord community, listed alongside other hacker Discord servers, but little independent detail about its structure or activity was found beyond that. Treat this as a smaller, less-documented community server pending firsthand confirmation.",
+   "summary": "This appears to be a general infosec/vulnerability-research-adjacent Discord community, listed alongside other hacker Discord servers, though little independent detail about its structure or activity was found beyond that. Treat it as a smaller, less-documented community server pending firsthand confirmation.",
    "run_by": "community-run",
    "website": null,
    "beginner_friendly": 2,
@@ -15570,7 +15748,13 @@
    "rules_note": null,
    "red_flags": "Very little independent information available; activity level and moderation quality unverified",
    "recon_confidence": "low",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name."
+    }
+   ]
   },
   {
    "id": "burbsec",
@@ -17648,7 +17832,7 @@
     "students",
     "study-group"
    ],
-   "summary": "Cyberspatial is a general cybersecurity chat and education community aimed at making security culture and learning accessible to beginners as well as more experienced enthusiasts. Members discuss security news, share resources, and can attend occasional webinars or workshops. It suits people looking for a casual, welcoming entry point into infosec discussion rather than a highly structured program.",
+   "summary": "A general cybersecurity chat and education community aimed at making security culture and learning accessible to beginners as well as more experienced enthusiasts. Members discuss security news, share resources, and can attend occasional webinars or workshops, making it suited to people wanting a casual entry point into infosec discussion rather than a structured program.",
    "run_by": "community-run",
    "website": null,
    "beginner_friendly": 4,
@@ -17674,7 +17858,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name."
+    }
+   ]
   },
   {
    "id": "cyberwox-academy",
@@ -17938,7 +18128,7 @@
      "online": 43
     }
    ],
-   "category": "conference",
+   "category": "regional",
    "tags": [
     "regional",
     "conference",
@@ -17970,7 +18160,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "DC² is a DEF CON Group local meetup, same as dc612/dc407/dc215/dc435/etc., all of which are categorized 'regional'; this one was mislabeled 'conference'."
+    }
+   ]
   },
   {
    "id": "digital-forensics",
@@ -18609,7 +18805,7 @@
      "online": 2807
     }
    ],
-   "category": "adjacent",
+   "category": "hardware",
    "tags": [
     "lockpicking-physical",
     "hacker-culture",
@@ -18641,7 +18837,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Inconsistent with the two other locksport servers in this file (TOOOL US, Lockpicking101.com) which are both categorized hardware; same subject matter should match."
+    }
+   ]
   },
   {
    "id": "netsecstudents",
@@ -18974,7 +19176,7 @@
      "online": 976
     }
    ],
-   "category": "hardware",
+   "category": "adjacent",
    "tags": [
     "reverse-engineering",
     "malware-analysis",
@@ -19005,7 +19207,13 @@
    "rules_note": null,
    "red_flags": "game reverse-engineering communities sometimes attract cheat-development discussion; keep an eye on channel rules",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Video-game reverse-engineering/cheat community has no hardware/RF focus; it belongs with gbatemp in the non-security hobby (adjacent) category, not hardware."
+    }
+   ]
   },
   {
    "id": "seccareers",
@@ -19199,7 +19407,7 @@
     "programming",
     "hacker-culture"
    ],
-   "summary": "Shellsharks is run by Mike, a security researcher and blogger, who built the community out of a CTF-focused meet-up group and now covers infosec, technology, and life topics on his blog and podcast. On Discord, members discuss security news and articles, share writeups, and talk shop with other practitioners. It suits people already working in or studying infosec who want ongoing discussion rather than structured lessons.",
+   "summary": "Run by Mike, a security researcher and blogger, this community grew out of a CTF-focused meet-up group and now covers infosec, technology, and life topics on his blog and podcast. On Discord, members discuss security news and articles, share writeups, and talk shop with other practitioners. It suits people already working in or studying infosec who want ongoing discussion rather than structured lessons.",
    "run_by": "Mike (Shellsharks)",
    "website": "https://shellsharks.com",
    "beginner_friendly": 3,
@@ -19223,7 +19431,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name."
+    }
+   ]
   },
   {
    "id": "signalseverywhere",
@@ -19346,7 +19560,7 @@
     "careers",
     "news-cve"
    ],
-   "summary": "TrustedSec is a well-known offensive security consultancy founded by David Kennedy, and this is their official community Discord for discussing all things cybersecurity, promoted through their podcast and social channels. Members chat with each other and sometimes TrustedSec staff about red teaming, pentesting, and security news. It suits working security professionals and students who want to be around a large, active general-infosec crowd rather than structured beginner content.",
+   "summary": "This is the official community Discord for TrustedSec, a well-known offensive security consultancy founded by David Kennedy, promoted through their podcast and social channels. Members chat with each other and sometimes TrustedSec staff about red teaming, pentesting, and security news. It suits working security professionals and students who want a large, active general-infosec crowd rather than structured beginner content.",
    "run_by": "TrustedSec",
    "website": "https://trustedsec.com",
    "beginner_friendly": 3,
@@ -19370,7 +19584,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name."
+    }
+   ]
   },
   {
    "id": "unofficial-ine-elearnsecurity-pta-server",
@@ -19411,7 +19631,7 @@
      "online": 625
     }
    ],
-   "category": "tool",
+   "category": "learning",
    "tags": [
     "certifications",
     "study-group",
@@ -19442,7 +19662,13 @@
    "rules_note": "unofficial server, not run by INE itself",
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "This is a cert study/mentorship group (tags: certifications, study-group, mentorship), not a single-product support server, so it fits 'learning' rather than 'tool'."
+    }
+   ]
   },
   {
    "id": "xconnect",
@@ -19665,7 +19891,13 @@
    "rules_note": null,
    "red_flags": "Sells paid courses/certifications alongside the free community content",
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "red_flags called out paid courses alongside free content, but CyberDefenders and LetsDefend run the identical free+paid model without a flag; inconsistent and not a genuine safety risk, so red_flags should be null."
+    }
+   ]
   },
   {
    "id": "low-level-exploitation-lle-closed",
@@ -19856,9 +20088,10 @@
     "detection-engineering",
     "students",
     "blue-team",
-    "study-group"
+    "study-group",
+    "mentorship"
    ],
-   "summary": "KC7 is the Discord for the KC7 Foundation's free cyber-detective game, where players investigate simulated intrusions using realistic threat-actor data in Azure Data Explorer/Kusto. It's built specifically to help students and career-changers with no background break into cybersecurity analysis and threat intelligence through hands-on scenarios, workshops, and peer support. Very welcoming to complete beginners.",
+   "summary": "This is the Discord for the KC7 Foundation's free cyber-detective game, where players investigate simulated intrusions using realistic threat-actor data in Azure Data Explorer/Kusto. It's built to help students and career-changers with no background break into cybersecurity analysis and threat intelligence through hands-on scenarios, workshops, and peer support, and is very welcoming to complete beginners.",
    "run_by": "KC7 Foundation",
    "website": "https://kc7cyber.com",
    "beginner_friendly": 5,
@@ -19883,7 +20116,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Added missing mentorship tag (activities list it); rewrote summary because it started with the server name."
+    }
+   ]
   },
   {
    "id": "overthewire",
@@ -20153,7 +20392,7 @@
     "study-group",
     "programming"
    ],
-   "summary": "CryptoHack is a free, community-run platform for learning modern applied cryptography through hands-on programming challenges, and this Discord is its main hub for discussing those challenges, cryptography news, and general math/programming questions. New members answer a short cryptography-themed verification question to get in, and can link their CryptoHack profile for special roles; it works well for people starting from zero on crypto as well as CTF players sharpening cryptography skills.",
+   "summary": "This is the main Discord hub for CryptoHack, a free, community-run platform for learning modern applied cryptography through hands-on programming challenges, covering those challenges, cryptography news, and general math/programming questions. New members answer a short cryptography-themed verification question to get in and can link their CryptoHack profile for special roles. It works well for people starting from zero on crypto as well as CTF players sharpening cryptography skills.",
    "run_by": "CryptoHack (community-run, founded by Robin/Jack and collaborators)",
    "website": "https://cryptohack.org",
    "beginner_friendly": 5,
@@ -20178,7 +20417,13 @@
    "rules_note": "must answer a cryptography-themed verification question to join",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary started with the server name."
+    }
+   ]
   },
   {
    "id": "pwnable-kr",
@@ -21024,7 +21269,7 @@
      "online": 2149
     }
    ],
-   "category": "careers",
+   "category": "creator",
    "tags": [
     "certifications",
     "study-group",
@@ -21055,7 +21300,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Single-creator YouTube course community (Jeremy McDowell's CCNA lab), same pattern as NetworkChuck/David Bombal which are categorized 'creator', not a careers/job-board service."
+    }
+   ]
   },
   {
    "id": "unixguy-cyber-security",
@@ -21611,7 +21862,7 @@
    "summary": "This is the official Discord for Wazuh, the free open-source security platform for threat detection, log analysis, and SIEM/XDR use cases. People here troubleshoot Wazuh deployments, ask about rules and integrations, and discuss detection and response workflows with the Wazuh team and other users. Aimed at people already running or evaluating Wazuh in a blue-team/SOC context rather than absolute beginners to security.",
    "run_by": "Wazuh Inc.",
    "website": "https://wazuh.com/",
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -21631,7 +21882,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary phrasing ('aimed at people already running or evaluating X ... rather than beginners') is nearly identical to Suricata and SigmaHQ, both scored bf=2; Wazuh's bf=3 is an outlier."
+    }
+   ]
   },
   {
    "id": "sigmahq-community",
@@ -22345,7 +22602,7 @@
     "workshops",
     "project-showcase"
    ],
-   "region": "us-northeast",
+   "region": "us",
    "language": "en",
    "year_round": true,
    "event": null,
@@ -22354,7 +22611,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary describes it as the national US chapter's general hangout (Lockfest, DEF CON village support), not a single-region chapter server, so 'us-northeast' is too narrow."
+    }
+   ]
   },
   {
    "id": "gnu-radio-world",
@@ -22683,7 +22946,7 @@
      "online": 285
     }
    ],
-   "category": "ctf",
+   "category": "osint",
    "tags": [
     "osint",
     "ctf",
@@ -22713,7 +22976,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Core activity is story-driven OSINT investigation CTFs, not general jeopardy/wargame CTF; the dedicated 'osint' category fits better than 'ctf'."
+    }
+   ]
   },
   {
    "id": "noisebridge",
@@ -22903,7 +23172,7 @@
      "online": 278
     }
    ],
-   "category": "regional",
+   "category": "adjacent",
    "tags": [
     "hardware-hacking",
     "homelab",
@@ -22934,7 +23203,13 @@
    "rules_note": null,
    "red_flags": "primarily a general maker space, not security-focused",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "No security tag at all (tags are hardware-hacking/homelab/programming/hacker-culture) and the summary explicitly says it's a general maker space 'not security-focused', suited to hobbyists 'more than people looking specifically for cybersecurity content' -- this is the 'adjacent' hobby category, not 'regional' infosec."
+    }
+   ]
   },
   {
    "id": "atlanta-cybersecurity-engineers",
@@ -23918,7 +24193,7 @@
    "summary": "This is the official support and discussion server for GrapheneOS, the open-source, privacy- and security-hardened Android-based mobile OS. People come here to get installation and usage help, discuss hardening/app-compatibility questions, follow release news, and talk with the developers and experienced users; it suits anyone using or considering GrapheneOS, from curious beginners asking setup questions to privacy/security-focused power users.",
    "run_by": "GrapheneOS project",
    "website": "https://grapheneos.org",
-   "beginner_friendly": 3,
+   "beginner_friendly": 4,
    "audience": [
     "beginner",
     "intermediate",
@@ -23939,7 +24214,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Summary explicitly says curious beginners get setup help alongside power users, matching the bf=4 pattern used for Wireshark/Hak5, not the bf=3 tier."
+    }
+   ]
   },
   {
    "id": "techno-tim-s-technology-community",
@@ -24063,7 +24344,7 @@
    "summary": "This is the build-support server for the Open Source Cartridge Reader (OSCR, also known as the Sanni Cart Reader), an open-source hardware device for dumping and preserving retro game cartridges. People here troubleshoot builds, share firmware/PCB revisions, and discuss soldering and flashing issues; it suits retro-console/hardware hackers and DIY electronics builders rather than general beginners, since questions assume some familiarity with soldering and microcontrollers.",
    "run_by": "OSCR project (community-run)",
    "website": "https://oscr.wiki",
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -24083,7 +24364,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Audience is intermediate/advanced only and the summary says questions assume soldering/microcontroller familiarity -- same framing as peer tool-support servers (ChipWhisperer, Kismet, Suricata) rated bf=2, not 3."
+    }
+   ]
   },
   {
    "id": "demozoo",
@@ -24369,7 +24656,15 @@
    "rules_note": null,
    "red_flags": "This specific Discord invite has only 7 members, suggesting it is inactive or not the community's main hub.",
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "hidden": true,
+   "exclude_reason": "The listed invite has only 7 total members and the researcher's own summary states real activity happens elsewhere (Matrix/Mastodon) or only during DEF CON week -- this specific Discord has no functioning community for a directory to recommend.",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Effectively a dead/empty server per the data provided."
+    }
+   ]
   },
   {
    "id": "cloud-village",
@@ -25147,9 +25442,10 @@
     "osint",
     "ctf",
     "study-group",
-    "general-infosec"
+    "general-infosec",
+    "mentorship"
    ],
-   "summary": "Kase Scenarios makes narrative, choose-your-own-path OSINT training exercises, and this is their official Discord where 10,000+ members discuss scenarios, get unstuck with hints, and talk shop about open-source investigation techniques. It's aimed at people who want hands-on, self-paced OSINT practice rather than formal certification study.",
+   "summary": "This is the official Discord for Kase Scenarios, which produces narrative, choose-your-own-path OSINT training exercises. Members discuss scenarios, get hints when stuck, and talk shop about open-source investigation techniques. It suits people who want hands-on, self-paced OSINT practice rather than formal certification study.",
    "run_by": "Kase Scenarios",
    "website": "https://kasescenarios.com/",
    "beginner_friendly": 4,
@@ -25173,7 +25469,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Tags were missing 'mentorship' despite mentorship being a listed activity; summary stated an exact member count ('10,000+') that doesn't match the actual 9,540 figure and also opened with the server's name, both against the summary-rewrite criteria."
+    }
+   ]
   },
   {
    "id": "cyber-security",
@@ -25290,7 +25592,7 @@
     "blue-team",
     "news-cve"
    ],
-   "summary": "CTI-Hub is a community focused on curating and sharing current cyber threat intelligence: IOCs, threat actor reporting, and CTI news. It suits practitioners and analysts already working in or studying threat intelligence rather than absolute beginners, since discussion assumes some blue-team/CTI background.",
+   "summary": "This community curates and shares current cyber threat intelligence, including IOCs, threat-actor reporting, and CTI news. It suits practitioners and analysts already working in or studying threat intelligence rather than absolute beginners, since discussion assumes some blue-team/CTI background.",
    "run_by": "community-run",
    "website": null,
    "beginner_friendly": 2,
@@ -25312,7 +25614,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Original summary opened by calling the server \"CTI-Hub,\" which doesn't match its actual name (CTI - Cyber Threat Intelligence) and also violates the starts-with-name rule; rewritten to be accurate and name-first-free."
+    }
+   ]
   },
   {
    "id": "nyusec",
@@ -25500,7 +25808,7 @@
      "online": 307
     }
    ],
-   "category": "redteam",
+   "category": "appsec",
    "tags": [
     "bug-bounty",
     "web-appsec",
@@ -25510,7 +25818,7 @@
    "summary": "Patchstack Alliance is the vulnerability-disclosure/bug-bounty community run by Patchstack, a company focused on WordPress and open-source software security. Members are open-source developers and security researchers who report and discuss vulnerabilities, often for bounty rewards through Patchstack's program. Best suited to people who already do vulnerability research rather than newcomers just starting out.",
    "run_by": "Patchstack",
    "website": "https://patchstack.com/alliance/",
-   "beginner_friendly": 3,
+   "beginner_friendly": 2,
    "audience": [
     "intermediate",
     "advanced"
@@ -25531,7 +25839,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Tags (bug-bounty, web-appsec, vendor, news-cve) and description are all vulnerability-disclosure/bug-bounty, not offensive red-team work; miscategorized as redteam. bf lowered from 3 to 2 to match peers like immunefi/sherlock (narrow, experienced-researcher-only community, scale definition 2)."
+    }
+   ]
   },
   {
    "id": "secureblue",
@@ -26121,7 +26435,7 @@
     "chat",
     "local-meetups"
    ],
-   "region": "us-southeast",
+   "region": "us",
    "language": "en",
    "year_round": true,
    "event": null,
@@ -26130,7 +26444,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "BlackGirlsHack is a national US nonprofit (not southeast-specific); summary describes nationwide outreach including a K-12 program, not a regional group."
+    }
+   ]
   },
   {
    "id": "ncl-community",
@@ -26171,7 +26491,7 @@
      "online": 1575
     }
    ],
-   "category": "affinity",
+   "category": "ctf",
    "tags": [
     "students",
     "ctf",
@@ -26196,7 +26516,7 @@
     "q-and-a",
     "news-feed"
    ],
-   "region": "global",
+   "region": "us",
    "language": "en",
    "year_round": true,
    "event": null,
@@ -26205,7 +26525,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "National Cyber League is a competition, not an identity-based affinity group; it's also a specifically US high-school/college competition, not a global one."
+    }
+   ]
   },
   {
    "id": "forensic-focus",
@@ -26251,8 +26577,7 @@
     "dfir",
     "forensics",
     "news-cve",
-    "general-infosec",
-    "study-group"
+    "general-infosec"
    ],
    "summary": "Forensic Focus runs a well-known digital-forensics news site and training/webinar business, and this Discord is their official discussion hub for DFIR professionals, students and academics. Members share and discuss forensics news, tools and casework questions; it suits people already studying or working in digital forensics more than total beginners.",
    "run_by": "Forensic Focus",
@@ -26278,7 +26603,13 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Tag list included 'study-group' but the entry lists no study-groups activity (only news-feed, q-and-a, chat, writeups, job-board); removed the unsupported tag."
+    }
+   ]
   },
   {
    "id": "vx-feed",
@@ -27333,7 +27664,7 @@
    "summary": "The community/support Discord for Havoc, a post-exploitation command and control (C2) framework created by C5pider, linked from the project's GitHub README. Members discuss agent development, modules, and usage of the framework for red team operations. The underlying GitHub repo is archived, so activity here may be winding down; it's aimed squarely at experienced red-teamers and malware/C2 developers, not newcomers.",
    "run_by": "C5pider / Havoc Framework project",
    "website": null,
-   "beginner_friendly": 1,
+   "beginner_friendly": 2,
    "audience": [
     "advanced",
     "intermediate"
@@ -27352,7 +27683,13 @@
    "rules_note": "Discussion assumes offensive-security tooling knowledge; not for how-to-hack-X requests",
    "red_flags": "Source repository is archived, so ongoing development/support activity may be declining",
    "recon_confidence": "medium",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "Nothing indicates it's explicitly gated (bf=1); it's just intermediate/advanced-oriented C2 tooling, matching peer tool servers (radare, Suricata, SigmaHQ) rated bf=2."
+    }
+   ]
   },
   {
    "id": "covert-access-team",
@@ -27610,7 +27947,7 @@
      "online": 233
     }
    ],
-   "category": "careers",
+   "category": "creator",
    "tags": [
     "soc",
     "dfir",
@@ -27643,7 +27980,13 @@
    "rules_note": null,
    "red_flags": "Commercial training vendor promoting paid subscription tiers (Trial/Adventurer/Guardian/Guild).",
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "This is a commercial training vendor's own Discord (own platform/courses), matching how TCM Security and Cyberwox Academy (also vendor-run) are categorized 'creator' rather than 'careers'."
+    }
+   ]
   },
   {
    "id": "r-itcareerquestions-discord",
@@ -27974,7 +28317,7 @@
      "online": 144
     }
    ],
-   "category": "regional",
+   "category": "adjacent",
    "tags": [
     "hardware-hacking",
     "homelab",
@@ -28007,7 +28350,13 @@
    "rules_note": "facility membership costs $50/month (discounts available); Discord access itself is free",
    "red_flags": null,
    "recon_confidence": "high",
-   "recon_date": "2026-09-13"
+   "recon_date": "2026-09-13",
+   "review_log": [
+    {
+     "date": "2026-09-13",
+     "reason": "No general-infosec tag, and the summary explicitly calls it 'a general hackerspace rather than a security-specific community' -- matches the 'adjacent' (maker) category better than 'regional'."
+    }
+   ]
   },
   {
    "id": "dc719-def-con-colorado-springs",

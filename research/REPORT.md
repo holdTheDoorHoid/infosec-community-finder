@@ -2,40 +2,40 @@
 
 Generated 2026-09-13.
 
-- Servers in database: **399** (visible 333, hidden as off-topic/rejected 66, dead invites 0)
+- Servers in database: **399** (visible 330, hidden as off-topic/rejected 69, dead invites 0)
 - Name-only leads that could not be resolved to a working invite: 289
 - Organizations checked and confirmed to have no public Discord (Slack/Matrix/forum instead, or none): 132
 
 ## Visible servers by category
 
+- conference: 48
 - general: 45
-- conference: 45
-- tool: 44
-- regional: 36
-- creator: 24
+- tool: 43
+- regional: 30
+- creator: 26
 - learning: 20
 - ctf: 20
-- village: 14
-- redteam: 13
-- adjacent: 13
-- appsec: 12
-- osint: 12
-- careers: 11
+- adjacent: 15
+- village: 13
+- appsec: 13
+- osint: 13
+- redteam: 12
 - blueteam: 11
+- careers: 9
 - hardware: 8
-- affinity: 5
+- affinity: 4
 
 ## Beginner-friendliness distribution (visible)
 
-- 1: 4
-- 2: 38
-- 3: 118
+- 1: 3
+- 2: 45
+- 3: 109
 - 4: 131
 - 5: 42
 
 ## Languages (visible)
 
-- en: 312
+- en: 309
 - es: 7
 - pt: 4
 - fr: 4
@@ -88,7 +88,9 @@ Generated 2026-09-13.
 - Black Veil Brides: Official fan server for the band Black Veil Brides, not security-related
 - Blue Flames: A 'team of editors' (video/graphic editing) community, unrelated to security; matched only on 'Blue'.
 - Blur Community: Gaming community for the racing games BLUR and Drifters; no security content.
+- BSides Vilnius: The entry is titled/id'd 'BSides Vilnius' but the researcher's own summary and red_flags note the invite actually belongs to a completely different conference, 
 - Buteco dos Devs: General Brazilian tech/developer hangout server with no security focus; casual chat community for programmers and tech enthusiasts.
+- Call Center Village: The listed invite has only 7 total members and the researcher's own summary states real activity happens elsewhere (Matrix/Mastodon) or only during DEF CON week
 - Casio Hacking Community: Vietnamese-language community about hacking/modding Casio calculators (custom firmware, programs, homebrew) — a calculator-modding hobby, not cybersecurity or a
 - CS Majors: General computer science / tech career community (interview prep, general CS chat) with only incidental security-related channels, not a security-focused server
 - Deconstruction Junction: Community for people deconstructing from religion, not security-related
@@ -117,6 +119,7 @@ Generated 2026-09-13.
 - MFOC: General maker/hobbyist community (Maker Faire Orange County) with no security or hacking focus.
 - Misono Mika's Tea Party: Anime/VTuber fan hangout server, not security related.
 - MissesVirus Family: Appears to be a general content-creator fan/hangout server for updates and events, not a security or hacking-focused community despite the 'virus' name.
+- offsec: duplicate of OffSec: Both entries are the official OffSec (Offensive Security) Discord; 'offsec' has 96,527 members vs 909 for 'offsec-2', indicating the latter
 - Old School Boosting: Old School RuneScape boosting/game-service server, not security-related
 - OPEN SAUCE: General maker/creator convention (robotics, DIY, YouTube creator culture) with no security or hacking focus.
 - Operating System Development: General low-level/OS development and bootloader community with no dedicated security angle; it's a programming server, not a cybersecurity one.
