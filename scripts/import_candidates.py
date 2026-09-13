@@ -8,7 +8,7 @@ Existing entries are updated (stats + new sources), never dropped.
 """
 import json, sys, re, datetime, pathlib
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
-from discordapi import lookup_invite, invite_code, resolve_shortlink
+from discordapi import lookup_invite, invite_code, resolve_shortlink, detect_platform, check_join_url, mastodon_stats
 from refresh import size_tier
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -32,7 +32,28 @@ def main(paths):
         cands = json.loads(pathlib.Path(p).read_text())
         if isinstance(cands, dict): cands = cands.get("merged") or cands.get("communities") or cands.get("seeds") or []
         for cand in cands:
-            raw_url = cand.get("invite_url") or cand.get("discord_url") or cand.get("url")
+            raw_url = cand.get("invite_url") or cand.get("discord_url") or cand.get("url") or cand.get("join_url")
+            platform = cand.get("platform") or detect_platform(raw_url) or "discord"
+            if platform != "discord":
+                if platform == "telegram": db["unresolved"].append({"name": cand.get("name"), "notes": "telegram excluded by policy", "source_url": src}); unresolved += 1; continue
+                key = (raw_url or "").lower().rstrip("/")
+                dup = next((c for c in db["communities"] if (c.get("invite_url") or "").lower().rstrip("/") == key), None)
+                if dup:
+                    if src not in dup["sources"]: dup["sources"].append(src)
+                    updated += 1; continue
+                chk = check_join_url(raw_url)
+                if chk["status"] == "dead":
+                    db["unresolved"].append({"name": cand.get("name"), "platform": platform, "status": "dead", "error": chk.get("error"), "source_url": src}); dead += 1; continue
+                base = slugify(cand.get("name")); slug = base; n = 2
+                while any(x["id"] == slug for x in db["communities"]): slug = f"{base}-{n}"; n += 1
+                extra = mastodon_stats(raw_url) if platform == "mastodon" else {}
+                c = {"id": slug, "name": cand.get("name"), "platform": platform, "invite_url": raw_url, "invite_code": None, "guild_id": None,
+                     "discord_name": None, "discord_description": extra.get("description") or cand.get("description"), "members": extra.get("members"), "online": None, "size_tier": size_tier(extra.get("members")),
+                     "verified": False, "partnered": False, "discoverable": False, "community_features": False, "verification_level": None, "vanity": None, "icon_url": None, "invite_expires_at": None, "nsfw": False,
+                     "invite_status": "ok" if chk["status"] == "ok" else "unknown", "first_seen": today, "last_checked": today,
+                     "sources": [src], "category_hints": [cand["category_hint"]] if cand.get("category_hint") else [], "candidate_notes": cand.get("notes") or "", "confidence": cand.get("confidence"), "history": [],
+                     "category": None, "tags": [], "summary": None, "run_by": None, "website": cand.get("website"), "beginner_friendly": None, "audience": [], "activities": [], "region": None, "language": "en", "year_round": None, "event": None}
+                db["communities"].append(c); added += 1; continue
             code = cand.get("invite_code") or invite_code(raw_url)
             if not code and raw_url and raw_url.startswith("http"):
                 resolved = resolve_shortlink(raw_url); code = invite_code(resolved)
@@ -60,7 +81,7 @@ def main(paths):
             base = slugify(r["discord_name"] or cand.get("name")); slug = base; n = 2
             while any(x["id"] == slug for x in db["communities"]): slug = f"{base}-{n}"; n += 1
             c = {
-                "id": slug, "name": r["discord_name"] or cand.get("name"), "candidate_name": cand.get("name"),
+                "id": slug, "name": r["discord_name"] or cand.get("name"), "candidate_name": cand.get("name"), "platform": "discord",
                 "invite_url": f"https://discord.gg/{r['vanity'] or code}", "invite_code": r["vanity"] or code,
                 "guild_id": gid, "discord_name": r["discord_name"], "discord_description": r["discord_description"],
                 "members": r["members"], "online": r["online"], "size_tier": size_tier(r["members"]),

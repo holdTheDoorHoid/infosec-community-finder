@@ -8,6 +8,8 @@ const ICF = (() => {
   // locality key for an entry: state/province code where we have one, else country code
   const localityOf = c => c.subdivision || c.country || null;
   const localityLabel = k => SUBDIV[k] || countryName(k);
+  const PLATFORM_LABEL = {discord:'Discord', slack:'Slack', matrix:'Matrix', forum:'Forum', reddit:'Reddit', mastodon:'Mastodon', irc:'IRC', mattermost:'Mattermost', discourse:'Forum'};
+  const JOIN_VERB = {discord:'Join on Discord', slack:'Join on Slack', matrix:'Join on Matrix', forum:'Visit the forum', reddit:'Open on Reddit', mastodon:'Join the instance', irc:'Join on IRC', mattermost:'Join on Mattermost', discourse:'Visit the forum'};
   let DB = null;
 
   async function load() {
@@ -21,6 +23,7 @@ const ICF = (() => {
       c.summary = c.summary || c.discord_description || c.candidate_notes || '';
       c.size_tier = c.size_tier || 'unknown';
       c.region = c.region || 'global';
+      c.platform = c.platform || 'discord';
       c.locality = c.subdivision || c.country || null;
     }
     return DB;
@@ -33,11 +36,13 @@ const ICF = (() => {
   function cardHTML(c) {
     const icon = c.icon_url ? `<img class="icon" loading="lazy" src="${esc(c.icon_url)}" alt="">` : `<div class="ph">${esc(initials(c.name))}</div>`;
     const status = c.invite_status === 'ok' ? '' : `<span class="badge dead">${c.invite_status === 'dead' ? 'invite dead' : 'unchecked'}</span>`;
+    const plat = c.platform !== 'discord' ? `<span class="badge plat">${esc(PLATFORM_LABEL[c.platform] || c.platform)}</span>` : '';
+    const statsHTML = c.platform === 'discord' ? `<span><b>${fmt(c.members)}</b> members</span><span><span class="dot"></span><b>${fmt(c.online)}</b> online</span>` : (c.members ? `<span><b>${fmt(c.members)}</b> members</span>` : `<span class="note">no live stats on ${esc(PLATFORM_LABEL[c.platform] || c.platform)}</span>`);
     return `<article class="card" data-id="${esc(c.id)}" tabindex="0" role="button" aria-label="${esc(c.name)}">
       <div class="head">${icon}<div><h2>${esc(c.name)}</h2><div class="sub">${esc(CAT_LABEL[c.category] || c.category)}${c.run_by ? ' · ' + esc(c.run_by) : ''}</div></div></div>
       <p class="desc">${esc(c.summary)}</p>
       <div class="chips">${c.tags.slice(0,5).map(t => `<span class="chip">${esc(t)}</span>`).join('')}</div>
-      <div class="meta"><span><b>${fmt(c.members)}</b> members</span><span><span class="dot"></span><b>${fmt(c.online)}</b> online</span>${c.beginner_friendly ? `<span class="stars" title="beginner friendliness ${c.beginner_friendly}/5">${stars(c.beginner_friendly)}</span>` : ''}${c.verified ? '<span class="badge verified">verified</span>' : ''}${c.partnered ? '<span class="badge verified">partnered</span>' : ''}${status}</div>
+      <div class="meta">${statsHTML}${plat}${c.beginner_friendly ? `<span class="stars" title="beginner friendliness ${c.beginner_friendly}/5">${stars(c.beginner_friendly)}</span>` : ''}${c.verified ? '<span class="badge verified">verified</span>' : ''}${c.partnered ? '<span class="badge verified">partnered</span>' : ''}${status}</div>
     </article>`;
   }
 
@@ -60,7 +65,8 @@ const ICF = (() => {
       ${c.discord_description && c.summary !== c.discord_description ? `<p class="note">Server's own description: “${esc(c.discord_description)}”</p>` : ''}
       <div class="chips">${c.tags.map(t => `<span class="chip">${esc(t)}</span>`).join('')}</div>
       <dl class="kv">
-        <dt>Members</dt><dd><b>${fmt(c.members)}</b> total · <b>${fmt(c.online)}</b> online now ${sparkline(c.history)}</dd>
+        <dt>Platform</dt><dd>${esc(PLATFORM_LABEL[c.platform] || c.platform)}${c.platform !== 'discord' ? ' · live member counts are only available for Discord' : ''}</dd>
+        ${c.platform === 'discord' ? `<dt>Members</dt><dd><b>${fmt(c.members)}</b> total · <b>${fmt(c.online)}</b> online now ${sparkline(c.history)}</dd>` : (c.members ? `<dt>Members</dt><dd><b>${fmt(c.members)}</b></dd>` : '')}
         <dt>Size</dt><dd>${esc(SIZE_LABEL[c.size_tier] || c.size_tier)}</dd>
         ${c.beginner_friendly ? `<dt>Beginner friendly</dt><dd><span class="stars">${stars(c.beginner_friendly)}</span> ${c.beginner_friendly}/5${c.audience.length ? ' · for ' + esc(c.audience.join(', ')) : ''}</dd>` : ''}
         ${c.activities.length ? `<dt>What happens there</dt><dd>${esc(c.activities.join(', '))}</dd>` : ''}
@@ -68,11 +74,11 @@ const ICF = (() => {
         ${c.language && c.language !== 'en' ? `<dt>Language</dt><dd>${esc(c.language)}</dd>` : ''}
         ${c.event ? `<dt>Event</dt><dd>${esc(c.event)}${c.year_round === false ? ' (active mainly around the event)' : c.year_round ? ' (active year-round)' : ''}</dd>` : ''}
         ${c.rules_note ? `<dt>Good to know</dt><dd>${esc(c.rules_note)}</dd>` : ''}
-        <dt>Discord flags</dt><dd>${[c.verified && 'Verified', c.partnered && 'Partnered', c.discoverable && 'In Discord discovery', c.community_features && 'Community server', c.verification_level >= 3 && 'Phone/email verification required'].filter(Boolean).join(' · ') || '—'}</dd>
+        ${c.platform === 'discord' ? `<dt>Discord flags</dt><dd>${[c.verified && 'Verified', c.partnered && 'Partnered', c.discoverable && 'In Discord discovery', c.community_features && 'Community server', c.verification_level >= 3 && 'Phone/email verification required'].filter(Boolean).join(' · ') || '—'}</dd>` : ''}
         ${links.length ? `<dt>Links</dt><dd>${links.join(' · ')}</dd>` : ''}
-        <dt>Last checked</dt><dd>${esc(c.last_checked || '—')} · <span class="badge ${dead ? 'dead' : 'ok'}">${dead ? 'invite dead' : 'invite works'}</span></dd>
+        <dt>Last checked</dt><dd>${esc(c.last_checked || '—')} · <span class="badge ${dead ? 'dead' : 'ok'}">${dead ? 'link dead' : 'link works'}</span></dd>
       </dl>
-      <div class="join">${dead ? `<span class="note">This invite stopped working${c.dead_since ? ' on ' + esc(c.dead_since) : ''}. <a href="https://github.com/holdTheDoorHoid/infosec-community-finder/issues/new?template=report-problem.yml&title=${encodeURIComponent('[Fix] ' + c.name)}" target="_blank" rel="noopener">Know a new one?</a></span>` : `<a class="btn primary" href="${esc(c.invite_url)}" target="_blank" rel="noopener">Join on Discord ↗</a><span class="note">Opens Discord. Read the rules channel first; most servers require it.</span>`}</div>`;
+      <div class="join">${dead ? `<span class="note">This invite stopped working${c.dead_since ? ' on ' + esc(c.dead_since) : ''}. <a href="https://github.com/holdTheDoorHoid/infosec-community-finder/issues/new?template=report-problem.yml&title=${encodeURIComponent('[Fix] ' + c.name)}" target="_blank" rel="noopener">Know a new one?</a></span>` : `<a class="btn primary" href="${esc(c.invite_url)}" target="_blank" rel="noopener">${esc(JOIN_VERB[c.platform] || 'Open')} ↗</a><span class="note">${c.platform === 'discord' ? 'Opens Discord. Read the rules channel first; most servers require it.' : c.platform === 'slack' ? 'Opens the community\'s own signup page. Slack invites expire, so report it if it stops working.' : 'Opens in a new tab.'}</span>`}</div>`;
   }
 
   function openModal(c) {
@@ -86,7 +92,7 @@ const ICF = (() => {
   }
   function closeModal() { const bg = document.querySelector('.modal-bg'); if (bg) bg.classList.remove('open'); document.body.style.overflow = ''; if (location.hash) history.replaceState(null, '', location.pathname + location.search); }
 
-  return {load, cardHTML, detailHTML, openModal, closeModal, fmt, esc, CAT_LABEL, SIZE_LABEL, REGION_LABEL, stars, localityOf, localityLabel};
+  return {load, cardHTML, detailHTML, openModal, closeModal, fmt, esc, CAT_LABEL, SIZE_LABEL, REGION_LABEL, PLATFORM_LABEL, stars, localityOf, localityLabel};
 })();
 
 /* ---------- Browse page ---------- */
@@ -94,7 +100,7 @@ async function initBrowse() {
   const db = await ICF.load();
   const all = db.communities;
   const $ = s => document.querySelector(s);
-  const state = {q:'', cat:new Set(), tag:new Set(), size:new Set(), region:new Set(), locality:new Set(), beginner:false, alive:true, sort:'online'};
+  const state = {q:'', cat:new Set(), tag:new Set(), size:new Set(), region:new Set(), locality:new Set(), platform:new Set(), beginner:false, alive:true, sort:'online'};
   const params = new URLSearchParams(location.search);
   if (params.get('cat')) state.cat.add(params.get('cat'));
   if (params.get('tag')) state.tag.add(params.get('tag'));
@@ -107,10 +113,10 @@ async function initBrowse() {
   }
   $('.filters').innerHTML = `<input class="search" type="search" placeholder="Search names, tags, descriptions…" value="${ICF.esc(state.q)}" aria-label="Search">
     <h3>Quick</h3><label><input type="checkbox" id="f-beginner"> Beginner friendly (4★+)</label><label><input type="checkbox" id="f-alive" checked> Hide dead invites</label>
-    ${facet('Category','category',ICF.CAT_LABEL,state.cat)}${facet('Topics','tags',null,state.tag,28)}${facet('Size','size_tier',ICF.SIZE_LABEL,state.size)}${facet('Region','region',ICF.REGION_LABEL,state.region)}${facet('State / country','locality',null,state.locality,40)}`;
+    ${facet('Platform','platform',ICF.PLATFORM_LABEL,state.platform)}${facet('Category','category',ICF.CAT_LABEL,state.cat)}${facet('Topics','tags',null,state.tag,28)}${facet('Size','size_tier',ICF.SIZE_LABEL,state.size)}${facet('Region','region',ICF.REGION_LABEL,state.region)}${facet('State / country','locality',null,state.locality,40)}`;
   $('.filters').addEventListener('change', e => {
     const t = e.target; if (t.id === 'f-beginner') state.beginner = t.checked; else if (t.id === 'f-alive') state.alive = t.checked;
-    else if (t.dataset.facet) { const set = state[{category:'cat',tags:'tag',size_tier:'size',region:'region',locality:'locality'}[t.dataset.facet]]; t.checked ? set.add(t.value) : set.delete(t.value); }
+    else if (t.dataset.facet) { const set = state[{category:'cat',tags:'tag',size_tier:'size',region:'region',locality:'locality',platform:'platform'}[t.dataset.facet]]; t.checked ? set.add(t.value) : set.delete(t.value); }
     render();
   });
   $('.filters .search').addEventListener('input', e => { state.q = e.target.value; render(); });
@@ -124,6 +130,7 @@ async function initBrowse() {
     if (state.size.size && !state.size.has(c.size_tier)) return false;
     if (state.region.size && !state.region.has(c.region)) return false;
     if (state.locality.size && !state.locality.has(c.locality)) return false;
+    if (state.platform.size && !state.platform.has(c.platform)) return false;
     if (state.q) { const q = state.q.toLowerCase(); const hay = [c.name, c.summary, c.discord_description, c.run_by, c.event, ...c.tags].join(' ').toLowerCase(); if (!hay.includes(q)) return false; }
     return true;
   }
@@ -135,8 +142,8 @@ async function initBrowse() {
   }
   $('#grid').addEventListener('click', e => { const el = e.target.closest('.card'); if (el) ICF.openModal(all.find(c => c.id === el.dataset.id)); });
   $('#grid').addEventListener('keydown', e => { if (e.key === 'Enter') { const el = e.target.closest('.card'); if (el) ICF.openModal(all.find(c => c.id === el.dataset.id)); } });
-  const s = db.stats || {}; const alive = all.filter(c => c.invite_status === 'ok');
-  $('#stats').innerHTML = `<span><b>${all.length}</b> communities</span><span><b>${ICF.fmt(alive.reduce((a,c)=>a+(c.members||0),0))}</b> combined members</span><span><b>${ICF.fmt(alive.reduce((a,c)=>a+(c.online||0),0))}</b> online right now</span><span>invites re-checked weekly · last <b>${ICF.esc(db.last_refresh || db.last_import || '—')}</b></span>`;
+  const s = db.stats || {}; const alive = all.filter(c => c.invite_status === 'ok' && c.platform === 'discord'); const nonDiscord = all.filter(c => c.platform !== 'discord').length;
+  $('#stats').innerHTML = `<span><b>${all.length}</b> communities</span><span><b>${ICF.fmt(alive.reduce((a,c)=>a+(c.members||0),0))}</b> combined members</span><span><b>${ICF.fmt(alive.reduce((a,c)=>a+(c.online||0),0))}</b> online right now</span>${nonDiscord ? `<span><b>${nonDiscord}</b> on Slack, Matrix, forums & more</span>` : ''}<span>links re-checked weekly · last <b>${ICF.esc(db.last_refresh || db.last_import || '—')}</b></span>`;
   render();
   if (location.hash) { const c = all.find(x => x.id === location.hash.slice(1)); if (c) ICF.openModal(c); }
 }
@@ -249,7 +256,7 @@ async function initQuiz() {
     const localPool = db.communities.filter(c => c.invite_status !== 'dead' && (c.category === 'conference' || c.category === 'village' || c.category === 'regional'));
     const local = localPool.map(c => ({c, ...scoreCommunity(c, a)})).filter(x => x.s > 0).sort((x,y) => y.s - x.s).slice(0, a.locality ? 6 : 4);
     const out = document.querySelector('#results');
-    const row = (x, i) => `<div class="result"><div class="rank">${i+1}</div><div style="flex:1"><h3><a href="#" data-id="${ICF.esc(x.c.id)}">${ICF.esc(x.c.name)}</a> <span class="chip">${ICF.esc(ICF.CAT_LABEL[x.c.category]||x.c.category)}</span></h3><div class="note">${ICF.fmt(x.c.members)} members · ${ICF.fmt(x.c.online)} online${x.c.beginner_friendly?` · <span class="stars">${ICF.stars(x.c.beginner_friendly)}</span>`:''}</div><p style="margin:6px 0 0">${ICF.esc(x.c.summary)}</p>${x.why.length?`<ul class="why">${x.why.map(w=>`<li>${ICF.esc(w)}</li>`).join('')}</ul>`:''}<div class="join" style="margin-top:8px"><a class="btn sm primary" href="${ICF.esc(x.c.invite_url)}" target="_blank" rel="noopener">Join ↗</a><a class="btn sm" href="#" data-id="${ICF.esc(x.c.id)}">Details</a></div></div></div>`;
+    const row = (x, i) => `<div class="result"><div class="rank">${i+1}</div><div style="flex:1"><h3><a href="#" data-id="${ICF.esc(x.c.id)}">${ICF.esc(x.c.name)}</a> <span class="chip">${ICF.esc(ICF.CAT_LABEL[x.c.category]||x.c.category)}</span>${x.c.platform !== 'discord' ? ` <span class="chip">${ICF.esc(ICF.PLATFORM_LABEL[x.c.platform]||x.c.platform)}</span>` : ''}</h3><div class="note">${x.c.platform === 'discord' ? `${ICF.fmt(x.c.members)} members · ${ICF.fmt(x.c.online)} online` : (x.c.members ? `${ICF.fmt(x.c.members)} members` : 'no live stats')}${x.c.beginner_friendly?` · <span class="stars">${ICF.stars(x.c.beginner_friendly)}</span>`:''}</div><p style="margin:6px 0 0">${ICF.esc(x.c.summary)}</p>${x.why.length?`<ul class="why">${x.why.map(w=>`<li>${ICF.esc(w)}</li>`).join('')}</ul>`:''}<div class="join" style="margin-top:8px"><a class="btn sm primary" href="${ICF.esc(x.c.invite_url)}" target="_blank" rel="noopener">Join ↗</a><a class="btn sm" href="#" data-id="${ICF.esc(x.c.id)}">Details</a></div></div></div>`;
     out.innerHTML = `<h2>Your best matches</h2><p class="note">Join two or three, lurk for a week, then keep the one where you actually talk. Every server has a rules channel; read it first.</p>${picks.map(row).join('')}` +
       (local.length ? `<h2>Near you: local groups, conferences & villages</h2>${local.map(row).join('')}` : `<p class="note">No local group in the directory for your region yet. <a href="https://github.com/holdTheDoorHoid/infosec-community-finder/issues/new?template=submit-community.yml" target="_blank" rel="noopener">Know one?</a></p>`) +
       `<p class="note" style="margin-top:14px"><a href="#" id="retake">Change answers</a> · <a href="index.html">Browse everything</a></p>`;

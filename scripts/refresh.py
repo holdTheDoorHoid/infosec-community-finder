@@ -3,9 +3,9 @@
 Run:  python3 scripts/refresh.py            (updates data/communities.json in place)
 Used by the weekly GitHub Action. Never joins servers; only reads Discord's public invite preview.
 """
-import json, sys, datetime, pathlib
+import json, sys, datetime, pathlib, time
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
-from discordapi import lookup_invite, invite_code
+from discordapi import lookup_invite, invite_code, check_join_url, mastodon_stats
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "communities.json"
@@ -23,6 +23,16 @@ def main():
     today = datetime.date.today().isoformat()
     ok = dead = err = 0
     for c in doc["communities"]:
+        if c.get("platform", "discord") != "discord":
+            chk = check_join_url(c.get("invite_url")); c["last_checked"] = today
+            if chk["status"] == "ok":
+                ok += 1; c["invite_status"] = "ok"
+                if c["platform"] == "mastodon":
+                    st = mastodon_stats(c["invite_url"]);
+                    if st.get("members"): c["members"] = st["members"]; c["size_tier"] = size_tier(st["members"]); c.setdefault("history", []).append({"date": today, "members": st["members"], "online": None}); c["history"] = c["history"][-90:]
+            elif chk["status"] == "dead": dead += 1; c["invite_status"] = "dead"; c["dead_since"] = c.get("dead_since") or today
+            else: err += 1; c["last_error"] = chk.get("error")
+            time.sleep(0.3); continue
         code = c.get("invite_code") or invite_code(c.get("invite_url"))
         if not code:
             c["invite_status"] = "missing"; continue

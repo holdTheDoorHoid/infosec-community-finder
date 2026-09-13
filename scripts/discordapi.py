@@ -75,3 +75,37 @@ def resolve_shortlink(url):
             return m.group(0) if m else None
     except Exception:
         return None
+
+PLATFORM_HOSTS = {"slack.com": "slack", "join.slack.com": "slack", "matrix.to": "matrix", "reddit.com": "reddit", "old.reddit.com": "reddit", "t.me": "telegram", "telegram.me": "telegram"}
+DEAD_MARKERS = ["this link is no longer active", "invite link has expired", "this invite link is no longer valid", "page not found", "invitation link is invalid", "link is invalid"]
+
+def detect_platform(url):
+    """Guess the platform from a join URL. Discord invites are handled separately."""
+    if not url: return None
+    if invite_code(url): return "discord"
+    host = re.sub(r"^https?://(www\.)?", "", url).split("/")[0].lower()
+    for h, p in PLATFORM_HOSTS.items():
+        if host == h or host.endswith("." + h): return p
+    return None
+
+def check_join_url(url):
+    """Liveness check for non-Discord join links: HTTP status plus known 'expired invite' phrases."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) Chrome/120"})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            body = r.read(300000).decode("utf-8", "replace").lower()
+            if any(m in body for m in DEAD_MARKERS): return {"status": "dead", "error": "expired-invite page"}
+            return {"status": "ok", "final_url": r.geturl()}
+    except urllib.error.HTTPError as e:
+        return {"status": "dead" if e.code in (404, 410) else "error", "error": f"HTTP {e.code}"}
+    except Exception as ex:
+        return {"status": "error", "error": str(ex)[:120]}
+
+def mastodon_stats(url):
+    """Public instance stats for a Mastodon server (no auth)."""
+    host = re.sub(r"^https?://", "", url).split("/")[0]
+    status, d = _get(f"https://{host}/api/v1/instance")
+    if status == 200 and isinstance(d, dict):
+        st = d.get("stats") or {}
+        return {"members": st.get("user_count"), "description": (d.get("short_description") or d.get("description") or "")[:300]}
+    return {}
