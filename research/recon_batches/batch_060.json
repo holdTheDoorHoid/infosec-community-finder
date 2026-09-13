@@ -1,0 +1,121 @@
+[
+ {
+  "id": "intigriti",
+  "name": "Intigriti",
+  "invite_url": "https://discord.gg/intigriti-870275171938873395",
+  "discord_description": "A community for bug bounty hunters and security researchers who like to hack on the Intigriti platform!",
+  "members": 15378,
+  "online": 1702,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Intigriti",
+  "candidate_notes": "Official Intigriti Help Center article links researchers to their Discord via go.intigriti.com/discord (their own branded redirect domain). | shortlink http://go.intigriti.com/discord -> https://discord.com/invite/cukmQBGAKk",
+  "category_hints": [
+   "Bug bounty platform"
+  ],
+  "sources": [
+   "https://kb.intigriti.com/en/articles/5378975-creating-an-intigriti-account"
+  ]
+ },
+ {
+  "id": "hackaday",
+  "name": "Hackaday",
+  "invite_url": "https://discord.gg/Ch28rUwy5a",
+  "discord_description": "This is the official Discord server of Hackaday",
+  "members": 3548,
+  "online": 699,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Hackaday",
+  "candidate_notes": "Official Hackaday Discord, linked from Hackaday.com's own community coverage.",
+  "category_hints": [
+   "hardware/hacking media",
+   "hardware"
+  ],
+  "sources": [
+   "https://hackaday.com/2021/11/17/friday-getting-social-with-discord-and-bring-a-hack/",
+   "https://hackaday.com/2021/11/17/friday-getting-social-with-discord-and-bring-a-hack/discord_join/"
+  ]
+ },
+ {
+  "id": "adafruit",
+  "name": "adafruit",
+  "invite_url": "https://discord.gg/adafruit",
+  "discord_description": "Adafruit community",
+  "members": 38874,
+  "online": 4430,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Adafruit",
+  "candidate_notes": "Vanity invite discord.gg/adafruit redirects to discord.com/invite/adafruit; promoted repeatedly on Adafruit's own blog (adafru.it/discord).",
+  "category_hints": [
+   "maker/electronics"
+  ],
+  "sources": [
+   "https://blog.adafruit.com/2020/02/29/adafruits-community-discord-server-is-now-in-server-discovery-join-16000-makers-adafruit-discordapp-discord/",
+   "https://blog.adafruit.com/2018/05/14/join-the-adafruit-community-on-discord-discordapp-adafruit-discord/"
+  ]
+ },
+ {
+  "id": "dc215",
+  "name": "DC215",
+  "invite_url": "https://discord.gg/XYH2xkyuN4",
+  "discord_description": null,
+  "members": 295,
+  "online": 55,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "DC215 (Philadelphia DEF CON group)",
+  "candidate_notes": "Found directly on DC215's own FAQ page under 'Join us on Discord!'.",
+  "category_hints": [
+   "local infosec meetup",
+   "regional"
+  ],
+  "sources": [
+   "https://dc215.org/faq.html",
+   "https://dc215.org/"
+  ]
+ },
+ {
+  "id": "cybervalkyries",
+  "name": "⤷ ゛/cybervalkyries",
+  "invite_url": "https://discord.gg/cybervalkyries",
+  "discord_description": "empowering girls in cyber, one bit at a time! ⸜(｡˃ ᵕ ˂ )⸝♡",
+  "members": 557,
+  "online": 74,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "CyberValkyries",
+  "candidate_notes": "Student-led global community empowering girls/young women in cybersecurity; started as a Discord server in 2024, now ~500+ members. Invite is on their own official homepage under 'Community Discord'.",
+  "category_hints": [
+   "affinity"
+  ],
+  "sources": [
+   "https://cybervalkyries.org/"
+  ]
+ },
+ {
+  "id": "laic-latinas-in-cyber",
+  "name": "LAIC - Latinas In Cyber",
+  "invite_url": "https://discord.gg/jFjX52fXrS",
+  "discord_description": null,
+  "members": 1277,
+  "online": 18,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Latinas in Cyber",
+  "candidate_notes": "Nonprofit supporting Latina women in cybersecurity careers; Discord invite listed directly on their official homepage alongside their other social channels.",
+  "category_hints": [
+   "affinity"
+  ],
+  "sources": [
+   "https://latinasincyber.com/"
+  ]
+ }
+]

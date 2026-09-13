@@ -1,0 +1,116 @@
+[
+ {
+  "id": "m5stack",
+  "name": "M5Stack",
+  "invite_url": "https://discord.gg/ysQAWBUE9Q",
+  "discord_description": null,
+  "members": 4874,
+  "online": 867,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "M5Stack",
+  "candidate_notes": "Official Discord of M5Stack, maker of the ESP32-based Cardputer/Core/Stamp hardware widely used in ESP32 hacking (Marauder, Bruce, Ghost ESP, Evil Crow firmwares). Verified live via invite API, ~4,874 members, inviter account is the official m5stack user.",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://x.com/M5Stack/status/1523984949493129217"
+  ]
+ },
+ {
+  "id": "cardputer",
+  "name": "CardPuter",
+  "invite_url": "https://discord.gg/GJW8kYYJCg",
+  "discord_description": null,
+  "members": 2166,
+  "online": 272,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "CardPuter",
+  "candidate_notes": "Community server dedicated to the M5Stack Cardputer hacking-firmware scene, linked from the cardputer.wiki FAQ page. Verified live via invite API, guild name \"CardPuter\", ~2,166 members.",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://cardputer.wiki/faqs.html"
+  ]
+ },
+ {
+  "id": "gbatemp",
+  "name": "GBAtemp",
+  "invite_url": "https://discord.gg/ZMftwWj",
+  "discord_description": null,
+  "members": 6435,
+  "online": 1029,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "GBAtemp",
+  "candidate_notes": "GBAtemp's official Discord, announced by GBAtemp itself (retro/console hacking, hardware modding community adjacent to Flipper/ModRetro/OSCR interests). Verified live via invite API, ~6,435 members.",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://gbatemp.net/threads/gbatemps-official-discord-server.460532/"
+  ]
+ },
+ {
+  "id": "lockpicking101-com",
+  "name": "Lockpicking101.com",
+  "invite_url": "https://discord.gg/GW5B3HqRX6",
+  "discord_description": null,
+  "members": 876,
+  "online": 113,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Lockpicking101.com Chat",
+  "candidate_notes": "Official companion Discord for the long-running Lockpicking101.com forum, announced by forum staff (Squelchtone) in an official sticky thread. Verified live via invite API, guild \"Lockpicking101.com\", ~876 members.",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://www.lockpicking101.com/viewtopic.php?f=4&t=66451"
+  ]
+ },
+ {
+  "id": "software-defined-radio",
+  "name": "Software Defined Radio",
+  "invite_url": "https://discord.gg/dpx89GZ",
+  "discord_description": null,
+  "members": 446,
+  "online": 41,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Software Defined Radio (HackRF/SDR)",
+  "candidate_notes": "Community SDR/HackRF-focused Discord listed on rtl-sdr.com's forum as the HackRF Discord (covers HackRF/PortaPack firmwares and general SDR). Verified live via invite API, guild name \"Software Defined Radio\", 446 members — smaller/niche but genuine and on-topic.",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://www.rtl-sdr.com/forum/viewtopic.php?t=4412"
+  ]
+ },
+ {
+  "id": "osint-fr",
+  "name": "OSINT-FR",
+  "invite_url": "https://discord.gg/dWY9sWFKYD",
+  "discord_description": null,
+  "members": 30987,
+  "online": 4089,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "OSINT-FR",
+  "candidate_notes": "Large (30k+ member) French-founded but internationally active OSINT community server; invite verified live on Discord's own invite page (server name confirmed as 'OSINT-FR'). Could not reach osint-fr.net directly to cross-check from the org's own site (DNS did not resolve), so treat as 'listed' rather than 'official'.",
+  "category_hints": [
+   "osint"
+  ],
+  "sources": [
+   "https://discord.com/invite/dWY9sWFKYD"
+  ]
+ }
+]

@@ -1,0 +1,458 @@
+[
+ {
+  "name": "WiCyS PRIDE-LGBTQ+ Affiliate",
+  "invite_url": "https://discord.gg/JTsGYhKmPQ",
+  "source_url": "https://www.wicys.org/event/wicys-pride-lgbtq-affiliate-meeting/",
+  "category_hint": "affinity",
+  "notes": "LGBTQ+ affiliate group of Women in CyberSecurity (WiCyS), the largest women-in-cyber nonprofit. Invite found on WiCyS's own official event page.",
+  "confidence": "official"
+ },
+ {
+  "name": "CyberValkyries",
+  "invite_url": "https://discord.gg/ArZmdmVJ7D",
+  "source_url": "https://cybervalkyries.org/",
+  "category_hint": "affinity",
+  "notes": "Student-led global community empowering girls/young women in cybersecurity; started as a Discord server in 2024, now ~500+ members. Invite is on their own official homepage under 'Community Discord'.",
+  "confidence": "official"
+ },
+ {
+  "name": "Latinas in Cyber",
+  "invite_url": "https://discord.gg/jFjX52fXrS",
+  "source_url": "https://latinasincyber.com/",
+  "category_hint": "affinity",
+  "notes": "Nonprofit supporting Latina women in cybersecurity careers; Discord invite listed directly on their official homepage alongside their other social channels.",
+  "confidence": "official"
+ },
+ {
+  "name": "BlackGirlsHack",
+  "invite_url": "https://discord.gg/gCQ8Hu2CQ7",
+  "source_url": "https://linktr.ee/blackgirlshack",
+  "category_hint": "affinity",
+  "notes": "Leading nonprofit training Black women/girls in cybersecurity. Invite listed on their official Linktree (linked from their own site's navigation).",
+  "confidence": "official"
+ },
+ {
+  "name": "National Cyber League (NCL)",
+  "invite_url": "https://discord.com/invite/PJ6NatRc6M",
+  "source_url": "https://nationalcyberleague.org/about/community",
+  "category_hint": "affinity",
+  "notes": "Student/youth cybersecurity competition league (NCL) with an official 'Community Discord' for players and coaches to find teammates and get help; invite is on their own official community page.",
+  "confidence": "official"
+ },
+ {
+  "name": "Digital Forensics Discord Server (DFIR)",
+  "invite_url": "https://discord.gg/digitalforensics",
+  "source_url": "https://aboutdfir.com/a-beginners-guide-to-the-digital-forensics-discord-server/",
+  "category_hint": "blueteam",
+  "notes": "The original DFIR Discord founded by Andrew Rathbun in 2017; vanity invite confirmed on AboutDFIR's official guide page (as of Oct 2020). A separate newer-named 'Digital Forensics and Incident Response' server also circulates online (invite code 1224943703420964946) which may be a re-launch/mirror of the same community — flagging in case both exist as distinct servers.",
+  "confidence": "official"
+ },
+ {
+  "name": "Security Blue Team",
+  "invite_url": "https://discord.com/invite/eHHR6RX",
+  "source_url": "https://support.securityblue.team/hc/en-gb/articles/11316778047132-Joining-the-Community-on-Discord",
+  "category_hint": "blueteam",
+  "notes": "Official community Discord for the Security Blue Team training platform (BTL1/BTL2), linked from their own support site.",
+  "confidence": "official"
+ },
+ {
+  "name": "Forensic Focus",
+  "invite_url": "https://discord.com/invite/97zKvTXHeS",
+  "source_url": "https://www.forensicfocus.com/news/join-our-new-forensic-focus-discord-community/",
+  "category_hint": "blueteam",
+  "notes": "DFIR news and discussion Discord announced on Forensic Focus's own site.",
+  "confidence": "official"
+ },
+ {
+  "name": "Curated Intelligence (CTI Hub)",
+  "invite_url": "https://discord.com/invite/vK6RyGVSZR",
+  "source_url": "https://disboard.org/server/1210268980330369135",
+  "category_hint": "blueteam",
+  "notes": "Cyber threat intelligence discussion/curation server associated with the Curated Intelligence project; invite found via Disboard listing, not confirmed directly on curatedintel.org (their own homepage does not list a Discord link) — treat as listed rather than fully official.",
+  "confidence": "listed"
+ },
+ {
+  "name": "vx-underground (VX Feed)",
+  "invite_url": "https://discord.gg/BBtPURBaJW",
+  "source_url": "https://x.com/vxunderground/status/1650678065138216960",
+  "category_hint": "blueteam",
+  "notes": "vx-underground's official threat-intel/ransomware-monitoring Discord feed, posted from their own verified X account.",
+  "confidence": "official"
+ },
+ {
+  "name": "SOC Prime Cybersec Community",
+  "invite_url": "https://discord.com/invite/Cj76AjsSzd",
+  "source_url": "https://socprime.com/blog/soc-prime-on-discord-join-a-single-community-for-all-cyber-defenders-to-benefit-from-shared-expertise/",
+  "category_hint": "blueteam",
+  "notes": "Official SOC Prime (Sigma/detection engineering, Threat Bounty) Discord announced on their own blog.",
+  "confidence": "official"
+ },
+ {
+  "name": "Elastic Community",
+  "invite_url": "https://discord.com/invite/elastic",
+  "source_url": "https://discuss.elastic.co/t/elastic-discord-server/179981",
+  "category_hint": "blueteam",
+  "notes": "Official Elastic (Elastic Security/SIEM, Elasticsearch) community Discord, referenced on Elastic's own community forum.",
+  "confidence": "official"
+ },
+ {
+  "name": "Blue Team Con",
+  "invite_url": "https://discord.com/invite/qkmq6MdK48",
+  "source_url": "https://blueteamcon.com/",
+  "category_hint": "conference",
+  "notes": "Note: 'Blue Team Con' already appears in existing_names.txt with this exact invite — flagging as a probable duplicate, do not re-add.",
+  "confidence": "unverified"
+ },
+ {
+  "name": "Meshtastic",
+  "invite_url": "https://discord.com/invite/meshtastic",
+  "source_url": "https://meshtastic.discourse.group/t/new-discord-server/3673",
+  "category_hint": "hardware",
+  "notes": "Official Discord for the open-source, off-grid LoRa mesh networking project (Meshtastic/MeshCore adjacent). Verified live via Discord's own invite API: guild name \"Meshtastic\", ~52,900 members.",
+  "confidence": "official"
+ },
+ {
+  "name": "GhostESP",
+  "invite_url": "https://discord.gg/5cyNmUMgwh",
+  "source_url": "https://github.com/GhostESP-Revival/GhostESP",
+  "category_hint": "hardware",
+  "notes": "Official support/community server for the GhostESP open-source ESP32 wireless (Wi-Fi/BLE) security research firmware, linked directly in the project's GitHub README. Verified live via invite API, ~3,244 members.",
+  "confidence": "official"
+ },
+ {
+  "name": "M5Stack",
+  "invite_url": "https://discord.com/invite/ysQAWBUE9Q",
+  "source_url": "https://x.com/M5Stack/status/1523984949493129217",
+  "category_hint": "hardware",
+  "notes": "Official Discord of M5Stack, maker of the ESP32-based Cardputer/Core/Stamp hardware widely used in ESP32 hacking (Marauder, Bruce, Ghost ESP, Evil Crow firmwares). Verified live via invite API, ~4,874 members, inviter account is the official m5stack user.",
+  "confidence": "official"
+ },
+ {
+  "name": "CardPuter",
+  "invite_url": "https://discord.com/invite/GJW8kYYJCg",
+  "source_url": "https://cardputer.wiki/faqs.html",
+  "category_hint": "hardware",
+  "notes": "Community server dedicated to the M5Stack Cardputer hacking-firmware scene, linked from the cardputer.wiki FAQ page. Verified live via invite API, guild name \"CardPuter\", ~2,166 members.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Hackaday",
+  "invite_url": "https://discord.com/invite/NkbHrAW7NG",
+  "source_url": "https://hackaday.com/2021/11/17/friday-getting-social-with-discord-and-bring-a-hack/discord_join/",
+  "category_hint": "hardware",
+  "notes": "Official Discord of Hackaday, linked from Hackaday.com itself. Verified live via invite API — guild description literally states \"This is the official Discord server of Hackaday\", ~3,548 members.",
+  "confidence": "official"
+ },
+ {
+  "name": "Adafruit",
+  "invite_url": "https://discord.com/invite/adafruit",
+  "source_url": "https://blog.adafruit.com/2018/05/14/join-the-adafruit-community-on-discord-discordapp-adafruit-discord/",
+  "category_hint": "hardware",
+  "notes": "Official Adafruit maker/hardware community Discord, announced on Adafruit's own blog. Verified live via invite API, ~38,874 members.",
+  "confidence": "official"
+ },
+ {
+  "name": "GBAtemp",
+  "invite_url": "https://discord.com/invite/ZMftwWj",
+  "source_url": "https://gbatemp.net/threads/gbatemps-official-discord-server.460532/",
+  "category_hint": "hardware",
+  "notes": "GBAtemp's official Discord, announced by GBAtemp itself (retro/console hacking, hardware modding community adjacent to Flipper/ModRetro/OSCR interests). Verified live via invite API, ~6,435 members.",
+  "confidence": "official"
+ },
+ {
+  "name": "Lockpicking101.com Chat",
+  "invite_url": "https://discord.gg/GW5B3HqRX6",
+  "source_url": "https://www.lockpicking101.com/viewtopic.php?f=4&t=66451",
+  "category_hint": "hardware",
+  "notes": "Official companion Discord for the long-running Lockpicking101.com forum, announced by forum staff (Squelchtone) in an official sticky thread. Verified live via invite API, guild \"Lockpicking101.com\", ~876 members.",
+  "confidence": "official"
+ },
+ {
+  "name": "Software Defined Radio (HackRF/SDR)",
+  "invite_url": "https://discord.gg/dpx89GZ",
+  "source_url": "https://www.rtl-sdr.com/forum/viewtopic.php?t=4412",
+  "category_hint": "hardware",
+  "notes": "Community SDR/HackRF-focused Discord listed on rtl-sdr.com's forum as the HackRF Discord (covers HackRF/PortaPack firmwares and general SDR). Verified live via invite API, guild name \"Software Defined Radio\", 446 members — smaller/niche but genuine and on-topic.",
+  "confidence": "listed"
+ },
+ {
+  "name": "OSINT-FR",
+  "invite_url": "https://discord.com/invite/dWY9sWFKYD",
+  "source_url": "https://discord.com/invite/dWY9sWFKYD",
+  "category_hint": "osint",
+  "notes": "Large (30k+ member) French-founded but internationally active OSINT community server; invite verified live on Discord's own invite page (server name confirmed as 'OSINT-FR'). Could not reach osint-fr.net directly to cross-check from the org's own site (DNS did not resolve), so treat as 'listed' rather than 'official'.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Brigada Osint",
+  "invite_url": "https://discord.com/invite/brigada-osint-688790821293654169",
+  "source_url": "https://discord.com/invite/brigada-osint-688790821293654169",
+  "category_hint": "osint",
+  "notes": "Spanish-language OSINT analyst community (~1,800 members). Invite verified live on Discord's own invite page (server name confirmed). Could not locate a separate official org website to cross-check, so listed rather than official.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Osint For All",
+  "invite_url": "https://discord.com/invite/2NN87XHc9A",
+  "source_url": "https://discord.com/invite/2NN87XHc9A",
+  "category_hint": "osint",
+  "notes": "OSINT-focused Discord community; invite verified live on Discord's own invite page (server name confirmed as 'Osint For All'). No separate official website found to corroborate beyond the invite itself.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Maltego Community",
+  "invite_url": "https://discord.com/invite/BgVknYNefh",
+  "source_url": "https://www.maltego.com/community-ctf/",
+  "category_hint": "tool",
+  "notes": "Official Maltego OSINT community Discord, linked directly from Maltego's own community-ctf.com page (weekly OSINT101 challenges, CTFs, live sessions). Confirmed official source.",
+  "confidence": "official"
+ },
+ {
+  "name": "Antisyphon Training",
+  "invite_url": "https://discord.gg/antisyphon",
+  "source_url": "https://www.antisyphontraining.com/faq/",
+  "category_hint": "redteam",
+  "notes": "Black Hills Infosec's affordable training arm (John Strand); pay-what-you-can red/blue team courses, live webcast community and AMAs in Discord. BHIS itself is already listed separately.",
+  "confidence": "official"
+ },
+ {
+  "name": "Zero-Point Security",
+  "invite_url": "https://discord.gg/Whz3YtY4gG",
+  "source_url": "https://www.zeropointsecurity.co.uk/",
+  "category_hint": "redteam",
+  "notes": "Rasta Mouse's red team training company (CRTO/CRTL certifications); invite linked from official site footer.",
+  "confidence": "official"
+ },
+ {
+  "name": "Havoc Framework",
+  "invite_url": "https://discord.gg/z3PF3NRDE5",
+  "source_url": "https://github.com/HavocFramework/Havoc",
+  "category_hint": "redteam",
+  "notes": "Community/support Discord for the Havoc post-exploitation C2 framework, linked directly in the project README. Repo is archived as of Feb 2026 but the Discord invite is the one the maintainers published.",
+  "confidence": "official"
+ },
+ {
+  "name": "Covert Access Team",
+  "invite_url": "https://discord.gg/ZjrhB6zT85",
+  "source_url": "https://covertaccessteam.substack.com/p/covert-access-team-discord-channel",
+  "category_hint": "redteam",
+  "notes": "Physical penetration testing / covert entry / black team community run by Brian Harris; invite published in the team's own Substack announcement post.",
+  "confidence": "official"
+ },
+ {
+  "name": "Hacker Associate",
+  "invite_url": "https://discord.gg/GtRkRbCd5k",
+  "source_url": "https://hackerassociate.com/contact-us/",
+  "category_hint": "redteam",
+  "notes": "Cybersecurity/pentest training and certification provider (India-based); invite linked from official contact page footer.",
+  "confidence": "official"
+ },
+ {
+  "name": "Corelan Team",
+  "invite_url": "https://discord.gg/JdqQcxAqcn",
+  "source_url": "https://www.corelan.be/index.php/discord/",
+  "category_hint": "redteam",
+  "notes": "Classic exploit-development / vulnerability research community (Corelan tutorials); invite from the dedicated Discord page on the official Corelan site.",
+  "confidence": "official"
+ },
+ {
+  "name": "Professor Messer",
+  "invite_url": "https://discord.gg/dtf4uQPDZq",
+  "source_url": "https://www.professormesser.com/",
+  "category_hint": "careers",
+  "notes": "Official Discord for Professor Messer's free CompTIA A+/Network+/Security+ study community; invite link found directly on his official site footer and nav ('Join the Professor Messer Discord').",
+  "confidence": "official"
+ },
+ {
+  "name": "Total Seminars (Mike Meyers)",
+  "invite_url": "https://discord.com/invite/totalsem",
+  "source_url": "https://www.linkedin.com/posts/mike-meyers-7611874_join-the-total-seminars-discord-discord-server-activity-7061790902733717505-Qwl1",
+  "category_hint": "careers",
+  "notes": "CompTIA (A+/Network+/Security+) study-hall community run by Mike Meyers/Total Seminars; invite shared directly by Mike Meyers on his own LinkedIn. Could not find the link republished on totalsem.com itself, so treating as 'listed' rather than fully official.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Level Effect",
+  "invite_url": "https://discord.gg/CJ9aXgPZYm",
+  "source_url": "https://leveleffect.com/",
+  "category_hint": "careers",
+  "notes": "IT/cybersecurity/data-science training community (SOC/detection engineering courses); invite link present in header and footer of the official Level Effect website.",
+  "confidence": "official"
+ },
+ {
+  "name": "/r/ITCareerQuestions",
+  "invite_url": "https://discord.com/invite/r-itcareerquestions-757997296737583245",
+  "source_url": "https://discord.com/servers/r-itcareerquestions-757997296737583245",
+  "category_hint": "careers",
+  "notes": "Companion Discord for the r/ITCareerQuestions subreddit (IT/cyber career questions, resume/job-hunt help). Captured exactly from Discord's own server directory page; could not independently confirm a link-back from the subreddit sidebar itself, so marked 'listed' rather than 'official'.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC215 (Philadelphia DEF CON Group)",
+  "invite_url": "https://discord.gg/7mNqaTdHFd",
+  "source_url": "https://dc215.org/",
+  "category_hint": "regional",
+  "notes": "Philadelphia's official DEF CON Group; invite link is in the site nav.",
+  "confidence": "official"
+ },
+ {
+  "name": "SecKC",
+  "invite_url": "https://discord.gg/kSNjbxR",
+  "source_url": "https://seckc.org/",
+  "category_hint": "regional",
+  "notes": "Kansas City's long-running monthly hacker meetup.",
+  "confidence": "official"
+ },
+ {
+  "name": "DC919 (Raleigh DEF CON Group)",
+  "invite_url": "https://discord.gg/QuRCf6qTR",
+  "source_url": "https://www.dc919.net/",
+  "category_hint": "regional",
+  "notes": "Raleigh, NC DEF CON group; link on the Contact/Find Us page.",
+  "confidence": "official"
+ },
+ {
+  "name": "DC414 (Milwaukee Area Hacker Group)",
+  "invite_url": "https://discord.gg/DrtEyNbG7u",
+  "source_url": "https://dc414.org/contact",
+  "category_hint": "regional",
+  "notes": "Milwaukee/Franklin, WI DEF CON group.",
+  "confidence": "official"
+ },
+ {
+  "name": "DC435 (Logan/Northern Utah)",
+  "invite_url": "https://discord.gg/tmPDY9aUfG",
+  "source_url": "https://discord.dc435.org/",
+  "category_hint": "regional",
+  "notes": "Official vanity redirect (discord.dc435.org) hosted by the group itself, resolves to this invite.",
+  "confidence": "official"
+ },
+ {
+  "name": "TheLab.ms",
+  "invite_url": "https://discord.gg/6zqaP8e5q4",
+  "source_url": "https://discord.thelab.ms/",
+  "category_hint": "regional",
+  "notes": "North Texas hackerspace; official vanity redirect resolves to this invite; 'no membership required'.",
+  "confidence": "official"
+ },
+ {
+  "name": "DCG719 (Colorado Springs DEF CON Group)",
+  "invite_url": "https://discord.gg/zQQdCaBtbV",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_USA.md",
+  "category_hint": "regional",
+  "notes": "Colorado Springs, CO. Listed via the community-maintained DefconGroups registry (sourced from official DCG forum POC pages).",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC212 (New York City DEF CON Group)",
+  "invite_url": "https://discord.gg/aDycdFjq",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_USA.md",
+  "category_hint": "regional",
+  "notes": "NYC DEF CON group, distinct from NYC Resistor.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC225 (Baton Rouge DEF CON Group)",
+  "invite_url": "https://discord.gg/X6kbfgTmBw",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_USA.md",
+  "category_hint": "regional",
+  "notes": "Baton Rouge, Louisiana.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DCG256 (Huntsville DEF CON Group)",
+  "invite_url": "https://discord.gg/MU9GfUJ",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_USA.md",
+  "category_hint": "regional",
+  "notes": "Huntsville, Alabama.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC253 (Tacoma DEF CON Group)",
+  "invite_url": "https://discord.gg/6QcHJXa",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_USA.md",
+  "category_hint": "regional",
+  "notes": "Tacoma, Washington.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC207 (Portland Maine DEF CON Group)",
+  "invite_url": "https://discord.com/invite/JjpKF6sFW6",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_USA.md",
+  "category_hint": "regional",
+  "notes": "Portland, Maine.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC770 (Atlanta DEF CON Group)",
+  "invite_url": "https://discord.gg/SCvAgvA",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_USA.md",
+  "category_hint": "regional",
+  "notes": "Atlanta, GA — distinct group/Discord from DC404's 'Atlanta Cybersecurity Engineers' server already listed.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC864 (Greenville DEF CON Group)",
+  "invite_url": "https://discord.gg/yc2xVAxwUc",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_USA.md",
+  "category_hint": "regional",
+  "notes": "Greenville, South Carolina.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC539 (Tulsa DEF CON Group)",
+  "invite_url": "https://discord.gg/QpTv7PD",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_USA.md",
+  "category_hint": "regional",
+  "notes": "Tulsa, Oklahoma.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC702 (Las Vegas DEF CON Group)",
+  "invite_url": "https://discord.com/invite/9UqGMaE52F",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_USA.md",
+  "category_hint": "regional",
+  "notes": "Las Vegas, Nevada.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC818 (Woodland Hills DEF CON Group)",
+  "invite_url": "https://discord.com/invite/6Q8cNY48",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_USA.md",
+  "category_hint": "regional",
+  "notes": "Woodland Hills, California.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC5511 (São Paulo DEF CON Group)",
+  "invite_url": "https://discord.gg/Xg3B5ex",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_International.md",
+  "category_hint": "regional",
+  "notes": "São Paulo, Brazil.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC9111 (Delhi DEF CON Group)",
+  "invite_url": "https://discord.gg/tchsmJ8ZZQ",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_International.md",
+  "category_hint": "regional",
+  "notes": "Delhi, India.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DC441392 (Exeter DEF CON Group)",
+  "invite_url": "https://discord.com/invite/UbQvRmR",
+  "source_url": "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_International.md",
+  "category_hint": "regional",
+  "notes": "Exeter, UK.",
+  "confidence": "listed"
+ },
+ {
+  "name": "null (India Security Community)",
+  "invite_url": "https://discord.gg/7e2FS8ga",
+  "source_url": "https://null.community/",
+  "category_hint": "regional",
+  "notes": "India's largest open, volunteer-run infosec community; Discord invite confirmed via the community's own Google Groups announcement post ('Today we are excited to announce null Discord Server') rather than a direct page fetch (main site blocks bot fetches with 403).",
+  "confidence": "listed"
+ }
+]

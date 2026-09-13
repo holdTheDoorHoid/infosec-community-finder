@@ -1,0 +1,116 @@
+[
+ {
+  "id": "blackgirlshack",
+  "name": "BlackGirlsHack",
+  "invite_url": "https://discord.gg/gCQ8Hu2CQ7",
+  "discord_description": "Welcome to the hub for all your World Domination needs!  #BlackGirlsHack #BGH",
+  "members": 552,
+  "online": 21,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "BlackGirlsHack",
+  "candidate_notes": "Leading nonprofit training Black women/girls in cybersecurity. Invite listed on their official Linktree (linked from their own site's navigation).",
+  "category_hints": [
+   "affinity"
+  ],
+  "sources": [
+   "https://linktr.ee/blackgirlshack"
+  ]
+ },
+ {
+  "id": "ncl-community",
+  "name": "NCL Community",
+  "invite_url": "https://discord.gg/PJ6NatRc6M",
+  "discord_description": null,
+  "members": 9668,
+  "online": 1575,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "National Cyber League (NCL)",
+  "candidate_notes": "Student/youth cybersecurity competition league (NCL) with an official 'Community Discord' for players and coaches to find teammates and get help; invite is on their own official community page.",
+  "category_hints": [
+   "affinity"
+  ],
+  "sources": [
+   "https://nationalcyberleague.org/about/community"
+  ]
+ },
+ {
+  "id": "forensic-focus",
+  "name": "Forensic Focus",
+  "invite_url": "https://discord.gg/97zKvTXHeS",
+  "discord_description": "Digital forensics news and discussion server for DFIR professionals, students and academics",
+  "members": 1149,
+  "online": 92,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Forensic Focus",
+  "candidate_notes": "DFIR news and discussion Discord announced on Forensic Focus's own site.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "sources": [
+   "https://www.forensicfocus.com/news/join-our-new-forensic-focus-discord-community/"
+  ]
+ },
+ {
+  "id": "vx-feed",
+  "name": "VX Feed",
+  "invite_url": "https://discord.gg/BBtPURBaJW",
+  "discord_description": null,
+  "members": 6768,
+  "online": 1059,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "vx-underground (VX Feed)",
+  "candidate_notes": "vx-underground's official threat-intel/ransomware-monitoring Discord feed, posted from their own verified X account.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "sources": [
+   "https://x.com/vxunderground/status/1650678065138216960"
+  ]
+ },
+ {
+  "id": "soc-prime-cybersec-community",
+  "name": "SOC Prime Cybersec Community",
+  "invite_url": "https://discord.gg/Cj76AjsSzd",
+  "discord_description": "Server for cybersecurity professionals to connect, network, master Sigma, participate in Threat Bounty and so much more!",
+  "members": 3061,
+  "online": 193,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "SOC Prime Cybersec Community",
+  "candidate_notes": "Official SOC Prime (Sigma/detection engineering, Threat Bounty) Discord announced on their own blog.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "sources": [
+   "https://socprime.com/blog/soc-prime-on-discord-join-a-single-community-for-all-cyber-defenders-to-benefit-from-shared-expertise/"
+  ]
+ },
+ {
+  "id": "ghostesp",
+  "name": "GhostESP",
+  "invite_url": "https://discord.gg/ghostesp-1364136035096723476",
+  "discord_description": "Building an open source platform for ESP32 devices.",
+  "members": 3244,
+  "online": 372,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "GhostESP",
+  "candidate_notes": "Official support/community server for the GhostESP open-source ESP32 wireless (Wi-Fi/BLE) security research firmware, linked directly in the project's GitHub README. Verified live via invite API, ~3,244 members.",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://github.com/GhostESP-Revival/GhostESP"
+  ]
+ }
+]

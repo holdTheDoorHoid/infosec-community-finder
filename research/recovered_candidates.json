@@ -1,0 +1,418 @@
+[
+ {
+  "name": "Open Source Cartridge Reader",
+  "invite_url": "https://discord.gg/YVxv7BnzXt",
+  "source_url": "https://www.cartreader.net/",
+  "category_hint": "hardware",
+  "notes": "Found directly on the official project site (cartreader.net), described as the OSCR community Discord frequented by developers and power users.",
+  "confidence": "official"
+ },
+ {
+  "name": "Cackalackycon",
+  "invite_url": "https://discord.gg/a3zDHPG6be",
+  "source_url": "https://cackalackycon.org/",
+  "category_hint": "conference",
+  "notes": "Confirmed on the official cackalackycon.org site (appears in the 'Join the Community' section and footer) — same code as the previously recorded dead invite, so it appears to still be current/valid.",
+  "confidence": "official"
+ },
+ {
+  "name": "nahamsec",
+  "invite_url": "https://discord.gg/nahamsec-598608711186907146",
+  "source_url": "https://discord.com/servers/nahamsec-598608711186907146",
+  "category_hint": "conference",
+  "notes": "Verified via Discord's own server directory listing for NahamSec (~41k members).",
+  "confidence": "official"
+ },
+ {
+  "name": "Hackfest",
+  "invite_url": "https://discord.com/invite/hackfest-ca-724131514161561653",
+  "source_url": "https://hackfest.ca/en/contact/",
+  "category_hint": "conference",
+  "notes": "Official contact page links to discord.hackfest.ca (a custom-domain redirect that returned an error when fetched directly, so I could not confirm the redirect target myself). Used the discord.com/invite/hackfest-ca-... link surfaced by search instead, matching the ~5,720-member 'Hackfest.ca' server description; not independently confirmed on the official page itself.",
+  "confidence": "listed"
+ },
+ {
+  "name": "InfoSec Prep",
+  "invite_url": "https://discord.gg/6jjPnEG85h",
+  "source_url": "https://bishopfox.com/events/discord-infosec-prep",
+  "category_hint": "general",
+  "notes": "Found on Bishop Fox's official event page for their InfoSec Prep Discord AMA, which links directly to the InfoSec Prep server. A different code (RRgKaep) also appeared in generic search summaries but without a clear official source, so I used the Bishop Fox-sourced one instead.",
+  "confidence": "official"
+ },
+ {
+  "name": "OwlSec - s",
+  "invite_url": "https://discord.com/invite/owlsec",
+  "source_url": "https://discord.com/servers/owlsec-990435451334688768",
+  "category_hint": "general",
+  "notes": "Discord's own server directory page for OwlSec did not expose a direct invite link, but web search surfaced a matching vanity invite (discord.com/invite/owlsec) whose landing page confirms the name 'OwlSec'.",
+  "confidence": "listed"
+ },
+ {
+  "name": "CyberVerse Ethical Hacking, Coding, InfoSec & Programming",
+  "invite_url": "https://discord.com/invite/cyberverse-3c-ethical-hacking-coding-1023660151095443717",
+  "source_url": "https://discord.com/servers/cyberverse-ethical-hacking-coding-infosec-1023660151095443717",
+  "category_hint": "general",
+  "notes": "Found via Discord's own server directory (discord.com/servers listing), which links to this invite; page title matched exactly. Could not fully verify liveness via WebFetch (JS-rendered), but this is Discord's own directory rather than a third-party list.",
+  "confidence": "listed"
+ },
+ {
+  "name": "The White Circle",
+  "invite_url": "https://discord.com/invite/the-white-circle-675369276403744776",
+  "source_url": "https://twc1rcle.com/",
+  "category_hint": "general",
+  "notes": "Official site twc1rcle.com does not display the invite directly in fetched content, but Discord's own directory page for this server (name+id format) resolves and names it 'The White Circle', matching the community; ~1948 members per directory listing.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Dex Security",
+  "invite_url": "https://discord.com/invite/dex-security-1287581976487788617",
+  "source_url": "https://discord.com/invite/dex-security-1287581976487788617",
+  "category_hint": "general",
+  "notes": "No separate official website found; Discord's own directory page (name+id) confirms server name 'Dex Security', ethical hacking/CTF focus, ~2600 members.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Bounty Hunters",
+  "invite_url": "https://discord.com/invite/bugbounty",
+  "source_url": "https://discord.com/invite/bugbounty",
+  "category_hint": "general",
+  "notes": "Discord's own directory page confirms server name 'Bounty Hunters', bug bounty focus, ~18,736 members; matches Disboard listing description closely.",
+  "confidence": "listed"
+ },
+ {
+  "name": "The Cyber Council",
+  "invite_url": "https://discord.gg/NEcNJK4k9u",
+  "source_url": "https://www.cybercord.org/",
+  "category_hint": "general",
+  "notes": "Searched \"The Cyber Council discord ethical hackers\". Found the community's apparent official site cybercord.org and third-party aggregator pages (discord.do, discordbotlist) citing invite https://discord.gg/NEcNJK4k9u for a ~7,766-member ethical hacking/cybersecurity server matching this listing's description. Could not WebFetch cybercord.org directly (DNS failure) or discord.do (403) to verify firsthand, so treating as listed rather than official.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Gateway server",
+  "invite_url": "https://discord.gg/J6eXBzZyq2",
+  "source_url": "https://github.com/GatewayDiscord",
+  "category_hint": "ctf",
+  "notes": "Found current invite on the community's own GitHub organization page (github.com/GatewayDiscord), described there as 'a CTF team and a discord community'; replaces the dead StnwMPxRfd invite in the original README.",
+  "confidence": "official"
+ },
+ {
+  "name": "Hacker101",
+  "invite_url": "https://discord.gg/32ZNZVN",
+  "source_url": "https://www.hacker101.com/discord",
+  "category_hint": "tool",
+  "notes": "Retrieved directly from Hacker101's own official /discord redirect page on hacker101.com (HackerOne's training platform), which forwards to this invite.",
+  "confidence": "official"
+ },
+ {
+  "name": "I Am Jakoby",
+  "invite_url": "https://discord.com/invite/MYYER2ZcJF",
+  "source_url": "https://discord.com/servers/i-am-jakoby-495265922135621632",
+  "category_hint": "creator",
+  "notes": "Found via Discord's own server directory page for 'I am Jakoby' (the hacking/hardware YouTuber's community), which lists this current invite; replaces the dead 'iamjakoby' vanity invite.",
+  "confidence": "listed"
+ },
+ {
+  "name": "The CyberSec Lounge",
+  "invite_url": "https://discord.gg/r4JxpJS",
+  "source_url": "https://disboard.org/server/509544906335715349",
+  "category_hint": "general",
+  "notes": "Found via web search referencing a Disboard listing; not confirmed on an official page belonging to the community (its actual site, cybersec-lounge.com, appears to be an unrelated training company). Treating as third-party listed.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Hackfest Canada",
+  "invite_url": "https://discord.com/invite/hackfest-ca-724131514161561653",
+  "source_url": "https://hackfest.ca/en/contact/",
+  "category_hint": "conference",
+  "notes": "Confirmed via Hackfest's own official Contact page (hackfest.ca), which links to discord.hackfest.ca as its Discord invite gateway; the resolved discord.com/invite URL was found via search and matches the official short-link target.",
+  "confidence": "official"
+ },
+ {
+  "name": "TrustedSec",
+  "invite_url": "https://discord.com/invite/trustedsec",
+  "source_url": "https://x.com/TrustedSec/status/1348661993268510721",
+  "category_hint": "vendor",
+  "notes": "Invite link posted by TrustedSec's own official X/Twitter account and shared by founder David Kennedy on LinkedIn; trustedsec.com/community page returned 404 on direct fetch.",
+  "confidence": "official"
+ },
+ {
+  "name": "Black Hills",
+  "invite_url": "https://discord.com/invite/bhis",
+  "source_url": "https://www.blackhillsinfosec.com/community/",
+  "category_hint": "vendor",
+  "notes": "blackhillsinfosec.com/community/ is BHIS's own community page (returned 403 on direct fetch, so link not independently re-verified there), but the discord.com/invite/bhis link is corroborated by BHIS's own official X/Twitter account and staff LinkedIn posts.",
+  "confidence": "official"
+ },
+ {
+  "name": "Threat Hunter Community",
+  "invite_url": "https://discord.com/invite/2JjfB7E",
+  "source_url": "https://www.activecountermeasures.com/event/threat-hunter-community-discord-virtual-meetup-with-bill-stearns-subject-ssh/",
+  "category_hint": "blueteam",
+  "notes": "This community is run by Active Countermeasures; invite link corroborated by the company's own event page and by founder Chris Brenton's LinkedIn post announcing the server.",
+  "confidence": "official"
+ },
+ {
+  "name": "Prelude Operator",
+  "invite_url": "https://discord.com/invite/gzUv4XNquu",
+  "source_url": "https://discord.com/invite/gzUv4XNquu",
+  "category_hint": "tool",
+  "notes": "Found via search as 'Prelude Security Discord Server' (2401 members) which appears to correspond to Prelude/Operator, the adversary emulation tool. Not confirmed on an official preludesecurity.com page directly, so listing as unverified/listed rather than official.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Adversary Village",
+  "invite_url": "https://discord.com/invite/GDB3rC7KYz",
+  "source_url": "https://adversaryvillage.org/discord/",
+  "category_hint": "village",
+  "notes": "Found via search referencing adversaryvillage.org/discord (official redirect page); WebFetch of that page returned no content, but the invite was independently listed as the Adversary Village Discord in search results tied to the official site.",
+  "confidence": "listed"
+ },
+ {
+  "name": "DigitalOverdose",
+  "invite_url": "https://discord.gg/yTPvyub",
+  "source_url": "https://digitaloverdose.tech/",
+  "category_hint": "general",
+  "notes": "Found directly on the official Digital Overdose homepage (digitaloverdose.tech), listed as their 'Join us on Discord' link.",
+  "confidence": "official"
+ },
+ {
+  "name": "CyberDefenders",
+  "invite_url": "https://discord.com/invite/cyberdefenders-709928959936168026",
+  "source_url": "https://x.com/CyberDefenders/status/1515314958292160513",
+  "category_hint": "blueteam",
+  "notes": "Primary invite found via search, associated with CyberDefenders' own X/Twitter post announcing their Discord; matches their Discord server directory listing.",
+  "confidence": "listed"
+ },
+ {
+  "name": "1BitSquared",
+  "invite_url": "https://discord.com/invite/P7FYThy",
+  "source_url": "https://1bitsquared.com/pages/chat",
+  "category_hint": "hardware",
+  "notes": "1bitsquared.com/pages/chat (official site) states this is the community chat page and embeds their Discord server; the invite code P7FYThy was found via search and matches the official community server for 1BitSquared open-source hardware/electronics.",
+  "confidence": "official"
+ },
+ {
+  "name": "Car Hacking Village HQ",
+  "invite_url": "https://discord.gg/zz7xUPZcre",
+  "source_url": "https://www.carhackingvillage.com/",
+  "category_hint": "village",
+  "notes": "Found on the official Car Hacking Village website (carhackingvillage.com), appears in the site footer as the current community invite link, distinct from the dead JWCCTAM code.",
+  "confidence": "official"
+ },
+ {
+  "name": "KASE",
+  "invite_url": "https://discord.com/invite/eaz5AqHDfK",
+  "source_url": "https://kasescenarios.com/",
+  "category_hint": "osint",
+  "notes": "Found via search referencing the official KASE Scenarios site/socials (kasescenarios.com) and shared on their LinkedIn/X promoting 'Join the Kase Discord Server!'; treated as official since it traces to the org's own promotional link.",
+  "confidence": "official"
+ },
+ {
+  "name": "OSINTion",
+  "invite_url": "https://discord.com/invite/p78TTGa",
+  "source_url": "https://www.facebook.com/theOSINTion/",
+  "category_hint": "osint",
+  "notes": "Found via search referencing The OSINTion's own Facebook page and LinkedIn post ('Join the The OSINTion Discord Server!'), matching the community's own social presence.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Porchetta Industries",
+  "invite_url": "https://discord.com/invite/k5PQnqSNDF",
+  "source_url": "https://porchetta.industries/faq",
+  "category_hint": "tool",
+  "notes": "Found via web search referencing Porchetta Industries' FAQ page; current invite discord.com/invite/k5PQnqSNDF replaces dead fCchJT6McG.",
+  "confidence": "listed"
+ },
+ {
+  "name": "RedSec by Bishop Fox",
+  "invite_url": "https://discord.com/invite/redsec",
+  "source_url": "https://bishopfox.com/events/discord-infosec-prep",
+  "category_hint": "appsec",
+  "notes": "Vanity invite discord.com/invite/redsec still appears live/current per Bishop Fox's own event page and recent (2026) LinkedIn posts from Bishop Fox company account promoting the same link; same code as the 'dead' one listed, so it may have been reactivated.",
+  "confidence": "official"
+ },
+ {
+  "name": "Reverse Engineering",
+  "invite_url": "https://discord.com/invite/reverse-engineering-391398885819547652",
+  "source_url": "https://discord.com/invite/reverse-engineering-391398885819547652",
+  "category_hint": "tool",
+  "notes": "Found via Discord's own server listing (discordbotlist/discord.com) for the 'Reverse Engineering' server (27k+ members) carrying the RTFM tag matching the dead invite's code; this is Discord's current permanent invite link for that server, not a third-party guess.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Summit City Infosec",
+  "invite_url": "https://discord.com/invite/tM4eZFFzjg",
+  "source_url": "https://www.bsidesfortwayne.org/about/",
+  "category_hint": "regional",
+  "notes": "Found via search referencing BSides Fort Wayne's own site inviting people to join Summit City Infosec on Discord; current invite discord.com/invite/tM4eZFFzjg replaces dead e664A69G4a.",
+  "confidence": "listed"
+ },
+ {
+  "name": "VulnHub",
+  "invite_url": "https://discord.gg/jwhaVmy74p",
+  "source_url": "https://www.vulnhub.com/chat/",
+  "category_hint": "tool",
+  "notes": "Confirmed via WebFetch of VulnHub's own official Chat page (vulnhub.com/chat/), which lists discord.gg/jwhaVmy74p as their Discord invite.",
+  "confidence": "official"
+ },
+ {
+  "name": "Wild West Hackin' Fest",
+  "invite_url": "https://discord.com/invite/wwhf",
+  "source_url": "https://wildwesthackinfest.com/about-us/faq/",
+  "category_hint": "conference",
+  "notes": "Vanity invite discord.com/invite/wwhf appears current/live per WWHF's own FAQ page context and Discord's own 'Join the Wild West Hackin' Fest Discord Server!' listing (10,000+ members); this is the same code style as before but now resolves live.",
+  "confidence": "official"
+ },
+ {
+  "name": "r/Cybersecurity Official Discord",
+  "invite_url": "https://discord.com/invite/r95bVZzC8Q",
+  "source_url": "https://medium.com/@declanmidd/top-cybersecurity-discord-servers-you-should-join-today-learn-network-and-level-up-your-skills-ca14dd6852e5",
+  "category_hint": "general",
+  "notes": "Web search budget ran out mid-batch. Found a 'Cyber Security Discord Server' invite (~5.7k members) via search, but could not verify on the actual r/Cybersecurity subreddit sidebar/wiki that this is its official server, so confidence is listed not official.",
+  "confidence": "listed"
+ },
+ {
+  "name": "CTI - Cyber Threat Intelligence",
+  "invite_url": "https://discord.com/invite/vK6RyGVSZR",
+  "source_url": "https://disboard.org/server/1210268980330369135",
+  "category_hint": "blueteam",
+  "notes": "Found via search results referencing a 'CTI - Hub' Discord (curation/sharing of CTI, ~930 members) on a third-party listing page; did not reach an official CTI project page to confirm, so marked listed.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Paul's Security Weekly",
+  "invite_url": "https://discord.com/invite/pqSwWm4",
+  "source_url": "https://securityweekly.com/discord",
+  "category_hint": "general",
+  "notes": "securityweekly.com/discord (official Security Weekly site) 302-redirects to this invite. Official first-party redirect.",
+  "confidence": "official"
+ },
+ {
+  "name": "OSIRIS Lab (NYU) / NYUSEC",
+  "invite_url": "https://discord.gg/T8tKFtbjKp",
+  "source_url": "https://osiris.cyber.nyu.edu/",
+  "category_hint": "ctf",
+  "notes": "Official OSIRIS Lab site links its own shortlink osiris.link/discord, which 302-redirects to this invite.",
+  "confidence": "official"
+ },
+ {
+  "name": "Professor Messer",
+  "invite_url": "https://discord.gg/dtf4uQPDZq",
+  "source_url": "https://www.professormesser.com/",
+  "category_hint": "creator",
+  "notes": "Invite link appears directly on Professor Messer's own official website (social section and a community banner), replacing the stale 'professormesser' vanity invite.",
+  "confidence": "official"
+ },
+ {
+  "name": "HackerSploit",
+  "invite_url": "https://discord.gg/qVwaFdRJb2",
+  "source_url": "https://linktr.ee/hackersploit",
+  "category_hint": "creator",
+  "notes": "Found under a 'Discord Server' entry on HackerSploit's official Linktree, replacing the stale 2021 discordapp.com/invite/j3dH7tK link.",
+  "confidence": "official"
+ },
+ {
+  "name": "Evil Crow RF",
+  "invite_url": "https://discord.gg/evilcrowrf",
+  "source_url": "https://github.com/joelsernamoreno/EvilCrowRF-V2",
+  "category_hint": "hardware",
+  "notes": "README's own Discord Group link is discord.gg/evilcrowrf (same code as the previously dead invite — it may have been reactivated, or this is a persistent vanity that briefly lapsed). README also lists a second server discord.gg/jECPUtdrnW for support; could not confirm which is currently live via Discord API (no browser tools permitted).",
+  "confidence": "official"
+ },
+ {
+  "name": "Bugcrowd Community",
+  "invite_url": "https://discord.com/invite/TWr3Brs",
+  "source_url": "https://www.bugcrowd.com/hackers/",
+  "category_hint": "vendor",
+  "notes": "Invite found directly on Bugcrowd's own hackers page.",
+  "confidence": "official"
+ },
+ {
+  "name": "GrapheneOS",
+  "invite_url": "https://discord.com/invite/grapheneos",
+  "source_url": "https://grapheneos.org/",
+  "category_hint": "tool",
+  "notes": "Invite found directly on the official GrapheneOS homepage.",
+  "confidence": "official"
+ },
+ {
+  "name": "BosINT / OSINTNova",
+  "invite_url": "https://discord.gg/wwrAFEYXtH",
+  "source_url": "https://osintnova.com",
+  "category_hint": "osint",
+  "notes": "Invite found directly on the official OSINTNova website.",
+  "confidence": "official"
+ },
+ {
+  "name": "PC Security Channel",
+  "invite_url": "https://discord.com/invite/y7q3qMM",
+  "source_url": "https://pcsecuritychannel.com/",
+  "category_hint": "general",
+  "notes": "Invite found directly on the official PC Security Channel website (thepcsecuritychannel.com redirects here).",
+  "confidence": "official"
+ },
+ {
+  "name": "Patchstack Alliance",
+  "invite_url": "https://discord.gg/rkE8yxtNmS",
+  "source_url": "https://patchstack.com/alliance/",
+  "category_hint": "vendor",
+  "notes": "Found directly on Patchstack's official Alliance page (patchstack.com/alliance/), appearing multiple times as the join link for the security researcher community.",
+  "confidence": "official"
+ },
+ {
+  "name": "Critical Thinking - Bug Bounty Podcast",
+  "invite_url": "https://discord.gg/75N7KgpC2r",
+  "source_url": "https://www.criticalthinkingpodcast.io/discord/",
+  "category_hint": "creator",
+  "notes": "Resolved via the podcast's own official short-link chain: ctbb.show/discord -> criticalthinkingpodcast.io/discord -> discord.gg/75N7KgpC2r. Confirmed as their current official invite.",
+  "confidence": "official"
+ },
+ {
+  "name": "Secur0 | Bug bounty",
+  "invite_url": "https://discord.gg/secur0-bug-bounty-1307703020288741509",
+  "source_url": "https://discord.com/servers/secur0-or-bug-bounty-1307703020288741509",
+  "category_hint": "general",
+  "notes": "Discord's own server directory page for this Spain-based hacker/bug-bounty community lists this join link repeatedly as the 'Join Server' URL.",
+  "confidence": "listed"
+ },
+ {
+  "name": "secureblue",
+  "invite_url": "https://discord.com/invite/qMTv5cKfbF",
+  "source_url": "https://github.com/secureblue/secureblue",
+  "category_hint": "tool",
+  "notes": "Discord badge/link in the official secureblue GitHub README points to this invite; also matches the project's own site.",
+  "confidence": "official"
+ },
+ {
+  "name": "SDR",
+  "invite_url": "https://discord.gg/sdr",
+  "source_url": "https://discord.com/servers/sdr-1201324741315792916",
+  "category_hint": "hardware",
+  "notes": "Discord's directory page for this SDR (software-defined radio) server repeatedly showed 'Join Server' linking to discord.gg/sdr, which 301-redirects to discord.com/invite/sdr (a live invite). Could not fully confirm server identity/content via WebFetch since Discord's invite landing page is JS-rendered, so listed rather than official.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Ethical Hacker Groep Nederland",
+  "invite_url": "https://discord.gg/ehgn",
+  "source_url": "https://discord.com/servers/ethical-hacker-groep-nederland-1198136019447451708",
+  "category_hint": "regional",
+  "notes": "Discord's own directory listing for this Dutch ethical-hacking community repeatedly shows this as its 'Join Server' link.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Maker's Village",
+  "invite_url": "https://discord.gg/Zm33Vs2jen",
+  "source_url": "https://makersvillage.space",
+  "category_hint": "village",
+  "notes": "Fetched the official makersvillage.space site directly; its 'Follow Us' section still lists this same code as the current Discord link, matching the previously-recorded (flagged dead) invite. Since the official site itself currently presents this exact link with no alternative, it is being reported as-is, but it may still be inactive — recommend spot-checking manually before publishing.",
+  "confidence": "official"
+ },
+ {
+  "name": "Recon Village",
+  "invite_url": "https://discord.gg/reconvillage",
+  "source_url": "https://reconvillage.org",
+  "category_hint": "village",
+  "notes": "Official reconvillage.org site confirms discord.gg/reconvillage as its current Discord link — same vanity code previously flagged dead, but it is a persistent vanity URL (not a rotating invite code) and the official site still presents it as live, so it is reported as-is. Recommend a manual click-check since vanity URLs can be revoked without changing the visible code.",
+  "confidence": "official"
+ }
+]

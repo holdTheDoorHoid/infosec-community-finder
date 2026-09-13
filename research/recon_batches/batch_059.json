@@ -1,0 +1,116 @@
+[
+ {
+  "id": "cyber-security",
+  "name": "Cyber Security",
+  "invite_url": "https://discord.gg/r95bVZzC8Q",
+  "discord_description": "Interested in cyber security ? Join now and explore the Cyber Security World .",
+  "members": 5773,
+  "online": 777,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "r/Cybersecurity Official Discord",
+  "candidate_notes": "Web search budget ran out mid-batch. Found a 'Cyber Security Discord Server' invite (~5.7k members) via search, but could not verify on the actual r/Cybersecurity subreddit sidebar/wiki that this is its official server, so confidence is listed not official.",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://medium.com/@declanmidd/top-cybersecurity-discord-servers-you-should-join-today-learn-network-and-level-up-your-skills-ca14dd6852e5"
+  ]
+ },
+ {
+  "id": "cti-cyber-threat-intelligence",
+  "name": "CTI - Cyber Threat Intelligence",
+  "invite_url": "https://discord.gg/vK6RyGVSZR",
+  "discord_description": "CTI - Hub, a Discord community created for the curation and sharing of accurate and current Cyber Threat Intelligence!",
+  "members": 935,
+  "online": 110,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "CTI - Cyber Threat Intelligence",
+  "candidate_notes": "Found via search results referencing a 'CTI - Hub' Discord (curation/sharing of CTI, ~930 members) on a third-party listing page; did not reach an official CTI project page to confirm, so marked listed.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "sources": [
+   "https://disboard.org/server/1210268980330369135"
+  ]
+ },
+ {
+  "id": "nyusec",
+  "name": "NYUSEC",
+  "invite_url": "https://discord.gg/nyusec-691736704771686521",
+  "discord_description": "The Cybersecurity community at NYU",
+  "members": 3015,
+  "online": 245,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "OSIRIS Lab (NYU) / NYUSEC",
+  "candidate_notes": "Official OSIRIS Lab site links its own shortlink osiris.link/discord, which 302-redirects to this invite.",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://osiris.cyber.nyu.edu/"
+  ]
+ },
+ {
+  "id": "professor-messer",
+  "name": "Professor Messer",
+  "invite_url": "https://discord.gg/dtf4uQPDZq",
+  "discord_description": "Discuss study strategies with other Professor Messer students!",
+  "members": 82810,
+  "online": 9318,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Professor Messer",
+  "candidate_notes": "Invite link appears directly on Professor Messer's own official website (social section and a community banner), replacing the stale 'professormesser' vanity invite.",
+  "category_hints": [
+   "creator"
+  ],
+  "sources": [
+   "https://www.professormesser.com/"
+  ]
+ },
+ {
+  "id": "patchstack-alliance",
+  "name": "Patchstack Alliance",
+  "invite_url": "https://discord.gg/patchstack-alliance-1024691600619745334",
+  "discord_description": "Welcome to the Patchstack Alliance community – we invite all open-source developers and security researchers to connect!",
+  "members": 3341,
+  "online": 307,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Patchstack Alliance",
+  "candidate_notes": "Found directly on Patchstack's official Alliance page (patchstack.com/alliance/), appearing multiple times as the join link for the security researcher community.",
+  "category_hints": [
+   "vendor"
+  ],
+  "sources": [
+   "https://patchstack.com/alliance/"
+  ]
+ },
+ {
+  "id": "secureblue",
+  "name": "secureblue",
+  "invite_url": "https://discord.gg/secureblue-1202086019298500629",
+  "discord_description": "A security-focused desktop and server Linux operating system.",
+  "members": 1891,
+  "online": 212,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "secureblue",
+  "candidate_notes": "Discord badge/link in the official secureblue GitHub README points to this invite; also matches the project's own site.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://github.com/secureblue/secureblue"
+  ]
+ }
+]

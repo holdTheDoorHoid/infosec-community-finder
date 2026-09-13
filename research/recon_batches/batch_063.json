@@ -1,0 +1,116 @@
+[
+ {
+  "id": "brigada-osint",
+  "name": "Brigada Osint",
+  "invite_url": "https://discord.gg/brigada-osint-688790821293654169",
+  "discord_description": "Comunidad de Analistas de Inteligencia en Fuentes Abiertas",
+  "members": 1772,
+  "online": 96,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Brigada Osint",
+  "candidate_notes": "Spanish-language OSINT analyst community (~1,800 members). Invite verified live on Discord's own invite page (server name confirmed). Could not locate a separate official org website to cross-check, so listed rather than official.",
+  "category_hints": [
+   "osint"
+  ],
+  "sources": [
+   "https://discord.com/invite/brigada-osint-688790821293654169"
+  ]
+ },
+ {
+  "id": "osint-for-all",
+  "name": "Osint For All",
+  "invite_url": "https://discord.gg/2NN87XHc9A",
+  "discord_description": null,
+  "members": 755,
+  "online": 34,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Osint For All",
+  "candidate_notes": "OSINT-focused Discord community; invite verified live on Discord's own invite page (server name confirmed as 'Osint For All'). No separate official website found to corroborate beyond the invite itself.",
+  "category_hints": [
+   "osint"
+  ],
+  "sources": [
+   "https://discord.com/invite/2NN87XHc9A"
+  ]
+ },
+ {
+  "id": "maltego-community-osint",
+  "name": "Maltego Community OSINT",
+  "invite_url": "https://discord.gg/BgVknYNefh",
+  "discord_description": null,
+  "members": 1516,
+  "online": 162,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Maltego Community",
+  "candidate_notes": "Official Maltego OSINT community Discord, linked directly from Maltego's own community-ctf.com page (weekly OSINT101 challenges, CTFs, live sessions). Confirmed official source.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://www.maltego.com/community-ctf/"
+  ]
+ },
+ {
+  "id": "antisyphon-training",
+  "name": "Antisyphon Training",
+  "invite_url": "https://discord.gg/antisyphon",
+  "discord_description": "Antisyphon Training helps you in all aspects of your journey in cybersecurity, from training to community support.",
+  "members": 34032,
+  "online": 3412,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Antisyphon Training",
+  "candidate_notes": "Black Hills Infosec's affordable training arm (John Strand); pay-what-you-can red/blue team courses, live webcast community and AMAs in Discord. BHIS itself is already listed separately.",
+  "category_hints": [
+   "redteam"
+  ],
+  "sources": [
+   "https://www.antisyphontraining.com/faq/"
+  ]
+ },
+ {
+  "id": "zero-point-security",
+  "name": "Zero-Point Security",
+  "invite_url": "https://discord.gg/Whz3YtY4gG",
+  "discord_description": null,
+  "members": 13139,
+  "online": 2468,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Zero-Point Security",
+  "candidate_notes": "Rasta Mouse's red team training company (CRTO/CRTL certifications); invite linked from official site footer.",
+  "category_hints": [
+   "redteam"
+  ],
+  "sources": [
+   "https://www.zeropointsecurity.co.uk/"
+  ]
+ },
+ {
+  "id": "havoc-framework",
+  "name": "Havoc Framework",
+  "invite_url": "https://discord.gg/z3PF3NRDE5",
+  "discord_description": null,
+  "members": 4147,
+  "online": 646,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Havoc Framework",
+  "candidate_notes": "Community/support Discord for the Havoc post-exploitation C2 framework, linked directly in the project README. Repo is archived as of Feb 2026 but the Discord invite is the one the maintainers published.",
+  "category_hints": [
+   "redteam"
+  ],
+  "sources": [
+   "https://github.com/HavocFramework/Havoc"
+  ]
+ }
+]

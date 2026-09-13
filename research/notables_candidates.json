@@ -1,0 +1,130 @@
+[
+ {
+  "name": "David Bombal",
+  "invite_url": "https://discord.com/invite/davidbombal",
+  "source_url": "https://discord.com/invite/davidbombal",
+  "category_hint": "YouTube educator / networking & ethical hacking",
+  "notes": "~120k member community server covering Python, Ethical Hacking, Networking, CCNA. Vanity invite matches his brand name; also referenced from his own course platform (courses.davidbombal.com) which sells a 'Discord Premium Group'. Could not load his YouTube About page JS to see the description link directly, so confidence is listed rather than fully verified live on an official page.",
+  "confidence": "listed"
+ },
+ {
+  "name": "NetworkChuck",
+  "invite_url": "https://discord.com/invite/networkchuck",
+  "source_url": "https://discord.com/invite/networkchuck",
+  "category_hint": "YouTube educator / IT & networking",
+  "notes": "~98k member server; NetworkChuck also runs a separate 'NetworkChuck Academy' server at discord.com/invite/ntck-ac. Same caveat as David Bombal: vanity invite plus multiple independent listings, but I could not load the live YouTube channel description to see it linked directly.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Intigriti",
+  "invite_url": "http://go.intigriti.com/discord",
+  "source_url": "https://kb.intigriti.com/en/articles/5378975-creating-an-intigriti-account",
+  "category_hint": "Bug bounty platform",
+  "notes": "Official Intigriti Help Center article links researchers to their Discord via go.intigriti.com/discord (their own branded redirect domain).",
+  "confidence": "official"
+ },
+ {
+  "name": "AI Village (DEF CON)",
+  "invite_url": "https://discord.com/invite/GX5fhfT",
+  "source_url": "https://github.com/aivillage",
+  "category_hint": "DEF CON village / AI security & ML",
+  "notes": "Listed as the contact link on AI Village's official GitHub organization profile.",
+  "confidence": "official"
+ },
+ {
+  "name": "Blue Team Village",
+  "invite_url": "https://discord.gg/blueteamvillage",
+  "source_url": "https://blueteamvillage.org/",
+  "category_hint": "DEF CON village / blue team & defense",
+  "notes": "Vanity invite found in the nav, 'Stay connected' section, and footer of the official Blue Team Village website.",
+  "confidence": "official"
+ },
+ {
+  "name": "Security Blue Team",
+  "invite_url": "https://discord.gg/gEUeKm8",
+  "source_url": "https://www.centri.org/",
+  "category_hint": "Blue team training / certifications",
+  "notes": "Security Blue Team has rebranded; securityblue.team now permanently redirects to centri.org, whose footer 'Join Our Discord' link is this invite.",
+  "confidence": "official"
+ },
+ {
+  "name": "Hackaday",
+  "invite_url": "https://discord.com/invite/Ch28rUwy5a",
+  "source_url": "https://hackaday.com/2021/11/17/friday-getting-social-with-discord-and-bring-a-hack/",
+  "category_hint": "hardware/hacking media",
+  "notes": "Official Hackaday Discord, linked from Hackaday.com's own community coverage.",
+  "confidence": "official"
+ },
+ {
+  "name": "Adafruit",
+  "invite_url": "https://discord.com/invite/adafruit",
+  "source_url": "https://blog.adafruit.com/2020/02/29/adafruits-community-discord-server-is-now-in-server-discovery-join-16000-makers-adafruit-discordapp-discord/",
+  "category_hint": "maker/electronics",
+  "notes": "Vanity invite discord.gg/adafruit redirects to discord.com/invite/adafruit; promoted repeatedly on Adafruit's own blog (adafru.it/discord).",
+  "confidence": "official"
+ },
+ {
+  "name": "DC215 (Philadelphia DEF CON group)",
+  "invite_url": "https://discord.gg/XYH2xkyuN4",
+  "source_url": "https://dc215.org/faq.html",
+  "category_hint": "local infosec meetup",
+  "notes": "Found directly on DC215's own FAQ page under 'Join us on Discord!'.",
+  "confidence": "official"
+ },
+ {
+  "name": "OSINT Curious / OSINT Combine",
+  "invite_url": "https://discord.com/invite/FHagzwXqb",
+  "source_url": "https://www.linkedin.com/posts/the-osint-curious-project_join-the-the-osint-curious-project-discord-activity-6912763467783376897-wF9_",
+  "category_hint": "OSINT community",
+  "notes": "Posted by the official OSINT Curious Project LinkedIn account, but the post is from 2021-2022 and could not be re-verified live on a current official page in this pass; treat as likely but unconfirmed-current.",
+  "confidence": "listed"
+ },
+ {
+  "name": "Digital Forensics Discord Server (DFIR Discord, Andrew Rathbun)",
+  "invite_url": "https://discord.com/invite/mWMJWuu",
+  "source_url": "https://wiki.dfir.training/social-networks/digital-forensics-discord-server",
+  "category_hint": "DFIR community",
+  "notes": "wiki.dfir.training is the community wiki most associated with this server (SSL hostname mismatch on wiki.dfir.training blocked direct verification of the invite in this pass, and other sources returned differing codes like discord.com/invite/JUqe9Ek and a project vanity URL) - recommend a manual click-check before publishing.",
+  "confidence": "listed"
+ },
+ {
+  "name": "picoCTF",
+  "invite_url": "https://discord.com/invite/WQGdYaB",
+  "source_url": "https://picoctf.org/community.html",
+  "category_hint": "CTF/education",
+  "notes": "picoctf.org/discord (the short official redirect link) returned 403 to the fetch tool, but the same invite code is published on picoCTF's own community.html page.",
+  "confidence": "official"
+ },
+ {
+  "name": "OverTheWire",
+  "invite_url": "https://discord.com/invite/CPDYM3G",
+  "source_url": "https://overthewire.org/information/chat.html",
+  "category_hint": "wargames/CTF",
+  "notes": "Listed as OverTheWire's official chat contact channel.",
+  "confidence": "listed"
+ },
+ {
+  "name": "pwn.college",
+  "invite_url": "https://discord.com/invite/pwncollege",
+  "source_url": "https://pwn.college/welcome/discord/",
+  "category_hint": "CTF/education",
+  "notes": "Invite lives at a pwn.college URL path dedicated to Discord onboarding, and account linking is a core site feature.",
+  "confidence": "official"
+ },
+ {
+  "name": "Wireshark",
+  "invite_url": "https://discord.com/invite/ts9GZCjGj5",
+  "source_url": "https://www.wireshark.org/",
+  "category_hint": "network analysis tool",
+  "notes": "Confirmed directly on wireshark.org's own Community section. Note: search-engine results surfaced a different, likely stale code (fT2jvkawGj) from third-party listing sites - the wireshark.org-sourced code is used here as authoritative.",
+  "confidence": "official"
+ },
+ {
+  "name": "Kali Linux / OffSec (Kali community)",
+  "invite_url": "https://discord.kali.org/",
+  "source_url": "https://www.kali.org/blog/kali-linux-2022-3-release/",
+  "category_hint": "pentest OS",
+  "notes": "Kali's own blog post announcing the 'Kali Linux & Friends' server, using Kali's own vanity redirect domain.",
+  "confidence": "official"
+ }
+]

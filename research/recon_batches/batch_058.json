@@ -1,0 +1,116 @@
+[
+ {
+  "id": "hackfest-ca",
+  "name": "Hackfest.ca",
+  "invite_url": "https://discord.gg/hackfest-ca-724131514161561653",
+  "discord_description": "Hackfest.ca - Largest cybersecurity, information security and hacking events and community in Canada! ______________________________ Polarcon.ca - Security Manager Summit ______________________________ Securite.fm - Securité Sans Frontière ____________________________________",
+  "members": 6313,
+  "online": 879,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Hackfest",
+  "candidate_notes": "Official contact page links to discord.hackfest.ca (a custom-domain redirect that returned an error when fetched directly, so I could not confirm the redirect target myself). Used the discord.com/invite/hackfest-ca-... link surfaced by search instead, matching the ~5,720-member 'Hackfest.ca' server description; not independently confirmed on the official page itself.",
+  "category_hints": [
+   "conference"
+  ],
+  "sources": [
+   "https://hackfest.ca/en/contact/"
+  ]
+ },
+ {
+  "id": "cyberverse-ethical-hacking-coding-infosec-programming",
+  "name": "CyberVerse Ethical Hacking, Coding, InfoSec & Programming",
+  "invite_url": "https://discord.gg/cyberverse-3c-ethical-hacking-coding-1023660151095443717",
+  "discord_description": "Dive into a world of Ethical hacking, CyberSecurity & Coding awaiting you. Learn, discuss & grow. All levels welcome!",
+  "members": 7415,
+  "online": 812,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "CyberVerse Ethical Hacking, Coding, InfoSec & Programming",
+  "candidate_notes": "Found via Discord's own server directory (discord.com/servers listing), which links to this invite; page title matched exactly. Could not fully verify liveness via WebFetch (JS-rendered), but this is Discord's own directory rather than a third-party list.",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://discord.com/servers/cyberverse-ethical-hacking-coding-infosec-1023660151095443717"
+  ]
+ },
+ {
+  "id": "the-white-circle",
+  "name": "The White Circle",
+  "invite_url": "https://discord.gg/the-white-circle-675369276403744776",
+  "discord_description": "The White Circle is an international community of cyber/info security students, enthusiasts and professionals.",
+  "members": 2161,
+  "online": 188,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "The White Circle",
+  "candidate_notes": "Official site twc1rcle.com does not display the invite directly in fetched content, but Discord's own directory page for this server (name+id format) resolves and names it 'The White Circle', matching the community; ~1948 members per directory listing.",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://twc1rcle.com/"
+  ]
+ },
+ {
+  "id": "i-am-jakoby",
+  "name": "I am Jakoby",
+  "invite_url": "https://discord.gg/MYYER2ZcJF",
+  "discord_description": null,
+  "members": 2168,
+  "online": 202,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "I Am Jakoby",
+  "candidate_notes": "Found via Discord's own server directory page for 'I am Jakoby' (the hacking/hardware YouTuber's community), which lists this current invite; replaces the dead 'iamjakoby' vanity invite.",
+  "category_hints": [
+   "creator"
+  ],
+  "sources": [
+   "https://discord.com/servers/i-am-jakoby-495265922135621632"
+  ]
+ },
+ {
+  "id": "1bitsquared",
+  "name": "1BitSquared",
+  "invite_url": "https://discord.gg/P7FYThy",
+  "discord_description": "All things open-source electronics, embedded, FPGA and ASIC. The community server for products and projects surrounding  https://1BitSquared.com",
+  "members": 4949,
+  "online": 957,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "1BitSquared",
+  "candidate_notes": "1bitsquared.com/pages/chat (official site) states this is the community chat page and embeds their Discord server; the invite code P7FYThy was found via search and matches the official community server for 1BitSquared open-source hardware/electronics.",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://1bitsquared.com/pages/chat"
+  ]
+ },
+ {
+  "id": "kase",
+  "name": "Kase",
+  "invite_url": "https://discord.gg/eaz5AqHDfK",
+  "discord_description": null,
+  "members": 9540,
+  "online": 784,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "KASE",
+  "candidate_notes": "Found via search referencing the official KASE Scenarios site/socials (kasescenarios.com) and shared on their LinkedIn/X promoting 'Join the Kase Discord Server!'; treated as official since it traces to the org's own promotional link.",
+  "category_hints": [
+   "osint"
+  ],
+  "sources": [
+   "https://kasescenarios.com/"
+  ]
+ }
+]

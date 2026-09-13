@@ -1,0 +1,116 @@
+[
+ {
+  "id": "covert-access-team",
+  "name": "Covert Access Team",
+  "invite_url": "https://discord.gg/ZjrhB6zT85",
+  "discord_description": null,
+  "members": 404,
+  "online": 64,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Covert Access Team",
+  "candidate_notes": "Physical penetration testing / covert entry / black team community run by Brian Harris; invite published in the team's own Substack announcement post.",
+  "category_hints": [
+   "redteam"
+  ],
+  "sources": [
+   "https://covertaccessteam.substack.com/p/covert-access-team-discord-channel"
+  ]
+ },
+ {
+  "id": "hacker-associate",
+  "name": "Hacker Associate",
+  "invite_url": "https://discord.gg/GtRkRbCd5k",
+  "discord_description": null,
+  "members": 2147,
+  "online": 60,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Hacker Associate",
+  "candidate_notes": "Cybersecurity/pentest training and certification provider (India-based); invite linked from official contact page footer.",
+  "category_hints": [
+   "redteam"
+  ],
+  "sources": [
+   "https://hackerassociate.com/contact-us/"
+  ]
+ },
+ {
+  "id": "corelan",
+  "name": "Corelan",
+  "invite_url": "https://discord.gg/JdqQcxAqcn",
+  "discord_description": null,
+  "members": 601,
+  "online": 93,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Corelan Team",
+  "candidate_notes": "Classic exploit-development / vulnerability research community (Corelan tutorials); invite from the dedicated Discord page on the official Corelan site.",
+  "category_hints": [
+   "redteam"
+  ],
+  "sources": [
+   "https://www.corelan.be/index.php/discord/"
+  ]
+ },
+ {
+  "id": "level-effect",
+  "name": "Level Effect",
+  "invite_url": "https://discord.gg/leveleffect",
+  "discord_description": "Cybersecurity training built around YOU.",
+  "members": 2981,
+  "online": 233,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Level Effect",
+  "candidate_notes": "IT/cybersecurity/data-science training community (SOC/detection engineering courses); invite link present in header and footer of the official Level Effect website.",
+  "category_hints": [
+   "careers"
+  ],
+  "sources": [
+   "https://leveleffect.com/"
+  ]
+ },
+ {
+  "id": "r-itcareerquestions-discord",
+  "name": "/r/ITCareerQuestions Discord",
+  "invite_url": "https://discord.gg/r-itcareerquestions-757997296737583245",
+  "discord_description": "This subreddit is designed to help anyone in or interested in the IT field to ask career-related questions.",
+  "members": 2251,
+  "online": 524,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "/r/ITCareerQuestions",
+  "candidate_notes": "Companion Discord for the r/ITCareerQuestions subreddit (IT/cyber career questions, resume/job-hunt help). Captured exactly from Discord's own server directory page; could not independently confirm a link-back from the subreddit sidebar itself, so marked 'listed' rather than 'official'.",
+  "category_hints": [
+   "careers"
+  ],
+  "sources": [
+   "https://discord.com/servers/r-itcareerquestions-757997296737583245"
+  ]
+ },
+ {
+  "id": "seckc",
+  "name": "SecKC",
+  "invite_url": "https://discord.gg/seckc-742928190863048746",
+  "discord_description": "SecKC is Kansas City’s longest-running monthly security meetup.",
+  "members": 2039,
+  "online": 386,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "SecKC",
+  "candidate_notes": "Kansas City's long-running monthly hacker meetup.",
+  "category_hints": [
+   "regional"
+  ],
+  "sources": [
+   "https://seckc.org/"
+  ]
+ }
+]
