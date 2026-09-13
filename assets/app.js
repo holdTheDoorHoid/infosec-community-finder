@@ -217,7 +217,7 @@ function scoreCommunity(c, a) {
   if (c.category === 'adjacent' && !a.interests.includes('hardware')) s -= 4;
   if (c.category === 'tool' && !a.interests.includes('hardware') && !a.wants.includes('build')) s -= 2;
   if (c.language && c.language !== 'en') s -= 4;
-  return {s, why};
+  return {s, why, here: !!(a.locality && ICF.matchesLocality(c, a.locality))};
 }
 
 async function initQuiz() {
@@ -265,7 +265,7 @@ async function initQuiz() {
     }
     picks.sort((x,y) => y.s - x.s);
     const localPool = db.communities.filter(c => c.invite_status !== 'dead' && (ICF.isLocal(c) || c.category === 'conference' || c.category === 'village' || c.category === 'regional'));
-    const local = localPool.map(c => ({c, ...scoreCommunity(c, a)})).filter(x => x.s > 0).sort((x,y) => y.s - x.s).slice(0, a.locality ? 6 : 4);
+    const local = localPool.map(c => ({c, ...scoreCommunity(c, a)})).filter(x => x.s > 0).sort((x,y) => (y.here - x.here) || (y.s - x.s)).slice(0, a.locality ? 6 : 4);
     const out = document.querySelector('#results');
     const row = (x, i) => `<div class="result"><div class="rank">${i+1}</div><div style="flex:1"><h3><a href="#" data-id="${ICF.esc(x.c.id)}">${ICF.esc(x.c.name)}</a> <span class="chip">${ICF.esc(ICF.CAT_LABEL[x.c.category]||x.c.category)}</span>${x.c.platform !== 'discord' ? ` <span class="chip">${ICF.esc(ICF.PLATFORM_LABEL[x.c.platform]||x.c.platform)}</span>` : ''}</h3><div class="note">${x.c.platform === 'discord' ? `${ICF.fmt(x.c.members)} members · ${ICF.fmt(x.c.online)} online` : (x.c.members ? `${ICF.fmt(x.c.members)} members` : 'no live stats')}${x.c.beginner_friendly?` · <span class="stars">${ICF.stars(x.c.beginner_friendly)}</span>`:''}</div><p style="margin:6px 0 0">${ICF.esc(x.c.summary)}</p>${x.why.length?`<ul class="why">${x.why.map(w=>`<li>${ICF.esc(w)}</li>`).join('')}</ul>`:''}<div class="join" style="margin-top:8px"><a class="btn sm primary" href="${ICF.esc(x.c.invite_url)}" target="_blank" rel="noopener">Join ↗</a><a class="btn sm" href="#" data-id="${ICF.esc(x.c.id)}">Details</a></div></div></div>`;
     out.innerHTML = `<h2>Your best matches</h2><p class="note">Join two or three, lurk for a week, then keep the one where you actually talk. Every server has a rules channel; read it first.</p>${picks.map(row).join('')}` +

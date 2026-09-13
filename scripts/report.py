@@ -3,7 +3,7 @@ import json, pathlib, datetime
 from collections import Counter
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 db = json.loads((ROOT / "data/communities.json").read_text())
-cs = db["communities"]; vis = [c for c in cs if not c.get("hidden") and c.get("invite_status") in ("ok","unchecked")]
+cs = db["communities"]; vis = [c for c in cs if not c.get("hidden") and c.get("invite_status") != "dead"]
 nd = json.loads((ROOT / "research/confirmed_no_discord.json").read_text()) if (ROOT / "research/confirmed_no_discord.json").exists() else []
 L = []
 L.append(f"# Research report\n\nGenerated {datetime.date.today().isoformat()}.\n")

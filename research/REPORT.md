@@ -2,26 +2,26 @@
 
 Generated 2026-09-13.
 
-- Servers in database: **867** (visible 689, hidden as off-topic/rejected 147, dead invites 0)
+- Servers in database: **867** (visible 720, hidden as off-topic/rejected 147, dead invites 0)
 - Name-only leads that could not be resolved to a working invite: 368
 - Organizations checked and confirmed to have no public Discord (Slack/Matrix/forum instead, or none): 921
 
 ## Visible servers by category
 
-- tool: 144
-- learning: 79
+- tool: 156
+- learning: 80
+- regional: 68
 - ctf: 68
-- regional: 64
-- general: 62
-- conference: 50
+- general: 64
+- conference: 51
+- hardware: 37
+- blueteam: 36
 - creator: 34
-- hardware: 34
 - adjacent: 32
-- blueteam: 32
-- redteam: 22
-- appsec: 19
+- redteam: 24
+- appsec: 20
 - osint: 19
-- careers: 13
+- careers: 14
 - village: 13
 - affinity: 4
 
@@ -29,33 +29,35 @@ Generated 2026-09-13.
 
 - discord: 587
 - reddit: 47
-- forum: 32
+- forum: 40
+- slack: 21
 - matrix: 9
+- irc: 7
 - mastodon: 7
-- slack: 6
-- mattermost: 1
+- mattermost: 2
 
 ## Beginner-friendliness distribution (visible)
 
 - 1: 4
-- 2: 131
-- 3: 197
-- 4: 243
-- 5: 114
+- 2: 136
+- 3: 210
+- 4: 254
+- 5: 116
 
 ## Languages (visible)
 
-- en: 637
+- en: 665
 - fr: 16
 - es: 12
-- pt: 7
-- de: 4
+- pt: 8
+- de: 5
 - pl: 3
 - ar: 2
 - zh: 2
 - ru: 2
 - nl: 1
 - cs: 1
+- no: 1
 - tr: 1
 - ja: 1
 
