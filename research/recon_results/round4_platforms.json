@@ -1,0 +1,4825 @@
+[
+ {
+  "id": "discord-servers",
+  "include": false,
+  "exclude_reason": "Not a real specific community — invite_url is a generic/broken 'discord.gg/servers' link and the entry is a discord-directory listing page, not an actual server with content.",
+  "category": "general",
+  "tags": [
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat"
+  ],
+  "summary": "This entry points to a discord listing aggregator page rather than a specific, joinable community, so there is nothing concrete to describe about who runs it or what members do.",
+  "run_by": null,
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Invite URL is not a real distinct server invite; likely a broken/placeholder listing.",
+  "confidence": "low"
+ },
+ {
+  "id": "le-temple",
+  "include": false,
+  "exclude_reason": "No verifiable public identity or description; a web search for this server name turns up no trace of it, and it is a tiny (40-member) unlabeled server that cannot be confirmed as a genuine OSINT community rather than a mislabeled directory entry.",
+  "category": "osint",
+  "tags": [
+   "osint"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat"
+  ],
+  "summary": "Listed on a discord directory under an OSINT tag but has no discoverable description, official site, or independent confirmation of its purpose or activity.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "fr",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Unverifiable identity; extremely small member count with no public description.",
+  "confidence": "low"
+ },
+ {
+  "id": "ironshield-studio",
+  "include": false,
+  "exclude_reason": "No official website, project, or independent source confirms this as a genuine security community — it appears to be an unlabeled discord-directory listing with a generic 'security' tag and no description.",
+  "category": "general",
+  "tags": [
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat"
+  ],
+  "summary": "Appears only as an unlabeled entry on a discord server directory tagged 'security', with no description, official site, or other source explaining who runs it or what it actually offers.",
+  "run_by": null,
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Cannot verify this is a real, active security community rather than a mistagged directory listing.",
+  "confidence": "low"
+ },
+ {
+  "id": "army-of-rynlar",
+  "include": false,
+  "exclude_reason": "This is a Yu-Gi-Oh! trading card game community ('A friendly gaming community with professional support and players of every level'), not a security/hacking community — it was mistagged 'security' on the source listing site.",
+  "category": "general",
+  "tags": [
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 1,
+  "activities": [
+   "chat"
+  ],
+  "summary": "A gaming community centered on the Yu-Gi-Oh! card game, offering general chat and player support, with no security or hacking content.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Mislabeled as 'security' on the source listing despite being unrelated to infosec.",
+  "confidence": "medium"
+ },
+ {
+  "id": "smart-elephant-exclusive-club",
+  "include": false,
+  "exclude_reason": "This is an NFT/crypto 'exclusive club' community, not security-related — mistagged 'blue-team' on the source listing site.",
+  "category": "general",
+  "tags": [
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 1,
+  "activities": [
+   "chat"
+  ],
+  "summary": "A crypto/NFT-themed club for 'business elephants' pursuing independent lifestyle and finance content, unrelated to cybersecurity.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "NFT/crypto-promotional community mislabeled as blue-team security; excluded per crypto-trading exclusion criteria.",
+  "confidence": "medium"
+ },
+ {
+  "id": "digitalchaosclub",
+  "include": false,
+  "exclude_reason": "This is a politics-focused discussion server (per its own listing category), not a security community — mistagged 'privacy' on the source listing site, and it is extremely small (19 members) with no description confirming any infosec content.",
+  "category": "general",
+  "tags": [
+   "privacy"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat"
+  ],
+  "summary": "A very small general politics discussion server with no stated security, privacy, or hacking focus beyond a mismatched directory tag.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Mislabeled as 'privacy' despite being categorized as a politics server; too small and undocumented to verify any security focus.",
+  "confidence": "low"
+ },
+ {
+  "id": "owasp-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "appsec",
+  "tags": [
+   "web-appsec",
+   "bug-bounty",
+   "general-infosec",
+   "careers",
+   "certifications"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase",
+   "job-board",
+   "news-feed"
+  ],
+  "summary": "This is the official Slack workspace of OWASP, the nonprofit behind projects like the OWASP Top 10, ZAP, and Dependency-Check. Members discuss application security research, coordinate local chapters and OWASP projects, and share job opportunities and event announcements. It suits anyone from students learning appsec basics to professionals leading security programs.",
+  "run_by": "OWASP Foundation",
+  "website": "https://owasp.org",
+  "github": "https://github.com/OWASP",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Self-service sign-up at owasp.org/slack/invite; no application needed.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "bloodhound-specterops-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "redteam",
+  "tags": [
+   "red-team",
+   "pentesting",
+   "detection-engineering",
+   "tool-support",
+   "vendor"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "This is SpecterOps' official Slack for users of BloodHound, the Active Directory and Entra ID attack-path mapping tool. Members troubleshoot BloodHound usage, discuss AD/Azure attack-path analysis techniques, and talk detection engineering against those attack paths. It's aimed at red teamers, pentesters, and defenders who already have working knowledge of Active Directory security concepts rather than absolute beginners.",
+  "run_by": "SpecterOps",
+  "website": "https://bloodhound.specterops.io",
+  "github": "https://github.com/SpecterOps/BloodHound",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via the standing ghst.ly/BHSlack shortlink, which forwards to a current invite.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "hack-club-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "students",
+   "youth",
+   "programming",
+   "ctf",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "workshops",
+   "project-showcase",
+   "mentorship",
+   "ctf-events"
+  ],
+  "summary": "Hack Club is a nonprofit network of teen-run coding clubs, and its Slack is a large, very active community of high schoolers building software and hardware projects, with volunteer adult and peer 'Gardener' mentors answering questions. It's broader than security specifically, but has dedicated channels for CTFs and security topics alongside general programming and maker culture. It's an especially welcoming on-ramp for younger beginners new to tech and security.",
+  "run_by": "Hack Club (nonprofit)",
+  "website": "https://hackclub.com",
+  "github": "https://github.com/hackclub",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Self-service signup at hackclub.com/slack; primarily aimed at teenagers/students.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "macadmins-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "blue-team",
+   "cloud-security",
+   "networking",
+   "linux",
+   "homelab"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "job-board",
+   "workshops"
+  ],
+  "summary": "This is a huge, long-running Slack for IT and Mac/Apple-device administrators, run by the nonprofit Mac Admins Foundation, with an active #security channel among hundreds of others. Discussion there covers endpoint hardening, MDM configuration, and macOS/iOS security tooling for people managing real fleets of devices. It's most useful to working IT/security admins rather than newcomers with no admin experience, though questions are answered patiently.",
+  "run_by": "Mac Admins Foundation",
+  "website": "https://www.macadmins.org",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Signup requires accepting a Code of Conduct at macadmins.org/slack.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "kubernetes-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "cloud-security",
+   "detection-engineering",
+   "networking",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "This is the official Kubernetes project Slack, home to hundreds of channels including #sig-security and the Falco runtime-security project's channel. People there discuss cluster hardening, workload security, and cloud-native detection tooling as part of the broader Kubernetes development and operations community. It's built for practitioners who already work with Kubernetes rather than as a general security learning space.",
+  "run_by": "Cloud Native Computing Foundation / Kubernetes project",
+  "website": "https://kubernetes.io",
+  "github": "https://github.com/kubernetes/kubernetes",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Self-service signup via slack.k8s.io.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "binary-ninja-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "reverse-engineering",
+   "binary-exploitation",
+   "malware-analysis",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "This is Vector 35's official Slack for users of Binary Ninja, a commercial reverse-engineering and disassembly platform. Members get support using the tool, share and discuss plugin development, and trade analysis techniques for reverse engineering binaries and malware. It's a support and power-user community rather than a place to learn reverse engineering from scratch.",
+  "run_by": "Vector 35 (Binary Ninja)",
+  "website": "https://binary.ninja",
+  "github": "https://github.com/Vector35",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Self-service signup via slack.binary.ninja redirect.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "zeek-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "blue-team",
+   "detection-engineering",
+   "networking",
+   "dfir"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "The official Slack for the Zeek open-source network security monitor, run by the Zeek Project (Corelight-backed nonprofit consortium). People discuss writing and debugging Zeek scripts, deploying sensors, and using Zeek logs for detection and network forensics. It suits network defenders, detection engineers, and SOC analysts already working with or evaluating Zeek rather than total newcomers to security.",
+  "run_by": "Zeek Project",
+  "website": "https://zeek.org",
+  "github": "https://github.com/zeek/zeek",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via the durable zeek.org/slack link, self-service signup.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "wazuh-community-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "blue-team",
+   "soc",
+   "detection-engineering",
+   "dfir"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "Official community Slack for Wazuh, the open-source SIEM/XDR platform, run by Wazuh Inc. Members ask for help with installation, write and troubleshoot detection rules, and discuss integrations with other security tooling. It's aimed at users and admins of Wazuh, from people standing up their first instance to experienced blue teamers building out detections.",
+  "run_by": "Wazuh Inc.",
+  "website": "https://wazuh.com",
+  "github": "https://github.com/wazuh/wazuh",
+  "youtube": "https://www.youtube.com/wazuh",
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join link published on wazuh.com/community/, self-service signup.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "elastic-community-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "blue-team",
+   "soc",
+   "detection-engineering",
+   "dfir"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "Elastic's official community Slack covering the whole Elastic Stack, with active channels for Elastic Security (SIEM/EDR) alongside Elasticsearch and Kibana discussion. People get help with detection rules, ingest pipelines, and general stack troubleshooting from both Elastic staff and other users. It suits anyone already using or evaluating the Elastic Security product, more than newcomers to security in general.",
+  "run_by": "Elastic",
+  "website": "https://www.elastic.co/community",
+  "github": "https://github.com/elastic",
+  "youtube": "https://www.youtube.com/user/elasticsearch",
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via ela.st/slack, self-service signup.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "cncf-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "cloud-security",
+   "detection-engineering",
+   "homelab",
+   "networking"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "The Cloud Native Computing Foundation's giant Slack workspace hosting individual channels for its member projects, including security-relevant ones like Falco (runtime threat detection) and Cilium (eBPF-based networking/security). Most of the workspace is general cloud-native engineering, not security-specific, but the project channels give direct access to maintainers and experienced users. It's best suited to people already working with these tools rather than security beginners.",
+  "run_by": "Cloud Native Computing Foundation",
+  "website": "https://www.cncf.io",
+  "github": "https://github.com/cncf",
+  "youtube": "https://www.youtube.com/cloudnativefdn",
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via slack.cncf.io self-service signup; workspace is broad, search for #falco or #cilium channels specifically.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "steampipe-turbot-community-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "cloud-security",
+   "detection-engineering"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "Community Slack run by Turbot for Steampipe, an open-source tool that queries cloud infrastructure and SaaS APIs like SQL for cloud security posture and compliance checks. Discussion centers on writing queries, building custom plugins, and using Steampipe alongside IaC scanning workflows. It fits cloud security and DevOps engineers already working on cloud posture management rather than security newcomers.",
+  "run_by": "Turbot",
+  "website": "https://steampipe.io",
+  "github": "https://github.com/turbot/steampipe",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via turbot.com/community/join, self-service signup.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "semgrep-community-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "appsec",
+  "tags": [
+   "web-appsec",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "Official support community for Semgrep, the open-source static analysis (SAST) tool, run by the Semgrep team (r2c/Semgrep Inc). People ask for help writing and debugging Semgrep rules, integrating scans into CI, and using the free Community Edition. It's documented in Semgrep's own docs as the standing place to get help, and welcomes both AppSec engineers and developers new to static analysis.",
+  "run_by": "Semgrep, Inc.",
+  "website": "https://semgrep.dev",
+  "github": "https://github.com/semgrep/semgrep",
+  "youtube": "https://www.youtube.com/@semgrep",
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via go.semgrep.dev/slack, self-service signup.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "prowler-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "cloud-security",
+   "tool-support",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official Slack for Prowler, an open-source cloud security tool maintained by ProwlerPro/Prowler.com, used to run AWS/Azure/GCP/Kubernetes security and compliance scans. People ask configuration and rule-writing questions, report bugs, and discuss cloud security posture findings; it suits practitioners who are already using or evaluating the tool rather than total newcomers to security.",
+  "run_by": "Prowler (company)",
+  "website": "https://prowler.com",
+  "github": "https://github.com/prowler-cloud/prowler",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via the durable redirect goto.prowler.com/slack (self-service).",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "atomic-red-team-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "redteam",
+  "tags": [
+   "red-team",
+   "detection-engineering",
+   "blue-team",
+   "tool-support",
+   "malware-analysis"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "Run around Red Canary's open-source Atomic Red Team project, this Slack is where people writing or running MITRE ATT&CK-mapped adversary emulation tests and detection-validation scripts trade notes. Discussion centers on test authoring, detection engineering, and ATT&CK technique coverage, so it's aimed at people who already do red team or detection work rather than absolute beginners.",
+  "run_by": "Red Canary / Atomic Red Team project",
+  "website": "https://atomicredteam.io",
+  "github": "https://github.com/redcanaryco/atomic-red-team",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Self-service join via atomicredteam.io/slack, documented in the project README.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "volatility-slack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "dfir",
+   "forensics",
+   "malware-analysis",
+   "tool-support",
+   "blue-team"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "The Volatility Foundation's own Slack for the Volatility memory-forensics framework, where DFIR analysts and plugin developers troubleshoot memory image analysis, discuss new plugins, and get help with Volatility 2 vs 3 usage. It's a practitioner support space for people already doing incident response or memory forensics work, not an intro-to-forensics classroom.",
+  "run_by": "Volatility Foundation",
+  "website": "https://www.volatilityfoundation.org",
+  "github": "https://github.com/volatilityfoundation/volatility3",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Self-service join via the volatilityfoundation.org/slack redirect.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "checkov-slack-codified-security",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "cloud-security",
+   "tool-support",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "A Slack workspace tied to Checkov, the open-source infrastructure-as-code static analysis tool (originally Bridgecrew, now part of Prisma Cloud/Palo Alto Networks), used for help writing custom policies and troubleshooting scans of Terraform/CloudFormation/Kubernetes manifests. It's aimed at DevOps and cloud-security engineers already using the scanner, not general security beginners.",
+  "run_by": "Checkov project / Bridgecrew (Palo Alto Networks)",
+  "website": "https://www.checkov.io",
+  "github": "https://github.com/bridgecrewio/checkov",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Listed on the Checkov README/homepage; exact self-service invite step wasn't independently confirmed beyond the workspace link, so treat access details as unverified.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "gnu-radio-matrix-chat",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "rf-sdr",
+   "hardware-hacking",
+   "tool-support",
+   "ham-radio",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "hardware-help"
+  ],
+  "summary": "The official Matrix chat for the GNU Radio project, an open-source software-defined radio (SDR) toolkit used across signal-hacking, ham radio, and RF security research. People here discuss flowgraph design, block development, and SDR hardware integration; it's a technical support and dev space that assumes some DSP/programming background rather than a beginner tutorial channel.",
+  "run_by": "GNU Radio project (community-run open source)",
+  "website": "https://www.gnuradio.org/",
+  "github": "https://github.com/gnuradio/gnuradio",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via chat.gnuradio.org, a redirect into the Matrix room; no signup gate beyond a Matrix account.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "tor-project-tor-matrix",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "privacy",
+   "networking",
+   "tool-support",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "The Tor Project's official user-support room, bridged between Matrix and the long-running #tor IRC channel on OFTC, where volunteers and Tor Project staff answer questions about using the Tor Browser, running relays/bridges, and general anonymity/privacy troubleshooting. It welcomes newcomers asking basic \"how do I use Tor safely\" questions as well as relay operators discussing network health.",
+  "run_by": "The Tor Project",
+  "website": "https://www.torproject.org/",
+  "github": "https://github.com/torproject",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Also reachable as IRC #tor on irc.oftc.net (bridged); join Matrix side via matrix.to/#/#tor:matrix.org, no approval needed.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "tor-project-tor-oftc-irc",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "privacy",
+   "networking",
+   "linux",
+   "tool-support",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the Tor Project's official IRC channel on OFTC, bridged to Matrix, where users ask questions about running Tor Browser, relays, bridges, and onion services and get help from other users and occasional project volunteers. It's a low-frills, text-only support space rather than a structured learning community, useful for anyone troubleshooting Tor or curious about how the network works.",
+  "run_by": "The Tor Project",
+  "website": "https://www.torproject.org/",
+  "github": "https://gitlab.torproject.org/tpo",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via OFTC webchat or any IRC client at irc.oftc.net, channel #tor; no registration required to lurk, though nick registration (NickServ) is recommended for persistent identity.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "qubes-os-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "linux",
+   "privacy",
+   "tool-support",
+   "homelab",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is the official Discourse forum for Qubes OS, the security-focused compartmentalized operating system, where users get installation and hardware-compatibility help, discuss VM/qube configuration, and follow release announcements alongside project developers. It assumes some Linux and virtualization background, so it suits people already using or seriously evaluating Qubes rather than absolute beginners to security.",
+  "run_by": "Qubes OS Project / Invisible Things Lab",
+  "website": "https://www.qubes-os.org/",
+  "github": "https://github.com/QubesOS",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Standard Discourse account signup, no special gating; localized sub-forums exist for some languages.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "qubes-os-matrix",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "linux",
+   "privacy",
+   "tool-support",
+   "homelab"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official real-time Matrix chat room for Qubes OS, bridged to the project's Libera IRC channel, used for live troubleshooting and discussion among users and some developers between forum posts. It's a faster-paced companion to the forum and best suited to people already running or actively installing Qubes.",
+  "run_by": "Qubes OS Project / Invisible Things Lab",
+  "website": "https://www.qubes-os.org/",
+  "github": "https://github.com/QubesOS",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via any Matrix client at #qubes:invisiblethingslab.com; bridging to IRC has had occasional technical hiccups per the project's docs.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "qubes-os-qubes-libera-irc",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "linux",
+   "privacy",
+   "tool-support",
+   "homelab"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the Qubes OS project's channel on Libera.Chat IRC, mirroring the Matrix room for real-time user discussion and troubleshooting. It reaches users who prefer classic IRC clients and, like the Matrix room, is used mostly by people already running Qubes rather than complete newcomers.",
+  "run_by": "Qubes OS Project / Invisible Things Lab",
+  "website": "https://www.qubes-os.org/",
+  "github": "https://github.com/QubesOS",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Connect to irc.libera.chat and join #qubes; bridge to Matrix has known reliability limitations per project docs.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "whonix-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "privacy",
+   "linux",
+   "tool-support",
+   "homelab"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is the official Discourse forum for Whonix, the Tor-based anonymity operating system, covering support for its Qubes, KVM, and VirtualBox variants as well as development and hardening discussion led by the project's maintainers. It's the project's primary community hub and works best for people already trying to set up or harden Whonix rather than general security beginners.",
+  "run_by": "Whonix / Patrick Schleizer",
+  "website": "https://www.whonix.org/",
+  "github": "https://github.com/Whonix",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Standard Discourse account signup at forums.whonix.org; no IRC/Matrix alternative found, forum is the main venue.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "keepassxc-matrix-user-support",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "privacy",
+   "tool-support",
+   "linux"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official Matrix support room for KeePassXC, the open-source password manager, where users ask questions about vault setup, browser integration, and syncing and get help from the community and project contributors. It's bridged to IRC and kept separate from the developer-focused #keepassxc-dev room, making it approachable for everyday users, including newcomers to password managers.",
+  "run_by": "KeePassXC Team",
+  "website": "https://keepassxc.org/",
+  "github": "https://github.com/keepassxreboot/keepassxc",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via any Matrix client at #keepassxc:mozilla.org, bridged to #keepassxc on irc.libera.chat; development questions belong in the separate #keepassxc-dev room.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "keepassxc-keepassxc-libera-irc",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "tool-support",
+   "privacy",
+   "cryptography"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official Libera.Chat IRC support channel for KeePassXC, the open-source password manager, bridged with the project's Matrix room. People come here to ask setup and usage questions, troubleshoot database or sync issues, and get help from maintainers and experienced users; a separate #keepassxc-dev channel is for development discussion.",
+  "run_by": "KeePassXC project",
+  "website": "https://keepassxc.org/",
+  "github": "https://github.com/keepassxreboot/keepassxc",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via any IRC client or web IRC to irc.libera.chat, channel #keepassxc; messages bridge to Matrix.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "openwrt-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "iot-embedded",
+   "networking",
+   "homelab",
+   "linux",
+   "tool-support"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "hardware-help"
+  ],
+  "summary": "This is the official community forum for OpenWrt, the open-source Linux firmware for routers and embedded devices, run by the OpenWrt project and its volunteer moderators. Members ask for help flashing devices, configuring networking and VPNs, troubleshooting hardware support, and discuss firmware development; while not security-focused per se, it's a common stop for people hardening or securing home routers. It suits hobbyists ranging from first-time flashers to embedded Linux developers.",
+  "run_by": "OpenWrt project",
+  "website": "https://openwrt.org/",
+  "github": "https://github.com/openwrt/openwrt",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free self-service registration; search before posting, as duplicate hardware-support threads are discouraged.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "openwrt-openwrt-oftc-irc",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "iot-embedded",
+   "networking",
+   "homelab",
+   "linux",
+   "tool-support"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official OFTC IRC channel for OpenWrt user support, separate from the developer (#openwrt-devel) and admin (#openwrt-adm) channels. People drop in for real-time help with firmware installation, router hardware quirks, and configuration issues; it moves faster and assumes a bit more familiarity than the forum. Good fit for people already comfortable with Linux networking who want quick, informal help.",
+  "run_by": "OpenWrt project",
+  "website": "https://openwrt.org/",
+  "github": "https://github.com/openwrt/openwrt",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via any IRC client to irc.oftc.net, channel #openwrt.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "netsecfocus-mattermost",
+  "include": true,
+  "exclude_reason": null,
+  "category": "careers",
+  "tags": [
+   "certifications",
+   "study-group",
+   "careers",
+   "red-team",
+   "pentesting",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "job-board",
+   "study-groups",
+   "mentorship"
+  ],
+  "summary": "NetSecFocus is a large, community-run Mattermost hub built around infosec certifications and career development, especially OSCP and other offensive-security paths, alongside general red/blue team and reverse-engineering discussion. Members trade study advice, exam tips, lab walkthroughs, and job leads, with channels split by topic and certification track. It's well suited to people studying for certs or breaking into the field, alongside working practitioners who help answer questions.",
+  "run_by": "community-run",
+  "website": "https://netsecfocus.com/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free self-service signup via the 'Chat' link on the homepage.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "rizin-mattermost",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "reverse-engineering",
+   "binary-exploitation",
+   "tool-support",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the primary chat community for Rizin, an open-source reverse-engineering framework forked from radare2, hosted on a self-service Mattermost instance. Developers and users discuss the disassembler/debugger internals, scripting, plugin development, and bug reports, alongside a parallel IRC presence on Libera.Chat. It's mainly useful to people already doing binary analysis or reverse engineering rather than newcomers to the field.",
+  "run_by": "rizinorg (open-source project)",
+  "website": "https://rizin.re/",
+  "github": "https://github.com/rizinorg/rizin",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Self-service signup at im.rizin.re; also bridged to Telegram (not tracked here).",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "rizin-rizin-libera-irc",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "reverse-engineering",
+   "binary-exploitation",
+   "tool-support",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the Libera.Chat IRC channel for Rizin, the open-source reverse-engineering framework forked from radare2, mirroring the project's Mattermost community. Users and contributors discuss usage, plugin/script development, and report bugs in real time; #rizindev is the separate channel for core development talk. It's aimed at people already working with disassemblers and binary analysis tools.",
+  "run_by": "rizinorg (open-source project)",
+  "website": "https://rizin.re/",
+  "github": "https://github.com/rizinorg/rizin",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via any IRC client to irc.libera.chat, channel #rizin.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "radare2-matrix",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "reverse-engineering",
+   "binary-exploitation",
+   "tool-support",
+   "programming",
+   "linux"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the official Matrix room for radare2, the free and open-source command-line reverse-engineering and binary-analysis framework. People discuss usage, debug the tool, and talk development with the maintainers; it assumes you already have some reverse-engineering or low-level programming background.",
+  "run_by": "radare2 project (community-run open source)",
+  "website": "https://www.radare.org/",
+  "github": "https://github.com/radareorg/radare2",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Bridged with the Libera IRC #radare channel; join via a Matrix client with the given room alias.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "radare2-radare-libera-irc",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "reverse-engineering",
+   "binary-exploitation",
+   "tool-support",
+   "programming",
+   "linux"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is the main IRC channel for radare2 on Libera.Chat, used for real-time help and discussion of the reverse-engineering framework among users and its developers; #radare_side is the associated off-topic room. It's most useful if you already know your way around disassembly and command-line RE tools.",
+  "run_by": "radare2 project (community-run open source)",
+  "website": "https://www.radare.org/",
+  "github": "https://github.com/radareorg/radare2",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join with any IRC client at irc.libera.chat, channel #radare; no registration required to lurk, though a registered nick is recommended.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "libera-chat-security",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "networking",
+   "linux",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is a general information-security discussion channel on Libera.Chat, the large IRC network widely used by free/open-source software projects. Activity level and topic focus vary over time since it's an open, loosely-moderated channel rather than a curated community, so it suits people already comfortable with IRC and general security topics.",
+  "run_by": "community-run",
+  "website": "https://libera.chat/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join with any IRC client at irc.libera.chat:6697, channel #security, or via the web chat at web.libera.chat; no account required to lurk.",
+  "red_flags": "Channel activity and moderation quality were not independently verified beyond the network's existence.",
+  "confidence": "low"
+ },
+ {
+  "id": "0x00sec",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "reverse-engineering",
+   "binary-exploitation",
+   "ctf",
+   "malware-analysis",
+   "red-team",
+   "programming",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "writeups",
+   "q-and-a",
+   "chat",
+   "challenges",
+   "news-feed"
+  ],
+  "summary": "0x00sec is a long-running Discourse-based forum where hackers and security researchers post write-ups, tutorials, and discussion on exploitation, reverse engineering, malware, and both offensive and defensive security. It has a strong CTF and low-level-hacking slant and is friendly to newcomers who want to read and ask questions alongside more experienced members.",
+  "run_by": "community-run",
+  "website": "https://0x00sec.org/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Free self-service account registration on the Discourse forum.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "hack-the-box-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "pentesting",
+   "binary-exploitation",
+   "web-appsec",
+   "certifications",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "writeups",
+   "q-and-a",
+   "chat",
+   "challenges",
+   "news-feed"
+  ],
+  "summary": "This is the official community forum for Hack The Box, the popular pentesting-practice platform, where members discuss active and retired machines, share write-ups and hints, and talk about HTB certifications and academy content. It draws everyone from newcomers working through beginner boxes to advanced players discussing tricky exploitation techniques.",
+  "run_by": "Hack The Box",
+  "website": "https://www.hackthebox.com/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Free self-service Discourse account registration; posting spoilers for active machines is against forum rules.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "bleepingcomputer-forums",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "malware-analysis",
+   "dfir",
+   "blue-team",
+   "general-infosec",
+   "forensics"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "q-and-a",
+   "writeups",
+   "chat",
+   "news-feed"
+  ],
+  "summary": "BleepingComputer Forums is a large, long-running peer-support community best known for free one-on-one malware-removal help, with active sections on ransomware, general security news, and everyday computing problems. It's aimed squarely at everyday users and beginners who need help cleaning an infected machine or understanding a threat, staffed by experienced volunteer helpers.",
+  "run_by": "BleepingComputer",
+  "website": "https://www.bleepingcomputer.com/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Free self-service account registration required to post a malware-removal request.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "wilders-security-forums",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "blue-team",
+   "privacy",
+   "malware-analysis",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "One of the oldest independent security forums online, run by volunteer moderators, where users discuss antivirus and firewall products, privacy tools, and general PC hardening. It's a good fit for home users and enthusiasts who want product comparisons and troubleshooting help rather than professional pentesting content.",
+  "run_by": "community-run",
+  "website": "https://www.wilderssecurity.com/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Self-service forum registration required to post.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "malwarebytes-forums",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "blue-team",
+   "malware-analysis",
+   "tool-support",
+   "vendor"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "q-and-a",
+   "hardware-help"
+  ],
+  "summary": "Malwarebytes' official support forum where staff and volunteer helpers walk users through removing infections and using the company's products, alongside general malware-removal discussion boards. It's aimed squarely at everyday users dealing with an infected machine, with clear step-by-step guidance rather than advanced offensive content.",
+  "run_by": "Malwarebytes",
+  "website": "https://www.malwarebytes.com/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free self-service account registration to post.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "malwaretips-forums",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "blue-team",
+   "malware-analysis",
+   "tool-support"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "q-and-a",
+   "hardware-help"
+  ],
+  "summary": "A volunteer-run forum specializing in step-by-step malware removal guides, infection cleanup help, and security-software reviews. It's built for beginners who suspect their computer is infected and need patient, guided troubleshooting rather than deep technical security work.",
+  "run_by": "community-run",
+  "website": "https://malwaretips.com/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free self-service registration to post.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "hackaday-io",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "hardware-hacking",
+   "iot-embedded",
+   "reverse-engineering",
+   "rf-sdr",
+   "badgelife-maker",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "project-showcase",
+   "chat",
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "A large collaborative platform for documenting hardware and electronics projects, run by the Hackaday team, where makers log build progress, share reverse-engineering write-ups, and discuss embedded and IoT security among broader electronics content. It suits hobbyists and hardware hackers who want to publish projects and learn from others' builds rather than a dedicated security-only space.",
+  "run_by": "Hackaday",
+  "website": "https://hackaday.io/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free self-service account signup.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "hackster-io",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "iot-embedded",
+   "hardware-hacking",
+   "programming",
+   "tool-support"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "project-showcase",
+   "q-and-a",
+   "hardware-help"
+  ],
+  "summary": "A maker-focused hardware and IoT community where users publish project tutorials and get forum help on embedded platforms, sometimes touching on IoT security topics. It's most useful for hobbyists and students building hardware projects who want tutorials and troubleshooting support, not a dedicated infosec forum.",
+  "run_by": "Hackster.io / Avnet",
+  "website": "https://www.hackster.io/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free self-service account signup.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "security-stack-exchange",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "general-infosec",
+   "web-appsec",
+   "cryptography",
+   "networking",
+   "study-group"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a"
+  ],
+  "summary": "A Q&A site in the Stack Exchange network where information security professionals and learners ask and answer specific technical questions, moderated by a reputation system rather than open chat. It works well for beginners with a concrete question and for anyone wanting vetted, citable answers, though it discourages open-ended discussion or broad 'how do I learn hacking' posts.",
+  "run_by": "Stack Exchange, Inc.",
+  "website": "https://security.stackexchange.com/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "No signup needed to browse; free account needed to post. Site rules require specific, answerable questions, not open discussion.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "cryptography-stack-exchange",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "cryptography",
+   "general-infosec",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a"
+  ],
+  "summary": "This is the cryptography-focused Q&A site in the Stack Exchange network, moderated by community volunteers under Stack Exchange's standard Q&A rules. People post specific technical questions about cryptographic algorithms, protocols, and implementations and get answers from working cryptographers and engineers, ranging from homework-level questions to research-level discussion. It suits anyone who wants precise, citable answers rather than open-ended chat, though the site's strict on-topic and question-quality rules can feel unfriendly to first-time posters.",
+  "run_by": "Stack Exchange, Inc.",
+  "website": "https://crypto.stackexchange.com/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Free self-service signup; questions must meet Stack Exchange's on-topic and quality guidelines or get closed/downvoted.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "reverse-engineering-stack-exchange",
+  "include": true,
+  "exclude_reason": null,
+  "category": "redteam",
+  "tags": [
+   "reverse-engineering",
+   "binary-exploitation",
+   "malware-analysis",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a"
+  ],
+  "summary": "This is the reverse-engineering Q&A site in the Stack Exchange network, run by volunteer moderators under the standard Stack Exchange model. Members ask and answer specific technical questions about disassembling software and hardware, cracking obfuscation, and analyzing malware or binaries. It works best for people who already have some RE background and a concrete, well-formed question, rather than beginners looking for a learning path or open discussion.",
+  "run_by": "Stack Exchange, Inc.",
+  "website": "https://reverseengineering.stackexchange.com/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Free self-service signup; strict on-topic/question-quality rules, vague or how-do-I-crack-this-game questions get closed.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "eevblog-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "hardware-hacking",
+   "reverse-engineering",
+   "iot-embedded",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "project-showcase",
+   "news-feed"
+  ],
+  "summary": "EEVblog Forum is the community forum built around Dave Jones's EEVblog electronics YouTube channel, though it has grown well beyond just his fans into a general electronics engineering hub. Members discuss circuit design, test equipment, teardown/reverse-engineering of commercial devices, and repair, with dedicated sub-forums for hacking gear and firmware. It suits electronics hobbyists and hardware hackers of any level, from people asking basic component questions to professional engineers debating datasheet minutiae.",
+  "run_by": "Dave Jones / EEVblog",
+  "website": "https://www.eevblog.com/",
+  "github": null,
+  "youtube": "https://www.youtube.com/@EEVblog",
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Free self-service forum registration required to post.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "meshtastic-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "rf-sdr",
+   "iot-embedded",
+   "ham-radio",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "project-showcase",
+   "news-feed"
+  ],
+  "summary": "This is the official Discourse forum for Meshtastic, the open-source LoRa mesh-radio messaging project. Members troubleshoot firmware and hardware, discuss antenna and range setups, and share mesh-network deployment projects; it is a support and project community rather than a security-focused one, though it is relevant to RF and hardware hobbyists who overlap with the hacking scene. It's welcoming to newcomers getting their first LoRa node running as well as long-time mesh-network builders.",
+  "run_by": "Meshtastic project (open-source, community-run)",
+  "website": "https://meshtastic.org/",
+  "github": "https://github.com/meshtastic",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Free self-service signup on the Discourse instance.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "opnsense-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "blue-team",
+   "networking",
+   "cloud-security",
+   "homelab"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is the official support forum for OPNsense, an open-source FreeBSD-based firewall/router distribution, run by the project's developers and community volunteers. People ask configuration questions, troubleshoot IDS/IPS and VPN setups, and discuss plugin development and release notes, with sub-forums split by language and topic. It's aimed at people already running or planning to run OPNsense - sysadmins, homelabbers, and network security practitioners - rather than general security beginners.",
+  "run_by": "Deciso B.V. / OPNsense project",
+  "website": "https://opnsense.org/",
+  "github": "https://github.com/opnsense",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Free self-service forum registration; ~59,000 members, ~268,000 posts across multiple language sub-forums.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "netgate-pfsense-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "blue-team",
+   "networking",
+   "homelab",
+   "cloud-security"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is Netgate's official community forum for pfSense, a widely used open-source firewall/router platform, moderated by Netgate staff and community volunteers. Members troubleshoot firewall rules, VPN and IDS/IPS configuration, and hardware compatibility, with over a hundred thousand topics accumulated in the main pfSense category and separate language sub-forums. It suits network admins and homelabbers running or evaluating pfSense rather than security beginners with no networking background.",
+  "run_by": "Netgate",
+  "website": "https://www.pfsense.org/",
+  "github": "https://github.com/pfsense",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Free self-service forum registration; ~122,000 topics in the pfSense category, 14+ language sub-forums.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "hak5-forums",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "pentesting",
+   "tool-support",
+   "red-team",
+   "wireless",
+   "hardware-hacking"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "hardware-help",
+   "project-showcase",
+   "chat"
+  ],
+  "summary": "This is the official user forum for Hak5's pentesting hardware line (Wi-Fi Pineapple, Rubber Ducky, Bash Bunny, USB Rubber Ducky payloads, O.MG cables, etc.), run by the Hak5 company itself. People troubleshoot firmware and payloads, share scripts and mods, and discuss field use of the gear; it assumes you already own or are considering the hardware rather than teaching security fundamentals from zero.",
+  "run_by": "Hak5 (company)",
+  "website": "https://hak5.org/",
+  "github": null,
+  "youtube": "https://www.youtube.com/@hak5",
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free self-service registration on forums.hak5.org; content leans toward owners of specific Hak5 products.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "flipper-zero-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "hardware-hacking",
+   "flipper-zero",
+   "rfid-nfc",
+   "rf-sdr",
+   "iot-embedded"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "hardware-help",
+   "project-showcase",
+   "news-feed"
+  ],
+  "summary": "This is Flipper Devices' official support and development forum for the Flipper Zero multitool. Members ask setup and troubleshooting questions, discuss firmware builds (official and custom, like Unleashed/RogueMaster), and share Sub-GHz, NFC/RFID, and BadUSB projects, with a mix of first-time owners and experienced firmware tinkerers.",
+  "run_by": "Flipper Devices Inc.",
+  "website": "https://flipperzero.one/",
+  "github": "https://github.com/flipperdevices",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open self-service registration at forum.flipper.net.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "null-byte",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "pentesting",
+   "wireless",
+   "linux",
+   "general-infosec",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "q-and-a",
+   "writeups",
+   "chat"
+  ],
+  "summary": "Null Byte is a long-running WonderHowTo channel of tutorial articles on ethical hacking, Wi-Fi attacks, Linux, and common pentesting tools, paired with a discussion forum where readers ask follow-up questions. It's explicitly aimed at newcomers learning hacking concepts step by step rather than working security professionals.",
+  "run_by": "WonderHowTo (community-run tutorial site)",
+  "website": "https://null-byte.wonderhowto.com/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free account registration to post; articles are readable without signing up.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "lemmy-c-cybersecurity-lemmy-ml",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "news-cve",
+   "privacy"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "news-feed",
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "This is a Reddit-style discussion community on the federated Lemmy network, hosted on the lemmy.ml instance, where people share and discuss cybersecurity news, breaches, and general infosec topics. It's a community-run space with a moderate but steady flow of posts, welcoming to casual readers and beginners as well as more technical commenters.",
+  "run_by": "community-run",
+  "website": "https://lemmy.ml/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Requires a Lemmy account (on lemmy.ml or any federated instance) to post/comment; browsing is open.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "programming-dev-c-cybersecurity",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "news-cve",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "news-feed",
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "A sibling community to the lemmy.ml cybersecurity board, this one is hosted on the developer-focused programming.dev Lemmy instance and covers similar ground: security news, discussion threads, and links, with an audience that skews slightly more toward programmers and developers interested in security.",
+  "run_by": "community-run",
+  "website": "https://programming.dev/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Requires a Lemmy account (on programming.dev or any federated instance) to post/comment; browsing is open.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "full-disclosure-mailing-list",
+  "include": true,
+  "exclude_reason": null,
+  "category": "redteam",
+  "tags": [
+   "news-cve",
+   "red-team",
+   "threat-intel",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "news-feed",
+   "writeups"
+  ],
+  "summary": "Full Disclosure is a decades-old, unmoderated public mailing list where security researchers post raw vulnerability advisories, exploit details, and disclosure disputes as soon as they have them, archived and indexed by SecLists.org. It suits people who already understand vulnerability research and want unfiltered, first-hand disclosures rather than a curated news feed or a beginner learning space.",
+  "run_by": "community-run (archived via SecLists.org)",
+  "website": "https://seclists.org/fulldisclosure/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Subscribe via the list's own mailing-list signup page (seclists.org/fulldisclosure); it is unmoderated, so expect raw, occasionally off-topic or contentious traffic.",
+  "red_flags": "Unmoderated list has historically carried flame wars, spam, and occasional NSFW or abusive posts alongside legitimate disclosures.",
+  "confidence": "high"
+ },
+ {
+  "id": "oss-security-mailing-list",
+  "include": true,
+  "exclude_reason": null,
+  "category": "appsec",
+  "tags": [
+   "web-appsec",
+   "news-cve",
+   "general-infosec",
+   "linux",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "news-feed",
+   "q-and-a"
+  ],
+  "summary": "This is Openwall's long-running public mailing list where security researchers, distro maintainers, and open-source developers coordinate disclosure and discuss vulnerabilities as they're found. People post CVE writeups, patch discussions, and technical debates about flaws in widely-used open-source software; it suits practitioners who already understand vulnerability classes and want to follow real-world disclosure as it happens rather than learn fundamentals.",
+  "run_by": "Openwall Project",
+  "website": "https://www.openwall.com/lists/oss-security/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Self-service email subscription via the list page; posting follows standard responsible-disclosure norms for the list.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "underc0de",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "general-infosec",
+   "ctf",
+   "reverse-engineering",
+   "programming",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "ctf-events",
+   "news-feed"
+  ],
+  "summary": "Underc0de is a long-running (10+ years) Spanish-language hacking and IT community built around a public forum, with additional WhatsApp groups and an IRC channel. Members ask and answer questions about hacking, pentesting, programming, and general IT, making it a well-known entry point for Spanish-speaking beginners as well as more experienced hobbyists.",
+  "run_by": "community-run",
+  "website": "https://underc0de.org/",
+  "github": null,
+  "youtube": null,
+  "region": "latin-america",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "es",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free self-service registration on the forum (underc0de.org/foro); a login/signup page is required to post.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "mente-bin-ria",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "general-infosec",
+   "reverse-engineering",
+   "malware-analysis",
+   "ctf",
+   "students"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "workshops",
+   "news-feed"
+  ],
+  "summary": "Mente Binária is a Brazilian nonprofit founded in 2007 by Fernando Mercês that runs free cybersecurity courses, a technical blog, and a discussion forum in Portuguese, alongside social-impact programs training underrepresented groups for tech careers. The forum and course community suit newcomers looking for structured, free Portuguese-language learning as well as practitioners interested in malware analysis and reverse engineering topics.",
+  "run_by": "Mente Binária (nonprofit, founded by Fernando Mercês)",
+  "website": "https://www.mentebinaria.com.br/",
+  "github": null,
+  "youtube": "https://www.youtube.com/mentebinaria",
+  "region": "latin-america",
+  "country": "BR",
+  "subdivision": null,
+  "city": null,
+  "language": "pt",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free self-service account registration on the forum (mentebinaria.com.br/forums).",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "zenk-security",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "ctf",
+   "cryptography",
+   "forensics",
+   "reverse-engineering",
+   "web-appsec",
+   "malware-analysis"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "ctf-events",
+   "challenges",
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "Zenk-Security is a French-language community centered on hands-on training challenges covering crypto, steganography, web, malware, and forensics, paired with a discussion forum. Registration is open to anyone, but deeper forum access and recognition are earned by solving challenges and accumulating points, so it rewards active participation more than passive browsing.",
+  "run_by": "community-run",
+  "website": "https://www.zenk-security.com/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": null,
+  "language": "fr",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free signup, but full forum access requires earning a threshold of challenge points rather than being granted immediately.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-cybersecurity",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "careers",
+   "news-cve",
+   "blue-team",
+   "certifications"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "q-and-a",
+   "news-feed",
+   "job-board",
+   "chat"
+  ],
+  "summary": "r/cybersecurity is one of Reddit's largest general infosec subreddits, where people discuss industry news, ask career and certification questions, and share advice on breaking into the field. It's commonly recommended as a first stop for newcomers because of its high volume of beginner-friendly Q&A alongside general news discussion.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing to the subreddit on Reddit; no approval needed to read, standard Reddit account needed to post.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-netsec",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "news-cve",
+   "web-appsec",
+   "reverse-engineering",
+   "malware-analysis"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "news-feed",
+   "writeups",
+   "q-and-a"
+  ],
+  "summary": "r/netsec is one of the oldest infosec subreddits, focused on sharing technical security research, vulnerability writeups, and tool releases rather than general discussion. It's curated toward practitioner-level content, so it suits people who already have some technical background more than absolute beginners.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing to the subreddit; posts are moderated to keep content technical (self-promotion and low-effort posts are removed).",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-asknetsec",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "general-infosec",
+   "web-appsec",
+   "networking",
+   "careers"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "A Reddit forum where people post specific security questions - tool choices, career direction, technical how-tos, incident triage - and get answered by a mix of hobbyists and working professionals. It suits anyone with a concrete question rather than people looking for a chatty hangout, since Reddit's Q&A format rewards well-framed asks over casual conversation.",
+  "run_by": "community-run",
+  "website": "https://www.reddit.com/r/AskNetsec/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Sign up with a free Reddit account and post directly to the subreddit; no application or verification needed. Rules require questions to be genuine and specific, not homework-dump or vague 'how do I hack' asks.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "r-hacking",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "news-cve",
+   "reverse-engineering"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "news-feed",
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "One of Reddit's largest general hacking subreddits, mixing news links, writeups, tool showcases, and discussion threads for anyone interested in offensive security and hacker culture broadly. It is not structured as a teaching space, so beginners can lurk and ask questions but the vibe assumes some existing curiosity or background rather than walking newcomers through basics.",
+  "run_by": "community-run",
+  "website": "https://www.reddit.com/r/hacking/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit, join with a free Reddit account. Rules prohibit requests for illegal hacking services and low-effort 'hack my ex' posts.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "r-howtohack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "ctf",
+   "reverse-engineering",
+   "binary-exploitation",
+   "web-appsec",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "q-and-a",
+   "chat"
+  ],
+  "candidate_notes": null,
+  "run_by": "community-run",
+  "website": "https://www.reddit.com/r/HowToHack/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit with a stickied wiki of learning resources and beginner FAQs; posts are moderated to redirect vague 'how do I hack X' requests toward concrete study paths.",
+  "red_flags": null,
+  "confidence": "high",
+  "summary": "A subreddit built specifically for people starting out in offensive security, with a curated wiki of courses, tools, and practice sites plus threads answering beginner questions about pentesting, CTFs, and reverse engineering. Moderators actively steer newcomers toward structured resources rather than one-off answers, making it one of the more approachable entry points on Reddit."
+ },
+ {
+  "id": "r-netsecstudents",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "students",
+   "certifications",
+   "careers",
+   "general-infosec",
+   "study-group"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "job-board"
+  ],
+  "summary": "A subreddit for students and newcomers studying cybersecurity, focused on coursework help, degree and certification choices, internship hunting, and 'how do I break in' career questions. It is explicitly aimed at people earlier in the pipeline than r/cybersecurity, so basic questions are the norm rather than an exception.",
+  "run_by": "community-run",
+  "website": "https://www.reddit.com/r/netsecstudents/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit, free to join and post; oriented toward students so no expectation of professional experience.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "r-itcareerquestions",
+  "include": false,
+  "exclude_reason": "General IT career subreddit with no specific security focus; adjacent at best, not a security/hacking community.",
+  "category": "careers",
+  "tags": [
+   "careers",
+   "certifications"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "job-board",
+   "chat"
+  ],
+  "summary": "A broad IT career subreddit where people discuss resumes, certifications, help-desk-to-specialization paths, and job hunting across all of IT, not just security. Security comes up only as one of many career tracks discussed, alongside sysadmin, networking, and cloud roles.",
+  "run_by": "community-run",
+  "website": "https://www.reddit.com/r/ITCareerQuestions/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit, free to join; very high traffic and general in scope.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-securitycareeradvice",
+  "include": true,
+  "exclude_reason": null,
+  "category": "careers",
+  "tags": [
+   "careers",
+   "certifications",
+   "general-infosec",
+   "study-group"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "job-board",
+   "chat"
+  ],
+  "summary": "A smaller, more focused subreddit than r/cybersecurity dedicated to security-specific career questions - resume reviews, interview prep, certification value, and which specialization to pursue. It suits people already decided on security but unsure how to break in or move up, more than absolute beginners exploring the field.",
+  "run_by": "community-run",
+  "website": "https://www.reddit.com/r/SecurityCareerAdvice/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit, free to join; smaller and lower-traffic than general IT career subs.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "r-cybersecurity-help",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "malware-analysis",
+   "privacy"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "q-and-a"
+  ],
+  "summary": "This subreddit is a help forum where ordinary people post questions about suspected hacking, malware infections, account compromise, or general device hygiene, and volunteers help diagnose and fix the issue. It suits total beginners with a practical problem rather than people looking for career or technical hacking discussion.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing to the subreddit; posts must follow Reddit's rules and the sub's own posting guidelines for personal security help.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-comptia",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "certifications",
+   "study-group",
+   "careers",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "q-and-a",
+   "study-groups",
+   "job-board"
+  ],
+  "summary": "This subreddit is a study and discussion hub for people pursuing CompTIA certifications like A+, Network+, and Security+, which are common entry-level credentials into IT and security careers. People share study resources, exam experiences, and troubleshoot practice questions, making it well suited to newcomers starting a security career path.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing; not officially affiliated with CompTIA itself.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-oscp",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "certifications",
+   "pentesting",
+   "study-group",
+   "red-team"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a",
+   "study-groups"
+  ],
+  "summary": "This subreddit is dedicated to people studying for or holding the OSCP penetration testing certification from Offensive Security, discussing lab strategy, exam prep, and exploitation techniques. It assumes prior hands-on hacking experience and technical background, so it fits intermediate to advanced learners rather than absolute beginners.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing; direct exam-answer sharing is against sub rules and OffSec's exam integrity policy.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-hackthebox",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "wargames",
+   "pentesting",
+   "binary-exploitation"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "writeups",
+   "ctf-events"
+  ],
+  "summary": "This subreddit is the unofficial community hub for the Hack The Box hacking-practice platform, where members discuss machine walkthroughs, study strategies, and progress toward certifications like the CPTS. It works for beginners getting help on early boxes as well as more advanced players discussing harder challenges.",
+  "run_by": "community-run",
+  "website": "https://www.hackthebox.com",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing; posting full spoilers/solutions for active machines is generally against the rules.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-tryhackme",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "wargames",
+   "students",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "q-and-a",
+   "writeups",
+   "ctf-events"
+  ],
+  "summary": "This subreddit is the community space for the TryHackMe learning platform, aimed at people working through its beginner-friendly guided rooms and paths in cybersecurity. Members ask for help getting unstuck, share progress, and discuss which learning paths to take next, making it a good fit for people brand new to security.",
+  "run_by": "community-run",
+  "website": "https://tryhackme.com",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing; posting direct room answers/spoilers is discouraged.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-securityctf",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "wargames",
+   "reverse-engineering",
+   "binary-exploitation",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "writeups",
+   "ctf-events",
+   "chat"
+  ],
+  "summary": "This subreddit is a general hub for competitive capture-the-flag hacking, where people post CTF announcements, share writeups after events, and look for teammates. It leans toward players who already have some CTF or exploitation experience, though beginners can learn a lot by reading the writeups.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing; team-recruiting and event-announcement posts follow the sub's posting guidelines.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-blueteamsec",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "blue-team",
+   "detection-engineering",
+   "threat-intel",
+   "soc",
+   "dfir"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "news-feed",
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "A community-run subreddit that curates and discusses defensive security content: detection engineering write-ups, threat intel reports, SOC tooling, and blue team research links. It functions more as a curated news feed with discussion than a beginner help desk, and suits people already working in or studying defensive security roles.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joins like any subreddit via a Reddit account; posts tend to be link-heavy (reports, tools, write-ups) rather than open-ended questions.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-redteamsec",
+  "include": true,
+  "exclude_reason": null,
+  "category": "redteam",
+  "tags": [
+   "red-team",
+   "pentesting",
+   "reverse-engineering",
+   "binary-exploitation"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "news-feed",
+   "q-and-a",
+   "chat"
+  ],
+  "summary": "A community-run subreddit for offensive security practitioners to share red team tradecraft, tooling, and technique write-ups. Discussion assumes some existing pentesting or red team background rather than walking newcomers through basics, and it suits people already doing offensive security work or advanced self-study.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joins like any subreddit via a Reddit account; smaller and lower-traffic than r/redteam or r/AskNetsec.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-exploitdev",
+  "include": true,
+  "exclude_reason": null,
+  "category": "redteam",
+  "tags": [
+   "binary-exploitation",
+   "reverse-engineering",
+   "ctf",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "news-feed"
+  ],
+  "summary": "A community-run subreddit focused specifically on exploit development and vulnerability research: memory corruption, fuzzing, shellcoding, and binary exploitation techniques. It draws people who are already comfortable with C/assembly and low-level debugging, and is a narrower, more technical space than general CTF or pentesting subs.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joins like any subreddit via a Reddit account.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-malware",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "malware-analysis",
+   "reverse-engineering",
+   "dfir",
+   "threat-intel"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "news-feed"
+  ],
+  "summary": "A long-running subreddit for malware analysis and reverse engineering, where people share sample write-ups, ask about unpacking or debugging techniques, and discuss detection. It leans toward people who already have some RE or programming background rather than absolute beginners, though basic tooling questions do get answered.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joins like any subreddit via a Reddit account; requests to analyze specific files for the poster are generally discouraged rather than treated as a free analysis service.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-reverseengineering",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "reverse-engineering",
+   "binary-exploitation",
+   "malware-analysis",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "news-feed"
+  ],
+  "summary": "One of the largest and oldest reverse-engineering subreddits, covering both software (disassembly, decompilation, cracking, malware) and hardware RE, not limited to a security angle. It's a mix of link-sharing, tool discussion, and technical Q&A, and while it isn't a structured tutorial space, straightforward beginner questions are generally tolerated.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joins like any subreddit via a Reddit account.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-computerforensics",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "dfir",
+   "forensics",
+   "careers",
+   "certifications",
+   "blue-team"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "job-board",
+   "news-feed"
+  ],
+  "summary": "A community-run subreddit for digital forensics and incident response, where practitioners and students discuss tools, case techniques, certifications, and career paths into DFIR. It regularly fields \"how do I get into forensics\" and tool-recommendation questions, making it fairly approachable for people starting out in the field.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joins like any subreddit via a Reddit account.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-threatintel",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "threat-intel",
+   "malware-analysis",
+   "detection-engineering",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed",
+   "writeups"
+  ],
+  "summary": "A subreddit focused on cyber threat intelligence: sharing reports, IOCs, tooling, and discussion about tracking threat actors and campaigns. It suits analysts and researchers already working in or studying CTI rather than absolute beginners, since posts assume some familiarity with the field.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing on Reddit; standard Reddit account required to post.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-lockpicking",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "lockpicking-physical",
+   "hacker-culture",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase",
+   "news-feed"
+  ],
+  "summary": "A large hobbyist subreddit for locksport and physical security, where people show off picks and locks, ask for beginner advice, and discuss defeating locking mechanisms; it overlaps heavily with the security conference scene (DEF CON, Bsides villages). Very welcoming to newcomers asking basic 'how do I start' questions.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit, subscribe and post freely; some rules against picking locks you don't own/bypassing security you don't have permission for.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-rtlsdr",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "rf-sdr",
+   "hardware-hacking",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "A hobbyist subreddit dedicated to software-defined radio, especially cheap RTL-SDR dongles, covering signal decoding, antenna building, and scanner projects. Useful adjacent community for people getting into RF and wireless security work, with lots of beginner troubleshooting help.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit, subscribe and post freely.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-flipperzero",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "hardware-hacking",
+   "rfid-nfc",
+   "flipper-zero",
+   "iot-embedded"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "An unofficial fan/support subreddit for the Flipper Zero portable multi-tool, where owners share firmware tweaks, custom apps, RFID/sub-GHz experiments, and troubleshoot devices together. Popular entry point into hardware hacking for hobbyists rather than professionals.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit, subscribe and post freely.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-pwnagotchi",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "wireless",
+   "hardware-hacking",
+   "iot-embedded"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "A small subreddit for the Pwnagotchi project, an AI-themed companion device built on a Raspberry Pi that learns to capture Wi-Fi handshakes. Users discuss builds, firmware plugins, and troubleshooting; assumes some comfort with Raspberry Pi and Wi-Fi tooling.",
+  "run_by": "community-run",
+  "website": null,
+  "github": "https://github.com/evilsocket/pwnagotchi",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Small, lower-traffic subreddit; open to subscribe and post.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-homelab",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "networking",
+   "linux",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "A very large subreddit for people building home server and networking labs, sharing rack builds, virtualization setups, and self-hosting projects. Not security-specific, but a common adjacent hangout for security folks who build labs to practice networking, hosting, and defense skills.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit, subscribe and post freely.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-osint",
+  "include": true,
+  "exclude_reason": null,
+  "category": "osint",
+  "tags": [
+   "osint",
+   "privacy",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "A subreddit for people practicing or learning open-source intelligence, where members share investigative techniques, tools, and interesting OSINT finds and ask for help on specific research problems. It suits hobbyists, journalists, researchers, and security professionals who want to sharpen investigative skills using publicly available information.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing to the subreddit on Reddit; no requests to investigate specific private individuals (doxxing).",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-privacy",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "privacy",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "A large general-purpose subreddit for discussing digital privacy: news about surveillance and data breaches, tool recommendations, and questions about protecting personal data online. It is adjacent to security rather than a hacking community, and suits anyone from casual users to privacy-focused professionals.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing on Reddit; no personal data requests or promotion of illegal tracking.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-privacyguides",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "privacy",
+   "tool-support",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "The community subreddit tied to the Privacy Guides project, where people discuss and recommend private and secure software, operating systems, and services, and ask for setup help. It's built for newcomers looking for practical, vetted privacy tool recommendations rather than deep technical security research.",
+  "run_by": "Privacy Guides",
+  "website": "https://www.privacyguides.org/",
+  "github": "https://github.com/privacyguides",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing on Reddit; recommendations should follow the project's threat-model-first philosophy.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "r-kalilinux",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "linux",
+   "pentesting",
+   "tool-support"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "hardware-help"
+  ],
+  "summary": "A support-focused subreddit for the Kali Linux penetration testing distribution, where users troubleshoot installation, driver, and tool issues and ask beginner questions about getting started with the OS. It's popular with people new to pentesting who are setting up their first Kali environment.",
+  "run_by": "community-run",
+  "website": "https://www.kali.org/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing on Reddit; not affiliated with Offensive Security's official support channels.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-cybersecurityjobs",
+  "include": true,
+  "exclude_reason": null,
+  "category": "careers",
+  "tags": [
+   "careers",
+   "jobs"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "job-board",
+   "q-and-a"
+  ],
+  "summary": "A smaller subreddit dedicated to cybersecurity job postings and hiring discussion, where recruiters and hiring managers share openings and job seekers ask career-entry questions. It suits people actively job-hunting in security more than those just browsing for general discussion.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing on Reddit; activity level is lower than larger career subs like r/cybersecurity.",
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "r-isc2",
+  "include": true,
+  "exclude_reason": null,
+  "category": "careers",
+  "tags": [
+   "certifications",
+   "careers",
+   "study-group"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "study-groups",
+   "q-and-a",
+   "job-board"
+  ],
+  "summary": "A subreddit centered on ISC2 and its certifications (CISSP, SSCP, CC), where members discuss exam preparation, study resources, and membership/CPE requirements. It suits people pursuing or holding ISC2 certifications, from newcomers eyeing the entry-level CC to experienced CISSP holders.",
+  "run_by": "community-run",
+  "website": "https://www.isc2.org/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join by subscribing on Reddit; not an official ISC2 support channel.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-cissp",
+  "include": true,
+  "exclude_reason": null,
+  "category": "careers",
+  "tags": [
+   "certifications",
+   "study-group",
+   "careers",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "study-groups",
+   "chat",
+   "job-board"
+  ],
+  "summary": "A subreddit dedicated to the (ISC)2 CISSP certification, where people study together, share exam experiences, ask about study materials, and discuss whether the credential is worth pursuing for a given career stage. It suits IT/security professionals with several years of experience since CISSP requires prior work history, rather than absolute beginners.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via Reddit account and subreddit rules (no exam dumps/braindumps allowed).",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "r-sysadmin",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "networking",
+   "linux",
+   "general-infosec",
+   "careers"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "job-board",
+   "news-feed"
+  ],
+  "summary": "One of Reddit's largest IT communities, run by volunteer moderators, where working sysadmins and IT generalists swap war stories, troubleshoot infrastructure problems, and discuss career moves. Security comes up constantly as part of day-to-day systems work (patching, hardening, incident response basics), making it a useful adjacent hangout for people heading into security from IT operations.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit, standard Reddit sign-up; no security-specific gate.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "r-networking",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "networking",
+   "general-infosec",
+   "careers",
+   "certifications"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "job-board",
+   "news-feed"
+  ],
+  "summary": "A large community of network engineers and IT professionals discussing routing, switching, network design, vendor gear (Cisco, Juniper, etc.), and certifications like CCNA/CCNP. It is not security-focused but networking fundamentals are foundational for most security roles, and questions from people learning the basics are generally well received.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit, standard Reddit sign-up.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "r-amateurradio",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "ham-radio",
+   "rf-sdr",
+   "hardware-hacking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "project-showcase",
+   "news-feed"
+  ],
+  "summary": "A general ham radio subreddit for licensed operators and newcomers, covering license exams, equipment, antenna builds, and on-air activity. It overlaps with security-relevant RF/SDR hacking interests but is primarily a hobbyist radio community rather than a security one, and is welcoming to people just getting their license.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit, standard Reddit sign-up.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "r-meshtastic",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "rf-sdr",
+   "iot-embedded",
+   "homelab",
+   "hardware-hacking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "project-showcase",
+   "chat",
+   "hardware-help"
+  ],
+  "summary": "The subreddit for the open-source Meshtastic LoRa mesh networking project, where users discuss firmware, node hardware, antenna setups, and building off-grid mesh networks. It's a hardware/RF hobbyist space rather than dedicated security research, but it draws people interested in radio protocols and decentralized comms who often also explore RF security topics.",
+  "run_by": "community-run",
+  "website": "https://meshtastic.org/",
+  "github": "https://github.com/meshtastic",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit, standard Reddit sign-up.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "r-hardwarehacking",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "hardware-hacking",
+   "iot-embedded",
+   "reverse-engineering",
+   "rf-sdr"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "project-showcase",
+   "chat"
+  ],
+  "summary": "A smaller, niche subreddit for people taking apart, reverse-engineering, and modifying physical devices, embedded systems, and firmware. Posts range from JTAG/UART pinout discoveries to glitching and chip-level teardown, so it assumes some existing electronics or RE background more than a pure beginner space.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open subreddit, standard Reddit sign-up; smaller/lower-activity community.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-hak5",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "hardware-hacking",
+   "pentesting",
+   "tool-support",
+   "networking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "summary": "This subreddit is a fan and user community for Hak5's line of penetration-testing hardware such as the USB Rubber Ducky, WiFi Pineapple, and Bash Bunny. People troubleshoot device setup, share payload scripts, and discuss firmware updates, and it also touches on the Hak5 video show. It suits hobbyists and pentesters who already own or are considering the hardware.",
+  "run_by": "community-run",
+  "website": "https://hak5.org/",
+  "github": null,
+  "youtube": "https://www.youtube.com/@hak5",
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Standard Reddit signup; no invite needed to browse or post.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-rfid",
+  "include": true,
+  "exclude_reason": null,
+  "category": "hardware",
+  "tags": [
+   "rfid-nfc",
+   "hardware-hacking",
+   "iot-embedded"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "hardware-help"
+  ],
+  "summary": "A small niche subreddit for discussing RFID and NFC technology, including access-control systems, tag cloning tools, and reader hardware. Posts range from consumer questions about key fobs to security-research angles like cloning and access-control weaknesses. It suits hardware tinkerers and physical-security researchers more than complete beginners.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Standard Reddit signup; low traffic sub.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-grapheneos",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "privacy",
+   "mobile-security",
+   "linux"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "hardware-help",
+   "news-feed"
+  ],
+  "summary": "This is the official-adjacent community subreddit for GrapheneOS, a privacy- and security-hardened Android-based mobile operating system. Members discuss installation, hardening settings, sandboxed Google Play compatibility, and device compatibility, and developers sometimes participate directly. It suits privacy-focused users and mobile-security enthusiasts more than newcomers unfamiliar with Android internals.",
+  "run_by": "community-run",
+  "website": "https://grapheneos.org/",
+  "github": "https://github.com/GrapheneOS",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Standard Reddit signup.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-tor",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "privacy",
+   "networking",
+   "cryptography"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "A general discussion subreddit about the Tor anonymity network, covering everyday usage of Tor Browser, running and operating relays or bridges, and privacy questions. It draws both curious newcomers asking basic how-to questions and experienced relay operators discussing network health, so quality is mixed. It suits anyone interested in anonymity and privacy tooling.",
+  "run_by": "community-run",
+  "website": "https://www.torproject.org/",
+  "github": "https://github.com/torproject",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Standard Reddit signup; not affiliated officially with the Tor Project.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-degoogle",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "privacy",
+   "linux",
+   "mobile-security"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "hardware-help"
+  ],
+  "summary": "This subreddit is dedicated to helping people replace Google apps and services with privacy-respecting alternatives, covering custom Android ROMs, alternative app stores, email providers, and browsers. Discussion is oriented toward practical how-to guides and product recommendations rather than deep technical security research. It suits privacy-conscious general users and beginners looking for step-by-step de-Googling advice.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Standard Reddit signup.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-opsec",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "privacy",
+   "osint",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "q-and-a"
+  ],
+  "summary": "This subreddit is a strictly moderated forum for operational-security advice, requiring posters to state their specific threat model rather than asking vague 'how do I stay anonymous' questions. Volunteer moderators and experienced members give tailored guidance on protecting real people from real adversaries, such as journalists, activists, or domestic-abuse survivors. It suits people with a concrete, serious OPSEC problem rather than casual browsers or beginners wanting general privacy tips.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Posts must follow a strict template describing threat model and goals; low-effort or vague posts are removed.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-socialengineering",
+  "include": true,
+  "exclude_reason": null,
+  "category": "redteam",
+  "tags": [
+   "social-engineering",
+   "red-team",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "A Reddit community for discussing social engineering techniques such as pretexting, phishing, vishing, and the psychology behind human-factor attacks. Members share articles, ask about SE certifications and CTF-style SE challenges (like the DEF CON SECTF), and debate ethics and defenses. Suits people already interested in the human side of security rather than absolute beginners to infosec.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Standard Reddit signup; subreddit rules discourage requests for help running scams on real people.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-bugbounty",
+  "include": true,
+  "exclude_reason": null,
+  "category": "appsec",
+  "tags": [
+   "bug-bounty",
+   "web-appsec",
+   "careers"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "writeups",
+   "job-board",
+   "news-feed"
+  ],
+  "summary": "A Reddit forum where bug bounty hunters swap writeups, discuss platforms like HackerOne and Bugcrowd, and talk through payout disputes, tooling, and methodology. It's used by people already doing bug bounty work as well as newcomers asking how to get started, though the discussion often assumes basic web security knowledge. Good for keeping up with the bug bounty community and reading real vulnerability writeups.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Standard Reddit signup; self-promotion and platform-dispute posts have specific rules.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-cloudsecurity",
+  "include": true,
+  "exclude_reason": null,
+  "category": "appsec",
+  "tags": [
+   "cloud-security",
+   "careers",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "job-board",
+   "news-feed"
+  ],
+  "summary": "A smaller Reddit community focused on securing AWS, Azure, and GCP environments, covering topics like IAM misconfigurations, cloud security tooling, certifications (e.g., AWS Security Specialty), and job-hunting in cloud security roles. It attracts practitioners already working in or moving into cloud security rather than complete beginners. Useful for staying current on cloud-specific threats and vendor tools.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Standard Reddit signup.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r-devsecops",
+  "include": true,
+  "exclude_reason": null,
+  "category": "appsec",
+  "tags": [
+   "cloud-security",
+   "web-appsec",
+   "careers",
+   "programming"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "job-board",
+   "news-feed"
+  ],
+  "summary": "A Reddit community for people integrating security into CI/CD pipelines and development workflows, discussing SAST/DAST tooling, container and infrastructure-as-code security, and career paths that blend development and security. Posts assume familiarity with both software engineering and basic security concepts, so it's better suited to working practitioners than absolute newcomers. It's a niche but active spot for DevSecOps tooling recommendations and war stories.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Standard Reddit signup.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "infosec-exchange",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "privacy",
+   "news-cve",
+   "threat-intel"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "news-feed",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "summary": "A large, independently-run Mastodon instance built specifically for infosec and cybersecurity-minded people, including many well-known researchers, journalists, and vendors who left Twitter for it. People use it to follow security news, share CVE and threat-intel commentary, and have open-ended discussion in the Fediverse format. It welcomes newcomers to the field alongside seasoned professionals, though the tone can be more technical than a typical beginner Discord.",
+  "run_by": "community-run",
+  "website": "https://infosec.exchange",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Signup is self-service but requires admin approval and a stated reason for joining; 18+ minimum age.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ioc-exchange",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "threat-intel",
+   "news-cve"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "chat",
+   "news-feed",
+   "q-and-a"
+  ],
+  "summary": "A community-run Mastodon instance branded 'Indicators of Compromise' aimed at infosec people of all skill levels, from newbies to experts. Members post security news, threat intel, and general discussion in the Fediverse format, with instance rules emphasizing respect and content warnings for sensitive material. It explicitly says everyone is welcome, making it more newcomer-friendly in tone than many other infosec Mastodon instances.",
+  "run_by": "community-run",
+  "website": "https://ioc.exchange",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Signup requires admin approval plus a stated reason for joining; rules prohibit spam and hate speech and require content warnings.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "chaos-social",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "privacy",
+   "networking"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "news-feed",
+   "project-showcase"
+  ],
+  "summary": "This is a Mastodon (Fediverse) instance run by and for people connected to the Chaos Computer Club and wider European hacker scene, used for day-to-day chatter, event announcements, and project sharing rather than structured teaching. It suits people already plugged into hacker/maker culture more than absolute beginners, since new signups currently need an invite link from an existing member.",
+  "run_by": "community-run (Chaos community)",
+  "website": "https://chaos.social",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Registration is currently closed to the public; you need an invite link from an existing member to join.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "cyberplace-social",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "privacy"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "news-feed",
+   "project-showcase"
+  ],
+  "summary": "An independent, community-run Mastodon instance that mixes cybersecurity talk with fandom, gaming, and general tech chat rather than being a narrowly technical space. Anyone 18+ can sign up without an application, and the rules explicitly prohibit posting breach data or using the instance mainly to promote red-team tooling.",
+  "run_by": "community-run",
+  "website": "https://cyberplace.social",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open self-service signup, 18+ minimum; rules forbid posting breach data or joining mainly to promote hacking tools.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "fosstodon",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "linux",
+   "programming",
+   "homelab",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "news-feed",
+   "project-showcase"
+  ],
+  "summary": "Fosstodon is a large, general-purpose Mastodon instance for people interested in free and open source software, Linux, and technology broadly rather than security specifically. It's a friendly place to follow FOSS project news and chat with developers, but joining currently requires an invite from an existing member rather than open signup.",
+  "run_by": "community-run",
+  "website": "https://fosstodon.org",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Invite-only: open registration is disabled, so you need an existing member to invite you.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "social-circl-lu",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "dfir",
+   "threat-intel",
+   "blue-team",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "news-feed",
+   "chat"
+  ],
+  "summary": "This Mastodon instance is operated by CIRCL, Luxembourg's government-run Computer Incident Response Center, and is used mainly by CERT staff and security researchers to share threat intelligence and incident-response information. It is small, application-gated, and oriented toward practitioners rather than newcomers.",
+  "run_by": "CIRCL (Computer Incident Response Center Luxembourg)",
+  "website": "https://www.circl.lu",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "LU",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Registration is open but requires approval and a stated reason for joining.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "hackers-town",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "privacy"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "news-feed"
+  ],
+  "summary": "Hackers.Town is a small, long-running (since 2017) hacker- and tech-culture themed Mastodon instance for general chat and link-sharing. It currently isn't accepting open signups, only referrals vouched for by existing members, so it's more of a niche existing community than an easy on-ramp for newcomers.",
+  "run_by": "community-run",
+  "website": "https://hackers.town",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Registration is currently closed; only accepts invites vouched for by existing members.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "kali-linux-forums",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "tool-support",
+   "linux",
+   "pentesting",
+   "vendor"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "writeups"
+  ],
+  "summary": "This is Offensive Security's official community forum for Kali Linux, where users ask installation and tool-usage questions, troubleshoot problems, and discuss penetration-testing tools with other users and forum staff. It's a standard support-forum format that welcomes beginner questions about getting Kali running as well as more advanced tool discussion.",
+  "run_by": "Offensive Security",
+  "website": "https://www.kali.org/",
+  "github": "https://github.com/offensive-security",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free self-service forum registration; official Offensive Security support channel for Kali Linux.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "wireshark-q-a",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "networking",
+   "tool-support",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a"
+  ],
+  "summary": "This is Wireshark's official Q&A site, run by the Wireshark project, where users ask and answer questions about packet capture, protocol analysis, and troubleshooting network traffic. It suits anyone using Wireshark, from students learning to read packet captures to network and security engineers debugging real issues.",
+  "run_by": "Wireshark project",
+  "website": "https://www.wireshark.org/",
+  "github": "https://github.com/wireshark/wireshark",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Askbot-based Q&A site; free account signup required to post, but browsing and searching existing questions needs no account.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "grapheneos-discussion-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "privacy",
+   "mobile-security",
+   "tool-support"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is GrapheneOS's official Discourse forum, run by the GrapheneOS project, covering installation, usage, security hardening, and development discussion for the privacy- and security-focused Android-based operating system. It suits privacy-conscious users and developers already somewhat comfortable with Android internals rather than total beginners.",
+  "run_by": "GrapheneOS project",
+  "website": "https://grapheneos.org/",
+  "github": "https://github.com/GrapheneOS",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Discourse forum with open self-service registration.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "bitwarden-community-forums",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "privacy",
+   "tool-support"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is Bitwarden's official community forum, run by the Bitwarden company, for announcements, feature requests, and support around its open-source password manager. It suits everyday users setting up or troubleshooting Bitwarden as well as people interested in password security practices generally.",
+  "run_by": "Bitwarden Inc.",
+  "website": "https://bitwarden.com/",
+  "github": "https://github.com/bitwarden",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Discourse forum with open self-service registration.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "sleuth-kit-autopsy-discussion",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "dfir",
+   "forensics",
+   "tool-support"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a"
+  ],
+  "summary": "This is the official discussion forum for The Sleuth Kit, Autopsy, and Cyber Triage, the widely used open-source digital forensics tools, run by the tools' developer Basis Technology. Forensic examiners and DFIR practitioners use it to troubleshoot the software and discuss investigation techniques.",
+  "run_by": "Basis Technology / Sleuth Kit project",
+  "website": "https://www.sleuthkit.org/",
+  "github": "https://github.com/sleuthkit/sleuthkit",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Discourse forum with open self-service registration.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "discuss-the-elastic-stack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "soc",
+   "detection-engineering",
+   "tool-support",
+   "cloud-security"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is Elastic's official community forum, run by Elastic, covering Elasticsearch, Logstash, Kibana, Beats, and Elastic Security, the stack many SOC teams use for log analytics and detection. It suits engineers and analysts building or operating logging and security-monitoring pipelines, not general security beginners.",
+  "run_by": "Elastic NV",
+  "website": "https://www.elastic.co/",
+  "github": "https://github.com/elastic",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Discourse forum with open self-service registration.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "graylog-community",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "soc",
+   "detection-engineering",
+   "tool-support"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is Graylog's official community forum, run by the Graylog project/company, for support and discussion around the open-source Graylog log-management and SIEM platform. It suits sysadmins and security engineers setting up centralized logging and alerting rather than newcomers to security.",
+  "run_by": "Graylog Inc.",
+  "website": "https://graylog.org/",
+  "github": "https://github.com/Graylog2",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Discourse forum with open self-service registration.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "proxmox-support-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "tool-support",
+   "linux",
+   "networking",
+   "vendor"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is the official Proxmox company forum where users get help installing and running Proxmox VE, Backup Server, and Mail Gateway, and where staff post release announcements. It's widely used by home-lab builders (including security hobbyists who run isolated VMs and pfSense/security tooling) but isn't itself security-focused. Registration is open and free via the XenForo site.",
+  "run_by": "Proxmox Server Solutions GmbH",
+  "website": "https://www.proxmox.com/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Self-service account registration on forum.proxmox.com.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "truenas-community-forums",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "tool-support",
+   "linux",
+   "networking",
+   "vendor"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "Run by iXsystems (the company behind TrueNAS), this is the official support forum for TrueNAS CORE/SCALE and TrueCommand, covering storage, virtualization, apps, and hardware questions. It's a staple for home-lab builders who host security tools or backups on NAS boxes, though it is a general storage/virtualization forum rather than a security community. Anyone can register and post.",
+  "run_by": "iXsystems",
+  "website": "https://www.truenas.com/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open self-service registration; successor to the now read-only legacy truenas.com/community site.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "tor-project-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "privacy",
+   "networking",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is the Tor Project's own Discourse forum, where staff and volunteers help users troubleshoot Tor Browser, discuss anti-censorship and relay operation, and mirror project mailing-list threads. It suits anyone interested in privacy, anonymity, and censorship circumvention, from first-time Tor Browser users to relay operators. Registration is open, and the community operates under Tor's published Code of Conduct.",
+  "run_by": "The Tor Project",
+  "website": "https://www.torproject.org/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open registration; governed by Tor Project Code of Conduct.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "pi-hole-userspace-discourse",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "networking",
+   "tool-support",
+   "homelab",
+   "linux"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is the official Pi-hole Discourse forum, staffed by the open-source project's developers, where users get help setting up network-wide ad and tracker blocking, request features, and read announcements. It's a friendly, practical space that overlaps with privacy/home-lab interests rather than being a dedicated security community. Anyone can create a free account and post.",
+  "run_by": "Pi-hole project (open-source, community-run)",
+  "website": "https://pi-hole.net/",
+  "github": "https://github.com/pi-hole/pi-hole",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open self-service registration on discourse.pi-hole.net.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "wazuh-mailing-list-google-group",
+  "include": true,
+  "exclude_reason": null,
+  "category": "blueteam",
+  "tags": [
+   "blue-team",
+   "soc",
+   "detection-engineering",
+   "general-infosec",
+   "tool-support"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "This is the official mailing list/Google Group for Wazuh, the open-source SIEM and XDR platform, where the Wazuh team and users discuss deployment, rule tuning, and troubleshooting for log analysis, intrusion detection, and compliance monitoring. It suits people already running or evaluating a SIEM, more than complete newcomers to security. Joining is self-service through Google Groups.",
+  "run_by": "Wazuh, Inc.",
+  "website": "https://wazuh.com/",
+  "github": "https://github.com/wazuh/wazuh",
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Self-service join via Google Groups; mailing-list format rather than a chat community.",
+  "red_flags": null,
+  "confidence": "medium"
+ }
+]
