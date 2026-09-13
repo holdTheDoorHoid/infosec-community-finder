@@ -7,7 +7,9 @@ const ICF = (() => {
   const countryName = code => { try { return new Intl.DisplayNames(['en'], {type:'region'}).of(code) || code; } catch (e) { return code; } };
   // locality key for an entry: state/province code where we have one, else country code
   const localityOf = c => c.subdivision || c.country || null;
-  const localityLabel = k => SUBDIV[k] || countryName(k);
+  const localityLabel = k => k.startsWith('city:') ? k.slice(5) : (SUBDIV[k] || countryName(k));
+  const isLocal = c => !!c.country && c.region !== 'global';   // anything with a physical home base: local groups, conferences, campus clubs
+  const matchesLocality = (c, key) => !key ? false : key.startsWith('city:') ? (c.city || '').toLowerCase() === key.slice(5).toLowerCase() : localityOf(c) === key;
   const PLATFORM_LABEL = {discord:'Discord', slack:'Slack', matrix:'Matrix', forum:'Forum', reddit:'Reddit', mastodon:'Mastodon', irc:'IRC', mattermost:'Mattermost', discourse:'Forum'};
   const JOIN_VERB = {discord:'Join on Discord', slack:'Join on Slack', matrix:'Join on Matrix', forum:'Visit the forum', reddit:'Open on Reddit', mastodon:'Join the instance', irc:'Join on IRC', mattermost:'Join on Mattermost', discourse:'Visit the forum'};
   let DB = null;
@@ -24,6 +26,9 @@ const ICF = (() => {
       c.size_tier = c.size_tier || 'unknown';
       c.region = c.region || 'global';
       c.platform = c.platform || 'discord';
+      if (!c.country && c.region !== 'global' && (c.tags.includes('students') || c.category === 'regional' || c.category === 'conference')) {
+        c.country = ({canada:'CA','uk-ireland':'GB',india:'IN','australia-nz':'AU'})[c.region] || (c.region.startsWith('us') ? 'US' : null);
+      }
       c.locality = c.subdivision || c.country || null;
     }
     return DB;
@@ -92,7 +97,7 @@ const ICF = (() => {
   }
   function closeModal() { const bg = document.querySelector('.modal-bg'); if (bg) bg.classList.remove('open'); document.body.style.overflow = ''; if (location.hash) history.replaceState(null, '', location.pathname + location.search); }
 
-  return {load, cardHTML, detailHTML, openModal, closeModal, fmt, esc, CAT_LABEL, SIZE_LABEL, REGION_LABEL, PLATFORM_LABEL, stars, localityOf, localityLabel};
+  return {load, cardHTML, detailHTML, openModal, closeModal, fmt, esc, CAT_LABEL, SIZE_LABEL, REGION_LABEL, PLATFORM_LABEL, stars, localityOf, localityLabel, isLocal, matchesLocality};
 })();
 
 /* ---------- Browse page ---------- */
@@ -194,15 +199,15 @@ function scoreCommunity(c, a) {
   // activity signal: online count matters for getting answers
   s += Math.min(Math.log10((c.online || 1)) , 4) * 0.8;
   // region
-  const local = c.category === 'regional' || c.category === 'conference' || c.category === 'village';
+  const local = ICF.isLocal(c) || c.category === 'regional' || c.category === 'conference' || c.category === 'village';
   if (local) {
     const r = c.region || 'global';
     const near = r === a.region || (US.has(a.region) && r === 'us') || r === 'global' && c.category === 'village';
-    const here = a.locality && ICF.localityOf(c) === a.locality;
+    const here = ICF.matchesLocality(c, a.locality);
     if (here) { s += a.wants.includes('irl') ? 9 : 6; why.push(`In your area (${ICF.localityLabel(a.locality)}${c.city ? ', ' + c.city : ''})`); }
     else if (a.wants.includes('irl') && near && r !== 'global') { s += 5; why.push('In your region, with real-world meetups or events'); }
     else if (near && r !== 'global') { s += 1.5; why.push('In your region'); }
-    else if (c.category !== 'village') s -= 5; // far-away local group
+    else if (c.category !== 'village') s -= (c.category === 'conference' ? 5 : 7); // far-away local group or campus club
   }
   // affinity
   const af = a.affinity.filter(t => tags.has(t));
@@ -227,19 +232,25 @@ async function initQuiz() {
   form.addEventListener('change', e => {
     if (e.target.name !== 'region') return;
     const r = e.target.value;
-    const counts = {};
-    for (const c of db.communities) { if (c.hidden || !LOCAL_CATS.has(c.category) || c.region !== r) continue; const k = ICF.localityOf(c); if (k) counts[k] = (counts[k]||0) + 1; }
-    const keys = Object.keys(counts).sort((a,b) => counts[b]-counts[a] || ICF.localityLabel(a).localeCompare(ICF.localityLabel(b)));
-    const total = Object.values(counts).reduce((a,b)=>a+b,0);
+    const pool = db.communities.filter(c => !c.hidden && ICF.isLocal(c) && c.region === r);
+    let counts = {};
+    for (const c of pool) { const k = ICF.localityOf(c); if (k) counts[k] = (counts[k]||0) + 1; }
+    let keys = Object.keys(counts);
+    let label = US.has(r) ? 'Which state?' : r === 'canada' ? 'Which province?' : 'Which country?';
+    if (keys.length < 2) {  // one country in this region: narrow by city instead
+      counts = {}; for (const c of pool) { if (c.city) { const k = 'city:' + c.city; counts[k] = (counts[k]||0) + 1; } }
+      keys = Object.keys(counts); label = 'Which city?';
+    }
+    keys.sort((a,b) => counts[b]-counts[a] || ICF.localityLabel(a).localeCompare(ICF.localityLabel(b)));
+    const total = pool.length;
     if (r === 'global' || keys.length < 2 || total < 4) { refine.hidden = true; refine.innerHTML = ''; return; }
-    const label = US.has(r) ? 'Which state?' : r === 'canada' ? 'Which province?' : 'Which country?';
-    refine.innerHTML = `<h2>${label}</h2><p class="help">We have ${total} local groups, conferences and villages in that region. Narrow it down if you like.</p><div class="opts"><label class="opt"><input type="radio" name="locality" value="" checked><span>Anywhere in the region</span></label>${keys.map(k => `<label class="opt"><input type="radio" name="locality" value="${ICF.esc(k)}"><span>${ICF.esc(ICF.localityLabel(k))}<small>${counts[k]} group${counts[k]>1?'s':''}</small></span></label>`).join('')}</div>`;
+    refine.innerHTML = `<h2>${label}</h2><p class="help">We have ${total} local groups, campus clubs and conferences in that region. Narrow it down if you like.</p><div class="opts"><label class="opt"><input type="radio" name="locality" value="" checked><span>Anywhere in the region</span></label>${keys.map(k => `<label class="opt"><input type="radio" name="locality" value="${ICF.esc(k)}"><span>${ICF.esc(ICF.localityLabel(k))}<small>${counts[k]} group${counts[k]>1?'s':''}</small></span></label>`).join('')}</div>`;
     refine.hidden = false;
   });
   form.addEventListener('submit', e => {
     e.preventDefault();
     const a = {locality: form.querySelector('input[name=locality]:checked')?.value || null}; for (const q of QUIZ) { const v = [...form.querySelectorAll(`input[name=${q.id}]:checked`)].map(i => i.value); a[q.id] = q.type === 'single' ? (v[0] || (q.id==='region'?'global':q.id==='size'?'any':'basics')) : v; }
-    const alive = db.communities.filter(c => c.invite_status !== 'dead' && c.category !== 'conference' && c.category !== 'village' && c.category !== 'regional');
+    const alive = db.communities.filter(c => c.invite_status !== 'dead' && !ICF.isLocal(c) && c.category !== 'conference' && c.category !== 'village' && c.category !== 'regional');
     const scored = alive.map(c => ({c, ...scoreCommunity(c, a)})).sort((x,y) => y.s - x.s);
     // diversify: avoid 5 servers of the same category
     const picks = []; const catCount = {};
@@ -253,12 +264,12 @@ async function initQuiz() {
       if (best) { picks.splice(4, 1, best); }
     }
     picks.sort((x,y) => y.s - x.s);
-    const localPool = db.communities.filter(c => c.invite_status !== 'dead' && (c.category === 'conference' || c.category === 'village' || c.category === 'regional'));
+    const localPool = db.communities.filter(c => c.invite_status !== 'dead' && (ICF.isLocal(c) || c.category === 'conference' || c.category === 'village' || c.category === 'regional'));
     const local = localPool.map(c => ({c, ...scoreCommunity(c, a)})).filter(x => x.s > 0).sort((x,y) => y.s - x.s).slice(0, a.locality ? 6 : 4);
     const out = document.querySelector('#results');
     const row = (x, i) => `<div class="result"><div class="rank">${i+1}</div><div style="flex:1"><h3><a href="#" data-id="${ICF.esc(x.c.id)}">${ICF.esc(x.c.name)}</a> <span class="chip">${ICF.esc(ICF.CAT_LABEL[x.c.category]||x.c.category)}</span>${x.c.platform !== 'discord' ? ` <span class="chip">${ICF.esc(ICF.PLATFORM_LABEL[x.c.platform]||x.c.platform)}</span>` : ''}</h3><div class="note">${x.c.platform === 'discord' ? `${ICF.fmt(x.c.members)} members · ${ICF.fmt(x.c.online)} online` : (x.c.members ? `${ICF.fmt(x.c.members)} members` : 'no live stats')}${x.c.beginner_friendly?` · <span class="stars">${ICF.stars(x.c.beginner_friendly)}</span>`:''}</div><p style="margin:6px 0 0">${ICF.esc(x.c.summary)}</p>${x.why.length?`<ul class="why">${x.why.map(w=>`<li>${ICF.esc(w)}</li>`).join('')}</ul>`:''}<div class="join" style="margin-top:8px"><a class="btn sm primary" href="${ICF.esc(x.c.invite_url)}" target="_blank" rel="noopener">Join ↗</a><a class="btn sm" href="#" data-id="${ICF.esc(x.c.id)}">Details</a></div></div></div>`;
     out.innerHTML = `<h2>Your best matches</h2><p class="note">Join two or three, lurk for a week, then keep the one where you actually talk. Every server has a rules channel; read it first.</p>${picks.map(row).join('')}` +
-      (local.length ? `<h2>Near you: local groups, conferences & villages</h2>${local.map(row).join('')}` : `<p class="note">No local group in the directory for your region yet. <a href="https://github.com/holdTheDoorHoid/infosec-community-finder/issues/new?template=submit-community.yml" target="_blank" rel="noopener">Know one?</a></p>`) +
+      (local.length ? `<h2>Near you: local groups, campus clubs, conferences & villages</h2>${local.map(row).join('')}` : `<p class="note">No local group in the directory for your region yet. <a href="https://github.com/holdTheDoorHoid/infosec-community-finder/issues/new?template=submit-community.yml" target="_blank" rel="noopener">Know one?</a></p>`) +
       `<p class="note" style="margin-top:14px"><a href="#" id="retake">Change answers</a> · <a href="index.html">Browse everything</a></p>`;
     out.querySelectorAll('a[data-id]').forEach(el => el.addEventListener('click', ev => { ev.preventDefault(); ICF.openModal(db.communities.find(c => c.id === el.dataset.id)); }));
     out.querySelector('#retake').addEventListener('click', ev => { ev.preventDefault(); out.innerHTML=''; form.hidden = false; window.scrollTo({top:0,behavior:'smooth'}); });
