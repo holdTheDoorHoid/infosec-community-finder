@@ -1,0 +1,116 @@
+[
+ {
+  "id": "bellingcat",
+  "name": "Bellingcat",
+  "invite_url": "https://discord.gg/bellingcat",
+  "discord_description": "Come hang out with open source research enthusiasts, share knowledge and experiences, and learn lots!",
+  "members": 43792,
+  "online": 4607,
+  "verified": false,
+  "partnered": true,
+  "nsfw": false,
+  "candidate_name": "BellingCat",
+  "candidate_notes": "Investigative journalism / OSINT community | Open-source investigation/journalism collective; official Discord linked on their contact page footer.",
+  "category_hints": [
+   "osint"
+  ],
+  "sources": [
+   "https://blog.bushidotoken.net/p/infosec-discord-servers.html"
+  ]
+ },
+ {
+  "id": "hack-this-site",
+  "name": "Hack This Site",
+  "invite_url": "https://discord.gg/hack-this-site-193774599719223297",
+  "discord_description": "HackThisSite is a free, safe and legal training ground for hackers to test and expand their ethical hacking skills.",
+  "members": 24410,
+  "online": 1722,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Hack This Site",
+  "candidate_notes": "Free legal ethical hacking training ground",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://accesscyber.co/blog/infosec-cybersecurity-discord-servers"
+  ]
+ },
+ {
+  "id": "owlsec",
+  "name": "OwlSec",
+  "invite_url": "https://discord.gg/owlsec",
+  "discord_description": "Your spot for hands-on cybersecurity, red teaming, ethical hacking, and nonstop CTF action. Learn to think like an attacker, sharpen your skills, and grow with a community that actually gets it. Jump in and earn your OvO tag.",
+  "members": 165983,
+  "online": 17905,
+  "verified": false,
+  "partnered": true,
+  "nsfw": false,
+  "candidate_name": "OwlSec",
+  "candidate_notes": "Positive, encouraging cybersecurity learning community",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://accesscyber.co/blog/infosec-cybersecurity-discord-servers"
+  ]
+ },
+ {
+  "id": "threat-hunter-community",
+  "name": "Threat Hunter Community",
+  "invite_url": "https://discord.gg/threathunter",
+  "discord_description": "A space for people interested in Threat Hunting to ask questions & share knowledge. Have fun!",
+  "members": 28606,
+  "online": 2538,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Threat Hunter Community",
+  "candidate_notes": "Threat hunting Q&A and knowledge sharing",
+  "category_hints": [
+   "blueteam"
+  ],
+  "sources": [
+   "https://accesscyber.co/blog/infosec-cybersecurity-discord-servers"
+  ]
+ },
+ {
+  "id": "0x0539-net",
+  "name": "0x0539.net",
+  "invite_url": "https://discord.gg/n8k3cPZxe9",
+  "discord_description": null,
+  "members": 1307,
+  "online": 96,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "0x0539.net",
+  "candidate_notes": "Exploit research community",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "amass",
+  "name": "Amass",
+  "invite_url": "https://discord.gg/BjCH28z7f6",
+  "discord_description": "Official community server for the OWASP Amass Project, that performs in-depth attack surface mapping and asset discovery",
+  "members": 4888,
+  "online": 262,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Amass",
+  "candidate_notes": "Network mapping and external asset discovery tool community",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ }
+]

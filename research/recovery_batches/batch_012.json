@@ -1,0 +1,72 @@
+[
+ {
+  "name": "DC201",
+  "why": "no invite captured",
+  "notes": "Domain did not resolve at time of check; likely relocated or defunct. Needs re-verification.",
+  "hint": "regional",
+  "source_url": "https://dc201.org/"
+ },
+ {
+  "name": "DC212 (NYC DEF CON Group)",
+  "why": "no invite captured",
+  "notes": "Domain did not resolve at time of check. Needs re-verification (may have moved to a different site or meetup page).",
+  "hint": "regional",
+  "source_url": "https://dc212.org/"
+ },
+ {
+  "name": "DC303 (Denver DEF CON Group)",
+  "why": "no invite captured",
+  "notes": "Site loaded but only referenced Discord in passing (event logistics) without a visible invite link.",
+  "hint": "regional",
+  "source_url": "https://www.dc303.org/"
+ },
+ {
+  "name": "DC562",
+  "why": "no invite captured",
+  "notes": "Site loaded (minimal content) with no visible Discord invite.",
+  "hint": "regional",
+  "source_url": "https://dc562.org/"
+ },
+ {
+  "name": "DC858 (San Diego DEF CON Group)",
+  "why": "no invite captured",
+  "notes": "Site returned 403 Forbidden at time of check.",
+  "hint": "regional",
+  "source_url": "https://dc858.org/"
+ },
+ {
+  "name": "DC619 (San Diego DEF CON Group)",
+  "why": "no invite captured",
+  "notes": "Site had a certificate error (self-signed) preventing verification.",
+  "hint": "regional",
+  "source_url": "https://dc619.org/"
+ },
+ {
+  "name": "DC801 (Salt Lake City DEF CON Group)",
+  "why": "no invite captured",
+  "notes": "Site showed a 'coming soon / under construction' placeholder at time of check.",
+  "hint": "regional",
+  "source_url": "https://dc801.org/"
+ },
+ {
+  "name": "DC613 (Ottawa DEF CON Group)",
+  "why": "no invite captured",
+  "notes": "Domain did not resolve; a .org variant also refused connection. Needs re-verification.",
+  "hint": "regional",
+  "source_url": "https://dc613.ca/"
+ },
+ {
+  "name": "DC416 / DEF CON Toronto",
+  "why": "no invite captured",
+  "notes": "dc416.com redirects to defcontoronto.ca, which returned 403 Forbidden at time of check.",
+  "hint": "regional",
+  "source_url": "https://defcontoronto.ca/"
+ },
+ {
+  "name": "DC4420 (London DEF CON Group)",
+  "why": "no invite captured",
+  "notes": "Site fetched successfully but they publish IRC (Libera.Chat) as their chat platform, not Discord — may not have an official Discord at all.",
+  "hint": "regional",
+  "source_url": "https://dc4420.org/"
+ }
+]

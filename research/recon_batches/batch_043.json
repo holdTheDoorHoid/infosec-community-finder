@@ -1,0 +1,119 @@
+[
+ {
+  "id": "gynvael-s-tech-chat",
+  "name": "Gynvael's Tech Chat",
+  "invite_url": "https://discord.gg/apY3g6Vgks",
+  "discord_description": "Paged Out! zine and Gynvael Coldwind's official community discords! Deeply technical IT/computer content and some memes.",
+  "members": 5937,
+  "online": 989,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Gynvael's Tech Chat",
+  "candidate_notes": "Computer security and IT discussion run by Gynvael Coldwind | shortlink https://gynvael.coldwind.pl/discord -> https://discord.gg/apY3g6Vgks",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "infosec-716",
+  "name": "Infosec 716",
+  "invite_url": "https://discord.gg/PZyNPZ8yuF",
+  "discord_description": null,
+  "members": 692,
+  "online": 80,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Infosec 716",
+  "candidate_notes": "Buffalo, NY security discussion",
+  "category_hints": [
+   "regional"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "joe-grand-s-official-server",
+  "name": "Joe Grand's Official Server",
+  "invite_url": "https://discord.gg/wud8KnF2Gm",
+  "discord_description": "A community gathering spot for electronics, hardware hacking, and the projects of Joe Grand aka Kingpin",
+  "members": 1990,
+  "online": 209,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Joe Grand's Official Server",
+  "candidate_notes": "Joe Grand's (Kingpin) hardware hacking community",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "kali-linux-friends",
+  "name": "Kali Linux & Friends",
+  "invite_url": "https://discord.gg/xN7Vqjvsqe",
+  "discord_description": null,
+  "members": 72280,
+  "online": 5217,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Kali Linux & Friends",
+  "candidate_notes": "Kali Linux and penetration testing discussion",
+  "category_hints": [
+   "tool",
+   "ctf"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords",
+   "https://www.vulnhub.com/chat/"
+  ]
+ },
+ {
+  "id": "kismetwireless",
+  "name": "KismetWireless",
+  "invite_url": "https://discord.gg/p8SPgGdaTT",
+  "discord_description": null,
+  "members": 3225,
+  "online": 268,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "KismetWireless",
+  "candidate_notes": "Kismet wireless sniffer/IDS tool community",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords",
+   "https://www.kismetwireless.net/"
+  ]
+ },
+ {
+  "id": "lockpickers-united",
+  "name": "Lockpickers United",
+  "invite_url": "https://discord.gg/lockpicking",
+  "discord_description": "Lockpickers United is a community-driven Discord server dedicated to the art and sport of lockpicking. Whether you're a hobbyist, beginner, or competitive picker, you'll find a place to learn, share techniques, take on challenges, and connect with fellow enthusiasts.",
+  "members": 12106,
+  "online": 2807,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Lockpickers United",
+  "candidate_notes": "r/lockpicking community",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ }
+]

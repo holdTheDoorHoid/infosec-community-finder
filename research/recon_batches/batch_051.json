@@ -1,0 +1,116 @@
+[
+ {
+  "id": "arcadia",
+  "name": "Arcadia",
+  "invite_url": "https://discord.gg/arcadia-1100085665766572142",
+  "discord_description": "Community of hackers, reverse engineers, cyberpunks, rogue artists, and midnight philosophers. We dissect systems, bend code, forge tools, and trade truths in neon-lit shadows.",
+  "members": 3975,
+  "online": 531,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "bettercap",
+  "candidate_notes": "Official bettercap MITM/network-attack framework community server.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://www.bettercap.org/"
+  ]
+ },
+ {
+  "id": "suricata-community-chat",
+  "name": "Suricata Community Chat",
+  "invite_url": "https://discord.gg/t3rV2x7MrG",
+  "discord_description": null,
+  "members": 1470,
+  "online": 142,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Suricata",
+  "candidate_notes": "Official Suricata IDS/IPS/NSM engine community Discord.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://suricata.io/community/"
+  ]
+ },
+ {
+  "id": "great-scott-gadgets-community",
+  "name": "Great Scott Gadgets Community",
+  "invite_url": "https://discord.gg/rsfMw3rsU8",
+  "discord_description": null,
+  "members": 4862,
+  "online": 997,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "M5Stack / Cardputer hardware hacking",
+  "candidate_notes": "Discord link surfaced from Great Scott Gadgets' HackRF page (community discussions hub used by hardware-hacking/M5Stack-adjacent projects); verify scope before listing broadly. | Official community/support Discord for HackRF and other Great Scott Gadgets SDR hardware (also covers YARD Stick One, Ubertooth, GreatFET).",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://greatscottgadgets.com/hackrf/"
+  ]
+ },
+ {
+  "id": "meshtastic",
+  "name": "Meshtastic",
+  "invite_url": "https://discord.gg/meshtastic",
+  "discord_description": "An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices",
+  "members": 52931,
+  "online": 8889,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Meshtastic",
+  "candidate_notes": "Official Meshtastic open-source mesh radio community server. | Official community for the open-source LoRa mesh radio project Meshtastic; adjacent maker/RF hobby community, in scope. | Official Discord for the Meshtastic off-grid LoRa mesh networking project, linked directly from meshtastic.org.",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://meshtastic.org/docs/community/discord/"
+  ]
+ },
+ {
+  "id": "sdr-2",
+  "name": "SDR++",
+  "invite_url": "https://discord.gg/aFgWjyD",
+  "discord_description": null,
+  "members": 5656,
+  "online": 919,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "SDR++",
+  "candidate_notes": "Official SDR++ software-defined radio receiver community server.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://www.sdrpp.org/"
+  ]
+ },
+ {
+  "id": "car-hacking-village-hq",
+  "name": "Car Hacking Village HQ",
+  "invite_url": "https://discord.gg/zz7xUPZcre",
+  "discord_description": "The Car Hacking Village (CHV) is a 501(c)(3) Non-Profit Corporation empowering researchers passionate about the safety and security of over a billion vehicles globally to share and learn. CHV provides education and awareness by operating at different security conferences.",
+  "members": 2123,
+  "online": 287,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Hardware Hacking Village (DEF CON)",
+  "candidate_notes": "Official DEF CON Hardware Hacking Village community Discord, invite appears repeatedly on their own site. | DEF CON village on automotive security.",
+  "category_hints": [
+   "village"
+  ],
+  "sources": [
+   "https://www.villageidiot.io (redirected to villageidiotlabs.org content, fetched via cached alias)"
+  ]
+ }
+]

@@ -1,0 +1,116 @@
+[
+ {
+  "id": "grapheneos-private-and-secure-mobile-os-with-android-app-com",
+  "name": "GrapheneOS: private and secure mobile OS with Android app compatibility",
+  "invite_url": "https://discord.gg/grapheneos",
+  "discord_description": "Open source privacy and security focused mobile OS with Android app compatibility.",
+  "members": 34037,
+  "online": 6030,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "GrapheneOS",
+  "candidate_notes": "Official GrapheneOS (privacy/security hardened Android OS) Discord, explicitly endorsed by the project alongside a separate Matrix room.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://grapheneos.org/contact"
+  ]
+ },
+ {
+  "id": "techno-tim-s-technology-community",
+  "name": "Techno Tim's Technology Community",
+  "invite_url": "https://discord.gg/technotim",
+  "discord_description": "Homelab & Self-Hosting nerds",
+  "members": 10703,
+  "online": 2272,
+  "verified": false,
+  "partnered": true,
+  "nsfw": false,
+  "candidate_name": "Techno Tim",
+  "candidate_notes": "Official homelab/self-hosting YouTuber Techno Tim's community server; the site's own l.technotim.com/discord short link redirects here.",
+  "category_hints": [
+   "creator"
+  ],
+  "sources": [
+   "https://l.technotim.com/discord"
+  ]
+ },
+ {
+  "id": "open-source-cartridge-reader",
+  "name": "Open Source Cartridge Reader",
+  "invite_url": "https://discord.gg/YVxv7BnzXt",
+  "discord_description": "Discord server for the Open Source Cartridge Reader (aka OSCR or Sanni Cart Reader) project.",
+  "members": 1142,
+  "online": 240,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "OSCR (Open Source Cartridge Reader)",
+  "candidate_notes": "Official community Discord for the OSCR open-source game cartridge dumper project, linked from the OSCR wiki's external links.",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://oscr.wiki"
+  ]
+ },
+ {
+  "id": "demozoo",
+  "name": "Demozoo",
+  "invite_url": "https://discord.gg/AJ2xV8X",
+  "discord_description": null,
+  "members": 888,
+  "online": 243,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Demozoo / Demoscene",
+  "candidate_notes": "Demozoo team's Discord server for demoscene archival/preservation discussion (including console cracktro preservation), linked in site footer/news.",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://demozoo.org"
+  ]
+ },
+ {
+  "id": "ads-b-sdr-feeder-image",
+  "name": "ADS-B / SDR Feeder Image",
+  "invite_url": "https://discord.gg/HjaEg53VvN",
+  "discord_description": null,
+  "members": 483,
+  "online": 86,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "ADS-B / SDR Feeder Image (adsb.im)",
+  "candidate_notes": "Official support Discord for the adsb.im ADS-B/SDR feeder image project (flight tracking / plane spotting hardware).",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://adsb.im"
+  ]
+ },
+ {
+  "id": "adversary-village",
+  "name": "Adversary Village",
+  "invite_url": "https://discord.gg/GDB3rC7KYz",
+  "discord_description": null,
+  "members": 2372,
+  "online": 243,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Adversary Village",
+  "candidate_notes": "DEF CON village focused on adversary simulation and offensive security research.",
+  "category_hints": [
+   "village"
+  ],
+  "sources": [
+   "https://adversaryvillage.org"
+  ]
+ }
+]

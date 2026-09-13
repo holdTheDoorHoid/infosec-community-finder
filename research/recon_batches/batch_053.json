@@ -1,0 +1,116 @@
+[
+ {
+  "id": "spiderfoot",
+  "name": "SpiderFoot",
+  "invite_url": "https://discord.gg/vyvztrG",
+  "discord_description": null,
+  "members": 3512,
+  "online": 290,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "SpiderFoot",
+  "candidate_notes": "Community server for the SpiderFoot OSINT automation tool, for support/feature requests, linked in the project README.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://github.com/smicallef/spiderfoot"
+  ]
+ },
+ {
+  "id": "hacktoria",
+  "name": "HACKTORIA",
+  "invite_url": "https://discord.gg/WyjtaBKGcz",
+  "discord_description": null,
+  "members": 2157,
+  "online": 285,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Hacktoria",
+  "candidate_notes": "OSINT-based CTF/investigation game platform; invite linked in site navigation.",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://hacktoria.com"
+  ]
+ },
+ {
+  "id": "noisebridge",
+  "name": "Noisebridge",
+  "invite_url": "https://discord.gg/cHd7j4ar9g",
+  "discord_description": "Noisebridge is a space for: sharing/creation/collaboration/research/development/mentoring/learning. | https://www.noisebridge.net| NOTIFICATION OPT OUT: We @ everyone announcements. You can disable in 3 clicks: 1. Click Server icon. 2. Click Notifications. 3.  Enable \"Suppress @everyone\"",
+  "members": 6946,
+  "online": 764,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Noisebridge",
+  "candidate_notes": "San Francisco hackerspace with a general security/maker focus; official Discord linked directly from their site.",
+  "category_hints": [
+   "regional"
+  ],
+  "sources": [
+   "https://www.noisebridge.net/"
+  ]
+ },
+ {
+  "id": "hacdc",
+  "name": "HacDC",
+  "invite_url": "https://discord.gg/rjfEg5GMCB",
+  "discord_description": "The Capitol's Hackerspacehttps://hacdc.org",
+  "members": 1226,
+  "online": 155,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "HacDC",
+  "candidate_notes": "Washington DC hackerspace, used for open-house/visiting coordination as well as general community chat.",
+  "category_hints": [
+   "regional"
+  ],
+  "sources": [
+   "https://www.hacdc.org/"
+  ]
+ },
+ {
+  "id": "nyc-resistor",
+  "name": "NYC Resistor",
+  "invite_url": "https://discord.gg/7QEHu4QkRN",
+  "discord_description": null,
+  "members": 2586,
+  "online": 278,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "NYC Resistor",
+  "candidate_notes": "Brooklyn NYC hackerspace (maker-leaning, some security/electronics crossover); invite in site footer.",
+  "category_hints": [
+   "regional"
+  ],
+  "sources": [
+   "https://www.nycresistor.com/"
+  ]
+ },
+ {
+  "id": "atlanta-cybersecurity-engineers",
+  "name": "Atlanta Cybersecurity Engineers",
+  "invite_url": "https://discord.gg/u3HNVSMUHS",
+  "discord_description": null,
+  "members": 2574,
+  "online": 313,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "DC404 (Atlanta DEF CON Group)",
+  "candidate_notes": "Atlanta DEF CON group; site publishes a NEW discord invite per monthly meeting (this is the most recent, Aug 2026, at time of check) rather than one persistent link — expect it to rotate/expire, re-check dc404.org for the current one.",
+  "category_hints": [
+   "regional"
+  ],
+  "sources": [
+   "https://dc404.org/"
+  ]
+ }
+]

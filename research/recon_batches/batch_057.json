@@ -1,0 +1,116 @@
+[
+ {
+  "id": "call-center-village",
+  "name": "Call Center Village",
+  "invite_url": "https://discord.gg/aYCgpwuPqv",
+  "discord_description": "Making and breaking AI voice agents",
+  "members": 7,
+  "online": 7,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Call Center Village",
+  "candidate_notes": "DEF CON village on vishing/call center social engineering; also lists Matrix/Mastodon.",
+  "category_hints": [
+   "village"
+  ],
+  "sources": [
+   "https://www.callcentervillage.com"
+  ]
+ },
+ {
+  "id": "cloud-village",
+  "name": "Cloud Village",
+  "invite_url": "https://discord.gg/p3S3KVD2Tp",
+  "discord_description": null,
+  "members": 1212,
+  "online": 149,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Cloud Village",
+  "candidate_notes": "DEF CON village on cloud security.",
+  "category_hints": [
+   "village"
+  ],
+  "sources": [
+   "https://www.cloud-village.org/"
+  ]
+ },
+ {
+  "id": "game-hacking-village",
+  "name": "Game Hacking Village",
+  "invite_url": "https://discord.gg/bNYz8Xws8j",
+  "discord_description": "All things Game Hacking and Game Modding, DEFCON community, will be at DEFCON 34! check out https://GameHacking.gg",
+  "members": 741,
+  "online": 170,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Game Hacking Village",
+  "candidate_notes": "DEF CON village on video game hacking/cheating/CTFs.",
+  "category_hints": [
+   "village"
+  ],
+  "sources": [
+   "https://gamehacking.gg"
+  ]
+ },
+ {
+  "id": "ham-radio-village",
+  "name": "Ham Radio Village",
+  "invite_url": "https://discord.gg/hrv",
+  "discord_description": null,
+  "members": 2167,
+  "online": 555,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Ham Radio Village",
+  "candidate_notes": "DEF CON village on amateur radio.",
+  "category_hints": [
+   "village"
+  ],
+  "sources": [
+   "https://hamvillage.org/"
+  ]
+ },
+ {
+  "id": "quantum-village",
+  "name": "Quantum Village",
+  "invite_url": "https://discord.gg/6WUjH5cBXu",
+  "discord_description": null,
+  "members": 632,
+  "online": 57,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Quantum Village",
+  "candidate_notes": "DEF CON village on quantum computing security.",
+  "category_hints": [
+   "village"
+  ],
+  "sources": [
+   "https://quantumvillage.org/"
+  ]
+ },
+ {
+  "id": "queercord-queercon",
+  "name": "QueerCord (Queercon)",
+  "invite_url": "https://discord.gg/jeG6Bh5",
+  "discord_description": "As an organization Queercon is dedicated to developing and advancing the interests of the LGBTQIA+ community within the info sec and info tech industries. We believe our community should be open to everyone and we are committed to providing a friendly, safe, and welcoming environment for all.",
+  "members": 1561,
+  "online": 299,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Queercon",
+  "candidate_notes": "LGBTQ+ hacker community and DEF CON week social events/parties; official vanity redirect queercon.org/discord resolves to this invite.",
+  "category_hints": [
+   "conference"
+  ],
+  "sources": [
+   "https://queercon.org/discord"
+  ]
+ }
+]

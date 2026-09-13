@@ -1,0 +1,116 @@
+[
+ {
+  "id": "overflow",
+  "name": "Overflow",
+  "invite_url": "https://discord.gg/overflowhub",
+  "discord_description": null,
+  "members": 71128,
+  "online": 4938,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "LiveOverflow / Overflow",
+  "candidate_notes": "Community associated with LiveOverflow's reverse-engineering/CTF content, ~69k members",
+  "category_hints": [
+   "creator"
+  ],
+  "sources": [
+   "https://discord.com/invite/overflowhub"
+  ]
+ },
+ {
+  "id": "hacker-valley",
+  "name": "Hacker Valley",
+  "invite_url": "https://discord.gg/avaeNEprYG",
+  "discord_description": null,
+  "members": 511,
+  "online": 28,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Hacker Valley Studio",
+  "candidate_notes": "Official Discord for the Hacker Valley Studio podcast, linked from hackervalley.com/discord",
+  "category_hints": [
+   "creator"
+  ],
+  "sources": [
+   "https://hackervalley.com/discord"
+  ]
+ },
+ {
+  "id": "jeremy-s-it-lab",
+  "name": "Jeremy's IT Lab",
+  "invite_url": "https://discord.gg/pkBYDnqFD9",
+  "discord_description": "Welcome to Jeremy's IT Lab! Join us to talk all things networking and IT!",
+  "members": 26721,
+  "online": 2149,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Jeremy's IT Lab",
+  "candidate_notes": "Jeremy's IT Lab CCNA/networking course community, ~27k members",
+  "category_hints": [
+   "creator"
+  ],
+  "sources": [
+   "https://discord.com/invite/pkBYDnqFD9"
+  ]
+ },
+ {
+  "id": "unixguy-cyber-security",
+  "name": "UnixGuy Cyber Security",
+  "invite_url": "https://discord.gg/6MEBYF5ght",
+  "discord_description": null,
+  "members": 14581,
+  "online": 889,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "UnixGuy Cyber Security Career",
+  "candidate_notes": "Community tied to UnixGuy's cybersecurity career podcast/YouTube",
+  "category_hints": [
+   "creator"
+  ],
+  "sources": [
+   "https://discord.gg/6MEBYF5ght"
+  ]
+ },
+ {
+  "id": "flipper-zero-unleashed",
+  "name": "Flipper Zero Unleashed",
+  "invite_url": "https://discord.gg/flipperzero-unofficial",
+  "discord_description": "Discord server where you can discuss electronics, programming, flipper zero",
+  "members": 29320,
+  "online": 5094,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Flipper Zero Unleashed (unofficial)",
+  "candidate_notes": "Unofficial Flipper Zero / Unleashed firmware community, ~29k members.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://discord.unleashedflip.com"
+  ]
+ },
+ {
+  "id": "momentum-firmware",
+  "name": "Momentum Firmware",
+  "invite_url": "https://discord.gg/momentum",
+  "discord_description": "Feature-rich, stable and customizable Flipper Zero Firmware. Join for support and to engage with the community!",
+  "members": 36102,
+  "online": 5393,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Momentum Firmware",
+  "candidate_notes": "Official Discord for the Momentum custom Flipper Zero firmware, ~36k members.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://momentum-fw.dev/"
+  ]
+ }
+]

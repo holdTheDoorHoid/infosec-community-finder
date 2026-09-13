@@ -1,0 +1,116 @@
+[
+ {
+  "id": "faytuks-news-osint",
+  "name": "Faytuks News [OSINT]",
+  "invite_url": "https://discord.gg/faytuks",
+  "discord_description": "(OSINT) Discord server dedicated to covering breaking news from all around the world.",
+  "members": 24008,
+  "online": 4481,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Faytuks News [OSINT]",
+  "candidate_notes": "OSINT-driven breaking news/conflict monitoring community, 24k members.",
+  "category_hints": [
+   "osint"
+  ],
+  "sources": [
+   "https://discord.com/servers/faytuks-news-osint-1108138416660557926"
+  ]
+ },
+ {
+  "id": "meshos",
+  "name": "MeshOS",
+  "invite_url": "https://discord.gg/QCgdTmuWUA",
+  "discord_description": null,
+  "members": 10230,
+  "online": 1449,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "MeshCore",
+  "candidate_notes": "Official Discord for MeshCore, a LoRa mesh networking firmware/project, linked in the site footer alongside GitHub and YouTube.",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://meshcore.co.uk"
+  ]
+ },
+ {
+  "id": "home-assistant",
+  "name": "Home Assistant",
+  "invite_url": "https://discord.gg/home-assistant",
+  "discord_description": "Open source home automation that puts local control and privacy first.",
+  "members": 164247,
+  "online": 22152,
+  "verified": true,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Home Assistant",
+  "candidate_notes": "Official Home Assistant (Open Home Foundation) community chat; home-assistant.io/join-chat/ redirects directly to this invite.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://www.home-assistant.io/join-chat/"
+  ]
+ },
+ {
+  "id": "esphome",
+  "name": "ESPHome",
+  "invite_url": "https://discord.gg/KhAMKrd",
+  "discord_description": "ESPHome's official Discord server! Discuss your ESPHome-based projects here",
+  "members": 36411,
+  "online": 4592,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "ESPHome",
+  "candidate_notes": "Official ESPHome (ESP32/ESP8266 firmware framework) community chat, linked from esphome.io/chat.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://esphome.io/chat"
+  ]
+ },
+ {
+  "id": "tasmota",
+  "name": "Tasmota",
+  "invite_url": "https://discord.gg/Ks2Kzd4",
+  "discord_description": null,
+  "members": 13350,
+  "online": 1487,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Tasmota",
+  "candidate_notes": "Official Tasmota (open-source ESP8266/ESP32 firmware) community/support Discord, linked from the project docs.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://tasmota.github.io/docs/"
+  ]
+ },
+ {
+  "id": "linuxserver-io",
+  "name": "LinuxServer.io",
+  "invite_url": "https://discord.gg/linuxserver",
+  "discord_description": "The official LinuxServer.io discord server for support with self-hosting our docker containers in the homelab.",
+  "members": 41274,
+  "online": 7203,
+  "verified": true,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "LinuxServer.io",
+  "candidate_notes": "Official Discord for LinuxServer.io, a popular self-hosted Docker container project; provides first-hand support there per their site.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://linuxserver.io/"
+  ]
+ }
+]

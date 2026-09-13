@@ -1,0 +1,118 @@
+[
+ {
+  "id": "squachtopia",
+  "name": "Squachtopia",
+  "invite_url": "https://discord.gg/squachtopia",
+  "discord_description": "A server for TalkingSasquach's YouTube Channel, the Flipper Zero, and more!",
+  "members": 14047,
+  "online": 1834,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Squachtopia",
+  "candidate_notes": "Community server (likely tied to a hacking/maker content creator 'Squachtopia'); no description given in source.",
+  "category_hints": [
+   "creator"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/UberGuidoZ/Discord-Stuff/main/Discord-Servers.md"
+  ]
+ },
+ {
+  "id": "the-pirates-plunder",
+  "name": "The Pirates' Plunder",
+  "invite_url": "https://discord.gg/thepirates",
+  "discord_description": null,
+  "members": 6664,
+  "online": 948,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "The Pirates' Plunder",
+  "candidate_notes": "Community server listed in UberGuidoZ's Discord list; no description given, purpose unclear from name alone.",
+  "category_hints": [
+   "other"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/UberGuidoZ/Discord-Stuff/main/Discord-Servers.md"
+  ]
+ },
+ {
+  "id": "pen-ace-hacking-time",
+  "name": "Pen Ace - Hacking Time",
+  "invite_url": "https://discord.gg/uYyHDdHFQF",
+  "discord_description": null,
+  "members": 81,
+  "online": 13,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Hacking Time (Pen Ace)",
+  "candidate_notes": "Pentesting-themed community ('Pen Ace'); no description given in source.",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/UberGuidoZ/Discord-Stuff/main/Discord-Servers.md"
+  ]
+ },
+ {
+  "id": "cosmodiumcs",
+  "name": "CosmodiumCS",
+  "invite_url": "https://discord.gg/6dq5DbSn4h",
+  "discord_description": "Cosmodium Cyber Security, a group of offensive developers overseen by Cosmo. We make malware, tools, cyber weapons, all in the good name of fun and cybersecurity education.",
+  "members": 1638,
+  "online": 175,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "The Hackers Society",
+  "candidate_notes": "General hacking/infosec community; no description given in source.",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/UberGuidoZ/Discord-Stuff/main/Discord-Servers.md"
+  ]
+ },
+ {
+  "id": "rm-flipper-hacks-uncensored",
+  "name": "RM Flipper & Hacks Uncensored",
+  "invite_url": "https://discord.gg/gF2bBUzAFe",
+  "discord_description": "Community for Flipper Zero and the Rogue Master Custom Firmware. Topics: Pen Testing, Amiibo, Wifi, RFID, NFC & SubGHz.",
+  "members": 14559,
+  "online": 2333,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "RogueMaster Flipper",
+  "candidate_notes": "Community for RogueMaster, a custom firmware for the Flipper Zero hardware hacking device; no description given in source beyond the name. | Discord for RogueMaster Flipper Zero custom firmware, linked from official GitHub README.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/UberGuidoZ/Discord-Stuff/main/Discord-Servers.md"
+  ]
+ },
+ {
+  "id": "infosec-community",
+  "name": "InfoSec Community",
+  "invite_url": "https://discord.gg/bw8DzNn",
+  "discord_description": null,
+  "members": 5516,
+  "online": 514,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Infosec Community",
+  "candidate_notes": "General-purpose infosec discussion server listed among active security Discords.",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://gist.github.com/johnnyxmas/7a2e78a1d46512c0b1d9c1f8b3a03ee9",
+   "https://blog.bushidotoken.net/p/infosec-discord-servers.html",
+   "https://medium.com/@KillSwitchX7/cyber-security-discord-servers-7d9c0b7cd7cb"
+  ]
+ }
+]

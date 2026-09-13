@@ -1,0 +1,116 @@
+[
+ {
+  "id": "dc612",
+  "name": "DC612",
+  "invite_url": "https://discord.gg/HYzJcfVGjH",
+  "discord_description": null,
+  "members": 441,
+  "online": 93,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "DC612 (Minneapolis DEF CON Group)",
+  "candidate_notes": "Minneapolis/Twin Cities DEF CON group, not in the original seed list but same family as DC215/DC404 etc; invite posted directly on their homepage.",
+  "category_hints": [
+   "regional"
+  ],
+  "sources": [
+   "https://dc612.org/"
+  ]
+ },
+ {
+  "id": "dc407",
+  "name": "DC407",
+  "invite_url": "https://discord.gg/UtvaVp7J36",
+  "discord_description": null,
+  "members": 816,
+  "online": 121,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "DC407 (Orlando DEF CON Group)",
+  "candidate_notes": "Orlando DEF CON group; dc407.org redirects to dc407.com where the invite is posted repeatedly on the homepage.",
+  "category_hints": [
+   "regional"
+  ],
+  "sources": [
+   "http://dc407.com/"
+  ]
+ },
+ {
+  "id": "immunefi",
+  "name": "Immunefi",
+  "invite_url": "https://discord.gg/immunefi",
+  "discord_description": "Immunefi is the Security OS for the onchain economy, powered by the token $IMU.  Our mission is to be the security rails bringing trillions on chain.",
+  "members": 15973,
+  "online": 1374,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Immunefi",
+  "candidate_notes": "Smart contract / web3 bug bounty platform community; adjacent to appsec but web3-focused per assignment note.",
+  "category_hints": [
+   "other"
+  ],
+  "sources": [
+   "https://immunefi.com/"
+  ]
+ },
+ {
+  "id": "sherlock",
+  "name": "Sherlock 🕵",
+  "invite_url": "https://discord.gg/MABEWyASkp",
+  "discord_description": null,
+  "members": 11824,
+  "online": 1122,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Sherlock Protocol",
+  "candidate_notes": "Smart contract security audit contest platform; web3-focused, included per assignment's smart-contract-security list.",
+  "category_hints": [
+   "other"
+  ],
+  "sources": [
+   "https://www.sherlock.xyz/"
+  ]
+ },
+ {
+  "id": "code4rena",
+  "name": "Code4rena",
+  "invite_url": "https://discord.gg/code4rena",
+  "discord_description": null,
+  "members": 34,
+  "online": 2,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Code4rena",
+  "candidate_notes": "Competitive smart contract audit platform community; web3-focused, included per assignment's smart-contract-security list.",
+  "category_hints": [
+   "other"
+  ],
+  "sources": [
+   "https://code4rena.com/"
+  ]
+ },
+ {
+  "id": "learn-prompting-hackaprompt",
+  "name": "Learn Prompting/HackAPrompt",
+  "invite_url": "https://discord.gg/learn-prompting-hackaprompt-1046228027434086460",
+  "discord_description": "Creators of the internet's first Prompt Engineering Guide. Learn Prompt Engineering, ChatGPT, AI Red Teaming, and GenAI via courses, labs, and certifications. Join HackAPrompt, the world's largest AI Red Teaming competition, where you can upskill, compete, win prizes, and help secure AI systems.",
+  "members": 51470,
+  "online": 2315,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Learn Prompting / HackAPrompt",
+  "candidate_notes": "Community behind Learn Prompting and the HackAPrompt LLM red-teaming/prompt injection competitions; AI security relevant.",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://learnprompting.org/"
+  ]
+ }
+]

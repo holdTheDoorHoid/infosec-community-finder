@@ -1,0 +1,116 @@
+[
+ {
+  "id": "gametec-live",
+  "name": "GameTec_live",
+  "invite_url": "https://discord.gg/DJ2A4wxncK",
+  "discord_description": null,
+  "members": 346,
+  "online": 35,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "GameTec_live (ChameleonUltra)",
+  "candidate_notes": "Discord referenced in the official ChameleonUltra README alongside the RFID Hacking server.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://github.com/RfidResearchGroup/ChameleonUltra"
+  ]
+ },
+ {
+  "id": "hashcat",
+  "name": "hashcat",
+  "invite_url": "https://discord.gg/HFS523HGBT",
+  "discord_description": "Ask questions about Hashcat, get support from the official dev team, or just talk shop with other password crackers!",
+  "members": 9422,
+  "online": 1085,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "hashcat",
+  "candidate_notes": "Official hashcat password-recovery tool community, linked from hashcat.net.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://hashcat.net/discord/"
+  ]
+ },
+ {
+  "id": "wireshark",
+  "name": "Wireshark",
+  "invite_url": "https://discord.gg/ts9GZCjGj5",
+  "discord_description": "This is the official Discord server for the Wireshark community. Come in and let's have a chat!",
+  "members": 14590,
+  "online": 1522,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Wireshark",
+  "candidate_notes": "Official Wireshark community chat server, linked from the official site.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://wireshark.org/"
+  ]
+ },
+ {
+  "id": "radare",
+  "name": "radare",
+  "invite_url": "https://discord.gg/YBey7CR9jf",
+  "discord_description": null,
+  "members": 1134,
+  "online": 150,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "radare2",
+  "candidate_notes": "Official radare2 reverse-engineering framework community server, listed in the project README.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://github.com/radareorg/radare2"
+  ]
+ },
+ {
+  "id": "wazuh-community",
+  "name": "Wazuh | Community",
+  "invite_url": "https://discord.gg/rg9eZTtC7W",
+  "discord_description": "[Official Discord] Wazuh is a free & open source protection platform for threat prevention, detection, and response.",
+  "members": 5409,
+  "online": 714,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Wazuh",
+  "candidate_notes": "Official Wazuh open-source SIEM/XDR community Discord.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://wazuh.com/community/"
+  ]
+ },
+ {
+  "id": "sigmahq-community",
+  "name": "SigmaHQ Community",
+  "invite_url": "https://discord.gg/CZhaX3ygdt",
+  "discord_description": null,
+  "members": 892,
+  "online": 121,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "SigmaHQ",
+  "candidate_notes": "Official Sigma detection-engineering rule format community, linked from the SigmaHQ README. | Community around the Sigma generic SIEM detection-rule format; discussion of detection engineering, invite in the SigmaHQ README.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://github.com/SigmaHQ/sigma"
+  ]
+ }
+]

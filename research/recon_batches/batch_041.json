@@ -1,0 +1,118 @@
+[
+ {
+  "id": "blue-team-labs-online",
+  "name": "Blue Team Labs Online ☁",
+  "invite_url": "https://discord.gg/T8F2jqZwMG",
+  "discord_description": null,
+  "members": 6752,
+  "online": 609,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Blue Team Labs Online",
+  "candidate_notes": "Blue Team Labs Online training platform community",
+  "category_hints": [
+   "blueteam"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "cybersecurity-station",
+  "name": "Cybersecurity Station",
+  "invite_url": "https://discord.gg/certstation",
+  "discord_description": null,
+  "members": 46094,
+  "online": 2945,
+  "verified": false,
+  "partnered": true,
+  "nsfw": false,
+  "candidate_name": "Certification Station",
+  "candidate_notes": "Certification discussion (CISSP, CCSP, CISM)",
+  "category_hints": [
+   "careers"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "chipwhisperer-chat",
+  "name": "ChipWhisperer Chat",
+  "invite_url": "https://discord.gg/chipwhisperer",
+  "discord_description": null,
+  "members": 1232,
+  "online": 147,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "ChipWhisperer Chat",
+  "candidate_notes": "Embedded security and side-channel analysis",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "comptia-study-group",
+  "name": "CompTIA Study Group",
+  "invite_url": "https://discord.gg/G7j2hMKbF4",
+  "discord_description": null,
+  "members": 17122,
+  "online": 1952,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "CompTIA Study Group",
+  "candidate_notes": "CompTIA certification study discussion",
+  "category_hints": [
+   "careers"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "cyberspatial",
+  "name": "Cyberspatial",
+  "invite_url": "https://discord.gg/GaP8VmWchh",
+  "discord_description": null,
+  "members": 1783,
+  "online": 74,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Cyberspatial",
+  "candidate_notes": "Cybersecurity education for all levels",
+  "category_hints": [
+   "general",
+   "creator"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords",
+   "https://discord.com/invite/ZKwR9CV"
+  ]
+ },
+ {
+  "id": "cyberwox-academy",
+  "name": "Cyberwox Academy",
+  "invite_url": "https://discord.gg/cyberwoxacademy",
+  "discord_description": "The Cybersecurity Resource Hub.",
+  "members": 7414,
+  "online": 643,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Cyberwox Academy",
+  "candidate_notes": "Cybersecurity community and student resources",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ }
+]

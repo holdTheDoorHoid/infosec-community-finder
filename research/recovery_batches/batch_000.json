@@ -1,0 +1,72 @@
+[
+ {
+  "name": "SOLDR",
+  "why": "dead invite: soldr",
+  "notes": "",
+  "hint": null,
+  "source_url": "user-seed-file"
+ },
+ {
+  "name": "Open Source Cartridge Reader",
+  "why": "no invite captured",
+  "notes": "",
+  "hint": null,
+  "source_url": "user-seed-file"
+ },
+ {
+  "name": "Cackalackycon",
+  "why": "dead invite: a3zDHPG6be",
+  "notes": "",
+  "hint": null,
+  "source_url": "lsoh-con-tracker"
+ },
+ {
+  "name": "nahamsec",
+  "why": "dead invite: nahamsec",
+  "notes": "Official NahamSec/NahamCon community Discord (~41k members), year-round, online conference/CTF community; not tied to a specific city.",
+  "hint": "conference",
+  "source_url": "https://www.nahamcon.com/"
+ },
+ {
+  "name": "Security Fest",
+  "why": "dead invite: qcqzKHDjX7",
+  "notes": "Found via search tied to Security Fest CTF; not confirmed directly on securityfest.com homepage content fetched. Gothenburg, Sweden.",
+  "hint": "conference",
+  "source_url": "https://securityfest.com/"
+ },
+ {
+  "name": "Hackfest",
+  "why": "no invite captured",
+  "notes": "Quebec City, Canada. Official discord link (custom domain redirect) found directly on their homepage news section.",
+  "hint": "other",
+  "source_url": "https://hackfest.ca/"
+ },
+ {
+  "name": "BSides HBG",
+  "why": "no invite captured",
+  "notes": "Harrisburg, PA, US. Site's TLS cert did not match the domain (fetch tool blocked by cert mismatch to a GitHub Pages cert), so content could not be checked; no independent Discord signal found.",
+  "hint": "conference",
+  "source_url": "https://bsideshbg.com/"
+ },
+ {
+  "name": "BSides Las Vegas (BSidesLV)",
+  "why": "dead invite: YcCWqMW5",
+  "notes": "Las Vegas, NV, US. Invite is from a 2021 BSidesLV tweet describing the Discord as 'open to the public' during event week; not found on the current bsideslv.org site, so this may be stale/event-week-on",
+  "hint": "conference",
+  "source_url": "https://x.com/BSidesLV/status/1421093567901179904"
+ },
+ {
+  "name": "BSides Philly",
+  "why": "no invite captured",
+  "notes": "Philadelphia, PA, US. Site content was minimal in fetch (title only); search notes that past events 'streamed live over Discord' but no current invite link found.",
+  "hint": "conference",
+  "source_url": "https://bsidesphilly.org/"
+ },
+ {
+  "name": "InfoSec Prep",
+  "why": "dead invite: infosecprep",
+  "notes": "Listed in Jordan Snapper's \"17 Cybersecurity Discord Servers\" LinkedIn post",
+  "hint": "general",
+  "source_url": "https://www.linkedin.com/posts/jordansnapper_17-cybersecurity-discord-servers-you-must-activity-7289533871006584832-IV-2/"
+ }
+]

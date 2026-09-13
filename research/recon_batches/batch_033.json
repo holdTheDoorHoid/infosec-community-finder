@@ -1,0 +1,122 @@
+[
+ {
+  "id": "infosec-vpn",
+  "name": "InfoSec VPN",
+  "invite_url": "https://discord.gg/infosec",
+  "discord_description": "Privacy at its Core・Stay anonymous online with a fully encrypted, no-logs VPN.",
+  "members": 3341,
+  "online": 46,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Շђє ๓คภץ ђคՇร Ċlub (The Many Hats Club)",
+  "candidate_notes": "Red/blue team infosec community; channels include infosec-general, blue-team-zone, ctf, malware-phishing, cyber-threat-intel, digital-forensics; official badge, has homepage themanyhats.club and GitHub CTF challenge platform. | Huge community ranging from students of all ages",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/README.md"
+  ]
+ },
+ {
+  "id": "hacker101",
+  "name": "Hacker101",
+  "invite_url": "https://discord.gg/32ZNZVN",
+  "discord_description": null,
+  "members": 77319,
+  "online": 4317,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Hacker101",
+  "candidate_notes": "HackerOne's free bug bounty/web hacking education community; channels for hacking resources, hacktivity, hackthebox, CTFs; official badge. | Official Discord tied to HackerOne's free Hacker101 training program; mentors and learners discuss bug bounty and appsec.",
+  "category_hints": [
+   "blueteam",
+   "appsec"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/README.md",
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "locke",
+  "name": "LOCKE",
+  "invite_url": "https://discord.gg/x4DwzGWR8r",
+  "discord_description": "LOCKE is a server for people enthusiastic about technology of all kinds and of all skill levels!",
+  "members": 5328,
+  "online": 609,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "LOCKE",
+  "candidate_notes": "Beginner-friendly security/IT community covering ethical hacking, CTF discussion, networking, cryptography, mobile devices, and job discussion. | Source's #1 pick. Source description: 'a friendly new whitehat hacking discord server that is open to all... we offer ctf challenges with enticing prizes, guidance on how to dip your feet into the field of cybersecurity, and a welcoming community for peo",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/README.md"
+  ]
+ },
+ {
+  "id": "reverse-engineering",
+  "name": "Reverse Engineering",
+  "invite_url": "https://discord.gg/reverse-engineering-391398885819547652",
+  "discord_description": "We are a reverse engineering discord dedicated to low-level security topics, modding, and exploitation.",
+  "members": 27571,
+  "online": 6047,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Reverse Engineering",
+  "candidate_notes": "Reverse engineering community with help, ctf, exploits-and-vulns, hardware, malware, tools, and software-protections channels.",
+  "category_hints": [
+   "tool",
+   "appsec",
+   "general"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/README.md",
+   "https://gist.github.com/johnnyxmas/7a2e78a1d46512c0b1d9c1f8b3a03ee9",
+   "https://oliviagallucci.com/cybersecurity-discord-servers/"
+  ]
+ },
+ {
+  "id": "ghidra-community",
+  "name": "GHIDRA Community",
+  "invite_url": "https://discord.gg/S4tQnUB",
+  "discord_description": null,
+  "members": 749,
+  "online": 106,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "GHIDRA",
+  "candidate_notes": "Community server for NSA's Ghidra reverse-engineering/SRE framework (ghidra.re); general and development channels.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/README.md"
+  ]
+ },
+ {
+  "id": "pince",
+  "name": "PINCE",
+  "invite_url": "https://discord.gg/jVt3BzTSpz",
+  "discord_description": "PINCE is a scanner and reverse engineering tool, focused on games, but usable on anything that runs on Linux.",
+  "members": 661,
+  "online": 139,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "PINCE",
+  "candidate_notes": "Official server for PINCE, a GDB front-end/reverse-engineering tool for Linux (github.com/korcankaraokcu/PINCE); official badge.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/README.md"
+  ]
+ }
+]

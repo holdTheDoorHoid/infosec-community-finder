@@ -1,0 +1,116 @@
+[
+ {
+  "id": "pwn-college",
+  "name": "pwn.college",
+  "invite_url": "https://discord.gg/pwncollege",
+  "discord_description": "Learn to Hack at https://pwn.college/",
+  "members": 41035,
+  "online": 5876,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "pwn.college",
+  "candidate_notes": "Official Discord for ASU's pwn.college binary exploitation dojo/training platform.",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://pwn.college/welcome/discord/"
+  ]
+ },
+ {
+  "id": "portswigger",
+  "name": "PortSwigger",
+  "invite_url": "https://discord.gg/portswigger",
+  "discord_description": "A place where security professionals, hobbyists, and passionate Burp users can hang out, chat, and collaborate.",
+  "members": 19425,
+  "online": 2745,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "PortSwigger / Burp Suite",
+  "candidate_notes": "Official PortSwigger Discord; Web Security Academy and Burp Suite discussion, talks with Burp devs.",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://portswigger.net/discord-community"
+  ]
+ },
+ {
+  "id": "cryptohack",
+  "name": "CryptoHack",
+  "invite_url": "https://discord.gg/h9E7cna5pV",
+  "discord_description": "The official discord server for https://cryptohack.org: A free, fun platform for learning modern cryptography. Discuss CryptoHack, CTF challenges, learn cryptography and meet new friends here.",
+  "members": 10770,
+  "online": 1802,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "CryptoHack",
+  "candidate_notes": "Official community for CryptoHack, a free platform for learning modern applied cryptography via challenges.",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://cryptohack.org/chat/"
+  ]
+ },
+ {
+  "id": "pwnable-kr",
+  "name": "pwnable.kr",
+  "invite_url": "https://discord.gg/AvR8mr8SNb",
+  "discord_description": "pwnable.kr discord channel",
+  "members": 898,
+  "online": 137,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "pwnable.kr",
+  "candidate_notes": "Community server for the pwnable.kr binary exploitation wargame (Korean-origin, English-friendly).",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://discord.com/invite/AvR8mr8SNb"
+  ]
+ },
+ {
+  "id": "b01lersctf",
+  "name": "b01lersCTF",
+  "invite_url": "https://discord.gg/tBMqujE",
+  "discord_description": null,
+  "members": 3141,
+  "online": 524,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "b01lers",
+  "candidate_notes": "Purdue University's competitive CTF team; official invite linked from b01lers.com; runs b01lersCTF.",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://b01lers.com/discord.html"
+  ]
+ },
+ {
+  "id": "dicectf",
+  "name": "DiceCTF",
+  "invite_url": "https://discord.gg/dicectf",
+  "discord_description": "Play 🎲 DiceCTF 2026 Quals on March 7th",
+  "members": 6142,
+  "online": 1221,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "DiceGang / DiceCTF",
+  "candidate_notes": "DiceGang CTF team community; organizes the well-known DiceCTF competition.",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://dicega.ng/"
+  ]
+ }
+]

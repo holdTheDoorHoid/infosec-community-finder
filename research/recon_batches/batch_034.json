@@ -1,0 +1,118 @@
+[
+ {
+  "id": "digital-overdose",
+  "name": "Digital Overdose",
+  "invite_url": "https://discord.gg/yTPvyub",
+  "discord_description": null,
+  "members": 1709,
+  "online": 231,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Digital Overdose",
+  "candidate_notes": "Tutoring for infosec/ethical hacking takes place in the server",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/web3Gurung/security-focused-discord-servers/main/README.md"
+  ]
+ },
+ {
+  "id": "0x00sec-official",
+  "name": "0x00sec Official",
+  "invite_url": "https://discord.gg/c6BHVfn",
+  "discord_description": null,
+  "members": 9610,
+  "online": 975,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "0x00sec VIP",
+  "candidate_notes": "Focus on computer science, malware, and reverse engineering topics",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/web3Gurung/security-focused-discord-servers/main/README.md"
+  ]
+ },
+ {
+  "id": "imaginaryctf",
+  "name": "ImaginaryCTF",
+  "invite_url": "https://discord.gg/ctf",
+  "discord_description": "Daily CTF Challenges for Cybersecurity enthusiasts!",
+  "members": 14162,
+  "online": 1976,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "[√(-1) + 1] server",
+  "candidate_notes": "Hosts CTF competitions for the community",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/web3Gurung/security-focused-discord-servers/main/README.md",
+   "https://imaginaryctf.org/"
+  ]
+ },
+ {
+  "id": "infosec-prep",
+  "name": "InfoSec Prep",
+  "invite_url": "https://discord.gg/u3Q2TSqAJv",
+  "discord_description": "A community dedicated to Information Security preparation for various InfoSec related certifications.",
+  "members": 13321,
+  "online": 2992,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "InfoSec Prep",
+  "candidate_notes": "Study community for security certifications",
+  "category_hints": [
+   "careers"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/web3Gurung/security-focused-discord-servers/main/README.md",
+   "https://www.linkedin.com/posts/jordansnapper_17-cybersecurity-discord-servers-you-must-activity-7289533871006584832-IV-2"
+  ]
+ },
+ {
+  "id": "blockchain-pentesting",
+  "name": "Blockchain PenTesting",
+  "invite_url": "https://discord.gg/xzdVgCSQEc",
+  "discord_description": null,
+  "members": 2332,
+  "online": 118,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Blockchain Pentesting",
+  "candidate_notes": "Resource hub for learners of all levels in blockchain security",
+  "category_hints": [
+   "appsec"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/web3Gurung/security-focused-discord-servers/main/README.md"
+  ]
+ },
+ {
+  "id": "r6-club",
+  "name": "R6 Club",
+  "invite_url": "https://discord.gg/reversing",
+  "discord_description": "RainbowSix Reversing club",
+  "members": 2048,
+  "online": 744,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Reverse Engineering Server",
+  "candidate_notes": "Community dedicated to reverse engineering",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://raw.githubusercontent.com/web3Gurung/security-focused-discord-servers/main/README.md"
+  ]
+ }
+]

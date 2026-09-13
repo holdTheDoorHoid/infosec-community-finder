@@ -1,0 +1,118 @@
+[
+ {
+  "id": "intercollegiate-discord",
+  "name": "Intercollegiate Discord",
+  "invite_url": "https://discord.gg/zXYNfEKChu",
+  "discord_description": "A community for College Students to chat and work on Research, Non-profits, and Startups",
+  "members": 1904,
+  "online": 54,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Intercollegiate Discord",
+  "candidate_notes": "Student-focused security community",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://medium.com/@KillSwitchX7/cyber-security-discord-servers-7d9c0b7cd7cb"
+  ]
+ },
+ {
+  "id": "centri",
+  "name": "Centri",
+  "invite_url": "https://discord.gg/kSNzeDsgpW",
+  "discord_description": null,
+  "members": 22721,
+  "online": 2386,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Security Blue Team",
+  "candidate_notes": "Blue team security operations training community",
+  "category_hints": [
+   "blueteam",
+   "ctf"
+  ],
+  "sources": [
+   "https://medium.com/@KillSwitchX7/cyber-security-discord-servers-7d9c0b7cd7cb",
+   "https://support.blueteamlabs.online/hc/en-gb/articles/11625435543452-Stuck-on-Investigation-Support"
+  ]
+ },
+ {
+  "id": "low-level-exploitation-lle-closed",
+  "name": "Low Level Exploitation (LLE) (closed)",
+  "invite_url": "https://discord.gg/Wug9E9p5zS",
+  "discord_description": null,
+  "members": 954,
+  "online": 99,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Low Level Exploitation (LLE)",
+  "candidate_notes": "Exploit development focused community",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://medium.com/@KillSwitchX7/cyber-security-discord-servers-7d9c0b7cd7cb"
+  ]
+ },
+ {
+  "id": "operating-system-development",
+  "name": "Operating System Development",
+  "invite_url": "https://discord.gg/osdev",
+  "discord_description": "A community of programmers with an interest in low level/OS development, bootloaders, hardware, and more!",
+  "members": 14930,
+  "online": 3136,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Operating System Development",
+  "candidate_notes": "OS and kernel development community",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://medium.com/@KillSwitchX7/cyber-security-discord-servers-7d9c0b7cd7cb"
+  ]
+ },
+ {
+  "id": "kc7",
+  "name": "KC7",
+  "invite_url": "https://discord.gg/8Z8NADB7bK",
+  "discord_description": "KC7 gives everyone — students, professionals, and companies — hands-on experience with realistic cybersecurity data.",
+  "members": 7593,
+  "online": 563,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "KC7",
+  "candidate_notes": "Hands-on cybersecurity training through an interactive detective game",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://communityone.io/servers/cybersecurity/"
+  ]
+ },
+ {
+  "id": "overthewire",
+  "name": "OverTheWire",
+  "invite_url": "https://discord.gg/CPDYM3G",
+  "discord_description": "Discord support server for https://overthewire.org/ - a free cybersec wargame set",
+  "members": 27643,
+  "online": 3194,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "OverTheWire",
+  "candidate_notes": "Official chat for OverTheWire wargames (Bandit, Natas, etc.); linked directly from their site.",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://overthewire.org/information/chat.html"
+  ]
+ }
+]

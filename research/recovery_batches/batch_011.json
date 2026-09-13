@@ -1,0 +1,72 @@
+[
+ {
+  "name": "Evil Crow RF",
+  "why": "dead invite: evilcrowrf",
+  "notes": "Official Discord for the Evil Crow RF sub-GHz hacking hardware line, linked from the project's own README.",
+  "hint": "hardware",
+  "source_url": "https://github.com/joelsernamoreno/EvilCrowRF-V2"
+ },
+ {
+  "name": "airplanes.live",
+  "why": "dead invite: airplaneslive",
+  "notes": "Community flight-tracking network (ADS-B feeders); vanity invite resolves via redirect but content could not be independently confirmed — verify before publishing.",
+  "hint": "hardware",
+  "source_url": "https://airplanes.live/"
+ },
+ {
+  "name": "Proxmark3 / RFID Research Group (RFID hacking community)",
+  "why": "no invite captured",
+  "notes": "Official README links an 'RFID Hacking community discord server' via shortlink https://t.ly/d4_C, which could not be resolved to the raw discord.gg code (fetch of the shortener returned 403). NFC/RFID",
+  "hint": "hardware",
+  "source_url": "https://github.com/RfidResearchGroup/proxmark3"
+ },
+ {
+  "name": "Velociraptor",
+  "why": "no invite captured",
+  "notes": "DFIR/endpoint-visibility tool community; project's own docs link to a /discord redirect page but the resolved invite code could not be fetched directly (JS/redirect not resolvable with available tools",
+  "hint": "tool",
+  "source_url": "https://docs.velociraptor.app/discord"
+ },
+ {
+  "name": "vx-underground",
+  "why": "no invite captured",
+  "notes": "Large malware sample/research archive and community frequently referenced alongside malware-analysis Discords; site returned 403 to automated fetch so the invite could not be confirmed this pass.",
+  "hint": "blueteam",
+  "source_url": "https://vx-underground.org"
+ },
+ {
+  "name": "Zero2Automated",
+  "why": "no invite captured",
+  "notes": "Malware reverse-engineering training course community; site DNS did not resolve and YouTube About page needed JS rendering, so invite is unconfirmed.",
+  "hint": "creator",
+  "source_url": "https://www.youtube.com/@Zero2Automated"
+ },
+ {
+  "name": "HuskyHacks",
+  "why": "no invite captured",
+  "notes": "Blue-team/DFIR-focused security educator (Blue Team Level 1 content, YouTube); site had a certificate mismatch and YouTube About needed JS rendering, so invite is unconfirmed.",
+  "hint": "creator",
+  "source_url": "https://www.youtube.com/@HuskyHacks"
+ },
+ {
+  "name": "Trace Labs",
+  "why": "no invite captured",
+  "notes": "Runs missing-persons OSINT CTFs; site blocked WebFetch with 403 (bot protection) so invite could not be confirmed this session - well known to have an active Discord, needs manual verification.",
+  "hint": "osint",
+  "source_url": "https://www.tracelabs.org"
+ },
+ {
+  "name": "Privacy Guides",
+  "why": "no invite captured",
+  "notes": "Uses Matrix (https://matrix.to/#/#privacyguides:matrix.org) and a Discourse forum instead of Discord - out of scope for this Discord-only directory.",
+  "hint": "vendor",
+  "source_url": "https://www.privacyguides.org"
+ },
+ {
+  "name": "Hackfest (Quebec)",
+  "why": "no invite captured",
+  "notes": "Quebec City security conference community; site links a discord.hackfest.ca vanity redirect rather than a raw discord.gg code (redirect target could not be resolved directly, but this is the official ",
+  "hint": "regional",
+  "source_url": "https://hackfest.ca/"
+ }
+]

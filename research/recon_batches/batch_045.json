@@ -1,0 +1,116 @@
+[
+ {
+  "id": "secdsm",
+  "name": "SecDSM",
+  "invite_url": "https://discord.gg/secdsm",
+  "discord_description": "Discord Server for SecDSM - A Infosec meetup based out of Des Moines, IA.",
+  "members": 1075,
+  "online": 165,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "SecDSM",
+  "candidate_notes": "Des Moines, IA security community",
+  "category_hints": [
+   "regional"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "shellsharks",
+  "name": "shellsharks",
+  "invite_url": "https://discord.gg/gGNrabK9rY",
+  "discord_description": null,
+  "members": 758,
+  "online": 52,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "ShellSharks",
+  "candidate_notes": "Infosec, technology, and life community",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "signalseverywhere",
+  "name": "SignalsEverywhere",
+  "invite_url": "https://discord.gg/ZXH5KCXtRE",
+  "discord_description": null,
+  "members": 1043,
+  "online": 191,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "SignalEverywhere",
+  "candidate_notes": "Radio communications and SDR community",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "trustedsec",
+  "name": "TrustedSec",
+  "invite_url": "https://discord.gg/trustedsec",
+  "discord_description": "A community for all things cybersecurity! Run by TrustedSec.  Check us out on https://trustedsec.com/",
+  "members": 10913,
+  "online": 1574,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "TrustedSec",
+  "candidate_notes": "TrustedSec community",
+  "category_hints": [
+   "vendor"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "unofficial-ine-elearnsecurity-pta-server",
+  "name": "Unofficial INE/eLearnSecurity/PTA Server",
+  "invite_url": "https://discord.gg/unofficial-ine-elearnsecurity-pta-server-672476651753308210",
+  "discord_description": "Welcome to the INE discord server! Here you can find help for the courses and for any Cyber Security topic!",
+  "members": 5809,
+  "online": 625,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Unofficial INE/eLearnSecurity/PTA",
+  "candidate_notes": "INE training discussion",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "xconnect",
+  "name": "xConnect",
+  "invite_url": "https://discord.gg/xconnect-1034171027548278784",
+  "discord_description": "The official xconnect.cc community server",
+  "members": 1228,
+  "online": 175,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "xConnect",
+  "candidate_notes": "Car hacking community",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ }
+]

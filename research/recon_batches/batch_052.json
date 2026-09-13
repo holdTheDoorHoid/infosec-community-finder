@@ -1,0 +1,116 @@
+[
+ {
+  "id": "aerospace-village",
+  "name": "Aerospace Village",
+  "invite_url": "https://discord.gg/gV4EWuk",
+  "discord_description": null,
+  "members": 1897,
+  "online": 350,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Aerospace Village",
+  "candidate_notes": "Official DEF CON/aviation-security Aerospace Village community Discord, linked in site nav and social section. | DEF CON village covering aviation/space/satellite security.",
+  "category_hints": [
+   "village"
+  ],
+  "sources": [
+   "https://aerospacevillage.org"
+  ]
+ },
+ {
+  "id": "physical-security-village",
+  "name": "Physical Security Village",
+  "invite_url": "https://discord.gg/csYBJPMv4D",
+  "discord_description": "Physical Security Village (PSV) is a security awareness initiative that makes appearances at security conferences!",
+  "members": 1017,
+  "online": 153,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Physical Security Village",
+  "candidate_notes": "Official DEF CON Physical Security Village server; site describes it as where people share physical-security material. | DEF CON village on physical security (bypass, locks, etc).",
+  "category_hints": [
+   "village"
+  ],
+  "sources": [
+   "https://www.physsec.org"
+  ]
+ },
+ {
+  "id": "toool-us",
+  "name": "TOOOL US",
+  "invite_url": "https://discord.gg/nwErFJpDmd",
+  "discord_description": "The Open Organisation Of Lockpickers US community hangout space.",
+  "members": 1200,
+  "online": 224,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "TOOOL (The Open Organisation Of Lockpickers)",
+  "candidate_notes": "Official lockpicking org (TOOOL US) Discord, linked in site footer. | The Open Organisation Of Lockpickers, runs DEF CON's Lockpick Village.",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://toool.us"
+  ]
+ },
+ {
+  "id": "gnu-radio-world",
+  "name": "GNU Radio World",
+  "invite_url": "https://discord.gg/qKK2kC6Fpw",
+  "discord_description": "Community chat for GNU Radio World",
+  "members": 12,
+  "online": 2,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "GNU Radio World / SDR community",
+  "candidate_notes": "SDR/GNU Radio hobbyist Discord run by Marc Lichtman (creator of gnuradioworld.com and PySDR); RF/SDR hobbyist community.",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://www.gnuradioworld.com"
+  ]
+ },
+ {
+  "id": "badgemakers",
+  "name": "BadgeMakers",
+  "invite_url": "https://discord.gg/R4jGhTqJ3J",
+  "discord_description": "If you're tryna make PCB art and blinky sh!t, you're in the right place. Now with 100% more DEF CON Village!",
+  "members": 1285,
+  "online": 315,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "BadgeMakers (badge.life / badgelife SAO community)",
+  "candidate_notes": "Official Discord for the badgelife/SAO (Simple Add-On) electronic conference-badge maker community linked from badge.life. | Official BadgeMakers Discord linked from badge.life, the electronic conference-badge (badgelife) design and building community.",
+  "category_hints": [
+   "creator"
+  ],
+  "sources": [
+   "https://badge.life"
+  ]
+ },
+ {
+  "id": "letsdefend",
+  "name": "LetsDefend",
+  "invite_url": "https://discord.gg/NxU3uwHZtd",
+  "discord_description": "Welcome to LetsDefend! Learn cybersecurity with hands-on labs!",
+  "members": 29834,
+  "online": 1710,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "LetsDefend",
+  "candidate_notes": "SOC analyst training platform with hands-on alert triage/investigation labs; official 'Join the blue team community' Discord.",
+  "category_hints": [
+   "blueteam"
+  ],
+  "sources": [
+   "https://letsdefend.io"
+  ]
+ }
+]

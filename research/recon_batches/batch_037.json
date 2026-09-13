@@ -1,0 +1,116 @@
+[
+ {
+  "id": "burbsec",
+  "name": "BurbSec",
+  "invite_url": "https://discord.gg/jBFzc7wYQD",
+  "discord_description": "The world's most well-known, community-based information security and hacking organization! Don't let InfoSec distract you from hacking.",
+  "members": 2058,
+  "online": 265,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "BurbSec",
+  "candidate_notes": "BurbSec is a network of local/regional infosec meetup chapters (named after Burp Suite pun); link given is a Discord server directory page rather than a direct invite code. | shortlink https://discord.com/servers/burbsec-713431283056771084 -> https://discord.gg/jBFzc7wYQD",
+  "category_hints": [
+   "regional"
+  ],
+  "sources": [
+   "https://gist.github.com/johnnyxmas/7a2e78a1d46512c0b1d9c1f8b3a03ee9"
+  ]
+ },
+ {
+  "id": "hackerone",
+  "name": "HackerOne",
+  "invite_url": "https://discord.gg/tUdxjy6",
+  "discord_description": "Unofficial Discord community for bug bounty hunters, security researchers and enthusiasts through the platform Hackerone",
+  "members": 1865,
+  "online": 107,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Hacker One",
+  "candidate_notes": "Community tied to HackerOne, the bug bounty / vulnerability disclosure platform.",
+  "category_hints": [
+   "vendor"
+  ],
+  "sources": [
+   "https://gist.github.com/johnnyxmas/7a2e78a1d46512c0b1d9c1f8b3a03ee9"
+  ]
+ },
+ {
+  "id": "blue-team-village",
+  "name": "Blue Team Village",
+  "invite_url": "https://discord.gg/blueteamvillage",
+  "discord_description": "Blue Team Village (BTV) is a place and a community built for and by cyber defenders.",
+  "members": 9012,
+  "online": 1433,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Blue Team Village (Def Con)",
+  "candidate_notes": "Official community for Blue Team Village, a DEF CON village focused on defensive security. | Defensive security focus, DEF CON village | DEF CON village for defenders (SOC, DFIR, detection engineering); year-round community Discord. | Large DEF CON village for defensive security / SOC analysts, active year-round Discord.",
+  "category_hints": [
+   "village"
+  ],
+  "sources": [
+   "https://gist.github.com/johnnyxmas/7a2e78a1d46512c0b1d9c1f8b3a03ee9"
+  ]
+ },
+ {
+  "id": "red-siege",
+  "name": "Red Siege",
+  "invite_url": "https://discord.gg/VpHXYUp",
+  "discord_description": "#weareoffensive Red Siege is one of the most trusted information security consulting firms in the industry that concentrates on the latest threats to organizations today.  Join our Community!",
+  "members": 3503,
+  "online": 698,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Red Siege",
+  "candidate_notes": "Community tied to Red Siege Information Security, an offensive security consultancy known for training and CTFs.",
+  "category_hints": [
+   "vendor"
+  ],
+  "sources": [
+   "https://gist.github.com/johnnyxmas/7a2e78a1d46512c0b1d9c1f8b3a03ee9"
+  ]
+ },
+ {
+  "id": "arcanum-discord",
+  "name": "Arcanum Discord",
+  "invite_url": "https://discord.gg/jhaddix",
+  "discord_description": null,
+  "members": 8739,
+  "online": 1147,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Jhaddix Discord",
+  "candidate_notes": "Jason Haddix's community supporting cybersecurity training for a diverse range of experience levels.",
+  "category_hints": [
+   "creator"
+  ],
+  "sources": [
+   "https://flare.io/learn/resources/blog/cybersecurity-discord-servers"
+  ]
+ },
+ {
+  "id": "awesome-fuzzing",
+  "name": "Awesome Fuzzing",
+  "invite_url": "https://discord.gg/Zqsq7FBKUC",
+  "discord_description": null,
+  "members": 4605,
+  "online": 746,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Awesome Fuzzing",
+  "candidate_notes": "Discussions of fuzzers, fuzzing, vulnerability discovery and research.",
+  "category_hints": [
+   "tool"
+  ],
+  "sources": [
+   "https://oliviagallucci.com/cybersecurity-discord-servers/"
+  ]
+ }
+]

@@ -1,0 +1,116 @@
+[
+ {
+  "id": "ctf-course",
+  "name": "ctf-course",
+  "invite_url": "https://discord.gg/p5E3VZF",
+  "discord_description": "A server focused around Binary Exploitation, Reverse Engineering, and general Vulnerability Research shenanigans.",
+  "members": 3141,
+  "online": 342,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Nightmare (guyinatuxedo)",
+  "candidate_notes": "Community around the popular free 'Nightmare' binary exploitation / reverse engineering CTF course.",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://guyinatuxedo.github.io/"
+  ]
+ },
+ {
+  "id": "hack-smarter",
+  "name": "Hack Smarter",
+  "invite_url": "https://discord.gg/hacksmarter",
+  "discord_description": "Hack Smarter is a community for those who want to learn about pentesting legally as a professional.",
+  "members": 23186,
+  "online": 3095,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Hack Smarter",
+  "candidate_notes": "Large community (~23k) focused on learning legal/professional pentesting; CTFs and study groups.",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://discord.com/invite/hacksmarter"
+  ]
+ },
+ {
+  "id": "ctflearn",
+  "name": "CTFlearn",
+  "invite_url": "https://discord.gg/yNHUQfJ",
+  "discord_description": null,
+  "members": 12095,
+  "online": 1022,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "CTFlearn",
+  "candidate_notes": "Official Discord for CTFlearn, a beginner-oriented jeopardy-style CTF practice platform.",
+  "category_hints": [
+   "ctf"
+  ],
+  "sources": [
+   "https://ctflearn.com/support"
+  ]
+ },
+ {
+  "id": "networkchuck",
+  "name": "NetworkChuck",
+  "invite_url": "https://discord.gg/networkchuck",
+  "discord_description": null,
+  "members": 98354,
+  "online": 9904,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "NetworkChuck",
+  "candidate_notes": "NetworkChuck main community server, IT/networking/cybersecurity, ~98k members | Official Discord for NetworkChuck, a popular networking/IT/cybersecurity-adjacent YouTuber (CCNA, Linux, homelab content); ntck.co/discord redirects here.",
+  "category_hints": [
+   "creator"
+  ],
+  "sources": [
+   "https://discord.com/invite/networkchuck"
+  ]
+ },
+ {
+  "id": "networkchuck-academy",
+  "name": "NetworkChuck Academy",
+  "invite_url": "https://discord.gg/ntck-ac",
+  "discord_description": "The official Discord server for the NetworkChuck Academy",
+  "members": 11167,
+  "online": 1198,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "NetworkChuck Academy",
+  "candidate_notes": "Separate Discord for NetworkChuck's Academy courses",
+  "category_hints": [
+   "creator"
+  ],
+  "sources": [
+   "https://discord.com/invite/ntck-ac"
+  ]
+ },
+ {
+  "id": "david-bombal",
+  "name": "David Bombal",
+  "invite_url": "https://discord.gg/davidbombal",
+  "discord_description": null,
+  "members": 118855,
+  "online": 5336,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "David Bombal",
+  "candidate_notes": "David Bombal's community, networking/ethical hacking/CCNA, ~120k members",
+  "category_hints": [
+   "creator"
+  ],
+  "sources": [
+   "https://discord.com/invite/davidbombal"
+  ]
+ }
+]

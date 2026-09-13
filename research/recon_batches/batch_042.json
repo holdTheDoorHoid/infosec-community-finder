@@ -1,0 +1,119 @@
+[
+ {
+  "id": "biohackers-digital",
+  "name": "Biohackers Digital",
+  "invite_url": "https://discord.gg/qtnE8T3",
+  "discord_description": "A bio-hacking community primarily focused on RFID, magnet, and other sub dermal implants.",
+  "members": 4000,
+  "online": 878,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Dangerous Discord",
+  "candidate_notes": "Biohacking community",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "day-0",
+  "name": "DAY[0]",
+  "invite_url": "https://discord.gg/K3PUYKZY6P",
+  "discord_description": null,
+  "members": 3735,
+  "online": 541,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Day[0]",
+  "candidate_notes": "Vulnerability research community (Canadian)",
+  "category_hints": [
+   "tool",
+   "creator"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords",
+   "https://x.com/dayzerosec"
+  ]
+ },
+ {
+  "id": "dc",
+  "name": "DC²",
+  "invite_url": "https://discord.gg/GvjDcCew9Q",
+  "discord_description": "Defcon Davis county Group known as DC²",
+  "members": 154,
+  "online": 43,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "DC2",
+  "candidate_notes": "DC² conference community",
+  "category_hints": [
+   "conference"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "digital-forensics",
+  "name": "Digital Forensics",
+  "invite_url": "https://discord.gg/digital-forensics-427876741990711298",
+  "discord_description": "This is a server for DFIR Professionals by DFIR Professionals. Law Enforcement, Private Sector, & Students, all welcome!",
+  "members": 3957,
+  "online": 625,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Digital Forensics",
+  "candidate_notes": "Professional digital forensics discussion, incl. law enforcement",
+  "category_hints": [
+   "blueteam"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "flipper-devices",
+  "name": "Flipper Devices",
+  "invite_url": "https://discord.gg/flipper",
+  "discord_description": null,
+  "members": 115748,
+  "online": 18105,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Flipper Zero",
+  "candidate_notes": "Flipper Zero device community | shortlink https://flipperzero.one/discord -> https://discord.com/invite/flipper",
+  "category_hints": [
+   "hardware"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords",
+   "https://flipperzero.one/discord"
+  ]
+ },
+ {
+  "id": "globalnews-watch",
+  "name": "GlobalNews.Watch",
+  "invite_url": "https://discord.gg/5pmK4TU",
+  "discord_description": "GlobalNews.Watch is an open-source community following current events as they happen around the world.",
+  "members": 4210,
+  "online": 322,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "GlobalNews.Watch",
+  "candidate_notes": "OSINT-focused information access community",
+  "category_hints": [
+   "osint"
+  ],
+  "sources": [
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ }
+]

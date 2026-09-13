@@ -1,0 +1,120 @@
+[
+ {
+  "id": "offsec-2",
+  "name": "offsec",
+  "invite_url": "https://discord.gg/E9PHD3s",
+  "discord_description": null,
+  "members": 909,
+  "online": 72,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Offsec",
+  "candidate_notes": "Community tied to OffSec (makers of PWK/OSCP and Kali Linux) certification training.",
+  "category_hints": [
+   "vendor"
+  ],
+  "sources": [
+   "https://gist.github.com/johnnyxmas/7a2e78a1d46512c0b1d9c1f8b3a03ee9"
+  ]
+ },
+ {
+  "id": "sans-offensive-operations",
+  "name": "SANS Offensive Operations",
+  "invite_url": "https://discord.gg/f3R93W38gs",
+  "discord_description": null,
+  "members": 13575,
+  "online": 1530,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "SANS Offensive Operations",
+  "candidate_notes": "SANS Institute's offensive security / pentest training community track.",
+  "category_hints": [
+   "vendor",
+   "appsec"
+  ],
+  "sources": [
+   "https://gist.github.com/johnnyxmas/7a2e78a1d46512c0b1d9c1f8b3a03ee9",
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "pentest-laboratories",
+  "name": "Pentest Laboratories",
+  "invite_url": "https://discord.gg/rR6FJBH",
+  "discord_description": null,
+  "members": 1455,
+  "online": 141,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Pentest Laboratories",
+  "candidate_notes": "Community focused on penetration testing practice and discussion.",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://gist.github.com/johnnyxmas/7a2e78a1d46512c0b1d9c1f8b3a03ee9"
+  ]
+ },
+ {
+  "id": "republic-of-hackers",
+  "name": "Republic of Hackers",
+  "invite_url": "https://discord.gg/yf4W93Wpem",
+  "discord_description": "We are a group of Hackers of ALL skill levels working to understand and utilize the fundamentals of Cyber Security",
+  "members": 1486,
+  "online": 192,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Republic of Hackers",
+  "candidate_notes": "General hacker/infosec community server.",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://gist.github.com/johnnyxmas/7a2e78a1d46512c0b1d9c1f8b3a03ee9",
+   "https://github.com/Blazenda/hacker_discords"
+  ]
+ },
+ {
+  "id": "deadpixelsec",
+  "name": "DeadPixelSec",
+  "invite_url": "https://discord.gg/deadpixelsec",
+  "discord_description": "A small community server for mentoring, cyber security, and more!",
+  "members": 2644,
+  "online": 545,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Dead Pixel",
+  "candidate_notes": "General infosec/hacking community server listed in the active-discords gist.",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://gist.github.com/johnnyxmas/7a2e78a1d46512c0b1d9c1f8b3a03ee9",
+   "https://blog.bushidotoken.net/p/infosec-discord-servers.html"
+  ]
+ },
+ {
+  "id": "below0day",
+  "name": "Below0Day",
+  "invite_url": "https://discord.gg/nUQP75w",
+  "discord_description": null,
+  "members": 1357,
+  "online": 44,
+  "verified": false,
+  "partnered": false,
+  "nsfw": false,
+  "candidate_name": "Below 0day",
+  "candidate_notes": "General infosec/vuln-research-adjacent community server.",
+  "category_hints": [
+   "general"
+  ],
+  "sources": [
+   "https://gist.github.com/johnnyxmas/7a2e78a1d46512c0b1d9c1f8b3a03ee9"
+  ]
+ }
+]

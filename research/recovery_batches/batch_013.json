@@ -1,0 +1,72 @@
+[
+ {
+  "name": "Null Community (India)",
+  "why": "no invite captured",
+  "notes": "Site returned 403 Forbidden (bot protection) when fetched; known India-wide open infosec community, likely has a Discord/Slack but could not verify the exact invite this session.",
+  "hint": "regional",
+  "source_url": "https://null.community/"
+ },
+ {
+  "name": "SecTalks (Australia)",
+  "why": "no invite captured",
+  "notes": "Site returned 403 Forbidden at time of check; known Australian city-based security meetup network, likely has Discord/Slack channels per city not verified here.",
+  "hint": "regional",
+  "source_url": "https://www.sectalks.org/"
+ },
+ {
+  "name": "OWASP Philadelphia",
+  "why": "no invite captured",
+  "notes": "Chapter page returned 404 at time of check; OWASP chapter pages move periodically, needs re-search.",
+  "hint": "regional",
+  "source_url": "https://owasp.org/www-chapter-philadelphia/"
+ },
+ {
+  "name": "Bugcrowd Community",
+  "why": "dead invite: bugcrowd",
+  "notes": "Official Bugcrowd bug bounty platform community, ~20k members.",
+  "hint": "vendor",
+  "source_url": "https://discord.com/servers/bugcrowd-community-319555028341882885"
+ },
+ {
+  "name": "WhiteHat Security",
+  "why": "dead invite: whitehat-security",
+  "notes": "General infosec/ethical hacking community, 35k+ members.",
+  "hint": "general",
+  "source_url": "https://discord.com/servers/whitehat-security-429657740562923521"
+ },
+ {
+  "name": "GrapheneOS",
+  "why": "no invite captured",
+  "notes": "Privacy/security-focused mobile OS project community, 34k members; invite code not confirmed on the discovery page.",
+  "hint": "tool",
+  "source_url": "https://discord.com/servers/grapheneos-private-and-secure-mobile-os-with-1176414688112820234"
+ },
+ {
+  "name": "TCP1P",
+  "why": "dead invite: tcp1p",
+  "notes": "Indonesian CTF community, runs its own CTF events.",
+  "hint": "ctf",
+  "source_url": "https://discord.com/servers/tcp1p-server-848446674103697461"
+ },
+ {
+  "name": "BosINT / OSINTNova",
+  "why": "no invite captured",
+  "notes": "OSINT researchers/ethical hackers community, ~4k members; invite code found on page looked malformed, unverified.",
+  "hint": "osint",
+  "source_url": "https://discord.com/servers/bosint--osintnova-1250106338827178045"
+ },
+ {
+  "name": "PC Security Channel",
+  "why": "dead invite: pc-security-channel",
+  "notes": "Community tied to The PC Security Channel YouTube, malware/security discussion, 17k+ members.",
+  "hint": "general",
+  "source_url": "https://discord.com/servers/pc-security-channel-273258082451193858"
+ },
+ {
+  "name": "Rootkit Researchers",
+  "why": "no invite captured",
+  "notes": "Malware/rootkit reverse-engineering research community found via Discord directory; invite not directly extracted.",
+  "hint": "appsec",
+  "source_url": "https://discord.com/servers?query=malware"
+ }
+]
