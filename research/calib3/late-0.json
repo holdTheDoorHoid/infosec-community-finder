@@ -1,0 +1,678 @@
+[
+ {
+  "id": "artifactory",
+  "name": "Artifactory",
+  "platform": "slack",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "workshops",
+   "hardware-help"
+  ],
+  "members": null,
+  "online": null,
+  "region": "australia-nz",
+  "country": "AU",
+  "subdivision": null,
+  "city": "Perth",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "This is the Slack for Perth Artifactory, a community workshop and makerspace in Osborne Park, Western Australia, open to both members and non-members. People chat about laser cutting, 3D printing, CNC, electronics, and other hands-on projects, and coordinate visits and events; it suits anyone curious about making rather than security specifically.",
+  "rules_note": "Sign up via perart.io/slack; open to non-members as well as paying members.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace (Perth, AU); activity active; link found by the hackerspace link hunt. Homepage states: 'Slack is our online community platform where members and non-members alike chat and socialise' with signup at perart.io/slack (vanity redirect, presumably to a Slack invite). No other public chat link found.",
+  "confidence": "official"
+ },
+ {
+  "id": "rlab-reading-hackspace",
+  "name": "RLab - Reading Hackspace",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Reading",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "rLAB is a member-run hackspace/makerspace in Reading, UK, where people share tools and skills for electronics, woodworking, and digital fabrication. The public Google Group is used for general coordination and tool inductions, while a separate Discord is reserved for paying members; it suits local makers who want hands-on workshop access more than pure cybersecurity discussion.",
+  "rules_note": "Public Google Group is open; the Discord is members-only. In-person access requires ID, a tour, and a workshop induction; members must be 18+.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace (Reading, GB); activity active; link found by the hackerspace link hunt. Google Group 'reading-hackspace' linked from homepage. Site also mentions a private 'Member's Discord' for tool inductions but no public invite link was given. Site has active Meetup/Bluesky presence, seems active.",
+  "confidence": "listing"
+ },
+ {
+  "id": "liege-hackerspace",
+  "name": "Liege Hackerspace",
+  "platform": "portal",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "BE",
+  "subdivision": null,
+  "city": "Liège",
+  "language": "fr",
+  "run_by": "community-run",
+  "summary": "Liège Hackerspace (LGHS) is an independent nonprofit community lab in Liège, Belgium, offering laser cutting, 3D printing, metal and woodwork, and artist residencies to anyone curious, beginner or expert. Its RocketChat server at chat.lghs.be is the group's day-to-day chat, and weekly open Wednesday evenings are the easiest way to meet people in person.",
+  "rules_note": "Best to email ping@lghs.be before a first visit; open hours are Wednesdays 4-10pm.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace (Liège, BE); activity active; link found by the hackerspace link hunt. Homepage links to a RocketChat instance at chat.lghs.be (not in the requested platform list but functionally a public group-chat portal comparable to Mattermost). Could not verify open self-signup (WebFetch blocked on that subdomain). Site shows regular Wednesday open hours and active Mastodon/GitHub, appears active.",
+  "confidence": "listing"
+ },
+ {
+  "id": "varnalab",
+  "name": "VarnaLab",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hacker-culture"
+  ],
+  "activities": [
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "BG",
+  "subdivision": null,
+  "city": "Varna",
+  "language": "bg",
+  "run_by": "community-run",
+  "summary": "VarnaLab is a member-governed hackerspace in Varna, Bulgaria, open to geeks, students, artists, and IT professionals interested in computers, electronics, and technology broadly rather than security specifically. The Google Group mailing list is the group's actively used channel for their newsletter and coordination; a separate Slack exists but the site states it is not actively used.",
+  "rules_note": "Use the Google Group, not the Slack, which the site says is not actively monitored.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace (Varna, BG); activity unclear; link found by the hackerspace link hunt. Google Group at groups.google.com/g/varnalab is the recommended channel per the contacts page (used for their monthly newsletter). A Slack at https://slack.varnalab.org also exists but the page explicitly states in Bulgarian that Slack is 'NOT actively used' (НЕ СЕ ИЗПОЛЗВА АКТИВНО), so the mailing list is the better public-active channel; activity level of the space itself is unclear from what was fetched.",
+  "confidence": "listing"
+ },
+ {
+  "id": "cheltenham-hackspace",
+  "name": "Cheltenham Hackspace",
+  "platform": "discord",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "hardware-help"
+  ],
+  "members": 113,
+  "online": 10,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Cheltenham",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "Cheltenham Hackspace's Discord is the main public channel for a UK community makerspace, used by members and prospective members to ask questions about the space, its equipment, and events. A members-only WhatsApp group and GitHub Issues supplement it for day-to-day coordination; the focus is general hardware/making rather than cybersecurity.",
+  "rules_note": "Discord is the go-to for non-member questions; deeper coordination happens on a members-only WhatsApp.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace (Cheltenham, GB); activity active; link found by the hackerspace link hunt. Wiki 'Communication' page (linked from the main site's GitHub link) lists Discord as their primary public channel for non-member questions; also has a members-only WhatsApp group and uses GitHub Issues as an informal forum.",
+  "confidence": "official"
+ },
+ {
+  "id": "l-abscisse",
+  "name": "L'abscisse",
+  "platform": "irc",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "programming"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "chat"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Dijon",
+  "language": "fr",
+  "run_by": "community-run",
+  "summary": "Coagul (L'abscisse) is a French free-software association near Dijon that runs weekly workshops teaching Linux, open-source tools, and digital fabrication through its fablab. The #coagul IRC channel on OFTC is used for coordination, including carpooling to meetings; the focus is free/open-source software advocacy and making, not cybersecurity.",
+  "rules_note": "Check the meeting calendar before visiting, since sessions run on a fixed weekly schedule (software Wed evenings, fablab Tue/Wed daytime).",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace (Dijon, FR); activity unclear; link found by the hackerspace link hunt. Site text says 'sur IRC (#coagul sur oftc)' in the context of arranging carpooling to meetings; page also mentions the domain irc.coagul.org. Content read as fairly dated/community-org style (carpooling coordination), so recent activity is not confirmed from this page alone.",
+  "confidence": "listing"
+ },
+ {
+  "id": "fizzpop",
+  "name": "FizzPOP",
+  "platform": "mailinglist",
+  "category": "adjacent",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Birmingham",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A member-run, non-profit makerspace in Digbeth, Birmingham with laser cutters, 3D printers, welding gear and pottery kilns. People drop in on Wednesday open evenings to try equipment before joining, or become members for 24/7 swipe-card access; it's a general maker/craft space rather than a security-focused group.",
+  "rules_note": "Join via the Google Group mailing list, or just show up to the Wednesday 7pm open evening to tour first.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace (Birmingham, GB); activity active; link found by the hackerspace link hunt. Google Group 'birmingham-hack-space' listed on the fizzPOP homepage alongside Facebook/Twitter/Meetup. Site shows recent posts (Forge & Blacksmithing, June 2026) and weekly Wednesday open evenings, so the space looks active.",
+  "confidence": "listing"
+ },
+ {
+  "id": "eigenbaukombinat-halle",
+  "name": "Eigenbaukombinat Halle",
+  "platform": "matrix",
+  "category": "adjacent",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Halle",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "A community makerspace and workshop collective in Halle, Germany running ceramics, electronics, youth and junior-hacker workshops plus regular social evenings. New users are automatically added to the main Matrix chat room, making it easy to join and ask questions; it's a general maker space, not security-specific.",
+  "rules_note": "Join the Matrix server (matrix.eigenbaukombinat.de) and you're auto-added to the #sozialraum room.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace (Halle, DE); activity active; link found by the hackerspace link hunt. Matrix room #sozialraum:matrix.eigenbaukombinat.de described as the main chat, 'all new users are automatically added'. Site shows events through March 2026, blog posts Jan-Mar 2026 — clearly active.",
+  "confidence": "official"
+ },
+ {
+  "id": "boring-place",
+  "name": "Boring Place",
+  "platform": "mailinglist",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "linux"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "RU",
+  "subdivision": null,
+  "city": "Saratov",
+  "language": "ru",
+  "run_by": "community-run",
+  "summary": "A hackerspace in Saratov, Russia run as a 'technical anti-café,' hosting a robotics/microelectronics/programming club plus biweekly Linux user group (SarLUG) meetups. Announcements go out on the sarlug mailing list; it's a general tech/maker space rather than security-focused, and recent activity levels weren't clearly confirmed.",
+  "rules_note": "Linux meetup announcements go out via the sarlug mailing list (lists.lug.ru/mailman/listinfo/sarlug); biweekly Sunday meetups.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace (Saratov, RU); activity unclear; link found by the hackerspace link hunt. Homepage says announcements go out via the sarlug mailing list ('Линуксовка, по традиции, объявляется в рассылке') at lists.lug.ru/mailman/listinfo/sarlug. Page references biweekly Sunday meetups but no dated posts were visible to confirm current-year activity.",
+  "confidence": "listing"
+ },
+ {
+  "id": "stockholm-makerspace",
+  "name": "Stockholm Makerspace",
+  "platform": "slack",
+  "category": "adjacent",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "SE",
+  "subdivision": null,
+  "city": "Stockholm",
+  "language": "sv",
+  "run_by": "community-run",
+  "summary": "A membership-based makerspace in Stockholm with dedicated rooms for wood, electronics, 3D scanning and laser cutting. Slack is the main way members ask questions, discuss personal projects and coordinate events, with a public shared-invite link to join; it's a general maker space, not security-focused.",
+  "rules_note": "Join via the public Slack shared-invite link on the wiki.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace (Stockholm, SE); activity active; link found by the hackerspace link hunt. Wiki page explicitly gives this shared-invite link to join Slack ('For att gå med kan man gå till följande länk'). Site has active calendar, member portal, and 2024-2025 dated content.",
+  "confidence": "official"
+ },
+ {
+  "id": "vhs",
+  "name": "VHS",
+  "platform": "forum",
+  "category": "adjacent",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "BC",
+  "city": "Vancouver",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "Vancouver Hack Space is a volunteer-run, not-for-profit makerspace offering 3D printing, laser cutting, woodworking, welding, electronics and coding facilities to paying members. Its Discourse forum at talk.vanhack.ca has a 'Newcomers Lounge' and tour-request category, and the space is open to the public for tours every Tuesday evening; it's a general maker space rather than security-focused.",
+  "rules_note": "Forum registration at talk.vanhack.ca; tours available Tuesday evenings or by appointment via the forum.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace (Vancouver, CA); activity active; link found by the hackerspace link hunt. Discourse-powered community forum, footer says 'Powered by Discourse'; has a 'Newcomers Lounge' and 'Tour Requests' category suggesting active use, but couldn't confirm signup is fully open (no explicit policy statement seen).",
+  "confidence": "listing"
+ },
+ {
+  "id": "sieberrsec-ctf",
+  "name": "Sieberrsec CTF",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "youth"
+  ],
+  "activities": [
+   "ctf-events",
+   "challenges",
+   "chat",
+   "q-and-a"
+  ],
+  "members": 1314,
+  "online": 231,
+  "region": "asia",
+  "country": "SG",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "Hwa Chong Infocomm & Robotics Society (Cybersecurity Section)",
+  "summary": "Sieberrsec CTF (SCTF) is an annual jeopardy-style CTF organized by the Cybersecurity Section of Hwa Chong Infocomm & Robotics Society for Singaporean secondary school and pre-university students, now in its seventh edition. It's explicitly designed as a beginner-friendly introduction to cybersecurity, with the Discord serving as the hub for competition chat, challenge support and announcements.",
+  "rules_note": "Aimed at secondary school and pre-university students; competition runs as an annual event with year-round Discord community.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Academic CTF team / school club at None; link found by the CTFtime link hunt. sieberr.live runs Sieberrsec CTF (SCTF), organized by students of School of Science and Technology (SST), Singapore — a secondary school, not a university, despite the academic_flag. Discord invite named 'Sieberrsec CTF' confirmed live via discord.com/invite/XvpnAMyG78; found via web search citing sieberr.live/faq (that page itself returned HTTP 403 on direct fetch, so could not view it verbatim).",
+  "confidence": "listing"
+ },
+ {
+  "id": "securinets-ctf",
+  "name": "Securinets CTF",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 3,
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "web-appsec",
+   "reverse-engineering"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "challenges",
+   "news-feed"
+  ],
+  "members": 3038,
+  "online": 322,
+  "region": "africa",
+  "country": "TN",
+  "subdivision": null,
+  "city": "Tunis",
+  "language": "en",
+  "run_by": "Securinets (INSAT student association)",
+  "summary": "This Discord is run by Securinets, a long-running Tunisian cybersecurity association based at INSAT (a Tunis engineering school), and centers on their jeopardy-style CTF competitions covering web, pwn, reverse engineering, crypto, forensics, and OSINT. Members discuss challenges, get updates on qualifiers and onsite finals, and it suits players who already have some CTF experience rather than absolute beginners.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": "Securinets CTF is an online jeopardy style CTF organized by Securinets INSAT.",
+  "candidate_notes": "Academic CTF team / school club at INSAT (Institut National des Sciences Appliquées et de Technologie); link found by the CTFtime link hunt. FL1TZ is a student CTF team tied to the Securinets INSAT club at INSAT (Institut National des Sciences Appliquées et de Technologie), Tunis. Discord invite named 'Securinets CTF' confirmed live via discord.com/invite/Xqj6WnNmbQ; link surfaced via web search (OSINT Ambition writeup on 'FL1TZ X Securinets INSAT CTF').",
+  "confidence": "listing"
+ },
+ {
+  "id": "byu-cybersecurity",
+  "name": "BYU Cybersecurity",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "careers",
+   "general-infosec"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "study-groups",
+   "job-board",
+   "news-feed"
+  ],
+  "members": 634,
+  "online": 54,
+  "region": "us-west",
+  "country": "US",
+  "subdivision": "UT",
+  "city": "Provo",
+  "language": "en",
+  "run_by": "BYU Cybersecurity Student Association",
+  "summary": "This Discord is the official hub for Brigham Young University's Cybersecurity Student Association, a campus club for students in or interested in BYU's cybersecurity program. It covers CTF team activity, program announcements, and general student networking, and works well for BYU students at any level who want to get involved with the club or its competitive team.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": "The official hub for the BYU Cybersecurity program and related student involvement.",
+  "candidate_notes": "Academic CTF team / school club at Brigham Young University (BYU); link found by the CTFtime link hunt. Site is titled 'BYU CSA' (Cybersecurity Student Association) but logo/branding reads 'BYU Cyberia'; this is the club behind the CTF team.",
+  "confidence": "listing"
+ },
+ {
+  "id": "bcactf",
+  "name": "BCACTF",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "youth",
+   "wargames"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "challenges",
+   "news-feed"
+  ],
+  "members": 1900,
+  "online": 220,
+  "region": "us-northeast",
+  "country": "US",
+  "subdivision": "NJ",
+  "city": null,
+  "language": "en",
+  "run_by": "BCA CTF Club (Bergen County Academies)",
+  "summary": "This Discord is run by the CTF club at Bergen County Academies, a public magnet high school in New Jersey, and supports their annual BCACTF competition alongside general CTF chat. It's aimed at high school and early hobbyist CTF players looking for an accessible entry-level competition and community, rather than university or professional-level players.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Academic CTF team / school club at Bergen County Academies; link found by the CTFtime link hunt. BCACTF is the competition run by BCA CTF Club (github.com/BCACTF) at Bergen County Academies, a public magnet high school, not a university - listed as academic_flag by source but is secondary/K-12, not postsecondary.",
+  "confidence": "listing"
+ },
+ {
+  "id": "shaktictf-25",
+  "name": "ShaktiCTF (TeamShakti, Amrita)",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "wargames",
+   "affinity-women",
+   "students",
+   "general-infosec"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "challenges"
+  ],
+  "members": 734,
+  "online": 72,
+  "region": "india",
+  "country": "IN",
+  "subdivision": null,
+  "city": "Amritapuri",
+  "language": "en",
+  "run_by": "TeamShakti (student team, Amrita Vishwa Vidyapeetham)",
+  "summary": "This is the Discord run each year for ShaktiCTF, hosted by TeamShakti, a women-only student CTF team at Amrita Vishwa Vidyapeetham in India. The event is explicitly designed as a beginner-friendly jeopardy-style CTF (web, crypto, pwn, forensics, reverse engineering) aimed at getting more women into infosec, and the server is where players register, ask questions during the competition, and see writeups afterward.",
+  "rules_note": "This is an event-specific Discord tied to the annual ShaktiCTF competition rather than a permanent hangout; the invite code changes most years.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Academic CTF team / university club at None; link found by the CTFtime link hunt. TeamShakti is a women-in-infosec CTF group in India (pan-India, not tied to one university). Discord links found per CTF edition: 2025 https://discord.gg/hH7WXcgsXk, 2024 https://discord.gg/x6Cqc9rMzn, 2022 https://discord.gg/TCQFzvR5ey. These are event Discords rather than a confirmed persistent community server; teamshakti.in itself returned HTTP 526 (unreachable) so could not be verified directly on the team's own site.",
+  "confidence": "listing"
+ },
+ {
+  "id": "pwnzer0tt1",
+  "name": "Pwnzer0tt1",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "ctf",
+   "wargames",
+   "students",
+   "general-infosec",
+   "programming"
+  ],
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "study-groups",
+   "chat",
+   "writeups"
+  ],
+  "members": 105,
+  "online": 12,
+  "region": "europe",
+  "country": "IT",
+  "subdivision": null,
+  "city": "Bari",
+  "language": "it",
+  "run_by": "Pwnzer0tt1 (student team, Politecnico di Bari)",
+  "summary": "Pwnzer0tt1 is a student CTF team from Politecnico di Bari in Italy that also runs the local chapter of CyberChallenge.IT, Italy's national cybersecurity training program, so the server mixes competitive CTF play with structured beginner training. Members compete in national and international CTFs together, build open-source security tools, and publish challenge writeups.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": "Always ready to hack and eat panzerotti 🚩",
+  "candidate_notes": "Academic CTF team / university club at Politecnico di Bari; link found by the CTFtime link hunt. Discord invite link found directly on the team's official homepage pwnzer0tt1.it. Team confirmed (via web search) as students of Politecnico di Bari, contact email pwnzer0tt1@poliba.it.",
+  "confidence": "official"
+ },
+ {
+  "id": "trx-ctf-2026",
+  "name": "TheRomanXpl0it (Sapienza CTF team)",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 3,
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "ctf",
+   "wargames",
+   "students",
+   "binary-exploitation",
+   "reverse-engineering"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "writeups"
+  ],
+  "members": 1361,
+  "online": 210,
+  "region": "europe",
+  "country": "IT",
+  "subdivision": null,
+  "city": "Rome",
+  "language": "it",
+  "run_by": "TheRomanXpl0it (student team, Sapienza University of Rome)",
+  "summary": "TheRomanXpl0it (TRX) is a competitive CTF team of students from Sapienza University of Rome; some of its members play for the Italian DEF CON CTF superteam mHACKeroni. The server is where the team coordinates practice, runs its own TRX CTF events, and discusses challenges, which makes it a more competitive-minded space than a general learning hangout.",
+  "rules_note": "The team's own listed public channel is a Telegram group (t.me/TheRomanChat); this Discord invite was surfaced separately and is used for their CTF events.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Academic CTF team / university club at Sapienza University of Rome; link found by the CTFtime link hunt. University/city confirmed via github.com/TheRomanXpl0it org page: 'CTF Team composed of students of Sapienza University of Rome', location Rome. The Discord invite code came from a WebSearch result summary, not a direct WebFetch of the team's own page (their site content as fetched did not surface a discord link in the text extract, though it likely has one as an icon link). Treat invite URL as unverified/listing confidence.",
+  "confidence": "listing"
+ },
+ {
+  "id": "tu-delft-ctf-team",
+  "name": "TU Delft CTF Team",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "wargames",
+   "students",
+   "reverse-engineering",
+   "general-infosec"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups"
+  ],
+  "members": 531,
+  "online": 77,
+  "region": "europe",
+  "country": "NL",
+  "subdivision": null,
+  "city": "Delft",
+  "language": "en",
+  "run_by": "TU Delft CTF Team (EEMCS Cybersecurity group, Delft University of Technology)",
+  "summary": "This is the Discord for TU Delft's student CTF team, run out of the university's EEMCS Cybersecurity group, where members meet weekly to work through CTF challenges together and present solutions. The team also organizes the annual TU Delft CTF, billed as the largest beginner-friendly cybersecurity competition in the Netherlands, and there is no application process to join the Discord.",
+  "rules_note": "Open join, no membership or application process.",
+  "red_flags": "The invite code matches one also published by MaaSec, Maastricht University's ACM chapter (per candidate notes); this may be a shared Dutch academic CTF server rather than one exclusive to TU Delft, so treat the exact membership/scope with some caution.",
+  "discord_description": null,
+  "candidate_notes": "Academic CTF team / university club at Maastricht University; link found by the CTFtime link hunt. MaaSec is the ACM Student Chapter of Maastricht University; contact acm@maasec.nl. The Discord invite link on maasec.nl is identical to the one published by TU Delft CTF Team's site (discord.gg/J8edqXwTJ7) — possibly a shared Dutch academic CTF community server; reported as seen on this page regardless.",
+  "confidence": "official"
+ }
+]

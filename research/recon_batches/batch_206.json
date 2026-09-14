@@ -1,0 +1,22 @@
+[
+ {
+  "id": "wolvsec",
+  "name": "WolvSec",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/333DvQVeks",
+  "discord_description": null,
+  "members": 1428,
+  "online": 96,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "WolvSec — University of Michigan",
+  "candidate_notes": "University club; link recovered by the link hunt. wolvsec.org lists two Discord links; the footer/social-section one (JND8QNRbSY) is confirmed dead via Discord invite API, but the 'Get in touch' one (333DvQVeks) is live and verified: guild 'WolvSec', ~1428 members, ~104 online.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://wolvsec.org/"
+  ]
+ }
+]

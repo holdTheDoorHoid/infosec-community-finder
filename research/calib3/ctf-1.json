@@ -1,0 +1,864 @@
+[
+ {
+  "id": "applications-for-singapore-student-merger-team",
+  "name": "Applications for Singapore Student Merger Team",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 3,
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "reverse-engineering"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat"
+  ],
+  "members": 145,
+  "online": 10,
+  "region": "asia",
+  "country": "SG",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "community-run (Singapore student CTF players)",
+  "summary": "This is the Discord for a Singapore-based student CTF team (listed on CTFtime as a merged squad of Singaporean students) that plays in international CTF competitions together. It functions mainly as a coordination and chat space for teammates during competitions, and suits students already involved in or looking to join a competitive CTF team rather than complete beginners.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Academic CTF team on CTFtime (https://ctftime.org/team/299075, country SG, academic flag False); Discord link found on the CTFtime team page.",
+  "confidence": "official"
+ },
+ {
+  "id": "cybercorns",
+  "name": "Cybercorns",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "youth",
+   "general-infosec"
+  ],
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "chat",
+   "study-groups"
+  ],
+  "members": 13,
+  "online": 3,
+  "region": "us-southeast",
+  "country": "US",
+  "subdivision": "NC",
+  "city": "Durham",
+  "language": "en",
+  "run_by": "NCSSM Durham students (Cybercorns club)",
+  "summary": "Cybercorns is the official student-run cybersecurity club at NCSSM Durham (North Carolina School of Science and Mathematics), a public residential high school. Members compete together in international CTF competitions, are working on forming a related nonprofit, and run informal activities to introduce classmates to cybersecurity; it's aimed squarely at high-schoolers new to the field.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": "NCSSM Durham's official cybersecurity club! Join us to participate in international competitions, create a non-profit, and engage in fun little activities to learn more about cybersecurity.",
+  "candidate_notes": "Academic CTF team on CTFtime (https://ctftime.org/team/444678, country US, academic flag True); Discord link found on the team website.",
+  "confidence": "official"
+ },
+ {
+  "id": "lit",
+  "name": "LIT",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "youth",
+   "programming"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops"
+  ],
+  "members": 2943,
+  "online": 354,
+  "region": "us-northeast",
+  "country": "US",
+  "subdivision": "MA",
+  "city": "Lexington",
+  "language": "en",
+  "run_by": "LexMACS (student club)",
+  "summary": "LIT (Lexington Informatics Tournament) is a student-run competitive programming tournament out of Lexington, Massachusetts (organized by the LexMACS club) that includes a CTF round alongside its standard programming contest. The Discord is where competitors of all levels — split into middle school, high school, and post-high-school brackets — get support, form teams of up to three, and follow the annual event; it suits students looking for a first taste of CTF-style challenges as much as programming-contest regulars.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Academic CTF team on CTFtime (https://ctftime.org/team/157660, country US, academic flag True); Discord link found on the team website.",
+  "confidence": "official"
+ },
+ {
+  "id": "d25ga03",
+  "name": "D25GA03",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 3,
+  "audience": [
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "wargames"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat"
+  ],
+  "members": 73,
+  "online": 19,
+  "region": "asia",
+  "country": "VN",
+  "subdivision": null,
+  "city": null,
+  "language": "vi",
+  "run_by": "community-run (PTIT student CTF team)",
+  "summary": "D25GA03 (CTFtime team \"PTIT Waguri\") is a student CTF team out of the Posts and Telecommunications Institute of Technology (PTIT) in Vietnam that competes together in international CTF events. The Discord serves as the team's practice and coordination channel and mainly suits members already playing CTFs together rather than newcomers looking for structured teaching.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Academic CTF team on CTFtime (https://ctftime.org/team/376135, country VN, academic flag True); Discord link found on the CTFtime team page.",
+  "confidence": "official"
+ },
+ {
+  "id": "wpi-ctf",
+  "name": "WPI CTF",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "binary-exploitation",
+   "cryptography",
+   "general-infosec"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "study-groups",
+   "workshops"
+  ],
+  "members": 41,
+  "online": 6,
+  "region": "us-northeast",
+  "country": "US",
+  "subdivision": "MA",
+  "city": "Worcester",
+  "language": "en",
+  "run_by": "WPI Cyber Security Club",
+  "summary": "This is the Discord for Worcester Polytechnic Institute's Cyber Security Club, which runs the annual WPI CTF competition featuring both digital challenges and physical hardware puzzles for onsite participants. The club explicitly bills its events as beginner friendly, with onsite mentors and challenges ranging from easy to moderately difficult, and most puzzles are written by WPI students themselves.",
+  "rules_note": "Primarily aimed at WPI students, though the CTF event itself is open more broadly; contact csc-exec@wpi.edu with questions.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "University club; link recovered by the link hunt. Invite found on the WPICTF competition site (run by WPI CSC), described there as the WPI Cyber Security Club's Discord.",
+  "confidence": "listing"
+ },
+ {
+  "id": "hack-pack",
+  "name": "HACK PACK",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "study-group"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "study-groups",
+   "workshops"
+  ],
+  "members": 15041,
+  "online": 919,
+  "region": "us-southeast",
+  "country": "US",
+  "subdivision": "NC",
+  "city": "Raleigh",
+  "language": "en",
+  "run_by": "NC State University students, faculty advisor Alexandros Kapravelos",
+  "summary": "HackPack is North Carolina State University's student computer security club, meeting weekly on campus to practice CTF challenges and security concepts under faculty advisor Alexandros Kapravelos. It's explicitly aimed at creating a judgment-free environment for students at any skill level to learn security, with Discord serving as the main hub for meeting announcements and CTF coordination.",
+  "rules_note": "Weekly in-person meetings Fridays 4:30pm in EB2 1220 on NC State's campus; the invite URL/name overlaps coincidentally with CrunchLabs' unrelated 'Hack Pack' robotics subscription Discord, so double-check which server you're joining.",
+  "red_flags": null,
+  "discord_description": "Official discord server for the CrunchLabs Hack Pack subscription robots. Invite: discord.gg/hackpack",
+  "candidate_notes": "University club; link recovered by the link hunt. Invite surfaced via search (also referenced from hackpack.club and NC State's getinvolved.ncsu.edu org page); fetched the invite page directly and confirmed the server name is 'HACK PACK'.",
+  "confidence": "listing"
+ },
+ {
+  "id": "whitehatters-computer-security-club",
+  "name": "Whitehatters Computer Security Club",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "blue-team",
+   "students",
+   "binary-exploitation",
+   "cryptography",
+   "networking"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "study-groups",
+   "workshops"
+  ],
+  "members": 1054,
+  "online": 89,
+  "region": "us-southeast",
+  "country": "US",
+  "subdivision": "FL",
+  "city": "Tampa",
+  "language": "en",
+  "run_by": "University of South Florida students",
+  "summary": "WCSC is a long-running (since 2005), university-funded student club at the University of South Florida covering both offensive skills (CTFs, binary exploitation, cryptography) and defensive training for Collegiate Cyber Defense Competitions. It meets twice weekly during the school year and is open to students of any major interested in security, aiming to prepare members for infosec careers after graduation.",
+  "rules_note": "Also runs a Slack (wcscusf.slack.com) that appears invite-only with no public signup link found.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "University club; link recovered by the link hunt. Confirmed via Discord invite API: guild name 'Whitehatters Computer Security Club', 1054 members, no expiration. Club also lists a Slack at wcscusf.slack.com (invite-only, no signup link found).",
+  "confidence": "official"
+ },
+ {
+  "id": "kuisc",
+  "name": "KUISC",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "blue-team",
+   "students",
+   "general-infosec"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "study-groups",
+   "workshops"
+  ],
+  "members": 405,
+  "online": 36,
+  "region": "us-midwest",
+  "country": "US",
+  "subdivision": "KS",
+  "city": "Lawrence",
+  "language": "en",
+  "run_by": "University of Kansas students",
+  "summary": "KUISC, also known as the Jayhackers, is the University of Kansas's student-run information security club offering hands-on offensive and defensive security practice through Collegiate Cyber Defense Competition prep and hacking challenge competitions worldwide. The club connects students directly with security professionals and has placed well nationally, including a 1st-place university finish at the Best Cyber Warrior Competition.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "University club; link recovered by the link hunt. Confirmed via Discord invite API: guild name 'KUISC', ~405 members, active. kuisc.org itself failed to fetch (SSL handshake failure) so link was found via web search rather than the club's own site.",
+  "confidence": "listing"
+ },
+ {
+  "id": "byuctf",
+  "name": "BYUCTF",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "cryptography",
+   "social-engineering",
+   "general-infosec"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "study-groups",
+   "workshops"
+  ],
+  "members": 1744,
+  "online": 240,
+  "region": "us-west",
+  "country": "US",
+  "subdivision": "UT",
+  "city": "Provo",
+  "language": "en",
+  "run_by": "BYU Cybersecurity Students Academic Association (CSA)",
+  "summary": "This Discord is tied to BYUCTF, the annual Capture the Flag contest run by BYU's Cybersecurity Students Academic Association (CSA, formerly ITSec), which also holds monthly guest-speaker meetings and an end-of-semester CTF open to any BYU student regardless of major or experience. It's oriented toward relaxed, social learning alongside professional networking rather than a hardcore competitive-only space.",
+  "rules_note": "This particular invite is tied to the BYUCTF competition event rather than confirmed as the club's standing day-to-day server; it may be most active around CTF season.",
+  "red_flags": null,
+  "discord_description": "https://ctftime.org/event/3247",
+  "candidate_notes": "University club; link recovered by the link hunt. This is the BYUCTF 2026 event Discord (run by BYU's CSA/Cyberia group via github.com/BYU-CSA), not a confirmed persistent club-only server. Could not independently fetch ctftime.org/team/155711 (403) to confirm a standing club server; treat as best-available lead.",
+  "confidence": "guess"
+ },
+ {
+  "id": "cybersec-club-ucalgary",
+  "name": "CYBERSEC Club - UCalgary",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "certifications"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "study-groups",
+   "workshops"
+  ],
+  "members": 2024,
+  "online": 112,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": null,
+  "city": "Calgary",
+  "language": "en",
+  "run_by": "University of Calgary students",
+  "summary": "The CYBERSEC Club is the University of Calgary's student cybersecurity organization, offering members access to IBM SkillsBuild training resources alongside club events and executive positions students can apply for. It's a campus-community hub more than a technical deep-dive space, coordinating primarily through Discord alongside Instagram, LinkedIn and YouTube.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "University club; link recovered by the link hunt. Listed as 'Official CYBERSEC Discord' on the club's Linktree, linked from their Instagram bio (@cybersecucalgary).",
+  "confidence": "listing"
+ },
+ {
+  "id": "hack-ctf-concordia",
+  "name": "@Hack CTF - Concordia",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "binary-exploitation",
+   "web-appsec",
+   "reverse-engineering"
+  ],
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "chat",
+   "study-groups"
+  ],
+  "members": 1293,
+  "online": 102,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "QC",
+  "city": "Montreal",
+  "language": "en",
+  "run_by": "Hexploit Alliance (Concordia University)",
+  "summary": "Run by Hexploit Alliance, the student CTF club at Concordia University in Montreal, this Discord supports @HACK, Canada's largest student CTF, plus the club's year-round training. It hosts a beginner division and 'How To Hack' workshops alongside the competitive CTF, so newcomers and experienced players both have a track.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "University club; link recovered by the link hunt. Hexploit Alliance's own site (hexploit-alliance.com) lists no chat link, but the group's CTF event site athackctf.com (branded '@HACK 2026') has a 'Join our Discord' button pointing to this invite — this is the community's active Discord, run under the @Hack/AtHack CTF branding rather than the Hexploit Alliance name directly.",
+  "confidence": "listing"
+ },
+ {
+  "id": "leeds-ethical-hack-soc",
+  "name": "Leeds Ethical Hack Soc",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "general-infosec"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "study-groups",
+   "workshops"
+  ],
+  "members": 234,
+  "online": 34,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Leeds",
+  "language": "en",
+  "run_by": "Leeds Beckett Students' Union (student club)",
+  "summary": "This is the Discord for the Ethical Hacking Society at Leeds Beckett University (branded Leeds Ethical Hack Soc), a student club where members practice CTF challenges and hacking skills together. It suits students at the university and nearby who want a peer group to learn offensive security basics with.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "University club; link recovered by the link hunt. SU page lists it as 'Ethical Hacking Society' (Leeds Ethical Hack Soc on Discord). Invite verified live, server name confirmed via WebFetch on the discord.com/invite redirect target.",
+  "confidence": "official"
+ },
+ {
+  "id": "toh-ctf",
+  "name": "ToH CTF",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 3,
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "ctf",
+   "wargames",
+   "binary-exploitation",
+   "web-appsec",
+   "cryptography",
+   "reverse-engineering"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "writeups"
+  ],
+  "members": 307,
+  "online": 38,
+  "region": "europe",
+  "country": "IT",
+  "subdivision": null,
+  "city": "Milan",
+  "language": "en",
+  "run_by": "Tower of Hanoi (community-run CTF team)",
+  "summary": "Tower of Hanoi is a longstanding CTF team based in Milan, Italy (founded 2004, formerly ran poliCTF), and this Discord supports their annual ToH CTF competition covering pwn, reverse engineering, web, and crypto challenges. It welcomes teams of any size and skill level, though the challenge categories assume some existing CTF experience.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "University club; link recovered by the link hunt. Found on the team's CTF event site (ctf.towerofhanoi.it), which reads 'join our Discord server for the latest news.' Verified the invite resolves to a real Discord server named 'ToH CTF' (not expired/invalid).",
+  "confidence": "official"
+ },
+ {
+  "id": "cyscom-vitc",
+  "name": "CYSCOM VITC",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "wargames"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups"
+  ],
+  "members": 1264,
+  "online": 41,
+  "region": "india",
+  "country": "IN",
+  "subdivision": null,
+  "city": "Chennai",
+  "language": "en",
+  "run_by": "CYSCOM (VIT Chennai student club)",
+  "summary": "CYSCOM is the cybersecurity student community at VIT Chennai in India, and this Discord is where members coordinate CTF practice, workshops, and general security discussion. It's aimed at students at VIT Chennai and nearby who want a structured group to learn hacking fundamentals and compete together.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "University club; link recovered by the link hunt. Confirmed active via WebFetch: invite resolves to a live Discord server named 'CYSCOM VITC'. Also surfaced by web search of the club's GitHub org.",
+  "confidence": "official"
+ },
+ {
+  "id": "bamboofox",
+  "name": "BambooFox",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 3,
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "binary-exploitation",
+   "web-appsec",
+   "reverse-engineering",
+   "wargames"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "writeups"
+  ],
+  "members": 910,
+  "online": 244,
+  "region": "asia",
+  "country": "TW",
+  "subdivision": null,
+  "city": "Hsinchu",
+  "language": "zh",
+  "run_by": "BambooFox (NYCU student club)",
+  "summary": "BambooFox is the cybersecurity club and competitive CTF team at National Yang Ming Chiao Tung University in Taiwan, founded in 2014, with courses covering web security, reverse engineering, and exploit development plus write-ups from competitions. It suits students already building toward serious CTF play more than absolute newcomers, since the club runs structured technical training tracks.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": "陽明交大網路安全策進會",
+  "candidate_notes": "University club; link recovered by the link hunt. Found on bamboofox.org (redirect target of bamboofox.github.io) under Community & Social Media section.",
+  "confidence": "official"
+ },
+ {
+  "id": "misc",
+  "name": "MISC",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "study-group"
+  ],
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "chat",
+   "study-groups"
+  ],
+  "members": 881,
+  "online": 105,
+  "region": "australia-nz",
+  "country": "AU",
+  "subdivision": null,
+  "city": "Melbourne",
+  "language": "en",
+  "run_by": "Melbourne Information Security Club (University of Melbourne student club)",
+  "summary": "MISC (Melbourne Information Security Club) is the University of Melbourne's student security club, founded in 2017 for students building toward a cybersecurity career or just exploring the field. Members run and attend CTF competitions and GitHub-hosted workshops, with an explicitly inclusive, beginner-welcoming tone.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "University club; link recovered by the link hunt. Original site umisc.info no longer resolves; club has moved to umisc.club, which lists this Discord invite directly on the homepage.",
+  "confidence": "official"
+ },
+ {
+  "id": "wolvsec",
+  "name": "WolvSec",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "binary-exploitation",
+   "reverse-engineering",
+   "web-appsec",
+   "cryptography",
+   "forensics"
+  ],
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "study-groups",
+   "project-showcase",
+   "chat"
+  ],
+  "members": 1428,
+  "online": 96,
+  "region": "us-midwest",
+  "country": "US",
+  "subdivision": "MI",
+  "city": "Ann Arbor",
+  "language": "en",
+  "run_by": "University of Michigan students (student organization)",
+  "summary": "WolvSec is a University of Michigan student club and CTF team where students, alumni, and local professionals hold weekly meetings on security topics, host guest speakers, and compete together in CTF competitions covering reverse engineering, binary exploitation, cryptography, web security, and forensics. It explicitly welcomes complete novices through industry experts in a collaborative learning environment.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "University club; link recovered by the link hunt. wolvsec.org lists two Discord links; the footer/social-section one (JND8QNRbSY) is confirmed dead via Discord invite API, but the 'Get in touch' one (333DvQVeks) is live and verified: guild 'WolvSec', ~1428 members, ~104 online.",
+  "confidence": "official"
+ },
+ {
+  "id": "mqcybersec",
+  "name": "MQCyberSec",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "general-infosec"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups"
+  ],
+  "members": 1272,
+  "online": 200,
+  "region": "australia-nz",
+  "country": "AU",
+  "subdivision": null,
+  "city": "Sydney",
+  "language": "en",
+  "run_by": "community-run (Macquarie University students)",
+  "summary": "Run by students at Macquarie University in Sydney, this is the club's CTF team and cybersecurity society, reviving an earlier iteration in 2024. Members practice for and compete in Capture The Flag competitions together and run study/social sessions for people getting into security; note that campus wifi reportedly blocks the Discord.",
+  "rules_note": "University wifi has been reported to block the Discord invite; join off-campus network if it fails.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Academic CTF team / university club at Macquarie University; link found by the CTFtime link hunt. Primary club Discord (~1,233 members) listed on MQCyberSec's official Linktree, page notes 'uni wifi blocks' it. Club also has related Women in Computing and MACS Discords, but this is the primary one.",
+  "confidence": "official"
+ },
+ {
+  "id": "sigflag",
+  "name": "SIGFLAG",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "general-infosec"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups"
+  ],
+  "members": 80,
+  "online": 14,
+  "region": "europe",
+  "country": "AT",
+  "subdivision": null,
+  "city": "Linz",
+  "language": "en",
+  "run_by": "community-run (JKU Linz students)",
+  "summary": "SIGFLAG is the student-run CTF team of Johannes Kepler University Linz, competing mainly in attack-defense format events. They run newcomer-friendly introductory sessions with setup guides (recommended OS, SSH keys, account creation on their self-hosted git server) and welcome people who want to learn alongside more experienced members.",
+  "rules_note": "Joining requires creating an account on git.sigflag.at and either meeting an admin, attending an intro event, or emailing the team.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Academic CTF team / university club at Johannes Kepler University (JKU) Linz; link found by the CTFtime link hunt. Discord invite is on the team's own 'Join Us' page, described as organised by students of JKU Linz.",
+  "confidence": "official"
+ },
+ {
+  "id": "uoftctf",
+  "name": "UofTCTF",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "general-infosec",
+   "web-appsec"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups"
+  ],
+  "members": 1457,
+  "online": 172,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "ON",
+  "city": "Toronto",
+  "language": "en",
+  "run_by": "community-run (University of Toronto students)",
+  "summary": "UofTCTF is the University of Toronto's cybersecurity club and CTF team, describing itself as the largest cybersecurity community on campus. Members compete in outside CTFs, host their own annual UofTCTF competition, and run workshops and social events for students curious about security, open to newcomers as well as experienced players.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": "Home of the University of Toronto Capture The Flag Team (UofTCTF), the largest cybersecurity community at UofT. We bring together students who are passionate or simply curious about cybersecurity. Join us for competitions, workshops, and fun social events throughout the year!",
+  "candidate_notes": "Academic CTF team / university club at University of Toronto; link found by the CTFtime link hunt. Official club Discord confirmed via both the club's own discord.uoftctf.org vanity redirect and its GitHub org page.",
+  "confidence": "official"
+ },
+ {
+  "id": "faust-ctf-2026",
+  "name": "FAUST (FAU Erlangen-Nürnberg CTF team)",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "general-infosec"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops"
+  ],
+  "members": 1050,
+  "online": 190,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Erlangen",
+  "language": "de",
+  "run_by": "community-run (FAU Erlangen-Nürnberg students)",
+  "summary": "FAUST is the CTF team of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), mostly students interested in IT security who play CTFs regularly and organize the annual FAUST CTF attack-defense competition. They hold semester workshops for new players and coordinate via mailing list and chat, so while this particular invite is tied to a specific yearly event page, it connects into the standing team community.",
+  "rules_note": "This invite is hosted on a specific year's competition site; the team's general workshops are announced via mailing list/Rocket.Chat on faust.cs.fau.de.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Academic CTF team / university club at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU); link found by the CTFtime link hunt. Discord invite is on the FAUST CTF 2023 competition site's contact page ('Come join us on Discord!'), run by FAUST, FAU's CTF team. It is the event Discord rather than a confirmed standing team community server, but is the only public chat link found.",
+  "confidence": "listing"
+ },
+ {
+  "id": "upb-hack",
+  "name": "/upb/hack",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "general-infosec"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups"
+  ],
+  "members": 247,
+  "online": 30,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Paderborn",
+  "language": "de",
+  "run_by": "community-run (Paderborn University, e.V. nonprofit)",
+  "summary": "/upb/hack is the CTF team of Paderborn University, now a registered nonprofit association open to security enthusiasts beyond just students. They compete in CTFs year-round (placing well in events like BruCON and the German Hacking Championship), meet Saturdays during competitions, and explicitly say beginners are always welcome, including an annual beginner-focused CTF for new students.",
+  "rules_note": "Meetings are typically conducted in German but the group switches to English for non-German speakers.",
+  "red_flags": null,
+  "discord_description": "Learn more about IT security. We meet regularly and participate in Capture The Flag competitions 🚩",
+  "candidate_notes": "Academic CTF team / university club at Paderborn University; link found by the CTFtime link hunt. upbhack.de states '/upb/hack is the CTF team at Paderborn University'; Discord invite found directly on the team's own homepage.",
+  "confidence": "official"
+ },
+ {
+  "id": "rwth-aachen-ctf",
+  "name": "RWTH Aachen CTF",
+  "platform": "discord",
+  "category": "ctf",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "general-infosec",
+   "binary-exploitation"
+  ],
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "writeups"
+  ],
+  "members": 478,
+  "online": 65,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Aachen",
+  "language": "de",
+  "run_by": "community-run (RWTH Aachen students)",
+  "summary": "Pwn-la-Chapelle is the self-described 'officially unofficial' student CTF team of RWTH Aachen University. They meet biweekly on Thursdays, alternating social/CTF-practice sessions with organizational meetings, publish challenge writeups, and explicitly invite newcomers to join the Discord and an in-person event to get started.",
+  "rules_note": "Biweekly Thursday 17:00 meetups at RWTH's UMIC building, Seminarraum 205.",
+  "red_flags": null,
+  "discord_description": "The official home of Pwn-la-Chapelle, RWTHs student-organized CTF group",
+  "candidate_notes": "Academic CTF team / university club at RWTH Aachen University; link found by the CTFtime link hunt. Team's own site (pwn-la-chapelle.eu) describes itself as 'the officially unofficial CTF team of RWTH Aachen University' and encodes the Discord invite as base64 next to 'If you're new, join the Discord and attend one of our in-person CTF events'; decoded verbatim from the page's own base64 string.",
+  "confidence": "official"
+ }
+]

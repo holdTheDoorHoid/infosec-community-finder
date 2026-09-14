@@ -1,0 +1,1638 @@
+[
+ {
+  "id": "makerspaceleiden",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "hardware-hacking",
+   "homelab",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "summary": "A community-run shared workshop in Leiden, Netherlands, giving paying members access to CNC machines, 3D printers, woodworking and electronics tools for their own projects. It is a general maker/hackerspace rather than a security-focused group, run through monthly member meetings and a mailing list rather than any chat platform.",
+  "run_by": "community-run",
+  "website": "http://makerspaceleiden.nl/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "NL",
+  "subdivision": null,
+  "city": "Leiden",
+  "language": "nl",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Joining requires a paid monthly membership; communication happens over a public mailing list, not a chat app.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "fnordeingang-neuss",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking",
+   "linux"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "A German hackerspace (registered association) in Neuss that hosts weekly open evenings, monthly tech/culture lecture nights, and streams Chaos Communication Congress talks locally. It's a general hacker/maker community with a formal membership process, aimed at anyone curious about technology rather than a dedicated security-training group.",
+  "run_by": "community-run",
+  "website": "https://fnordeingang.de",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Neuss",
+  "language": "de",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Open evenings Wednesdays 18:00; other days are members/invite-only. Public mailing list is the way to reach out before visiting.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "pen-sone-for-eksperimentell-informatikk",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "students",
+   "regional",
+   "hardware-hacking",
+   "linux"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "hardware-help"
+  ],
+  "summary": "A student-run open lab space (\"Open Zone for Experimental Informatics\") at the University of Oslo's Department of Informatics, where students tinker with hardware and software projects outside coursework. It's a general CS/hacking hangout for university students rather than a security-specific club, coordinated via a public mailing list.",
+  "run_by": "community-run",
+  "website": "http://sonen.ifi.uio.no/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "NO",
+  "subdivision": null,
+  "city": "Oslo",
+  "language": "no",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Mainly open to University of Oslo Informatics students; sign up via the sympa mailing list.",
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "hacklab-kyiv",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "hardware-hacking",
+   "hacker-culture",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "summary": "Ukraine's first community-supported hackerspace, founded in 2013 in Kyiv, offering members CNC routers, 3D printers, and electronics gear for hands-on projects. It's a general maker/engineer community (partnered with groups like MacPaw and Arduino.ua) rather than a security-focused group, and it runs as a non-profit reachable through a public mailing list and social channels.",
+  "run_by": "community-run",
+  "website": "https://hacklab.kyiv.ua/",
+  "github": null,
+  "youtube": "https://www.youtube.com/@hacklabkyiv",
+  "region": "europe",
+  "country": "UA",
+  "subdivision": null,
+  "city": "Kyiv",
+  "language": "uk",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "r00thouse",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups"
+  ],
+  "summary": "A very small, grassroots hacklab in La Paz, Bolivia, run by a handful of local hackers and makers who meet to work on tech and open-hardware projects together (profiled in a Visionscarto piece on Bolivian hackers organizing). It's a general hacker/maker community rather than a security-specific one, reachable through a public Riseup mailing list.",
+  "run_by": "community-run",
+  "website": "https://www.hacklab.org.bo",
+  "github": null,
+  "youtube": null,
+  "region": "latin-america",
+  "country": "BO",
+  "subdivision": null,
+  "city": "La Paz",
+  "language": "es",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "le-bib",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "Le BIB is a small community hackerspace in Montpellier, France, that hosts regular open sessions and a public events calendar for members working on maker and tech projects. It's a general hackerspace rather than a security-focused group, and people connect through a public mailing list rather than a chat platform.",
+  "run_by": "community-run",
+  "website": "http://lebib.org",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Montpellier",
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "la-distorsion",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "homelab",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "A volunteer-run hackerspace near Paris-Saclay, France, focused on critical, community-oriented tech practice rather than pure security work. Regulars host weekly Thursday drop-in gatherings, run Linux/sysadmin workshops, host a Tor bridge, and build things like a mobile 'infokiosk'; it suits people interested in hands-on tech, digital rights, and DIY culture more than dedicated infosec training.",
+  "run_by": "community-run",
+  "website": "https://distorsion.interhacker.space",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Gif-sur-Yvette",
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Join via mailing list signup; weekly Thursday evening 'welcoming snack' meetups are the easiest entry point for newcomers.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "hackerspace-adelaide",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "homelab",
+   "students"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "A community-run maker group in Adelaide, Australia that meets weekly for hands-on electronics, 3D printing, and general tech projects; it's a general making and tinkering space rather than a security-focused group, welcoming complete beginners with no experience required. People show up to Thursday evening sessions, work on personal projects, and learn from other members.",
+  "run_by": "community-run",
+  "website": "http://www.hackerspace-adelaide.org.au/",
+  "github": null,
+  "youtube": null,
+  "region": "australia-nz",
+  "country": "AU",
+  "subdivision": "SA",
+  "city": "Adelaide",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Just show up to a Thursday 6-9pm session (suggested $5 donation); no technical experience needed; also has a Facebook group and mailing list.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "leftclick",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups"
+  ],
+  "summary": "A small, rapidly-growing hackerspace in Ljubljana, Slovenia, housed within the PLAC autonomous social space; it's a general DIY/tech hangout rather than a security-specific group, run informally by a small core of active members. People join through the space's public mailing list to hear about open hours and projects.",
+  "run_by": "community-run",
+  "website": "https://leftclick.si",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "SI",
+  "subdivision": null,
+  "city": "Ljubljana",
+  "language": "sl",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Join via public mailing list (Postorius/Mailman signup); website's TLS certificate is currently expired, which may deter some visitors.",
+  "red_flags": "Site's HTTPS certificate is expired, so browsers will show a security warning when visiting.",
+  "confidence": "medium"
+ },
+ {
+  "id": "teesside-hackspace",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "A member-run nonprofit workshop and hackerspace in Middlesbrough, UK, offering shared tools and space for electronics, making, and general hacking projects. It hosts weekly Tuesday open evenings for newcomers to look around and meet members, and has moved its main chat from Slack to Matrix.",
+  "run_by": "community-run",
+  "website": "https://www.teessidehackspace.org.uk/",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Middlesbrough",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Attend a Tuesday ~7pm open evening; chat has migrated from Slack to Matrix (joinable via Element or browser), see wiki page for the current link; pay-what-you-think-is-fair membership for 24/7 access.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "hacklab-to",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "A member-run community workshop and hackerspace in Toronto, Canada, in the MIT hacker-culture tradition, open to artists, programmers, and hardware tinkerers rather than being security-focused specifically. Members do electronics, 3D printing, metalworking, and creative tech projects, and newcomers are invited to Tuesday night open houses.",
+  "run_by": "community-run",
+  "website": "http://hacklab.to",
+  "github": null,
+  "youtube": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "ON",
+  "city": "Toronto",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Attend a Tuesday 6pm open house to look around; membership required for ongoing access; announce mailing list at hacklab.to/mailman/listinfo/announce.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "mainframe",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "Mainframe is a large community makerspace in Oldenburg, Germany, run by the nonprofit 'Kreativitat trifft Technik' (Creativity Meets Technology), offering laser cutting, electronics, 3D printing, textiles, woodworking, and even a scanning electron microscope. It's a broad maker/DIY space rather than a security-focused community, running regular workshops for a wide range of ages.",
+  "run_by": "Kreativität trifft Technik e.V.",
+  "website": "http://www.mainframe.io/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Oldenburg",
+  "language": "de",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Join the public mailing list for discussion; check the site's opening times and calendar for drop-in visits.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "section77",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hardware-hacking",
+   "hacker-culture",
+   "regional",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "summary": "A community-run hackerspace in Offenburg, Germany, where members meet to work on electronics, computer, and general tinkering projects and open the space to visitors during posted open-lab hours. It suits local makers and hobbyists more than dedicated security researchers; there's no live chat, just a public mailing list for coordination.",
+  "run_by": "community-run",
+  "website": "https://section77.de",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Offenburg",
+  "language": "de",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Joining is via a public mailman mailing list (lists.section77.de), not a chat platform.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "tog",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hardware-hacking",
+   "hacker-culture",
+   "regional",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "summary": "TOG is a community-run hackerspace in Dublin, Ireland (the name comes from the Irish word for 'build'), where members share tools and workspace for electronics, software, and general maker projects. It's aimed at locals who want a physical space and community to build things, not a security-specific group; coordination happens over a public mailing list rather than a chat platform.",
+  "run_by": "community-run",
+  "website": "http://tog.ie/",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "IE",
+  "subdivision": null,
+  "city": "Dublin",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Joining is via a public mailman mailing list (lists.tog.ie), not a chat platform.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "freies-labor",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hardware-hacking",
+   "hacker-culture",
+   "regional",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "summary": "Freies Labor is a community-run hackerspace in Hildesheim, Germany, open to visitors when the lab's door status shows it's open, for electronics, software, and general maker work. It's a small local group for hobbyists rather than a dedicated security community; there's no chat link, just a public mailing list.",
+  "run_by": "community-run",
+  "website": "http://freieslabor.org",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Hildesheim",
+  "language": "de",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Joining is via a public mailing list (lists.freieslabor.org); check the site for the lab's live door/open status.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "laboratoire-ouvert-grenoblois",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hardware-hacking",
+   "hacker-culture",
+   "regional",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "summary": "Laboratoire Ouvert Grenoblois (LOGre / Grenoble Open Lab) is a community-run hackerspace in Grenoble, France, focused on electronics (Arduino, FPGA), 3D printing, repairs, and similar maker projects. It's a general-purpose local making community rather than a security group, coordinating through a public mailing list instead of chat.",
+  "run_by": "community-run",
+  "website": "https://logre.eu",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Grenoble",
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Joining is via a public mailing list linked from the wiki page; no chat platform.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "fem",
+  "include": false,
+  "exclude_reason": "FeM e.V. is a university association running campus network, broadcast/media, and technical infrastructure services at TU Ilmenau; it explicitly does not define itself as a hackerspace and has no security or general-maker community focus.",
+  "category": "regional",
+  "tags": [
+   "networking",
+   "regional"
+  ],
+  "audience": [
+   "intermediate"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "local-meetups"
+  ],
+  "summary": "FeM e.V. is a large student association at TU Ilmenau, Germany, that runs the campus network, student TV/broadcast production, and a media-technology practice facility. It's a university infrastructure and media club, not a hacking or security community.",
+  "run_by": "community-run",
+  "website": "https://www.fem.tu-ilmenau.de/index.php?id=30",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Ilmenau",
+  "language": "de",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "taipei-hackerspace",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hardware-hacking",
+   "hacker-culture",
+   "regional",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "summary": "Taipei Hackerspace is an open, public DIY workshop in Taipei, Taiwan, where members work on electronics, 3D printing, urban farming, and textile/clothing projects and share tools and knowledge. It's a general community makerspace rather than a cybersecurity-focused group, run through a public Google Group mailing list.",
+  "run_by": "community-run",
+  "website": "https://taipeihack.org",
+  "github": null,
+  "youtube": null,
+  "region": "asia",
+  "country": "TW",
+  "subdivision": null,
+  "city": "Taipei",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Joining is via a public Google Group mailing list; the space is accessible near Zhongshan MRT station.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "laboratoire-ouvert-villeurbannais",
+  "include": false,
+  "exclude_reason": "General community hackerspace/fablab (making, electronics, DIY projects) with no cybersecurity or infosec focus.",
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "A community-run hackerspace/fablab association in Villeurbanne, France, offering a shared workshop for members to build electronics, software and DIY projects together. It's a general maker space rather than a security-focused group, aimed at local hobbyists of any skill level.",
+  "run_by": "community-run",
+  "website": "https://LaboVilleurbanne.fr/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Villeurbanne",
+  "language": "fr",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joins via a public mailing list, not a chat platform.",
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "swindon-makerspace",
+  "include": false,
+  "exclude_reason": "General not-for-profit makerspace (robots, general fabrication/electronics) with no cybersecurity focus.",
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "A community interest company running a physical makerspace in Swindon, UK, where members build and tinker with robots, electronics and other hands-on projects. It's a general hobbyist making community, not a security group, with a small local membership.",
+  "run_by": "community-run",
+  "website": "https://www.swindon-makerspace.org/",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Swindon",
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joins via a public forum/mailing list rather than a chat platform.",
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "fife-hackspace",
+  "include": false,
+  "exclude_reason": "Small general-purpose hackspace/makerspace with no security or hacking-culture focus specified.",
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups"
+  ],
+  "summary": "A small local hackspace in Fife, Scotland, run informally by its members for general DIY, electronics and making projects. It's a low-activity community hub rather than a cybersecurity group.",
+  "run_by": "community-run",
+  "website": "https://sites.google.com/site/fifehackspace",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Thornton, Fife",
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joins via a public Google Group mailing list.",
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "ccc-freiburg",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "general-infosec",
+   "privacy"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "The Freiburg, Germany chapter of the Chaos Computer Club, a self-organized group of programmers, activists and hackers who run a local hackspace and hold a weekly open meeting (Chaostreff). They work on free-software and data-protection activism alongside general hacking and tech projects, welcoming newcomers to their open-door sessions.",
+  "run_by": "community-run",
+  "website": "http://cccfr.de",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Freiburg",
+  "language": "de",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Joins via mailing list or by visiting the weekly Chaostreff meeting in person; site and community are German-language.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "hackergarage",
+  "include": false,
+  "exclude_reason": "General collaborative maker/creation space in Guadalajara with no stated security or hacking-culture focus.",
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "A community-driven collaborative creation space in Guadalajara, Mexico, aiming to lower barriers to building and making things locally. It functions as a general maker/hackerspace rather than a cybersecurity-focused community.",
+  "run_by": "community-run",
+  "website": "http://hackergarage.mx/",
+  "github": null,
+  "youtube": null,
+  "region": "latin-america",
+  "country": "MX",
+  "subdivision": null,
+  "city": "Guadalajara",
+  "language": "es",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joins via a public Google Group mailing list.",
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "makers-im-zigerschlitz",
+  "include": false,
+  "exclude_reason": "General makerspace (workshop/fabrication facilities for a diverse member group) with no cybersecurity focus.",
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "A member-run makerspace based at the Näfels/Mollis train station in the Glarus Nord region of Switzerland, offering shared workshop facilities to a diverse group of hobbyists. It's a general making/fabrication community rather than a security-focused one.",
+  "run_by": "community-run",
+  "website": "https://zigerschlitzmakers.ch",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "CH",
+  "subdivision": null,
+  "city": "Näfels",
+  "language": "de",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joins via a public mailing list/contact page rather than a chat platform.",
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "lodis",
+  "include": false,
+  "exclude_reason": "General hackerspace (electronics/woodworking/making projects) with no cybersecurity or infosec focus; not a fit for a security-community directory.",
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups"
+  ],
+  "summary": "A community-run hackerspace in Malmö, Sweden where members work on personal electronics, woodworking, and making projects together in a shared physical space. It suits local makers looking for tools and company rather than people seeking cybersecurity content.",
+  "run_by": "community-run",
+  "website": "https://lodis.se",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "SE",
+  "subdivision": null,
+  "city": "Malmö",
+  "language": "sv",
+  "year_round": null,
+  "event": null,
+  "rules_note": "No public chat link found; joining is via the mailing list linked from the site's newsletter page.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "hacklab-almer-a",
+  "include": false,
+  "exclude_reason": "General hackerspace/maker collective (technology, design, fabrication) with no cybersecurity focus; not a fit for a security-community directory.",
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups"
+  ],
+  "summary": "A community-run hacklab in Almería, Spain bringing together developers, designers, makers, and hobbyists for technological, social, and creative experimentation. It's a general-purpose maker/hacklab space rather than a security-focused community.",
+  "run_by": "community-run",
+  "website": "http://hacklabalmeria.net",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "ES",
+  "subdivision": null,
+  "city": "Almería",
+  "language": "es",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joining happens via the group's forum (foro.hacklabalmeria.net), not a live chat platform.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "doesliverpool",
+  "include": false,
+  "exclude_reason": "Co-working/makerspace offering desks and a workshop area (3D printing, electronics, general making); no cybersecurity focus.",
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups"
+  ],
+  "summary": "A Liverpool co-working and makerspace run as a small business, offering desks for freelancers and a workshop for electronics and fabrication projects. It's aimed at local makers and remote workers, not security practitioners.",
+  "run_by": "community-run",
+  "website": "http://doesliverpool.com/",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Liverpool",
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joining is via a public Google Group mailing list, not a live chat platform.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "calango-hacker-clube",
+  "include": false,
+  "exclude_reason": "General hackerspace/maker club in Brasília focused on shared projects and tinkering; no stated cybersecurity focus.",
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups"
+  ],
+  "summary": "A small community-run hackerspace in Brasília, Brazil (named after a local lizard) where about two dozen members meet to work on general tech and maker projects together. It's a local social/making space, not a cybersecurity-focused group.",
+  "run_by": "community-run",
+  "website": "http://www.calango.club",
+  "github": null,
+  "youtube": null,
+  "region": "latin-america",
+  "country": "BR",
+  "subdivision": null,
+  "city": "Brasília",
+  "language": "pt",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joining is via a public Google Group mailing list, not a live chat platform.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "victoria-makerspace",
+  "include": false,
+  "exclude_reason": "General makerspace (crafts, electronics, 3D printing, community projects); no cybersecurity focus.",
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups"
+  ],
+  "summary": "A community-run makerspace in Victoria, Canada offering shared tools and workspace for electronics, crafts, and general DIY projects. It suits local hobbyist makers rather than people looking for security-specific discussion.",
+  "run_by": "community-run",
+  "website": "http://victoria.makerspace.ca/",
+  "github": null,
+  "youtube": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "BC",
+  "city": "Victoria",
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joining is via a public Google Group mailing list, not a live chat platform.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "house4hack",
+  "include": false,
+  "exclude_reason": "General hackerspace/makerspace (electronics, robotics, general making) with no cybersecurity focus.",
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups"
+  ],
+  "summary": "A hackerspace based in Centurion, South Africa where roughly a hundred members build electronics, robotics, and other maker projects together. It's a general-purpose hackerspace community, not one oriented toward cybersecurity.",
+  "run_by": "community-run",
+  "website": "http://www.house4hack.co.za",
+  "github": null,
+  "youtube": null,
+  "region": "africa",
+  "country": "ZA",
+  "subdivision": null,
+  "city": "Centurion",
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Joining is via a public Google Group mailing list, not a live chat platform.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "szdiy",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "chat",
+   "project-showcase"
+  ],
+  "summary": "A free-software and open-hardware hackerspace in Shenzhen that meets weekly on Thursday evenings for open project sessions, talks, and general DIY electronics work. It's a general maker community rather than a security-specialist one, but it's open-door and welcoming to newcomers who show up.",
+  "run_by": "community-run",
+  "website": "http://szdiy.org",
+  "github": null,
+  "youtube": null,
+  "region": "asia",
+  "country": "CN",
+  "subdivision": null,
+  "city": "Shenzhen",
+  "language": "zh",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Joins via a public Google Groups mailing list; weekly Thursday 7-10pm in-person meetup is open to anyone who drops by.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "miss-despoinas-hackspace",
+  "include": false,
+  "exclude_reason": "The listed website (miss-hack.org) has been taken over and now serves an unrelated online-gambling promotion page, not the hackerspace; no working official site could be verified, and a mailing-list-only hackerspace with a squatted domain is not safe to list.",
+  "category": "regional",
+  "tags": [
+   "regional",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups"
+  ],
+  "summary": "Formerly a small hackerspace in Hobart, Tasmania, that organized via a public mailing list, per the hackerspaces.org wiki. Its listed domain now resolves to an unrelated gambling site, so current status and legitimate contact info could not be confirmed.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "australia-nz",
+  "country": "AU",
+  "subdivision": null,
+  "city": "Hobart",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Listed website domain has been hijacked and now hosts an online gambling promotion page unrelated to the hackerspace.",
+  "confidence": "low"
+ },
+ {
+  "id": "hacman",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "chat",
+   "project-showcase",
+   "workshops"
+  ],
+  "summary": "Hackspace Manchester is a member-run communal workshop with woodwork, metalwork, laser cutting, 3D printing, electronics and craft facilities, kept affordable by members volunteering to run training and maintain tools. It's a general making space rather than a cybersecurity group, and welcomes visitors to open-evening tours before joining.",
+  "run_by": "community-run",
+  "website": "http://hacman.org.uk",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Manchester",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "New visitors are encouraged to attend an open-evening tour before applying for paid membership; also reachable via a Telegram group and public mailing list.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "derby-makers",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "chat",
+   "project-showcase"
+  ],
+  "summary": "A community-run makerspace in Derby that meets twice monthly in person at the Radio Communication Museum of Great Britain and holds a weekly Thursday project catch-up over Zoom. Members build things out of wood, metal, fabric, electronics and code, with recent projects spanning electronics mods, laser cutting, and high-altitude balloons; it's a general hobbyist making group, not a security-focused one.",
+  "run_by": "community-run",
+  "website": "http://derbymakers.co.uk/",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Derby",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Joins via a public Google Groups mailing list; in-person meetups are on the 2nd and 4th Wednesday of the month, 7-10pm, plus a weekly Thursday Zoom call.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "lancaster-and-morecambe-makers-lamm",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "chat",
+   "project-showcase",
+   "workshops"
+  ],
+  "summary": "Lancaster And Morecambe Makers (LAMM) is a paid-membership makerspace in Lancaster city centre offering tools for fabrication, weaving, 3D printing, laser cutting and computer refurbishment, alongside free weekly Wednesday open nights. It's a general making and repair-culture community, not a security-specific one, and actively works with local schools, universities and businesses.",
+  "run_by": "community-run",
+  "website": "http://lamm.space/",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Lancaster",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Free drop-in open nights Wednesdays 6:30-8:30pm; 24/7 access requires paid monthly membership (subsidised student rate available, 16+ with parental permission).",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "build-brighton",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "chat",
+   "project-showcase",
+   "workshops"
+  ],
+  "summary": "Build Brighton is a member-run communal workshop of over a hundred makers, designers, tinkerers and engineers, with woodwork, metalwork, electronics, 3D printing and laser cutting facilities and planned Arduino/ESP32/CNC workshops. It's a general making space formed in 2009, not security-focused, and new members attend an open evening before joining.",
+  "run_by": "community-run",
+  "website": "http://www.buildbrighton.com",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Brighton and Hove",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Prospective members should attend an open evening (usually alternate Thursdays, 6-8:30pm) to tour the space before applying for paid membership (from £25/month).",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "hasgeek-house",
+  "include": false,
+  "exclude_reason": "General tech events/community coworking space covering many topics (data engineering, Rust, systems, food tech); not focused on security or hacking.",
+  "category": "regional",
+  "tags": [
+   "general-infosec",
+   "students",
+   "programming",
+   "regional"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "summary": "This is the mailing list for a shared workshop/coworking space in Bangalore run by the HasGeek tech community, which also organizes broader tech meetups and conferences (including a security-adjacent one, Rootconf). The space itself hosts general tech workshops and events rather than security-specific ones, so it suits generalist tech hobbyists more than security learners.",
+  "run_by": "HasGeek",
+  "website": "https://hasgeek.com",
+  "github": null,
+  "youtube": null,
+  "region": "india",
+  "country": "IN",
+  "subdivision": null,
+  "city": "Bangalore",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Join via the public mailing list; no live chat found.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "technistub",
+  "include": false,
+  "exclude_reason": "A general fablab/makerspace (laser cutting, CNC, 3D printing, robot-fighting tournaments); no cybersecurity or computer-hacking focus.",
+  "category": "regional",
+  "tags": [
+   "homelab",
+   "iot-embedded",
+   "regional",
+   "students"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "summary": "Run by a member association in Mulhouse, France, this fablab gives members access to laser cutters, CNC mills, 3D printers, and welding gear, with training sessions and an annual robot-fighting tournament called Makerfight. It suits hands-on hardware/making hobbyists rather than people looking for computer security content.",
+  "run_by": "community-run",
+  "website": "http://www.technistub.org",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Mulhouse",
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Membership dues required for full machine/workshop access; join discussion via public Google Group.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "091-labs",
+  "include": false,
+  "exclude_reason": "General collaborative hackerspace for technology-focused creative projects in Galway; no stated cybersecurity focus.",
+  "category": "regional",
+  "tags": [
+   "homelab",
+   "iot-embedded",
+   "regional",
+   "students"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "summary": "This is a small community-run shared workshop space in Galway City for general technology and creative projects, founded in 2010. Its site gives little detail on specific activities beyond being an open physical space for members to build things, and it has no particular security focus.",
+  "run_by": "community-run",
+  "website": "http://091labs.com",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "IE",
+  "subdivision": null,
+  "city": "Galway",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Join via public Google Group mailing list.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "escape",
+  "include": false,
+  "exclude_reason": "Small generic hackerspace/maker community in Arvika, Sweden with no security or hacking focus; listing itself appears stale (blog-based, last confirmed years ago).",
+  "category": "regional",
+  "tags": [
+   "homelab",
+   "regional"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "local-meetups"
+  ],
+  "summary": "A very small local hackerspace/maker group in Arvika, Sweden, coordinated through a blog and a Google Group tied to a local Ubuntu community. There is little public information about current activities, and nothing suggests a security or hacking angle.",
+  "run_by": "community-run",
+  "website": "http://arvikahackerspace.blogspot.com/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "SE",
+  "subdivision": null,
+  "city": "Arvika",
+  "language": "sv",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via public Google Group.",
+  "red_flags": "Sparse/outdated public presence; activity level unclear.",
+  "confidence": "low"
+ },
+ {
+  "id": "tap-lab",
+  "include": false,
+  "exclude_reason": "A general community makerspace focused on crafts, textiles, and cultural weaving alongside laser cutting/3D printing; no security or computer-hacking content.",
+  "category": "regional",
+  "tags": [
+   "homelab",
+   "regional"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "summary": "Based upstairs at the Te Atatū Peninsula Community Centre in West Auckland, this is a community makerspace offering laser cutting, 3D printing, embroidery, and cultural craft workshops such as tukutuku weaving. It is a general creative/maker community rather than a tech-hacking or security one.",
+  "run_by": "community-run",
+  "website": "http://www.taplab.nz/",
+  "github": null,
+  "youtube": null,
+  "region": "australia-nz",
+  "country": "NZ",
+  "subdivision": null,
+  "city": "Auckland",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Chat happens on a public Slack workspace (taplabmakers.slack.com).",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "logout",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "privacy",
+   "osint",
+   "general-infosec",
+   "regional",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "Run by an anti-corporate, privacy-focused activist collective out of the Can Vies social center in Barcelona, this hacklab holds practical workshops on mobile device security and DNS protection, and publishes tutorials and zines about resisting corporate surveillance and using federated/privacy-respecting alternatives to mainstream platforms. It suits people interested in digital rights, privacy tooling, and grassroots digital security training more than traditional pentesting or CTF topics.",
+  "run_by": "community-run",
+  "website": "https://sindominio.net/logout/web",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "ES",
+  "subdivision": null,
+  "city": "Barcelona",
+  "language": "es",
+  "year_round": true,
+  "event": null,
+  "rules_note": "In-person sessions Thursdays 19:30-22:30 at CSA Can Vies; join the public mailing list to get involved.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "comakingspace",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "summary": "A member-run hackerspace in Heidelberg, Germany, with tiered membership dues and a mailing list rather than a chat platform. Members tinker with electronics, software, and open hardware projects together and explicitly welcome curious beginners who want to learn by building.",
+  "run_by": "community-run",
+  "website": "https://comakingspace.org",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Heidelberg",
+  "language": "de",
+  "year_round": true,
+  "event": null,
+  "rules_note": "No live chat platform; join via the public comaking-news mailing list, and membership has multiple contribution tiers.",
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "potteries",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "summary": "A community-run hackerspace in Stoke-on-Trent, UK, meeting weekly in person on Tuesday evenings at their Hanley venue. It's a general electronics and making space rather than a dedicated infosec group, with members building and tinkering together and discussion happening over a public Google Group mailing list.",
+  "run_by": "community-run",
+  "website": "http://potterieshackspace.org.uk/",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Stoke-on-Trent",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "No live chat; discussion happens on the public potteries-hackspace Google Group, and weekly in-person meetups are the main activity.",
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "tilda-center",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "hardware-help"
+  ],
+  "summary": "A hackerspace in Novi Sad, Serbia, whose stated mission is promoting open hardware, software, networks, data, and knowledge for the local community. It functions as a general maker/open-tech space rather than a security-specific group, coordinating mainly through a public mailing list.",
+  "run_by": "community-run",
+  "website": "http://tilda.center/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "RS",
+  "subdivision": null,
+  "city": "Novi Sad",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "No live chat platform found; join via the public lists.tilda.center mailing list.",
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "labka",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "local-meetups",
+   "hardware-help"
+  ],
+  "summary": "A small hackerspace in Ostrava, Czech Republic, with only a handful of members. Its website is a bare placeholder (\"work in progress, please be patient\"), suggesting a minimal or possibly dormant web presence, with a Mailman list as the only documented way to reach the group.",
+  "run_by": "community-run",
+  "website": "https://labka.cz",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "CZ",
+  "subdivision": null,
+  "city": "Ostrava",
+  "language": "cs",
+  "year_round": true,
+  "event": null,
+  "rules_note": "No live chat; only a Mailman mailing list is listed, and the group's own website is an unfinished placeholder page.",
+  "red_flags": "Website appears to be an unfinished placeholder, which may indicate the space is inactive or has very low current activity.",
+  "confidence": "low"
+ }
+]

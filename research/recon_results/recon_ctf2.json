@@ -1,0 +1,235 @@
+[
+ {
+  "id": "mqcybersec",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups"
+  ],
+  "summary": "Run by students at Macquarie University in Sydney, this is the club's CTF team and cybersecurity society, reviving an earlier iteration in 2024. Members practice for and compete in Capture The Flag competitions together and run study/social sessions for people getting into security; note that campus wifi reportedly blocks the Discord.",
+  "run_by": "community-run (Macquarie University students)",
+  "website": "https://mqcybersec.org",
+  "github": "https://github.com/mqcybersec",
+  "youtube": null,
+  "region": "australia-nz",
+  "country": "AU",
+  "subdivision": null,
+  "city": "Sydney",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "University wifi has been reported to block the Discord invite; join off-campus network if it fails.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "sigflag",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups"
+  ],
+  "summary": "SIGFLAG is the student-run CTF team of Johannes Kepler University Linz, competing mainly in attack-defense format events. They run newcomer-friendly introductory sessions with setup guides (recommended OS, SSH keys, account creation on their self-hosted git server) and welcome people who want to learn alongside more experienced members.",
+  "run_by": "community-run (JKU Linz students)",
+  "website": "https://sigflag.at",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "AT",
+  "subdivision": null,
+  "city": "Linz",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Joining requires creating an account on git.sigflag.at and either meeting an admin, attending an intro event, or emailing the team.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "uoftctf",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "general-infosec",
+   "web-appsec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups"
+  ],
+  "summary": "UofTCTF is the University of Toronto's cybersecurity club and CTF team, describing itself as the largest cybersecurity community on campus. Members compete in outside CTFs, host their own annual UofTCTF competition, and run workshops and social events for students curious about security, open to newcomers as well as experienced players.",
+  "run_by": "community-run (University of Toronto students)",
+  "website": "https://uoftctf.org",
+  "github": "https://github.com/UofTCTF",
+  "youtube": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "ON",
+  "city": "Toronto",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "faust-ctf-2026",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops"
+  ],
+  "summary": "FAUST is the CTF team of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), mostly students interested in IT security who play CTFs regularly and organize the annual FAUST CTF attack-defense competition. They hold semester workshops for new players and coordinate via mailing list and chat, so while this particular invite is tied to a specific yearly event page, it connects into the standing team community.",
+  "run_by": "community-run (FAU Erlangen-Nürnberg students)",
+  "website": "https://faust.cs.fau.de",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Erlangen",
+  "language": "de",
+  "year_round": true,
+  "event": null,
+  "rules_note": "This invite is hosted on a specific year's competition site; the team's general workshops are announced via mailing list/Rocket.Chat on faust.cs.fau.de.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "upb-hack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups"
+  ],
+  "summary": "/upb/hack is the CTF team of Paderborn University, now a registered nonprofit association open to security enthusiasts beyond just students. They compete in CTFs year-round (placing well in events like BruCON and the German Hacking Championship), meet Saturdays during competitions, and explicitly say beginners are always welcome, including an annual beginner-focused CTF for new students.",
+  "run_by": "community-run (Paderborn University, e.V. nonprofit)",
+  "website": "https://upbhack.de",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Paderborn",
+  "language": "de",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Meetings are typically conducted in German but the group switches to English for non-German speakers.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "rwth-aachen-ctf",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "general-infosec",
+   "binary-exploitation"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "writeups"
+  ],
+  "summary": "Pwn-la-Chapelle is the self-described 'officially unofficial' student CTF team of RWTH Aachen University. They meet biweekly on Thursdays, alternating social/CTF-practice sessions with organizational meetings, publish challenge writeups, and explicitly invite newcomers to join the Discord and an in-person event to get started.",
+  "run_by": "community-run (RWTH Aachen students)",
+  "website": "https://pwn-la-chapelle.eu",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Aachen",
+  "language": "de",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Biweekly Thursday 17:00 meetups at RWTH's UMIC building, Seminarraum 205.",
+  "red_flags": null,
+  "confidence": "high"
+ }
+]

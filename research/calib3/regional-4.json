@@ -1,0 +1,1181 @@
+[
+ {
+  "id": "r00thouse",
+  "name": "R00thouse",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking"
+  ],
+  "activities": [
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "latin-america",
+  "country": "BO",
+  "subdivision": null,
+  "city": "La Paz",
+  "language": "es",
+  "run_by": "community-run",
+  "summary": "A very small, grassroots hacklab in La Paz, Bolivia, run by a handful of local hackers and makers who meet to work on tech and open-hardware projects together (profiled in a Visionscarto piece on Bolivian hackers organizing). It's a general hacker/maker community rather than a security-specific one, reachable through a public Riseup mailing list.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in La Paz, Bolivia; ~6 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  See a story about the r00thouse at https://visionscarto.net/los-hackers-de-la-paz-se-organizan. ",
+  "confidence": "listing"
+ },
+ {
+  "id": "le-bib",
+  "name": "Le BIB",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Montpellier",
+  "language": "fr",
+  "run_by": "community-run",
+  "summary": "Le BIB is a small community hackerspace in Montpellier, France, that hosts regular open sessions and a public events calendar for members working on maker and tech projects. It's a general hackerspace rather than a security-focused group, and people connect through a public mailing list rather than a chat platform.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Montpellier, France; ~~60 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  == Le BIB == hackerspace in Montpellier (South of france) == It's on allright ! == - Check out the events calendar here : http://lebib.org/calendrier-bib (fr) ",
+  "confidence": "listing"
+ },
+ {
+  "id": "la-distorsion",
+  "name": "La Distorsion",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "homelab",
+   "general-infosec"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Gif-sur-Yvette",
+  "language": "fr",
+  "run_by": "community-run",
+  "summary": "A volunteer-run hackerspace near Paris-Saclay, France, focused on critical, community-oriented tech practice rather than pure security work. Regulars host weekly Thursday drop-in gatherings, run Linux/sysadmin workshops, host a Tor bridge, and build things like a mobile 'infokiosk'; it suits people interested in hands-on tech, digital rights, and DIY culture more than dedicated infosec training.",
+  "rules_note": "Join via mailing list signup; weekly Thursday evening 'welcoming snack' meetups are the easiest entry point for newcomers.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Saclay, France; ~ members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  La Distorsion est un hackerspace, un espace-temps de rencontre à Paris Saclay pour les personnes intéressées par des pratiques critiques des sciences et des te",
+  "confidence": "listing"
+ },
+ {
+  "id": "hackerspace-adelaide",
+  "name": "HackerSpace Adelaide",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "homelab",
+   "students"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "australia-nz",
+  "country": "AU",
+  "subdivision": "SA",
+  "city": "Adelaide",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A community-run maker group in Adelaide, Australia that meets weekly for hands-on electronics, 3D printing, and general tech projects; it's a general making and tinkering space rather than a security-focused group, welcoming complete beginners with no experience required. People show up to Thursday evening sessions, work on personal projects, and learn from other members.",
+  "rules_note": "Just show up to a Thursday 6-9pm session (suggested $5 donation); no technical experience needed; also has a Facebook group and mailing list.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Adelaide, Australia; ~ members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  At a typical meeting people were working on: Arduino and Lego Mindstorms robots, Amateur (Ham) Radio software and hardware, Arduino, digital music, OLPC, learn",
+  "confidence": "listing"
+ },
+ {
+  "id": "leftclick",
+  "name": "LeftClick",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "SI",
+  "subdivision": null,
+  "city": "Ljubljana",
+  "language": "sl",
+  "run_by": "community-run",
+  "summary": "A small, rapidly-growing hackerspace in Ljubljana, Slovenia, housed within the PLAC autonomous social space; it's a general DIY/tech hangout rather than a security-specific group, run informally by a small core of active members. People join through the space's public mailing list to hear about open hours and projects.",
+  "rules_note": "Join via public mailing list (Postorius/Mailman signup); website's TLS certificate is currently expired, which may deter some visitors.",
+  "red_flags": "Site's HTTPS certificate is expired, so browsers will show a security warning when visiting.",
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Ljubljana, Slovenia; ~10 (active) members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  Left Click is a new hackerspace in Ljubljana, Slovenia. We are rapidly growing and are part of a squat [https://plac.si PLAC] - Participatory Ljubljana Autonom",
+  "confidence": "listing"
+ },
+ {
+  "id": "teesside-hackspace",
+  "name": "Teesside Hackspace",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Middlesbrough",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A member-run nonprofit workshop and hackerspace in Middlesbrough, UK, offering shared tools and space for electronics, making, and general hacking projects. It hosts weekly Tuesday open evenings for newcomers to look around and meet members, and has moved its main chat from Slack to Matrix.",
+  "rules_note": "Attend a Tuesday ~7pm open evening; chat has migrated from Slack to Matrix (joinable via Element or browser), see wiki page for the current link; pay-what-you-think-is-fair membership for 24/7 access.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Middlesbrough, United Kingdom; ~82 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  Teesside Hackspace started at the beginning of 2016 and ticked along in a room at Teesside University (but as a separate entity from the university). Change of",
+  "confidence": "listing"
+ },
+ {
+  "id": "hacklab-to",
+  "name": "HackLab.TO",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "ON",
+  "city": "Toronto",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A member-run community workshop and hackerspace in Toronto, Canada, in the MIT hacker-culture tradition, open to artists, programmers, and hardware tinkerers rather than being security-focused specifically. Members do electronics, 3D printing, metalworking, and creative tech projects, and newcomers are invited to Tuesday night open houses.",
+  "rules_note": "Attend a Tuesday 6pm open house to look around; membership required for ongoing access; announce mailing list at hacklab.to/mailman/listinfo/announce.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Toronto, Canada; ~~60 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  HackLab.TO is a community space with a diverse membership, including artists, computer programmers, web designers, and hardware hackers. It is inspired by the ",
+  "confidence": "listing"
+ },
+ {
+  "id": "mainframe",
+  "name": "Mainframe",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Oldenburg",
+  "language": "de",
+  "run_by": "Kreativität trifft Technik e.V.",
+  "summary": "Mainframe is a large community makerspace in Oldenburg, Germany, run by the nonprofit 'Kreativitat trifft Technik' (Creativity Meets Technology), offering laser cutting, electronics, 3D printing, textiles, woodworking, and even a scanning electron microscope. It's a broad maker/DIY space rather than a security-focused community, running regular workshops for a wide range of ages.",
+  "rules_note": "Join the public mailing list for discussion; check the site's opening times and calendar for drop-in visits.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Oldenburg, Germany; ~100+ members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  The Mainframe is Oldenburg's hackerspace, directly next to the main train station. On about 1200sqm (~13000 sqft) we have * A conference room for 30 people * A",
+  "confidence": "listing"
+ },
+ {
+  "id": "section77",
+  "name": "Section77",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "hacker-culture",
+   "regional",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Offenburg",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "A community-run hackerspace in Offenburg, Germany, where members meet to work on electronics, computer, and general tinkering projects and open the space to visitors during posted open-lab hours. It suits local makers and hobbyists more than dedicated security researchers; there's no live chat, just a public mailing list for coordination.",
+  "rules_note": "Joining is via a public mailman mailing list (lists.section77.de), not a chat platform.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Offenburg, Germany; ~43 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  <!--- Checked by mappall.space bot. Updated manual via http://mapall.space/hswikilist.php --> <!--- Checked by mappall.space bot on 2025-04-01 03:18:04. ** Spa",
+  "confidence": "listing"
+ },
+ {
+  "id": "tog",
+  "name": "TOG",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "hacker-culture",
+   "regional",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "IE",
+  "subdivision": null,
+  "city": "Dublin",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "TOG is a community-run hackerspace in Dublin, Ireland (the name comes from the Irish word for 'build'), where members share tools and workspace for electronics, software, and general maker projects. It's aimed at locals who want a physical space and community to build things, not a security-specific group; coordination happens over a public mailing list rather than a chat platform.",
+  "rules_note": "Joining is via a public mailman mailing list (lists.tog.ie), not a chat platform.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Dublin, Ireland; ~90 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  The name TOG comes from the Irish/Gaelic verb ''tóg'' which in English means ''build'' or ''construct''. If you're interested in helping to build a Hackerspace",
+  "confidence": "listing"
+ },
+ {
+  "id": "freies-labor",
+  "name": "Freies Labor",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "hacker-culture",
+   "regional",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Hildesheim",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "Freies Labor is a community-run hackerspace in Hildesheim, Germany, open to visitors when the lab's door status shows it's open, for electronics, software, and general maker work. It's a small local group for hobbyists rather than a dedicated security community; there's no chat link, just a public mailing list.",
+  "rules_note": "Joining is via a public mailing list (lists.freieslabor.org); check the site for the lab's live door/open status.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Hildesheim, Germany; ~30 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  Check our website and mailing list for meetings and events! You're always welcome to stop by if our lab is open (check [https://freieslabor.org/ door status]).",
+  "confidence": "listing"
+ },
+ {
+  "id": "laboratoire-ouvert-grenoblois",
+  "name": "Laboratoire Ouvert Grenoblois",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "hacker-culture",
+   "regional",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Grenoble",
+  "language": "fr",
+  "run_by": "community-run",
+  "summary": "Laboratoire Ouvert Grenoblois (LOGre / Grenoble Open Lab) is a community-run hackerspace in Grenoble, France, focused on electronics (Arduino, FPGA), 3D printing, repairs, and similar maker projects. It's a general-purpose local making community rather than a security group, coordinating through a public mailing list instead of chat.",
+  "rules_note": "Joining is via a public mailing list linked from the wiki page; no chat platform.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Grenoble, France; ~30 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  aka '''LOG''' aka. '''LOGre''' aka. '''Grenoble Open Lab''' == About the projects == * Electronic stuff (arduino, FPGA) * 3D printing * Repairs * plus a bunch ",
+  "confidence": "listing"
+ },
+ {
+  "id": "taipei-hackerspace",
+  "name": "Taipei Hackerspace",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "hacker-culture",
+   "regional",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "asia",
+  "country": "TW",
+  "subdivision": null,
+  "city": "Taipei",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "Taipei Hackerspace is an open, public DIY workshop in Taipei, Taiwan, where members work on electronics, 3D printing, urban farming, and textile/clothing projects and share tools and knowledge. It's a general community makerspace rather than a cybersecurity-focused group, run through a public Google Group mailing list.",
+  "rules_note": "Joining is via a public Google Group mailing list; the space is accessible near Zhongshan MRT station.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Taipei, Taiwan; ~20 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  Access by metro: Zhongshan station, Exit 1, walk one block along Nanjing West Road, cross Chengde Road, 133 is the first lane on the left. Have plenty of toys ",
+  "confidence": "listing"
+ },
+ {
+  "id": "laboratoire-ouvert-villeurbannais",
+  "name": "Laboratoire Ouvert Villeurbannais",
+  "platform": "mailinglist",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "programming"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Villeurbanne",
+  "language": "fr",
+  "run_by": "community-run",
+  "summary": "A community-run hackerspace/fablab association in Villeurbanne, France, offering a shared workshop for members to build electronics, software and DIY projects together. It's a general maker space rather than a security-focused group, aimed at local hobbyists of any skill level.",
+  "rules_note": "Joins via a public mailing list, not a chat platform.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Villeurbanne, France; ~N/A members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  Le LOV est un hackerspace à Villeurbanne. '''Principes fondateurs du Laboratoire Ouvert Villeurbannais''' Le LOV est une association Villeurbannaise ayant pour",
+  "confidence": "listing"
+ },
+ {
+  "id": "swindon-makerspace",
+  "name": "Swindon Makerspace",
+  "platform": "mailinglist",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "programming"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Swindon",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A community interest company running a physical makerspace in Swindon, UK, where members build and tinker with robots, electronics and other hands-on projects. It's a general hobbyist making community, not a security group, with a small local membership.",
+  "rules_note": "Joins via a public forum/mailing list rather than a chat platform.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Swindon, United Kingdom; ~30 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  We are Swindon Makerspace, a not-for-profit registered C.I.C. (Community Interest Company). We like to break and make things. Many different things – robots, a",
+  "confidence": "listing"
+ },
+ {
+  "id": "ccc-freiburg",
+  "name": "CCC Freiburg",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "general-infosec",
+   "privacy"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Freiburg",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "The Freiburg, Germany chapter of the Chaos Computer Club, a self-organized group of programmers, activists and hackers who run a local hackspace and hold a weekly open meeting (Chaostreff). They work on free-software and data-protection activism alongside general hacking and tech projects, welcoming newcomers to their open-door sessions.",
+  "rules_note": "Joins via mailing list or by visiting the weekly Chaostreff meeting in person; site and community are German-language.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Freiburg, Germany; ~80 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  == CCCFr Hackerspace == built by Chaos Computer Club Freiburg. Find more information on our website [http://cccfr.de Website] (German) or in our wiki [http://c",
+  "confidence": "listing"
+ },
+ {
+  "id": "makers-im-zigerschlitz",
+  "name": "Makers im Zigerschlitz",
+  "platform": "mailinglist",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "programming"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "CH",
+  "subdivision": null,
+  "city": "Näfels",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "A member-run makerspace based at the Näfels/Mollis train station in the Glarus Nord region of Switzerland, offering shared workshop facilities to a diverse group of hobbyists. It's a general making/fabrication community rather than a security-focused one.",
+  "rules_note": "Joins via a public mailing list/contact page rather than a chat platform.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Näfels, Switzerland; ~34 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  Since january 2020 we are located at the trainstation Näfels/Mollis, central to Glarus Nord. We combine great facilities with a diverse group of members and al",
+  "confidence": "listing"
+ },
+ {
+  "id": "lodis",
+  "name": "Lodis",
+  "platform": "mailinglist",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "hacker-culture"
+  ],
+  "activities": [
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "SE",
+  "subdivision": null,
+  "city": "Malmö",
+  "language": "sv",
+  "run_by": "community-run",
+  "summary": "A community-run hackerspace in Malmö, Sweden where members work on personal electronics, woodworking, and making projects together in a shared physical space. It suits local makers looking for tools and company rather than people seeking cybersecurity content.",
+  "rules_note": "No public chat link found; joining is via the mailing list linked from the site's newsletter page.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Malmö, Sweden; ~ members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  '''lodis''' is a hackerspace for people who want to work on projects alongside others. it was started in the beginning of april 2019. <blockquote> lodis: ''a S",
+  "confidence": "listing"
+ },
+ {
+  "id": "hacklab-almer-a",
+  "name": "HackLab Almería",
+  "platform": "mailinglist",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "hacker-culture"
+  ],
+  "activities": [
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "ES",
+  "subdivision": null,
+  "city": "Almería",
+  "language": "es",
+  "run_by": "community-run",
+  "summary": "A community-run hacklab in Almería, Spain bringing together developers, designers, makers, and hobbyists for technological, social, and creative experimentation. It's a general-purpose maker/hacklab space rather than a security-focused community.",
+  "rules_note": "Joining happens via the group's forum (foro.hacklabalmeria.net), not a live chat platform.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Almeria, Spain; ~Ad Hoc members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  HackLab Almería somos un colectivo de experimentación tecnológica, social y creativa. Desarrolladores, diseñadores, fabricantes, periodistas y aficionados reun",
+  "confidence": "listing"
+ },
+ {
+  "id": "doesliverpool",
+  "name": "DoESLiverpool",
+  "platform": "mailinglist",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "hacker-culture"
+  ],
+  "activities": [
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Liverpool",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A Liverpool co-working and makerspace run as a small business, offering desks for freelancers and a workshop for electronics and fabrication projects. It's aimed at local makers and remote workers, not security practitioners.",
+  "rules_note": "Joining is via a public Google Group mailing list, not a live chat platform.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Liverpool, United Kingdom; ~ members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  DoES Liverpool provides co-working office space allowing people to take desks on a monthly or daily basis. We also have a workshop area in which people can wor",
+  "confidence": "listing"
+ },
+ {
+  "id": "calango-hacker-clube",
+  "name": "Calango hacker clube",
+  "platform": "mailinglist",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "hacker-culture"
+  ],
+  "activities": [
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "latin-america",
+  "country": "BR",
+  "subdivision": null,
+  "city": "Brasília",
+  "language": "pt",
+  "run_by": "community-run",
+  "summary": "A small community-run hackerspace in Brasília, Brazil (named after a local lizard) where about two dozen members meet to work on general tech and maker projects together. It's a local social/making space, not a cybersecurity-focused group.",
+  "rules_note": "Joining is via a public Google Group mailing list, not a live chat platform.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Brasilia, Brazil; ~25 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  ==What is a \"Calango\"?== Calango is a kind of lizard common in our region of Brazil. It's scientific name is Tropidurus oreadicus and it's found on the central",
+  "confidence": "listing"
+ },
+ {
+  "id": "victoria-makerspace",
+  "name": "Victoria Makerspace",
+  "platform": "mailinglist",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "hacker-culture"
+  ],
+  "activities": [
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "BC",
+  "city": "Victoria",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A community-run makerspace in Victoria, Canada offering shared tools and workspace for electronics, crafts, and general DIY projects. It suits local hobbyist makers rather than people looking for security-specific discussion.",
+  "rules_note": "Joining is via a public Google Group mailing list, not a live chat platform.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Victoria, Canada; ~~20 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  <!--- Checked by mappall.space bot. WikiMessage En Zo. --> <!--- Checked by mappall.space bot. Updated manual via http://mapall.space/hswikilist.php --> <!--- ",
+  "confidence": "listing"
+ },
+ {
+  "id": "house4hack",
+  "name": "House4Hack",
+  "platform": "mailinglist",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "hacker-culture"
+  ],
+  "activities": [
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "africa",
+  "country": "ZA",
+  "subdivision": null,
+  "city": "Centurion",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A hackerspace based in Centurion, South Africa where roughly a hundred members build electronics, robotics, and other maker projects together. It's a general-purpose hackerspace community, not one oriented toward cybersecurity.",
+  "rules_note": "Joining is via a public Google Group mailing list, not a live chat platform.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Centurion, South Africa, South Africa; ~100 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  <!-- Checked by mapall.space bot on 2020-04-28 00:02. --> <!--- Checked by mappall.space bot. ** Space House4Hack Last modified on wiki 2020-04-28 - days 368 a",
+  "confidence": "listing"
+ },
+ {
+  "id": "szdiy",
+  "name": "SZDIY",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "programming"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "asia",
+  "country": "CN",
+  "subdivision": null,
+  "city": "Shenzhen",
+  "language": "zh",
+  "run_by": "community-run",
+  "summary": "A free-software and open-hardware hackerspace in Shenzhen that meets weekly on Thursday evenings for open project sessions, talks, and general DIY electronics work. It's a general maker community rather than a security-specialist one, but it's open-door and welcoming to newcomers who show up.",
+  "rules_note": "Joins via a public Google Groups mailing list; weekly Thursday 7-10pm in-person meetup is open to anyone who drops by.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Shenzhen, China; ~> 20 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  We gather every Thursday evening from 7 to 10 PM for our meetups. Please refer to our website for more details. Everyone is warmly welcomed to join at any time",
+  "confidence": "listing"
+ },
+ {
+  "id": "hacman",
+  "name": "HACMan",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "programming"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "project-showcase",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Manchester",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "Hackspace Manchester is a member-run communal workshop with woodwork, metalwork, laser cutting, 3D printing, electronics and craft facilities, kept affordable by members volunteering to run training and maintain tools. It's a general making space rather than a cybersecurity group, and welcomes visitors to open-evening tours before joining.",
+  "rules_note": "New visitors are encouraged to attend an open-evening tour before applying for paid membership; also reachable via a Telegram group and public mailing list.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Manchester, United Kingdom; ~100 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  Hackspace Manchester is bigger and better than ever! We have: * Woodwork shop * Metalwork shop * Craft area * Coworking tables * Electronics bench * Chill spac",
+  "confidence": "listing"
+ },
+ {
+  "id": "derby-makers",
+  "name": "Derby Makers",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "programming"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Derby",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A community-run makerspace in Derby that meets twice monthly in person at the Radio Communication Museum of Great Britain and holds a weekly Thursday project catch-up over Zoom. Members build things out of wood, metal, fabric, electronics and code, with recent projects spanning electronics mods, laser cutting, and high-altitude balloons; it's a general hobbyist making group, not a security-focused one.",
+  "rules_note": "Joins via a public Google Groups mailing list; in-person meetups are on the 2nd and 4th Wednesday of the month, 7-10pm, plus a weekly Thursday Zoom call.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Derby, United Kingdom; ~25+ members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  Derby Makers meet every Thursday (6pm-9pm) at the The Radio Communication Museum of Great Britain in Derby. All are welcome, the group is aimed at any maker, i",
+  "confidence": "listing"
+ },
+ {
+  "id": "lancaster-and-morecambe-makers-lamm",
+  "name": "Lancaster And Morecambe Makers (LAMM)",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "programming"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "project-showcase",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Lancaster",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "Lancaster And Morecambe Makers (LAMM) is a paid-membership makerspace in Lancaster city centre offering tools for fabrication, weaving, 3D printing, laser cutting and computer refurbishment, alongside free weekly Wednesday open nights. It's a general making and repair-culture community, not a security-specific one, and actively works with local schools, universities and businesses.",
+  "rules_note": "Free drop-in open nights Wednesdays 6:30-8:30pm; 24/7 access requires paid monthly membership (subsidised student rate available, 16+ with parental permission).",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Lancaster, Lancashire, United Kingdom; ~~14 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  Lancaster And Morecambe Makerspace (LAMM) is a social community where you can stretch your technological, manufacturing or digital wants. The space is voluntar",
+  "confidence": "listing"
+ },
+ {
+  "id": "build-brighton",
+  "name": "Build Brighton",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "programming"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "project-showcase",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Brighton and Hove",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "Build Brighton is a member-run communal workshop of over a hundred makers, designers, tinkerers and engineers, with woodwork, metalwork, electronics, 3D printing and laser cutting facilities and planned Arduino/ESP32/CNC workshops. It's a general making space formed in 2009, not security-focused, and new members attend an open evening before joining.",
+  "rules_note": "Prospective members should attend an open evening (usually alternate Thursdays, 6-8:30pm) to tour the space before applying for paid membership (from £25/month).",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Brighton and Hove, United Kingdom; ~100 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  == BuildBrighton == BuildBrighton is Brighton's hackspace, formed in July 2009. Welcome We are an enthusiastic group of makers working on individual projects, ",
+  "confidence": "listing"
+ },
+ {
+  "id": "tap-lab",
+  "name": "TAP:lab",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner"
+  ],
+  "tags": [
+   "homelab",
+   "regional"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "australia-nz",
+  "country": "NZ",
+  "subdivision": null,
+  "city": "Auckland",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "Based upstairs at the Te Atatū Peninsula Community Centre in West Auckland, this is a community makerspace offering laser cutting, 3D printing, embroidery, and cultural craft workshops such as tukutuku weaving. It is a general creative/maker community rather than a tech-hacking or security one.",
+  "rules_note": "Chat happens on a public Slack workspace (taplabmakers.slack.com).",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Auckland, New Zealand; ~80 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  TAP:lab is a technology-friendly MakerSpace located upstairs in the Te Atatu Peninsula Community Centre, West Auckland. We run a regular schedule of events as ",
+  "confidence": "listing"
+ },
+ {
+  "id": "logout",
+  "name": "Logout",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "privacy",
+   "osint",
+   "general-infosec",
+   "regional",
+   "hacker-culture"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "ES",
+  "subdivision": null,
+  "city": "Barcelona",
+  "language": "es",
+  "run_by": "community-run",
+  "summary": "Run by an anti-corporate, privacy-focused activist collective out of the Can Vies social center in Barcelona, this hacklab holds practical workshops on mobile device security and DNS protection, and publishes tutorials and zines about resisting corporate surveillance and using federated/privacy-respecting alternatives to mainstream platforms. It suits people interested in digital rights, privacy tooling, and grassroots digital security training more than traditional pentesting or CTF topics.",
+  "rules_note": "In-person sessions Thursdays 19:30-22:30 at CSA Can Vies; join the public mailing list to get involved.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Barcelona, Catalonia; ~12 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  Hacklab en el CSA Can Vies - dijous/jueves/thursday de 19:30-22:30h <nowiki> __ __ _____ / /___ ____ _____ __ __/ /_ _ /_ / / / __ \\/ __ `/ __ \\/ / / / __/ - /",
+  "confidence": "listing"
+ },
+ {
+  "id": "comakingspace",
+  "name": "CoMakingSpace",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "programming"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Heidelberg",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "A member-run hackerspace in Heidelberg, Germany, with tiered membership dues and a mailing list rather than a chat platform. Members tinker with electronics, software, and open hardware projects together and explicitly welcome curious beginners who want to learn by building.",
+  "rules_note": "No live chat platform; join via the public comaking-news mailing list, and membership has multiple contribution tiers.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Heidelberg, Germany; ~approx. 60 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  Wie der Name schon andeutet ist uns die \"Community\" besonders wichtig und alle lernbegierigen Bastler sind herzlich willkommen! Es gibt mehrere Beitragsstufen ",
+  "confidence": "listing"
+ },
+ {
+  "id": "potteries",
+  "name": "Potteries",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Stoke-on-Trent",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A community-run hackerspace in Stoke-on-Trent, UK, meeting weekly in person on Tuesday evenings at their Hanley venue. It's a general electronics and making space rather than a dedicated infosec group, with members building and tinkering together and discussion happening over a public Google Group mailing list.",
+  "rules_note": "No live chat; discussion happens on the public potteries-hackspace Google Group, and weekly in-person meetups are the main activity.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Stoke-On-Trent, United Kingdom; ~40+ members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  Potteries Hackspace now meeting at 50 Broad St, Hanley, Stoke on Trent, ST1 4EU every Tuesday from 7pm onwards.",
+  "confidence": "listing"
+ },
+ {
+  "id": "tilda-center",
+  "name": "Tilda Center",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab",
+   "programming"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "hardware-help"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "RS",
+  "subdivision": null,
+  "city": "Novi Sad",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A hackerspace in Novi Sad, Serbia, whose stated mission is promoting open hardware, software, networks, data, and knowledge for the local community. It functions as a general maker/open-tech space rather than a security-specific group, coordinating mainly through a public mailing list.",
+  "rules_note": "No live chat platform found; join via the public lists.tilda.center mailing list.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Novi Sad, Serbia; ~ members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  == Mission Statement == Our mission is to work for a better society by promoting open hardware, software, networks, data and knowledge. Vision Statement: Our V",
+  "confidence": "listing"
+ },
+ {
+  "id": "labka",
+  "name": "Labka",
+  "platform": "mailinglist",
+  "category": "regional",
+  "beginner_friendly": 2,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "hardware-help"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "CZ",
+  "subdivision": null,
+  "city": "Ostrava",
+  "language": "cs",
+  "run_by": "community-run",
+  "summary": "A small hackerspace in Ostrava, Czech Republic, with only a handful of members. Its website is a bare placeholder (\"work in progress, please be patient\"), suggesting a minimal or possibly dormant web presence, with a Mailman list as the only documented way to reach the group.",
+  "rules_note": "No live chat; only a Mailman mailing list is listed, and the group's own website is an unfinished placeholder page.",
+  "red_flags": "Website appears to be an unfinished placeholder, which may indicate the space is inactive or has very low current activity.",
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Ostrava, Czech Republic; ~10 members; no chat link found on its site, public mailing list from the hackerspaces.org wiki.  work in progress, please be patient... ^ ^ O o \\x/ ",
+  "confidence": "listing"
+ }
+]

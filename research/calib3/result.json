@@ -1,0 +1,633 @@
+{
+ "changes": [
+  {
+   "id": "sober-in-cyber",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "general-infosec",
+    "careers",
+    "networking"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Tag 'affinity-neurodivergent' is wrong here: this is a sobriety/recovery community, not a neurodivergent-affinity one (candidate_notes itself flags this as a stretch). Replaced with 'networking' to keep 3 tags; the community is fundamentally about peer/professional connection, not neurodivergence."
+  },
+  {
+   "id": "queer-computer-club",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "affinity-lgbtq",
+    "hardware-hacking",
+    "homelab",
+    "hacker-culture"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Summary describes a general software/game-dev/electronics hackerspace with no mention of security content, so 'general-infosec' overstates relevance; swapped for 'hacker-culture', matching how the sibling hackerspace entry (maschinenraum) is tagged."
+  },
+  {
+   "id": "the-cyber-sentinels-club",
+   "category": "careers",
+   "beginner_friendly": null,
+   "tags": null,
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Core focus is professional networking/mentorship/job-board (tags: careers, mentorship, networking; activities: mentorship, job-board) rather than broad infosec discussion, so 'careers' fits better than 'general'."
+  },
+  {
+   "id": "enoflag-ag-rechnersicherheit-tu-berlin",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": null,
+   "audience": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Summary explicitly says they hold a public Jitsi call for newcomers, contradicting an audience list that excludes beginners entirely."
+  },
+  {
+   "id": "brunel-cybersecurity-society",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": null,
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "red_flags": "Very low member/online counts (7 members, 2 online) suggest limited current activity.",
+   "reason": "Peer entries with similarly tiny counts (hawksec: 6 members, uol-cybersec-dev-team: 14 members) both carry this red_flag; this entry has comparable numbers but none, an inconsistency."
+  },
+  {
+   "id": "hack-pack",
+   "category": null,
+   "beginner_friendly": null,
+   "audience": null,
+   "tags": null,
+   "summary": null,
+   "hide": true,
+   "exclude_reason": "This entry's own discord_description ('Official discord server for the CrunchLabs Hack Pack subscription robots') indicates the invite resolves to CrunchLabs' unrelated robotics-subscription Discord, not NC State's HackPack security club described in the summary/run_by fields — the rules_note itself flags this exact name collision. The large member count (15,041) also fits a consumer subscription-box server far better than a single university club. This looks like a wrong/mismatched invite link rather than the intended community.",
+   "language": null,
+   "region": null,
+   "reason": "discord_description contradicts the rest of the entry, indicating the invite points to a different, unrelated (non-security) Discord server."
+  },
+  {
+   "id": "byuctf",
+   "category": null,
+   "beginner_friendly": null,
+   "audience": null,
+   "tags": [
+    "ctf",
+    "students",
+    "cryptography",
+    "general-infosec"
+   ],
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Removed 'social-engineering' tag — nothing in the summary, discord_description, or candidate_notes supports it; appears to be a mistagging."
+  },
+  {
+   "id": "kanxue-security-forum",
+   "category": "general",
+   "beginner_friendly": null,
+   "audience": null,
+   "tags": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Category 'redteam' is wrong: this is a broad Chinese-language security research forum spanning reverse engineering, malware, mobile/web security and CTF, not an offensive/red-team-focused community — 'general' fits its actual breadth."
+  },
+  {
+   "id": "kaouenn-noz",
+   "category": null,
+   "beginner_friendly": null,
+   "audience": null,
+   "tags": null,
+   "summary": null,
+   "hide": true,
+   "exclude_reason": "Biohacking/bioart/DIY-science collective (water-quality projects, biodesign) with no infosec content; category is currently mislabeled 'hardware' but the actual subject matter (biology/citizen science) is not security-related and doesn't fit any adjacent-hobby category (SDR, homelab, maker, retro).",
+   "language": null,
+   "region": null,
+   "reason": "Not security or hacking related, and doesn't match the adjacent-hobby list; currently mislabeled as category 'hardware' though nothing here is hardware/RF hacking."
+  },
+  {
+   "id": "tdvenlo",
+   "category": "adjacent",
+   "beginner_friendly": null,
+   "tags": null,
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Entry explicitly says the space's name 'intentionally distances itself from' the hacker meaning and teaches kids Arduino/Scratch/3D printing — a non-security craft/maker club, same profile that earned makerspace-bratislava the 'adjacent' category rather than 'regional'."
+  },
+  {
+   "id": "hacklab-mikkeli",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "homelab",
+    "programming",
+    "hacker-culture",
+    "regional"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "'general-infosec' tag contradicts the summary's own statement that it is 'a general maker/hacker community rather than a security-specific group'."
+  },
+  {
+   "id": "datorf-reningen-update",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "homelab",
+    "linux",
+    "hacker-culture",
+    "programming",
+    "networking",
+    "regional"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "'general-infosec' tag contradicts the summary calling it 'a broad hobbyist computing community rather than a security-focused one'."
+  },
+  {
+   "id": "dctrl",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "hardware-hacking",
+    "hacker-culture",
+    "networking",
+    "programming",
+    "homelab",
+    "regional"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "'general-infosec' tag contradicts the summary's 'rather than a strictly security-focused one'."
+  },
+  {
+   "id": "hackerspace-gr",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "hacker-culture",
+    "homelab",
+    "programming",
+    "regional"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "'general-infosec' tag contradicts the summary's explicit 'learning around technology broadly, not specifically security'."
+  },
+  {
+   "id": "hackerspace-bitlair",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "hacker-culture",
+    "homelab",
+    "programming",
+    "regional"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "'general-infosec' tag contradicts the summary's parenthetical '(not security-focused)'."
+  },
+  {
+   "id": "arete-study",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "homelab",
+    "students",
+    "hacker-culture",
+    "regional"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "'general-infosec' contradicted the summary's 'rather than security-specific'; swapped for hacker-culture (matches summary) since removing it alone would leave only 2 tags."
+  },
+  {
+   "id": "grenoble-hackerspace",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "homelab",
+    "hacker-culture",
+    "regional"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Only had 2 tags (below the 3-8 minimum) and the one being dropped, 'general-infosec', contradicted the summary's 'rather than security-focused'; replaced with hacker-culture/regional to match the summary and restore a valid tag count."
+  },
+  {
+   "id": "taylor-street-creative-space",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "homelab",
+    "badgelife-maker"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Tag 'general-infosec' directly contradicts the summary, which explicitly says this is a general maker/craft space (3D printing, laser cutting, sewing, repair) rather than a security or hacking group; swapped for a maker-fitting tag matching peer 'adjacent' entries like Milton Keynes Makerspace."
+  },
+  {
+   "id": "mechartlab",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "homelab",
+    "badgelife-maker",
+    "hacker-culture"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Tag 'general-infosec' contradicts the summary, which states this is an electronic-art/DIY-synth collective 'rather than security specifically'; removed the mismatched tag, kept the maker/hacker-culture tags that fit."
+  },
+  {
+   "id": "micropython",
+   "category": "tool",
+   "beginner_friendly": null,
+   "tags": [
+    "iot-embedded",
+    "programming",
+    "homelab",
+    "tool-support"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "This is the official single-product support Discord for the MicroPython project, not a non-security hobby community — fits category 'tool' (one product/project support) far better than 'adjacent'; added the 'tool-support' tag accordingly."
+  },
+  {
+   "id": "nerd2nerd",
+   "category": null,
+   "beginner_friendly": 2,
+   "tags": null,
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Summary explicitly says it 'suits people already comfortable in hacker/maker circles more than absolute beginners' and audience already excludes beginners entirely — bf=3 ('mixed, assumes basics') overstates it versus the scale's bf=2 ('mostly intermediate/advanced')."
+  },
+  {
+   "id": "codinglab",
+   "category": null,
+   "beginner_friendly": 3,
+   "tags": null,
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "No beginner-welcoming language in the summary, and the rules_note says the IRC channel is password-gated and access must be requested via the website — this is less beginner-accessible than peer entries (MuCCC, Kiberpipa, CCCAC, ChaosStuff) that carry the same generic profile but were rated bf=3, not 4."
+  },
+  {
+   "id": "foulab",
+   "category": "regional",
+   "beginner_friendly": null,
+   "tags": null,
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Self-described as a hackerspace ('one of the first hackerspaces in Canada') carrying the hacker-culture tag — matches the profile of numerous peer entries filed under 'regional' (e.g. Das Labor, Backspace, 57North) rather than 'adjacent', which this group otherwise reserves for non-hacker-branded craft/maker spaces."
+  },
+  {
+   "id": "edinburgh-hacklab",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "homelab",
+    "general-infosec",
+    "regional",
+    "hardware-hacking"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Only 2 tags, below the 3-8 minimum and thin next to every other regional entry in this file; added 'regional' (matches its category, as nearly every peer has) and 'hardware-hacking' (matches its listed hardware-help activity)."
+  },
+  {
+   "id": "south-london-makerspace",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": null,
+   "audience": null,
+   "summary": "A non-profit, member-run community workshop in a self-renovated railway arch in Herne Hill, London, with shared tools for 3D printing, laser cutting, electronics, woodworking, and textiles. Members use a Discourse forum to discuss projects, workshops, and space logistics; it's a general maker community rather than a dedicated cybersecurity group.",
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Original summary opened with the server's own name and stated an explicit member count ('~350 paying members'), both against the style rule; rewritten to the same facts without those."
+  },
+  {
+   "id": "unit",
+   "category": null,
+   "beginner_friendly": 2,
+   "tags": null,
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Summary states the space suits established FLOSS/DIY people 'more than newcomers looking for structured security learning' plus a members-only manifesto gate — matches scale 2 (mostly intermediate/advanced), not 3."
+  },
+  {
+   "id": "ccc-berlin",
+   "category": null,
+   "beginner_friendly": 2,
+   "tags": null,
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Audience already excludes beginners and the summary says it suits people already into hacker culture/CCC activism 'more than security beginners specifically' — matches scale 2, not 3."
+  },
+  {
+   "id": "takt",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "homelab",
+    "networking",
+    "programming"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "general-infosec tag contradicts summary explicitly calling this a general maker/DIY space, not security-focused."
+  },
+  {
+   "id": "lag",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "homelab",
+    "programming",
+    "linux"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "general-infosec tag contradicts summary, which calls this a community learning space rather than a security-training group."
+  },
+  {
+   "id": "east-essex-hackspace",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "homelab",
+    "hardware-hacking",
+    "programming"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "general-infosec tag contradicts summary, which calls this a general hackspace/makerspace rather than a security-focused group."
+  },
+  {
+   "id": "bytewerk",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "homelab",
+    "programming",
+    "linux"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "general-infosec tag contradicts summary, which describes general programming/tech events rather than security-specific training."
+  },
+  {
+   "id": "hackstub",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "homelab",
+    "programming",
+    "linux"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "general-infosec tag contradicts summary, which explicitly says this is rather than security-specific training."
+  },
+  {
+   "id": "saskatoon-techworks",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "homelab",
+    "hardware-hacking",
+    "regional"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "general-infosec tag contradicts summary, which calls this a general maker community rather than a security-focused group."
+  },
+  {
+   "id": "nerdbridge",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "regional",
+    "hardware-hacking",
+    "homelab"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "general-infosec tag is unsupported; summary describes a small, low-key general tinkering group with no security content mentioned."
+  },
+  {
+   "id": "fuz",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "hacker-culture",
+    "hardware-hacking",
+    "regional",
+    "homelab"
+   ],
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "general-infosec tag contradicts summary, which explicitly calls this a hacker-culture/DIY space rather than a security-training group."
+  },
+  {
+   "id": "hackland",
+   "category": null,
+   "beginner_friendly": 3,
+   "tags": null,
+   "audience": [
+    "beginner",
+    "intermediate"
+   ],
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "bf=2 (mostly intermediate/advanced) contradicts an audience listed as beginner-only and a neutral, non-gatekept summary; raised to match peer general makerspaces."
+  },
+  {
+   "id": "italian-hackers-embassy",
+   "category": null,
+   "beginner_friendly": 2,
+   "tags": null,
+   "audience": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Summary explicitly says it doesn't suit someone looking for structured beginner guidance and audience is intermediate/advanced only, so bf3 overstates it; lowered to 2."
+  },
+  {
+   "id": "labka",
+   "category": null,
+   "beginner_friendly": 3,
+   "audience": null,
+   "tags": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "bf=2 implies intermediate/advanced-only content, but nothing in the entry supports that — it's just small and possibly dormant (placeholder site). Peer tiny/quiet hackerspaces in this group (e.g. r00thouse, ~6 members) are rated 3; activity level isn't the same axis as beginner-friendliness."
+  },
+  {
+   "id": "tilda-center",
+   "category": null,
+   "beginner_friendly": null,
+   "audience": null,
+   "tags": null,
+   "summary": null,
+   "hide": false,
+   "exclude_reason": null,
+   "language": "sr",
+   "region": null,
+   "reason": "Local hackerspace in Novi Sad, Serbia labeled language 'en' with no evidence the group operates in English; every comparable local hackerspace in this group is labeled with the local language (mainframe/de, le-bib/fr, hacklab-almeria/es, lodis/sv), so this looks like a copy-paste default rather than a verified fact."
+  }
+ ],
+ "duplicates": [],
+ "notes": [
+  "affinity-0: blackgirlshack-microsoft-teams-membership's candidate_notes explicitly flag it as the same org as an existing Discord listing (discord.gg/gCQ8Hu2CQ7) on a different platform — that Discord entry is not in this group file, so no in-group duplicate action was taken, but the whole-directory maintainer should check whether both entries exist elsewhere and are still wanted as separate listings. A cluster of general-tech (not security-specific) affinity communities with a security-interest channel — colorstack, operation-code, techqueria, lgbtq-in-technology-slack, out-in-tech, techvets — is inconsistently tagged: some carry 'general-infosec', others don't, and none of this is clearly wrong enough to fix without risking over-editing; flagging for the directory owner's judgment on where the line for inclusion/tagging should sit. Separately, the great majority of summaries in this file open with the organization's own name (WSC, Haecksen, InfosecGirls, ColorStack, Cyversity, VeteranSec, Operation Code, WOMCY, CryptoHarlem, BlackGirlsHack, WiCyS, WISP, Out in Tech, TechVets, Techqueria, VetSec, Blacks In Cybersecurity, Queer Computer Club) — this is the dominant style across the batch rather than an isolated outlier, so I left it alone rather than rewriting roughly two-thirds of the file; worth a deliberate style pass if the directory wants to break that pattern. No hide-worthy entries, no red_flags, no region/language mislabels, and no beginner_friendly score was egregious enough versus peers to warrant a change beyond the two tag fixes above.",
+  "ctf-0: Reviewed all 44 entries. Most beginner_friendly scores, categories, and tags are internally consistent and well-calibrated (e.g. kalmarctf and laboratoire-sys-s-cu-tudiants correctly scored low for elite/advanced-only communities; hashdump, ucl, imperial, ou-cyber-security-society correctly scored high with explicit beginner-welcome language). No true duplicates within this group (Cornell's CHC and IIT Bombay's IITBreachers are mentioned as related/alternate names inside other entries' text but are not separately listed here). Noted but did not change: Durham CompSoc and MACS are both general computing societies with only incidental CTF/security activity, categorized 'ctf' here — this matches an existing pattern used consistently across the file for university tech societies with a security thread, so left as-is rather than reclassifying to 'general'/'adjacent'. Also noted rhul-cyber-security-society-26-27 (20 members) and ctf-club-fr (36 members) are quite small but already have context (rules_note flags rhul's small size) or are plausible for a small student team, so were not flagged like brunel. The candidate_notes field for glasgow-university-hacksoc appears to be copy-pasted from an unrelated entry (mentions \"ENUSEC: Edinburgh Napier University Security Society\") — likely a pipeline/scrape artifact, but candidate_notes isn't a displayed field so left unchanged.",
+  "ctf-1: Reviewed all 22 entries. Most beginner_friendly ratings, categories, and tag sets are internally consistent with their summaries and candidate_notes. Two changes made: (1) hack-pack — the discord_description field directly contradicts the rest of the entry, strongly suggesting the invite link actually resolves to CrunchLabs' unrelated robotics Discord rather than NC State's HackPack security club (the rules_note already flags the name collision risk); recommending hide rather than a data patch since we cannot independently verify which server the invite truly points to. (2) byuctf — dropped an unsupported 'social-engineering' tag.\n\nOther things noticed but left as-is: byuctf has confidence='guess' and its own rules_note already flags uncertainty about whether the invite is a standing club server vs. a one-off event server — no further action needed, already transparently caveated. faust-ctf-2026 and rwth-aachen-ctf both have a 'name' field naming the university/event while the actual server's real identity (FAUST, Pwn-la-Chapelle) appears only in the summary/discord_description — not a category/tag/bf issue so left alone, but a display-name inconsistency worth knowing about. sigflag's join process (git account + admin meeting/intro event/email) is a real friction point for casual beginners despite bf=4; kept it since the club explicitly runs newcomer-friendly intro sessions to lower that bar. No duplicates found in this group — all entries are distinct university/community CTF teams in different cities/countries. No region/language mislabels found (vi/de/zh/en all match their stated countries). No platform-count issues since all entries are Discord with populated member/online fields.",
+  "misc-0: Group is small (3 entries). kanxue-security-forum: recategorized from redteam to general; bf=3/audience intermediate-advanced left as-is since it matches the mixed/assumes-basics description. kaouenn-noz: hidden as out of scope (biohacking/citizen-science hackerspace, not infosec or a listed adjacent hobby); also note its tags (hardware-hacking, homelab) don't match its actual biology/DIY-science focus, moot given the hide. opensage: category 'tool' and bf=2 are appropriate for a single-project AI-agent-framework Discord; left unchanged. Flagged but not actionable: opensage's candidate_notes field references an unrelated CTFtime academic team, which looks like a data-pipeline mixup from another entry — worth checking upstream since candidate_notes isn't a reviewed field here. No duplicates found in this group.",
+  "regional-0: This whole file is regional hackerspaces/makerspaces (mostly general hacker-culture or craft/maker spaces), not infosec-specific communities — that's consistent with the 'regional' category definition and not itself a problem. I found a recurring pattern worth flagging beyond what I changed: several entries carry a 'general-infosec' tag that a different researcher clearly added as a default/catch-all even where the entry's own summary explicitly disclaims a security focus (e.g. 'rather than security-specific', 'not security-focused'). I fixed the 7 most clear-cut/self-contradictory cases (hacklab-mikkeli, datorf-reningen-update, dctrl, hackerspace-gr, hackerspace-bitlair, arete-study, grenoble-hackerspace — the last two also had only 2 tags, below the 3-tag minimum). A few borderline cases I deliberately left alone because the tag isn't clearly wrong: hackerspace-lodz (does mention 'occasional cybersecurity-themed sessions'), chaos-inkl and c3d2 (CCC-affiliated, technical/infosec-adjacent culture, no explicit denial), glasgow-hackerspace and tokyo-hackerspace (no explicit 'not security' language in the summary, just generic maker description). If a stricter pass is wanted, those five are the next candidates for the same tag review.\n\nAlso flagged only tdvenlo for regional->adjacent recategorization (it explicitly disclaims the 'hacker' label and teaches Arduino/Scratch/3D printing to kids). MAKE NTNU (Trondheim) has a similar profile — 3D printing, sewing/embroidery, courses, no hacker-identity language — and could arguably also be 'adjacent' by the same logic that separated makerspace-bratislava out, but it's less explicit about rejecting the hacker framing so I left it as 'regional' rather than push past the conservative-change budget.\n\nBeginner-friendliness scores were largely internally consistent across this batch (lots of 3s/4s for 'drop-in, welcoming, no formal barrier' spaces, 5s reserved for spaces with explicit no-experience-needed framing like hackmz and dezentrale-erkelenz). No clear duplicates found — no two entries describe the same physical space or organization. No entries meet the hide criteria; red_flags on arete-study (small/quiet Discord) is informational, not disqualifying. No language/region mislabels stood out as clearly wrong from the data given (Kyiv Hackerspace's language:en and Happy Hacking Space's region:middle-east for Diyarbakır are both plausible, not obviously incorrect).",
+  "regional-1: Group is almost entirely physical hackerspaces/Chaostreffs/CCC chapters scraped from hackerspaces.org, most explicitly general maker/tech communities rather than dedicated infosec groups — this appears to be an accepted convention for the 'regional' category throughout this file (paired with a loosely-applied 'general-infosec' tag on ~25 entries), so I left that broad pattern alone and only fixed the two 'adjacent'-category outliers (Taylor Street, MechArtLab) where the tag directly contradicted the summary within their own category cluster.\n\nAlso pervasive: most summaries open with the entity's own name ('X is a hackerspace in...'), which is literally rule 4's rewrite trigger, but it's the near-universal house style across ~80% of this file's entries, not an isolated mistake — rewriting all of them would blow well past a conservative edit and looks like a dataset-wide generation convention rather than a one-off error, so I did not flag it.\n\nThe 'regional' vs 'adjacent' category split for general craft/maker spaces with no hacker branding (e.g. ENTS in Edmonton, Ko-Lab, Vaasa Hacklab, Milton Keynes, Taylor Street) looks inconsistently applied beyond the one fix I made (FOULAB) — worth a broader pass by someone reviewing across all regional-*.json files at once, since fixing it properly here would mean recategorizing roughly 8-10 entries on a judgment call I'm not confident is uniquely correct.\n\nHacker Embassy (Yerevan, Armenia) is tagged region 'middle-east' — Armenia's regional bucket is genuinely ambiguous across common taxonomies (sometimes Europe, sometimes Western Asia/Caucasus, sometimes Middle East); left as-is since no clearly-better option was evident from the other regions used in this file.\n\nNo duplicates found within this group, no hide-worthy entries (nothing illegal/scam/NSFW, and the pure maker/craft spaces fit the category list's explicit 'adjacent' definition of maker/hobby communities), and no platform-related member-count penalization issues.",
+  "regional-2: This file is ~60 European/UK/AU/regional hackerspaces (not Discord-only), platform-aware nulls for members/online look correctly applied throughout. Two systemic patterns I noticed but did NOT change because they affect a large fraction of the batch uniformly (not isolated outliers, and fixing all instances would blow past the 5-20% budget): (1) roughly 9 entries (leitstelle511-ccch, odenwilusenz, ccc-mannheim, stratum-0, chaosdorf, binary-kitchen, hsbne, xhain, init-lab) omit the 'regional' tag that almost every other entry in this category carries — each still has 3+ tags so no rule is technically broken, just a minor inconsistency; (2) the large majority of summaries open with the server's literal name ('X is a hackerspace...'), which is the batch's de facto house style rather than an isolated marketing-fluff violation, so I only rewrote south-london-makerspace where it combined with the member-count problem. No duplicates found — every city/organization in this group is distinct (e.g. CCC Mannheim and RaumZeitLabor are both real, separate Mannheim groups). No entries met the hide criteria; kangoulya-org already carries an honest red_flags note about its confusing/inconsistent official site content, which is the right treatment rather than hiding it outright. Region label 'africa' for h3o-fablab (Réunion, a French overseas department) and kangoulya-org (Tunisia) both look correct geographically, no change made.",
+  "regional-3: Beyond the changes made, two things worth flagging for a human but not acted on: (1) Many category=\"regional\" entries (kika, greeklug, machw3rk, open-space-aarhus, ballarat-hackerspace, base-12, turku-hacklab, chaostreff-dortmund, matehackers, namespace-gera, munich-maker-lab, chaostreff-ch, and others) lack the \"regional\" tag that most peer regional entries carry — looks like researcher inconsistency across the batch rather than a factual error, so left alone rather than touching ~13 entries for one cosmetic tag. (2) The \"revelation-space\" entry's own summary and candidate_notes consistently refer to the organization as \"RevSpace,\" not \"Revelation space\" — the name field looks like a garbled/mistranslated version of the real name, but \"name\" isn't an editable field in this review, so it's flagged here instead. (3) usc-cyborg's candidate_notes mentions \"University of South Carolina (Columbia, US)\" while every other field (Viterbi School of Engineering, Los Angeles, CA) is internally consistent with University of Southern California — left unchanged since the entry's own data holds together, but the candidate_notes discrepancy suggests the sourcing pipeline may have briefly confused two same-initialed schools; worth a human sanity check if possible.",
+  "regional-4: This group is 28 mailing-list hackerspaces/makerspaces pulled from the hackerspaces.org wiki (near-identical candidate_notes phrasing), not Discord infosec communities. Most have zero security content (electronics, 3D printing, woodworking, craft). About 20-22 of them are categorized \"regional\" (r00thouse, le-bib, hackerspace-adelaide, leftclick, teesside-hackspace, hacklab-to, mainframe, section77, tog, freies-labor, laboratoire-ouvert-grenoblois, taipei-hackerspace, szdiy, hacman, derby-makers, lancaster-and-morecambe-makers-lamm, build-brighton, tap-lab, comakingspace, potteries, tilda-center, labka) while roughly 8 structurally identical generic maker/hackerspaces (laboratoire-ouvert-villeurbannais, swindon-makerspace, makers-im-zigerschlitz, lodis, hacklab-almeria, doesliverpool, calango-hacker-clube, victoria-makerspace, house4hack) are categorized \"adjacent\" — same content type, same lack of security focus, same tag vocabulary, but two different categories. Per the taxonomy, \"adjacent\" (non-security hobby: maker) is the better fit for the \"regional\"-labeled batch too, since none of them have infosec content — the exceptions being ccc-freiburg, logout, and la-distorsion, which do have genuine privacy/digital-security activity and reasonably stay \"regional.\" I did not bulk-reclassify the ~20 entries myself given the instruction to be conservative (this would be roughly 70% of the group), but flagging it here since it's a clear, large-scale category inconsistency that a human editor should resolve — likely by moving most of the \"regional\" hackerspace entries to \"adjacent\" to match their already-correct peers. Also worth a look but not changed: tap-lab's audience is [\"beginner\"] only (no \"intermediate\") while bf=3 implies a mixed audience — likely just a missing array entry rather than a real signal."
+ ]
+}

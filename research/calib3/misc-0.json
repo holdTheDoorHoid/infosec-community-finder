@@ -1,0 +1,112 @@
+[
+ {
+  "id": "kanxue-security-forum",
+  "name": "Kanxue (看雪) Security Forum",
+  "platform": "forum",
+  "category": "redteam",
+  "beginner_friendly": 3,
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "reverse-engineering",
+   "binary-exploitation",
+   "malware-analysis",
+   "ctf",
+   "mobile-security",
+   "web-appsec"
+  ],
+  "activities": [
+   "chat",
+   "q-and-a",
+   "ctf-events",
+   "job-board"
+  ],
+  "members": null,
+  "online": null,
+  "region": "asia",
+  "country": "CN",
+  "subdivision": null,
+  "city": null,
+  "language": "zh",
+  "run_by": "community-run",
+  "summary": "看雪 (Kanxue) is a major Chinese-language security research forum founded in 2000, focused heavily on reverse engineering, binary vulnerabilities, packing/unpacking, Android/iOS security, and CTF, alongside a security job board. It is community-run under the Kanxue/pediy brand and has grown into one of the largest Chinese infosec forums with nearly a million registered members. It best suits Chinese-speaking intermediate-to-advanced practitioners interested in reverse engineering and binary security rather than newcomers looking for beginner hand-holding.",
+  "rules_note": "Forum uses a temporary-to-formal member progression system for full posting/download privileges; site returned 403 to direct fetch so details are based on search results.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: non-english; org: bbs.kanxue.com; join: free-signup; scope: security. Major Chinese reverse-engineering / software security forum founded 2000, sections for reverse engineering, Android/iOS security, CTF, etc. Site blocked direct WebFetch (403), so registration flow and any QQ-group link could not be visually confirmed — based on search-result description only.",
+  "confidence": "guess"
+ },
+ {
+  "id": "kaouenn-noz",
+  "name": "Kaouenn-noz",
+  "platform": "matrix",
+  "category": "hardware",
+  "beginner_friendly": 3,
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "hacker-culture",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "workshops",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Rennes",
+  "language": "fr",
+  "run_by": "community-run",
+  "summary": "Kaouenn-noz is a biohackerspace and DIY-science collective based in Rennes, France, focused on bioart, biohacking, biodesign, and hands-on life-science and environmental projects (such as a water-quality initiative called Hack2Eaux). It suits people interested in citizen science and biology-adjacent hacking more than traditional infosec, and coordinates through a shared Matrix biohacking room.",
+  "rules_note": "Matrix room (#diybio-biohacking:matrix.org) is a general DIY-bio room shared across groups, not exclusive to this space.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Rennes, Brittany, France; founded 2014/09/01. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  We are individuals who gather and assemble not satisfied with four walls and a roof. We light campfires to practice techniques together, we survey the sciences in and with the living, we revisit tech",
+  "confidence": "listing"
+ },
+ {
+  "id": "opensage",
+  "name": "OpenSage",
+  "platform": "discord",
+  "category": "tool",
+  "beginner_friendly": 2,
+  "audience": [
+   "advanced"
+  ],
+  "tags": [
+   "ai-security",
+   "ctf",
+   "programming",
+   "reverse-engineering"
+  ],
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "members": 21,
+  "online": 1,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "OpenSage project (open-source, contributors unlisted)",
+  "summary": "OpenSage is an open-source framework for building AI agents that can autonomously develop and train other agents, and the team behind it built SageCTF, an AI agent that competed in a CTF at DEF CON 2026. The Discord is a small discussion space for the underlying software (agent development kit, inference/training tooling) rather than a general security-learning community, so it mainly suits developers already working on AI-driven offensive security tooling.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Academic CTF team on CTFtime (https://ctftime.org/team/429571, country US, academic flag True); Discord link found on the team website.",
+  "confidence": "official"
+ }
+]

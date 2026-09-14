@@ -2,64 +2,81 @@
 
 Generated 2026-09-14.
 
-- Servers in database: **867** (visible 718, hidden as off-topic/rejected 147, dead invites 2)
-- Name-only leads that could not be resolved to a working invite: 368
+- Servers in database: **1281** (visible 1109, hidden as off-topic/rejected 170, dead invites 2)
+- Name-only leads that could not be resolved to a working invite: 415
 - Organizations checked and confirmed to have no public Discord (Slack/Matrix/forum instead, or none): 921
 
 ## Visible servers by category
 
-- tool: 156
-- learning: 80
-- regional: 68
-- ctf: 68
-- general: 62
+- regional: 352
+- tool: 158
+- ctf: 138
+- learning: 81
+- general: 66
 - conference: 51
 - hardware: 37
 - blueteam: 36
 - creator: 34
-- adjacent: 32
+- adjacent: 33
+- affinity: 32
 - redteam: 24
 - appsec: 20
 - osint: 19
-- careers: 14
+- careers: 15
 - village: 13
-- affinity: 4
 
 ## Visible by platform
 
-- discord: 585
+- discord: 717
+- matrix: 130
+- irc: 56
+- forum: 55
 - reddit: 47
-- forum: 40
-- slack: 21
-- matrix: 9
-- irc: 7
+- mailinglist: 42
+- slack: 39
+- portal: 13
 - mastodon: 7
-- mattermost: 2
+- mattermost: 3
 
 ## Beginner-friendliness distribution (visible)
 
 - 1: 4
-- 2: 136
-- 3: 208
-- 4: 254
-- 5: 116
+- 2: 145
+- 3: 349
+- 4: 451
+- 5: 160
 
 ## Languages (visible)
 
-- en: 663
-- fr: 16
-- es: 12
-- pt: 8
-- de: 5
-- pl: 3
+- en: 820
+- de: 125
+- fr: 41
+- es: 19
+- nl: 13
+- pt: 12
+- pl: 11
+- ru: 8
+- it: 8
+- fi: 8
+- no: 6
+- sv: 6
+- zh: 5
+- cs: 5
 - ar: 2
-- zh: 2
-- ru: 2
-- nl: 1
-- cs: 1
-- no: 1
-- tr: 1
+- tr: 2
+- el: 2
+- sr: 2
+- sl: 2
+- da: 2
+- bg: 2
 - ja: 1
+- sk: 1
+- hr: 1
+- hu: 1
+- mk: 1
+- id: 1
+- vi: 1
+- uk: 1
 
 ## Largest 25 (members)
 
@@ -93,6 +110,7 @@ Generated 2026-09-14.
 
 - / MONOKUMA: This is a Danganronpa (anime/game) fandom server, unrelated to cybersecurity or hacking despite surfacing on an SDR/security-adjacent search.
 - /r/Tamagotchi: auto: GitHub repo with no security-related description/topics
+- 091 Labs: General collaborative hackerspace for technology-focused creative projects in Galway; no stated cybersecurity focus.
 - 4 Finns - SWBF2: Star Wars Battlefront II gaming community focused on modded servers and reporting in-game cheaters ('hackers' in the gaming-cheater sense), not cybersecurity.
 - [nwr] Clan & Reports | Roblox BedWars: Roblox BedWars gaming clan/cheater-reporting server, not a security community
 - Agent OPFOR: auto: GitHub repo with no security-related description/topics
@@ -111,6 +129,7 @@ Generated 2026-09-14.
 - BENJI CENTRAL: Gaming/streamer fan community (Brazilian creator B3NJI), not security-related
 - BentoPDF: BentoPDF is a general-purpose PDF editing/conversion toolkit; its client-side/no-upload design is a privacy convenience feature, not a security or hacking focus
 - binsider.: auto: GitHub repo with no security-related description/topics
+- BINUS University Official: This is the official general-purpose Discord for all of BINUS University in Jakarta (all faculties, 17,800+ members) covering campus life broadly, not a securit
 - Black Veil Brides: Official fan server for the band Black Veil Brides, not security-related
 - blah2: auto: GitHub repo with no security-related description/topics
 - Blue Flames: A 'team of editors' (video/graphic editing) community, unrelated to security; matched only on 'Blue'.
@@ -124,6 +143,7 @@ Generated 2026-09-14.
 - clawdstrike: Only 3 total members and the entry itself notes it is 'effectively unlaunched as a community' — nothing here for a visitor to join or learn from yet.
 - Clickswave: auto: GitHub repo with no security-related description/topics
 - CS Majors: General computer science / tech career community (interview prep, general CS chat) with only incidental security-related channels, not a security-focused server
+- Cyberhippietotalism: Not a security/hacking community or a listed adjacent hobby — it's an off-grid intentional-living/anti-capitalist collective focused on permaculture, renewable 
 - DataTorch: DataTorch is a browser-based computer-vision data-annotation/labeling platform (positioned as a coco-annotator successor); it has no cybersecurity focus, so it 
 - Deconstruction Junction: Community for people deconstructing from religion, not security-related
 - DedSec Project: auto: GitHub repo with no security-related description/topics
@@ -131,13 +151,17 @@ Generated 2026-09-14.
 - Defcon Zero: Despite the DEF CON-like name, this is a game development server for an indie project, unrelated to the security conference or infosec.
 - Demozoo: Demoscene archival/preservation community, not a security or hacking topic and not on the listed adjacent-hobby list.
 - DFIR-IRIS: auto: GitHub repo with no security-related description/topics
+- Digital Glarus: General coworking/digital innovation hackerspace in Glarus, Switzerland; no cybersecurity focus, listing appears stale (last checked 2020).
 - DigitalChaosClub: This is a politics-focused discussion server (per its own listing category), not a security community — mistagged 'privacy' on the source listing site, and it i
 - Discord Servers: Not a real specific community — invite_url is a generic/broken 'discord.gg/servers' link and the entry is a discord-directory listing page, not an actual server
 - Dusk Community: Blockchain/crypto project community, not security-related
+- Escape: Small generic hackerspace/maker community in Arvika, Sweden with no security or hacking focus; listing itself appears stale (blog-based, last confirmed years ag
 - ESPHome: Firmware framework support community for smart-home devices, not security-focused
 - Everything AI: auto: GitHub repo with no security-related description/topics
 - Faithful: A Minecraft resource-pack creation community, unrelated to security or hacking.
 - FalconForce: auto: GitHub repo with no security-related description/topics
+- FeM: FeM e.V. is a university association running campus network, broadcast/media, and technical infrastructure services at TU Ilmenau; it explicitly does not define
+- Fife Hackspace: Small general-purpose hackspace/makerspace with no security or hacking-culture focus specified.
 - Findomain: auto: GitHub repo with no security-related description/topics
 - FingerprintJS: auto: GitHub repo with no security-related description/topics
 - FLOZz' Home: auto: GitHub repo with no security-related description/topics
@@ -146,19 +170,27 @@ Generated 2026-09-14.
 - fun: Discord server named "fun" whose only description references the optimizerDuck GitHub repo; optimizerDuck is a Windows performance/debloat tweaking tool, not a 
 - Fusiora | VPS, Web Hosting and Dedicated: This is a VPS/game-server hosting company's support Discord; 'cyber security' is used as a marketing buzzword rather than reflecting any actual security/hacking
 - g4f: auto: GitHub repo with no security-related description/topics
+- GarageLab eV: General FabLab/makerspace (woodworking, ceramics, bicycle repair, textiles) with no security or hacking focus.
+- Ghost Za Hacker Society: No verifiable public community found — the only trace is a Slack invite link in one person's GitHub bio; no website, no other mentions, no way to confirm it's a
 - Grand Blue | Temple: Anime/manga fandom server for the works of specific manga creators, not security related.
 - GStore: A server for sharing free games, promotions, and deals; not security related.
+- HACK PACK: This entry's own discord_description ('Official discord server for the CrunchLabs Hack Pack subscription robots') indicates the invite resolves to CrunchLabs' u
+- HackBU: General hackathon/web-dev club, not security-focused — weekly workshops teach web and mobile development and the club runs a general hackathon, with no security
+- HackerGarage: General collaborative maker/creation space in Guadalajara with no stated security or hacking-culture focus.
 - HackinGO: This is a game-cheat community (cheat development/use and game-file analysis for gaming), not a security-research or infosec-learning space.
+- HasGeek House: General tech events/community coworking space covering many topics (data engineering, Rust, systems, food tech); not focused on security or hacking.
 - headscale: auto: GitHub repo with no security-related description/topics
 - Hister: auto: GitHub repo with no security-related description/topics
 - Homarr: auto: GitHub repo with no security-related description/topics
 - Home Assistant: General home-automation support community, not security-focused
 - HyperDbg: auto: GitHub repo with no security-related description/topics
+- IN-Berlin: Primarily a nonprofit internet service provider (hosting, vServers, domains, peering) rather than an active hacking/security discussion or learning community; n
 - InfoSec VPN: This invite link (discord.gg/infosec) no longer points to the infosec learning community it was originally listed for (The Many Hats Club, which disbanded in Ju
 - Intercollegiate Discord: General college-student community for research, non-profits, and startups; not focused on security or hacking despite appearing in a cybersecurity Discord list.
 - IronShield Studio: No official website, project, or independent source confirms this as a genuine security community — it appears to be an unlabeled discord-directory listing with
 - ISLM: A cryptocurrency/coin community (Islamic Coin on HAQQ network), a financial/crypto project rather than security or hacking.
 - Jones Inc: Discord's own description ('Jones' Chaotic Space' - tech enthusiasts, coding, design, cosmic vibes) does not match the candidate GitHub project (a Petlibro pet-
+- Kaouenn-noz: Biohacking/bioart/DIY-science collective (water-quality projects, biodesign) with no infosec content; category is currently mislabeled 'hardware' but the actual
 - KPCG: Krunker game moderation/anti-cheat reporting community, not a cybersecurity server; 'hackers' here means in-game cheaters.
 - KVA FAM: Gaming/esports and roleplay community, not security-related
 - Labyrinth: Tagline ('Hackers enter. Legends remain.') and gaming/programming directory placement give no verifiable indication of genuine security/hacking content; reads a
@@ -169,13 +201,14 @@ Generated 2026-09-14.
 - LinuxServer.io: Self-hosting/Docker container support community, not security-focused
 - Lost Lectures | LL | CGT: Esports/gaming team server (tryouts, players, casters, referees) with no security content despite the name resembling a talk series.
 - LunaTranslator: LunaTranslator is a visual-novel translation tool community, not a security/hacking or listed adjacent-hobby space.
-- Lvl 1 - Louisville Hackerspace: General community hackerspace/makerspace (laser cutting, LED projects, tool access) with no stated cybersecurity/hacking focus.
+- M-Labs: Hong Kong hackerspace/lab focused on open physics tools and hardware, not cybersecurity; appointment-only visits, tiny forum community.
 - Make:: General maker/hobbyist Discord (Maker Faire Asheville) with no security or hacking focus.
 - Margelo Community: auto: GitHub repo with no security-related description/topics
 - Mario Kart Modding Community: Video game modding/hacking community for the Mario Kart series, a gaming fandom rather than cybersecurity.
 - MFOC: General maker/hobbyist community (Maker Faire Orange County) with no security or hacking focus.
 - Mimicry: The Discord invite (10 members, 0 online, no description) does not correspond to the chaitin/mimicry deception-tool project; searches tie this invite pattern to
 - Misono Mika's Tea Party: Anime/VTuber fan hangout server, not security related.
+- Miss Despoinas Hackspace: The listed website (miss-hack.org) has been taken over and now serves an unrelated online-gambling promotion page, not the hackerspace; no working official site
 - MissesVirus Family: Appears to be a general content-creator fan/hangout server for updates and events, not a security or hacking-focused community despite the 'virus' name.
 - offsec: duplicate of OffSec: Both entries are the official OffSec (Offensive Security) Discord; 'offsec' has 96,527 members vs 909 for 'offsec-2', indicating the latter
 - Old School Boosting: Old School RuneScape boosting/game-service server, not security-related
@@ -192,6 +225,7 @@ Generated 2026-09-14.
 - Pinewood Builders Security Team: Roleplay/gaming server for a Roblox faction ('paramilitary force' in a sci-fi game), not real-world information security
 - pret: This is the community for pret's Pokémon game disassembly projects (pokered, pokecrystal, etc.) — retro game ROM-hacking/reverse-engineering as a game-fandom ho
 - PRISEC | Private Security Organization: Roblox/SCP faction-warfare gaming community themed around a fictional 'security' faction, not real information security
+- Programming Club, IIT Kanpur: This is IIT Kanpur's general Programming Club Discord, covering competitive programming, web3, graphics, hackathons and more; infosec is only one vertical among
 - Proton: Proton's Discord is the general community for its consumer privacy/productivity product suite (Mail, VPN, Drive, Pass), not a security/hacking community; it's a
 - Proxmox VE Helper-Scripts Community Support: auto: GitHub repo with no security-related description/topics
 - PS2 Recomp: auto: GitHub repo with no security-related description/topics
@@ -215,10 +249,14 @@ Generated 2026-09-14.
 - Shadow Unix: Could not verify what this server actually is; the paired GitHub candidate (AllHackingTools, a generic Termux hacking-tools collection) does not match the serve
 - Smart Elephant Exclusive Club: This is an NFT/crypto 'exclusive club' community, not security-related — mistagged 'blue-team' on the source listing site.
 - SoftScale - Web Agency & SaaS: This is a commercial web-development/SaaS agency's client and marketing Discord (websites, web apps, Discord bots, SEO), not a security or hacking community; th
+- Spartan Hackers: General hackathon/CS-project club at Michigan State University ('We Code Projects to Get Money/Prizes/Internships') with no dedicated security focus; MSU has a 
 - St. Louis Blues: NHL sports team fan server, not a security community; matched only on the word 'Blues'.
 - Sunone: auto: GitHub repo with no security-related description/topics
+- SYNCS USYD: SYNCS is the University of Sydney's general computing society (social events, weekly BBQ, LeetCoding club) with no stated cybersecurity focus; a separate, disti
 - Tasmota: Open-source firmware support community for smart plugs/switches, not security-focused
 - TECH HAUS: Markets itself as a commercial product ('UNLIMITED access to F.R.A.N.K') selling jailbreak frameworks for AI models rather than functioning as a genuine educati
+- Technistub: A general fablab/makerspace (laser cutting, CNC, 3D printing, robot-fighting tournaments); no cybersecurity or computer-hacking focus.
+- The Gamer Club Glasgow: Primarily a gaming/social members club (tabletop, video games, LAN space) with an incidental electronics/3D-printing hackerspace room; not a security or hacking
 - THE HOUSE OF FLIES | Deftones Discord Server: Music fan server for the band Deftones, not related to security or hacking
 - The Pirates' Plunder: General pirate/gaming-themed chat community with no discernible security or hacking focus found in any listing or description.
 - The Security Breach Show 🍕 FNaF: This is a Five Nights at Freddy's (FNaF) fan community discussing the 'Security Breach' game and a related fan show, not real-world cybersecurity.
@@ -227,6 +265,7 @@ Generated 2026-09-14.
 - Trickest: auto: GitHub repo with no security-related description/topics
 - Trunk-Recorder: auto: GitHub repo with no security-related description/topics
 - Tyrrrz: Open Source: auto: GitHub repo with no security-related description/topics
+- UMN Blockchain: The Discord invite and description are for a University of Minnesota web3/blockchain discussion server ('We talk and share about web3/blockchain'), not a securi
 - Undertale Yellow: Fan server for the Undertale Yellow game; no security or hacking content.
 - Universal Android Debloater Next Generation: UAD-NG is an Android app-debloating/device-management GUI, not a security or hacking tool; it touches privacy only incidentally (fewer bundled apps), which is n
 - VD Racing League: F1 sim-racing league/gaming community, not security-related
@@ -238,6 +277,7 @@ Generated 2026-09-14.
 - ✦「 Endless 」✦: Gaming/fandom server centered on the Umamusume game plus Art, Azur Lane, and UFC discussion; no security content.
 - 你也要玩AI吗？: Server name ('你也要玩AI吗？' — roughly 'Don't you want to play with AI too?') and available signals point to a general Chinese-language AI hobbyist chat, not a secur
 - 𝗞 ✘ ᕈ 彡 𝗚𝗔𝗠𝗜𝗡𝗚 𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗧𝗬.𝗽𝘃𝘁: Esports/gaming tournament organization, not security-related
+- 🐮Φ FSR Informatik: This is the general student-council (Fachschaftsrat) Discord for the Computer Science department at Saarland University — broad department chat, not a dedicated
 
 ## Confirmed without a public Discord
 

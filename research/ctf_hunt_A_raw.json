@@ -1,0 +1,872 @@
+{
+ "found": [
+  {
+   "name": "K17 (UNSW SecSoc)",
+   "university": "University of New South Wales (UNSW)",
+   "platform": "discord",
+   "join_url": "https://discord.gg/s6urQ4h3sG",
+   "source_url": "https://linktr.ee/secsoc",
+   "website": "https://unswsecurity.com/",
+   "country": "AU",
+   "subdivision": "NSW",
+   "city": "Sydney",
+   "notes": "K17's aliases list SecSoc/UNSW directly. Discord link (2,293+ members) found on SecSoc's official Linktree, which also links their site unswsecurity.com.",
+   "confidence": "official"
+  },
+  {
+   "name": "MQCyberSec",
+   "university": "Macquarie University",
+   "platform": "discord",
+   "join_url": "https://discord.gg/aWAajZcZtp",
+   "source_url": "https://linktr.ee/mqcybersec",
+   "website": "https://mqcybersec.org/",
+   "country": "AU",
+   "subdivision": "NSW",
+   "city": "Sydney",
+   "notes": "Primary club Discord (~1,233 members) listed on MQCyberSec's official Linktree, page notes 'uni wifi blocks' it. Club also has related Women in Computing and MACS Discords, but this is the primary one.",
+   "confidence": "official"
+  },
+  {
+   "name": "SIGFLAG",
+   "university": "Johannes Kepler University (JKU) Linz",
+   "platform": "discord",
+   "join_url": "https://discord.gg/5SvkDWs",
+   "source_url": "https://sigflag.at/participate/",
+   "website": "https://sigflag.at/",
+   "country": "AT",
+   "subdivision": null,
+   "city": "Linz",
+   "notes": "Discord invite is on the team's own 'Join Us' page, described as organised by students of JKU Linz.",
+   "confidence": "official"
+  },
+  {
+   "name": "misc",
+   "university": "University of Melbourne",
+   "platform": "discord",
+   "join_url": "https://discord.gg/PybR9kpBMn",
+   "source_url": "https://www.umisc.club/",
+   "website": "https://www.umisc.club/",
+   "country": "AU",
+   "subdivision": "VIC",
+   "city": "Melbourne",
+   "notes": "Team name 'misc' = Melbourne Information Security Club (MISC), UniMelb's official cybersecurity/CTF club, est. 2017, ~545 Discord members per club site text. Invite link seen on umisc.club homepage via WebFetch.",
+   "confidence": "official"
+  },
+  {
+   "name": "CyberRookie",
+   "university": "Southeast University",
+   "platform": "discord",
+   "join_url": "https://discord.gg/0xcyberrookie",
+   "source_url": "WebSearch result summarizing https://cyber-rookie.xyz and CTFtime team page https://ctftime.org/team/372632/",
+   "website": "https://cyber-rookie.xyz",
+   "country": "BD",
+   "subdivision": null,
+   "city": "Dhaka",
+   "notes": "Could not directly WebFetch cyber-rookie.xyz (blocked: 'unable to verify domain is safe') so the invite URL comes from a WebSearch results summary, not a page I read myself directly -- treat as listing-level confidence, worth a manual re-check before publishing.",
+   "confidence": "listing"
+  },
+  {
+   "name": "UofTCTF",
+   "university": "University of Toronto",
+   "platform": "discord",
+   "join_url": "https://discord.gg/MxuUeCtRVA",
+   "source_url": "https://discord.uoftctf.org (redirects to discord.gg/MxuUeCtRVA); also listed on github.com/UofTCTF org profile",
+   "website": "https://uoftctf.org",
+   "country": "CA",
+   "subdivision": "ON",
+   "city": "Toronto",
+   "notes": "Official club Discord confirmed via both the club's own discord.uoftctf.org vanity redirect and its GitHub org page.",
+   "confidence": "official"
+  },
+  {
+   "name": "ENOFLAG",
+   "university": "TU Berlin (AG Rechnersicherheit e.V.)",
+   "platform": "discord",
+   "join_url": "https://meet.enoflag.de/erstis",
+   "source_url": "http://ag-rechnersicherheit.de/",
+   "website": "https://enoflag.de/",
+   "country": "DE",
+   "subdivision": null,
+   "city": "Berlin",
+   "notes": "enoflag.de redirects to ag-rechnersicherheit.de. No persistent Discord/Slack/Matrix invite found; the site advertises a Jitsi meeting room (meet.enoflag.de/erstis) for hybrid in-person/online meetings, not a standing chat community. Listed as 'join_url' only loosely - treat as guess-confidence.",
+   "confidence": "guess"
+  },
+  {
+   "name": "FAUST",
+   "university": "Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)",
+   "platform": "discord",
+   "join_url": "https://discord.gg/H57RVYabwq",
+   "source_url": "https://2023.faustctf.net/contact/",
+   "website": "https://www.fau.eu/",
+   "country": "DE",
+   "subdivision": null,
+   "city": "Erlangen",
+   "notes": "Discord invite is on the FAUST CTF 2023 competition site's contact page ('Come join us on Discord!'), run by FAUST, FAU's CTF team. It is the event Discord rather than a confirmed standing team community server, but is the only public chat link found.",
+   "confidence": "listing"
+  },
+  {
+   "name": "upbhack",
+   "university": "Paderborn University",
+   "platform": "discord",
+   "join_url": "https://discord.gg/F2FFY9e",
+   "source_url": "https://upbhack.de/",
+   "website": "https://www.uni-paderborn.de/en/",
+   "country": "DE",
+   "subdivision": null,
+   "city": "Paderborn",
+   "notes": "upbhack.de states '/upb/hack is the CTF team at Paderborn University'; Discord invite found directly on the team's own homepage.",
+   "confidence": "official"
+  },
+  {
+   "name": "Pwn-la-Chapelle",
+   "university": "RWTH Aachen University",
+   "platform": "discord",
+   "join_url": "https://discord.gg/Ubjqwm7N3B",
+   "source_url": "https://pwn-la-chapelle.eu",
+   "website": "https://www.rwth-aachen.de/",
+   "country": "DE",
+   "subdivision": null,
+   "city": "Aachen",
+   "notes": "Team's own site (pwn-la-chapelle.eu) describes itself as 'the officially unofficial CTF team of RWTH Aachen University' and encodes the Discord invite as base64 next to 'If you're new, join the Discord and attend one of our in-person CTF events'; decoded verbatim from the page's own base64 string.",
+   "confidence": "official"
+  }
+ ],
+ "not_found": [
+  {
+   "name": "KSAL Cyber Team",
+   "university": null,
+   "checked": "Fetched ksal.team (no invite links found; site mentions DEF CON Group DC38338 and a Kosovo/Albania cybersecurity team, not a clearly named home university). WebSearch for 'KSAL Cyber Team Kosovo discord' turned up unrelated results (LinkedIn, unrelated Kosovo Discord servers, a separate 'Kosova Cyber Team' org at kosovacyber.team). No public chat link found."
+  },
+  {
+   "name": "0xb00b5",
+   "university": null,
+   "checked": "Given website (transdata.no) is an unrelated third-party site, not the team's; ctftime.org/team/171794 returned HTTP 403. No search spent (throwaway-looking listing)."
+  },
+  {
+   "name": "SYPER",
+   "university": "Universidad Nacional de La Plata (UNLP)",
+   "checked": "Fetched unlp.edu.ar (university's general site, no mention of SYPER or any club). WebSearch quota for the session was exhausted before a targeted SYPER query could run."
+  },
+  {
+   "name": "GiG Gehackt ist Geil",
+   "university": null,
+   "checked": "Given website (transdata.no) is an unrelated third-party site; ctftime.org/team/438200 returned HTTP 403. No search spent (throwaway-looking listing)."
+  },
+  {
+   "name": "HgbSec",
+   "university": "University of Applied Sciences Upper Austria, Campus Hagenberg",
+   "checked": "Fetched hgbsec.at, hgbsec.at/join/, and hgbsec.at/about/; none list a Discord/Slack/Matrix link, only a join@hgbsec.at contact email. WebSearch for 'HgbSec discord' also found no server link."
+  },
+  {
+   "name": "KuK Hofhackerei",
+   "university": null,
+   "checked": "Fetched hofhackerei.at: described as 'Austria's CTF Merger Team' drawing from TU Wien, University of Vienna, JKU, TU Graz and FH St. Pölten collectively, with no single home university/city and no public chat link listed on the page."
+  },
+  {
+   "name": "LosFuzzys",
+   "university": "TU Graz (Graz University of Technology)",
+   "checked": "Fetched isec.tugraz.at (403), the TU Graz LosFuzzys student-team page, and searched web; only found an email (teamnoSpam@losfuzzys.net), Twitter, and a physical lab address (FuzzyLab, Inffeldgasse 16a). The only Discord link found was event-specific (GlacierCTF 2025: discord.gg/DFYnRAME23), not a general team/community invite, so not reported as the team's public chat."
+  },
+  {
+   "name": "S1gW0zzys",
+   "university": null,
+   "checked": "Given website (transdata.no) is an unrelated third-party site; ctftime.org/team/365480 returned HTTP 403. No search spent (throwaway-looking listing)."
+  },
+  {
+   "name": "WE_0WN_Y0U",
+   "university": "TU Wien / University of Vienna",
+   "checked": "Fetched w0y.at and searched web; team is Vienna-based (mentions SBA Research, Floragasse 7, 1040 Wien) and uses Mattermost internally per the site text, but no public Mattermost/Discord/Slack invite URL was found."
+  },
+  {
+   "name": "ACERGION",
+   "university": null,
+   "checked": "Website (transdata.no) is an unrelated Norwegian company site, not a university -- entry looks mismatched/throwaway (aliases include joke names like 'The Jura-Tempest Federation'). Skipped search spend per instructions; no public chat link found."
+  },
+  {
+   "name": "BRACU_SHIKARI",
+   "university": "BRAC University",
+   "checked": "CTFtime page (403 blocked). Search found a general 'BRAC University CSE' Discord server (discord.com/invite/brac-university-cse-972198949731573780) but could not confirm it is specifically this CTF team's community rather than a general CSE department server, so not reporting it as the team's link."
+  },
+  {
+   "name": "Cyb3r Invasion Army(CIA)",
+   "university": "Bangladesh University of Professionals (BUP)",
+   "checked": "Own site found (cyberinvasionarmy.com) but WebFetch blocked it as an unverified domain; searches for a discord.gg link tied to that domain returned nothing before search budget ran out. CTFtime page 403."
+  },
+  {
+   "name": "CyberRookie",
+   "university": "Southeast University",
+   "checked": "see found list -- included there, but with lower confidence since I could not directly fetch the source page."
+  },
+  {
+   "name": "DU_Black_Noodles",
+   "university": null,
+   "checked": "Own site (dublacknoodles.netlify.app) fetched but returned no body content/links via WebFetch. CTFtime page 403. Search turned up nothing specific. University unclear -- likely Dhaka University given country BD, but not confirmed."
+  },
+  {
+   "name": "Null Script Infiltrators",
+   "university": "Bangladesh University of Professionals (BUP)",
+   "checked": "Website is bup.edu.bd (general university site); CTFtime page 403; no team-specific search performed (ran out of budget/overlap with BUP)."
+  },
+  {
+   "name": "PSTU_CtrlAltDelicious",
+   "university": "Patuakhali Science and Technology University",
+   "checked": "University clubs page fetched directly -- no cybersecurity/CTF/programming club listed at all, let alone a chat link. CTFtime page 403. Search found nothing team-specific."
+  },
+  {
+   "name": "R_OxPloit3rs",
+   "university": "Rajshahi University of Engineering & Technology (RUET)",
+   "checked": "University homepage fetched -- no student club or Discord/Slack/Matrix links found; only academic 'Cyber Security' research area mentioned. CTFtime page 403. Search found nothing team-specific."
+  },
+  {
+   "name": "Rea11y Annoying Bots(RAB)",
+   "university": "Bangladesh University of Professionals (BUP)",
+   "checked": "Website is bup.edu.bd (general university site); CTFtime page 403; no dedicated search performed given budget constraints and low odds (same university as two other BUP teams already checked)."
+  },
+  {
+   "name": "Team_Namikaze",
+   "university": "University of Dhaka, CSE",
+   "checked": "CSE department page fetched directly -- no CTF team or chat platform mentioned. CTFtime page 403. Search returned only unrelated Dhaka football clubs and a general CSEDU Facebook page, nothing team-specific."
+  },
+  {
+   "name": "CS Team - Inatel",
+   "university": "Instituto Nacional de Telecomunicações (Inatel)",
+   "checked": "Search found only Inatel's own CTF/Telecom Challenge event pages (organized by the institution, not this specific team) with no Discord/Slack/Matrix link. CTFtime page 403."
+  },
+  {
+   "name": "Duckware",
+   "university": null,
+   "checked": "ctftime.org/team/355851 (403 blocked); listed website is a dead/parked domain (transdata.no) unrelated to the team; no searches spent — no university signal in name to justify one"
+  },
+  {
+   "name": "GRIS",
+   "university": "Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil",
+   "checked": "blog.gris.dcc.ufrj.br, ctf-br.org/wiki/gris-ufrj, github.com/grisufrj, Facebook/YouTube/X profiles, ctftime page (403) — university confirmed but no Discord/Slack/Matrix link found anywhere; group appears to coordinate via Facebook/GitHub only"
+  },
+  {
+   "name": "Ganesh",
+   "university": "University of São Paulo (USP), São Carlos, Brazil",
+   "checked": "ganesh.icmc.usp.br, github.com/GANESH-ICMC, ctftime page (403), Twitter/YouTube/Facebook profiles — university confirmed (ICMC campus, São Carlos) but no public Discord/Slack/Matrix invite found"
+  },
+  {
+   "name": "Hawksec UNIFEI",
+   "university": "Federal University of Itajubá (UNIFEI), Itajubá, Brazil",
+   "checked": "linktr.ee/hawksec, hawksec.gitbook.io/pt, instagram.com/hawksec_unifei, github.com/HawkSecUnifei, ctftime page (403) — university confirmed but Linktree/gitbook/Instagram list only GitHub, LinkedIn, CTFtime, Threads; no chat-platform link"
+  },
+  {
+   "name": "SeaDragons",
+   "university": null,
+   "checked": "ctftime.org/team/191005 (403 blocked); listed website is the same dead/parked domain (transdata.no) as Duckware, unrelated; no university-identifying info to justify a search"
+  },
+  {
+   "name": "Beavers0",
+   "university": "Yanka Kupala State University of Grodno (probable, per prior WebSearch result), Grodno, Belarus",
+   "checked": "ctf-spcs.mf.grsu.by (fetch blocked by domain-safety check), ctftime page (403); a WebSearch summary described the team as students of the Dept. of System Programming and Computer Security at Grodno State University but surfaced no Discord/Slack/Matrix link"
+  },
+  {
+   "name": "Han Shangyan Solo Run",
+   "university": null,
+   "checked": "ctftime.org/team/407809 (403 blocked); listed website is the same dead/parked transdata.no domain; aliases (K&K Esports) suggest an esports/solo player rather than a university club, no search spent"
+  },
+  {
+   "name": "Hexploit Alliance",
+   "university": "Concordia University, Montreal, QC, Canada",
+   "checked": "hexploitalliance.com homepage and /discord path — university affiliation confirmed in page copy; site only links Instagram, LinkedIn, GitHub and an event site (athackctf.com), no chat-platform invite present"
+  },
+  {
+   "name": "Qu4cks",
+   "university": "Queen's University (probable, per website queensu.ca given in listing)",
+   "checked": "WebSearch found only the general Queen's Computing Society Discord (discord.com/invite/XnVUp8z), not a link specifically tied to the Qu4cks/Qu4ck3rs/h0nks CTF team; ctftime page (403 blocked); did not report the Computing Society link as this team's own channel since it isn't verifiably the same group"
+  },
+  {
+   "name": "Shell We Hack?",
+   "university": "University of New Brunswick (per website unbcybersec.com)",
+   "checked": "unbcybersec.com — repeated WebFetch attempts failed (socket closed / connection errors) before any content could be read; ctftime page (403 blocked); no search budget remained to try alternate routes"
+  },
+  {
+   "name": "Status 418",
+   "university": null,
+   "checked": "ctftime.org/team/361970 (403 blocked); listed website is the same dead/parked transdata.no domain; generic team name with no university signal, no search spent"
+  },
+  {
+   "name": "VortexOps",
+   "university": "Collège communautaire du Nouveau-Brunswick (CCNB)",
+   "checked": "CCNB cybersecurity program page (ccnb.ca/programmes/cybersecurite/) returned HTTP 403 to WebFetch; no WebSearch budget remained (shared workflow budget hit 200/200 before this team could be searched). No public Discord/Slack/Matrix link found."
+  },
+  {
+   "name": "WATCTF",
+   "university": "University of Waterloo",
+   "checked": "WebSearch found watctf.org and github.com/uwaterlooctf plus ctf.uwaterloo.ca. watctf.org itself could not be fetched (WebFetch domain-verification block), ctf.uwaterloo.ca refused connection, and the GitHub org page showed only the website link, no Discord invite. No public chat link confirmed; team is based in Waterloo, ON, CA."
+  },
+  {
+   "name": "magpies",
+   "university": null,
+   "checked": "Listed website (transdata.no) is a placeholder/unrelated site, not the team's real page. Treated as a low-odds throwaway per instructions; no search spent given exhausted budget."
+  },
+  {
+   "name": "swørdfish",
+   "university": null,
+   "checked": "Same placeholder website (transdata.no) as magpies; no university name evident. Skipped as low-odds; no search budget remained."
+  },
+  {
+   "name": "flagbot",
+   "university": "ETH Zurich (ETHZ)",
+   "checked": "WebFetch on flagbot.ch/about and flagbot.ch homepage: the team explicitly states their Discord invite is only given out in person at weekly Monday meetings (CAB H52) — confirmed NOT a public/self-serve invite link, so excluded. Based in Zurich, CH."
+  },
+  {
+   "name": "0RAYS",
+   "university": "Hangzhou Dianzi University (HDU)",
+   "checked": "WebSearch found team site 0rays.club, but WebFetch refused to fetch that domain (verification block). No Discord/QQ link confirmed. Likely Hangzhou, CN."
+  },
+  {
+   "name": "0ops",
+   "university": "Shanghai Jiao Tong University (SJTU)",
+   "checked": "WebFetch on 0ops.sjtu.cn showed only a broken/404-style page with no chat links. WebSearch surfaced ctf.0ops.sjtu.cn and tctf.0ops.top but no Discord/QQ link found within budget. Likely Shanghai, CN."
+  },
+  {
+   "name": "0psu3",
+   "university": null,
+   "checked": "Placeholder website (transdata.no); no real site or university evident from CTFtime page (CTFtime itself blocks WebFetch with 403). Skipped as low-odds given exhausted search budget."
+  },
+  {
+   "name": "Azure Assassin Alliance",
+   "university": "Zhejiang University (ZJU)",
+   "checked": "WebSearch found github.com/Deturium/School-Bus README confirming ZJU affiliation and pointing to zjusec.com; that domain refused connection (ECONNREFUSED) to WebFetch. README mentioned a QQ group number is embedded in a CTF flag (not a directly public invite), no Discord link found. Likely Hangzhou, CN."
+  },
+  {
+   "name": "BIT",
+   "university": "Beijing Institute of Technology",
+   "checked": "WebSearch for BIT CTF team discord/QQ returned only generic BIT Wikipedia results, no team-specific chat link. bit.edu.cn WebFetch failed (socket closed). No search budget remained for a refined query. Likely Beijing, CN."
+  },
+  {
+   "name": "CyberUniCorn",
+   "university": null,
+   "checked": "Placeholder website (transdata.no); no real site found. Search budget exhausted before a query could be run for this team. CTFtime page itself returns 403 to WebFetch."
+  },
+  {
+   "name": "Dawn",
+   "university": null,
+   "checked": "Placeholder website (transdata.no); known as a notable Chinese XCTF-affiliated team but exact university could not be confirmed — search budget exhausted before this could be checked, and CTFtime page (ctftime.org/team/5386) returns 403 to WebFetch."
+  },
+  {
+   "name": "Del0n1x",
+   "university": "Harbin Institute of Technology, Shenzhen (HITSZ)",
+   "checked": "ctftime.org/team/283146 (403 Cloudflare block), hitsz.edu.cn (fetch failed/empty). No team-specific site or GitHub org found within budget."
+  },
+  {
+   "name": "HASHTEAM",
+   "university": "Shandong University (SDU)",
+   "checked": "ctftime.org/team/267394 (403 Cloudflare block); no team-specific site found; WebSearch unavailable (session budget exhausted)."
+  },
+  {
+   "name": "Kap0k",
+   "university": "unclear - listed website was a broken/placeholder domain (transdata.no)",
+   "checked": "ctftime.org/team/35749 (403); website field appears invalid/not the team's actual site."
+  },
+  {
+   "name": "L",
+   "university": "Xidian University, Xi'an, Shaanxi, China (club: XDSEC 西电信安协会)",
+   "checked": "Confirmed via github.com/xdsec org page: XDSEC is Xidian's security association (Xi'an, Shaanxi). Tried www.xdsec.org directly for a Discord/QQ/Slack link but got HTTP 403. ctftime.org/team/11724 also 403. No public chat invite link located within budget."
+  },
+  {
+   "name": "L3H Sec",
+   "university": "Huazhong University of Science and Technology (HUST), Wuhan",
+   "checked": "github.com/L3HSec org page (no description/links visible, only one unrelated repo); l3h.pw / www.l3h.pw unresolvable (DNS error); ctftime.org/team/75946 403."
+  },
+  {
+   "name": "Lilac",
+   "university": "Harbin Institute of Technology (HIT), Harbin",
+   "checked": "ctftime.org/team/15163 (403); hit.edu.cn not fetched; no team-specific site or GitHub org found within budget."
+  },
+  {
+   "name": "Never Stop Exploiting",
+   "university": "University of Chinese Academy of Sciences (UCAS)",
+   "checked": "ctftime.org/team/13575 (403); scs.ucas.ac.cn is a generic school page, not team-specific; WebSearch unavailable (session budget exhausted)."
+  },
+  {
+   "name": "Nu1L",
+   "university": "unclear - Nu1L is a merged/composite Chinese team, not a single university club",
+   "checked": "nu1l.com fetched but returned empty content; blog.nu1l.com unresolvable (DNS error); github.com/nu1l is an individual user profile with no links; ctftime.org/team/19208 403."
+  },
+  {
+   "name": "Overf1ow",
+   "university": "unclear - listed website was a broken/placeholder domain (transdata.no), same as Kap0k",
+   "checked": "ctftime.org/team/379613 (403); website field appears invalid."
+  },
+  {
+   "name": "Ph0en1x",
+   "university": "Xiamen University (XMU)",
+   "checked": "ctftime.org/team/27422 (403); xmu.edu.cn is a generic university homepage, not team-specific; WebSearch unavailable (session budget exhausted)."
+  },
+  {
+   "name": "ROIS",
+   "university": "Fuzhou University (FZU) - team's own site rois.io resolves",
+   "checked": "Fetched rois.io homepage successfully - only nav links (blog/about/members/honors), no Discord/Slack/QQ link on the fetched excerpt. rois.io/about, rois.io/members, rois.io/blog all returned 404. ctftime.org/team/6476 403. No public chat link found within budget."
+  },
+  {
+   "name": "Redbud",
+   "university": "Tsinghua University, Beijing",
+   "checked": "redbud.team domain unresolvable (DNS error); tsinghua.edu.cn is generic university homepage, not team-specific; ctftime.org/team/20555 403; WebSearch unavailable (session budget exhausted)."
+  },
+  {
+   "name": "Spirit+",
+   "university": "Jilin University",
+   "checked": "jlu.edu.cn homepage (no mention); ctftime.org/team/23234 blocked by Cloudflare (403); no public Discord/Slack/Matrix found. Chinese teams typically use QQ groups, not public chat platforms."
+  },
+  {
+   "name": "Syclover",
+   "university": "Chengdu University of Information Technology",
+   "checked": "sycsec.com fetched — lists GitHub (SycloverTeam), WeChat, Weibo, Bilibili, email contact@sycsec.com, but no Discord/Slack/Matrix. github.com/SycloverTeam org page checked, no chat links. ctftime.org/team/455 blocked by Cloudflare."
+  },
+  {
+   "name": "USTC-NEBULA",
+   "university": "University of Science and Technology of China",
+   "checked": "en.ustc.edu.cn homepage has no mention. Guessed GitHub org github.com/USTC-Hacker returned 404. ctftime.org/team/168863 blocked by Cloudflare. No search budget remained to find correct GitHub org/site."
+  },
+  {
+   "name": "V&N",
+   "university": null,
+   "checked": "Listed website http://www.transdata.no/ appears to be a mismatched/incorrect entry unrelated to the team (a Norwegian data company site, not fetchable — connection refused). ctftime.org/team/106087 blocked by Cloudflare. No usable data source found; no search budget remained."
+  },
+  {
+   "name": "Vidar-Team",
+   "university": "Hangzhou Dianzi University (HDU)",
+   "checked": "hdu.edu.cn homepage no mention. github.com/vidar-team org page found, links to https://vidar.club/ (location listed as Hangzhou, China); vidar.club fetched but page has only a header/tagline, no chat links. ctftime.org/team/8211 blocked by Cloudflare."
+  },
+  {
+   "name": "W4terDr0p",
+   "university": "Sun Yat-sen University (SYSU)",
+   "checked": "cse.sysu.edu.cn no mention. github.com/W4terDr0p org page found (described as 'The CTF Team from SYSU'), links to https://w4terdr0p.team which failed DNS resolution (ENOTFOUND). ctftime.org/team/162987 blocked by Cloudflare. No public chat link found."
+  },
+  {
+   "name": "Xp0int",
+   "university": "Jinan University (JNU)",
+   "checked": "jnu.edu.cn homepage no mention. github.com/Xp0int org page found (33 repos, no location/chat info). ctftime.org/team/18925 blocked by Cloudflare."
+  },
+  {
+   "name": "Ch0wn3rs",
+   "university": "Universidad Pontificia Bolivariana",
+   "checked": "portal.upb.edu.co homepage fetched, no mention of team. ctftime.org/team/408704 blocked by Cloudflare. No web search budget remained to locate a team-specific site/socials."
+  },
+  {
+   "name": "Uqbar",
+   "university": "Universidad Nacional de Colombia (UNAL)",
+   "checked": "unal.edu.co fetch failed (connection refused). ctftime.org/team/250938 blocked by Cloudflare. No web search budget remained."
+  },
+  {
+   "name": "Onicoders-UciTeam",
+   "university": "Universidad de las Ciencias Informáticas (UCI)",
+   "checked": "uci.cu homepage fetched, no mention of team or chat links. ctftime.org/team/307387 blocked by Cloudflare. No web search budget remained."
+  },
+  {
+   "name": "Nukleární Okurky",
+   "university": "University of Hradec Králové (UHK)",
+   "checked": "uhk.cz/en homepage fetched, no mention of team; page references a general 'Student Organisations' section but content not accessible. ctftime.org/team/408040 blocked by Cloudflare. No web search budget remained."
+  },
+  {
+   "name": "Bitwalkers",
+   "university": "TU Darmstadt",
+   "checked": "tu-darmstadt.de homepage fetched, no mention of team or chat links. ctftime.org/team/361942 blocked by Cloudflare. No web search budget remained."
+  },
+  {
+   "name": "KITCTF",
+   "university": "Karlsruhe Institute of Technology (KIT), Karlsruhe",
+   "checked": "kitctf.de, kitctf.de/about, kitctf.de/discord (404), GitHub org github.com/kitctf, ctftime.org/team/7221 (403 blocked). Site explicitly gives only email (team@kitctf.de) and in-person Thursday meetings as the way to join; mentions a Mattermost but gives no link/invite."
+  },
+  {
+   "name": "Platypwnies",
+   "university": "Hasso Plattner Institute (HPI), Potsdam",
+   "checked": "platypwnies.de, platypwnies.de/join (404), platypwnies.de/about (404), GitHub org github.com/platypwnies (empty, no public repos/members), ctftime.org/team/112550 (403 blocked). Footer identifies 'Cybersecurity Klub @ HPI' but no chat link found."
+  },
+  {
+   "name": "h4tum",
+   "university": "Technical University of Munich (TUM), Munich",
+   "checked": "h4tum.de, h4tum.de/join, GitHub org github.com/h4tum, ctftime.org/team/113083 (403 blocked). Site says the team runs a Matrix space but requires emailing info@h4tum.de to request access — not a public join link."
+  },
+  {
+   "name": "L.A.R.P.",
+   "university": null,
+   "checked": "larp.win (blog, only shows a CTF writeup post, no community/contact section), larp.win/join (404), ctftime.org/team/269755 (403 blocked). No university affiliation or chat link found on the site."
+  },
+  {
+   "name": "IT-Security Club",
+   "university": "FH Aachen (Aachen University of Applied Sciences), Aachen",
+   "checked": "fh-aachen.de/en/campus-life/it-security-club (403), fh-aachen.de/it-security-club (403), ctftime.org/team/274079 (403 blocked). FH Aachen site blocked fetches both times attempted; no alternate team-run site found."
+  },
+  {
+   "name": "DTUHAX",
+   "university": "Technical University of Denmark (DTU), Kgs. Lyngby",
+   "checked": "compute.dtu.dk/sections/cybsec (department page, no CTF-team or chat mention), GitHub github.com/DTUHAX (no public repos/profile README), ctftime.org/team/13719 (403 blocked). No public chat link found."
+  },
+  {
+   "name": "FluxKITtens :3",
+   "university": null,
+   "checked": "Given website www.transdata.no is an unrelated Norwegian MSP's site (domain squat/placeholder, no connection to the team), ctftime.org/team/392048 (403 blocked). Name suggests a joke/throwaway team; no further leads pursued given low odds."
+  },
+  {
+   "name": "PwnHub",
+   "university": null,
+   "checked": "Given website www.transdata.no is the same unrelated Norwegian MSP site as FluxKITtens (placeholder), ctftime.org/team/45456 (403 blocked). No university indicator in name; treated as low-odds throwaway team."
+  },
+  {
+   "name": "0xNumb",
+   "university": null,
+   "checked": "Website (transdata.no) is an unrelated placeholder/parked domain, not a real university site; ctftime.org/team/416151 blocked WebFetch with 403 Forbidden; no GitHub/social presence found within remaining tool budget. No public chat link found."
+  },
+  {
+   "name": "0xReqs",
+   "university": "USTHB (Université des Sciences et de la Technologie Houari Boumediene)",
+   "checked": "usthb.dz homepage fetched — mentions general 'Scientific Clubs' category but no specific CTF/cyber club or Discord link; ctftime.org/team/418099 blocked with 403; github.com/0xReqs returned 404. No public chat link found."
+  },
+  {
+   "name": "1nno$leuths",
+   "university": null,
+   "checked": "Website (transdata.no) is an unrelated placeholder domain; ctftime.org/team/372194 blocked with 403. No public chat link found."
+  },
+  {
+   "name": "C0mp13x_7he0r3m",
+   "university": "ENSCS (École Nationale Supérieure de Cybersécurité), Sidi Abdallah, Algiers",
+   "checked": "enscs.edu.dz fetched; its 'Clubs Scientifiques' page (enscs.edu.dz/?page_id=8959) is explicitly under construction ('Page en cours de construction'), no club list or Discord link yet; ctftime.org/team/417069 blocked with 403. No public chat link found."
+  },
+  {
+   "name": "CascRoot",
+   "university": "ESTIN (École Supérieure en Sciences et Technologies de l'Informatique et du Numérique)",
+   "checked": "cascroot.github.io blog and LinkedIn company page (linkedin.com/company/casc-root) both checked; team confirmed based in Amizour, Bejaia (ESTIN), founded 2023; LinkedIn page only references discord.gg/ZKtdq4UzGm belonging to a separate 'Nexus Security Club' (for a joint NEXHUNT CTF event), not CascRoot's own server; no CascRoot-owned Discord/Slack/Matrix link found; estin.dz and ctftime.org/team/373919 both blocked with 403."
+  },
+  {
+   "name": "Heaven&#39;s_Birds",
+   "university": "ESI-SBA (École Supérieure en Informatique, Sidi Bel Abbès)",
+   "checked": "esi-sba.dz and esi-sba.dz/en fetched (mostly empty/placeholder content, one variant returned only 'ESI SBA' text and an image reference); ctftime.org/team/142149 and github.com/HeavensBirds both returned errors (403 / 404). No public chat link found."
+  },
+  {
+   "name": "Khar9ana",
+   "university": "Université de Blida 1",
+   "checked": "en.univ-blida.dz fetched — mentions general university life/clubs but no specific CTF/cyber club or Discord link; ctftime.org/team/416999 blocked with 403; github.com/khar9ana returned 404. No public chat link found."
+  },
+  {
+   "name": "Trojeun",
+   "university": null,
+   "checked": "Website (transdata.no) is an unrelated placeholder domain; ctftime.org/team/374058 blocked with 403. No public chat link found."
+  },
+  {
+   "name": "Underr00ted",
+   "university": "USTHB (Université des Sciences et de la Technologie Houari Boumediene)",
+   "checked": "github.com/Underr00ted org page fetched — bio 'Algerian CTF team hacking for fun & flags', 9 followers, 6 listed members, Fennec-CTF-2026-challenges repo (repo README fetch 404'd); no website or Discord link listed on the GitHub org; ctftime.org/team/385890 blocked with 403. No public chat link found."
+  },
+  {
+   "name": "div0",
+   "university": null,
+   "checked": "Website (transdata.no) is an unrelated placeholder domain; ctftime.org/team/44296 blocked with 403; github.com/div0-team returned 404. No public chat link found."
+  },
+  {
+   "name": "m1nt4l1ty",
+   "university": "ESI-SBA (École Supérieure en Informatique, Sidi Bel Abbès)",
+   "checked": "esi-sba.dz/fr fetch attempts failed (ECONNREFUSED); github.com/m1nt4l1ty returned 404; ctftime.org/team/284402 blocked with 403. No public chat link found."
+  },
+  {
+   "name": "noreply",
+   "university": null,
+   "checked": "Website (transdata.no) is an unrelated placeholder domain; ctftime.org/team/210760 blocked with 403. No public chat link found."
+  },
+  {
+   "name": "sarrus",
+   "university": "École nationale Supérieure d'Informatique (ESI), Algiers",
+   "checked": "esi.dz homepage (403 Forbidden via WebFetch), esi.dz/vie-etudiante/clubs (403), ctftime.org/team/393723 (403 Forbidden - Cloudflare blocks WebFetch), github.com/sarrus-ctf (404). WebSearch unavailable (shared workflow budget exhausted before this team could be searched). No public chat link found."
+  },
+  {
+   "name": "ECSC EE",
+   "university": null,
+   "checked": "This is Estonia's ECSC national team entry, not a university club (website is junk placeholder transdata.no). Not a genuine academic club target; no search attempted."
+  },
+  {
+   "name": "Al-7sh4sh33n",
+   "university": "Luxor University",
+   "checked": "luxor.edu.eg (connection refused via WebFetch). ctftime.org/team/389476 (403 Forbidden). WebSearch unavailable. No public chat link found."
+  },
+  {
+   "name": "Ast3r0ids",
+   "university": null,
+   "checked": "Website field is junk placeholder (transdata.no), team name/alias (z3r0Cl1CK) shows no clear university affiliation. Skipped as low-odds per instructions; no search performed."
+  },
+  {
+   "name": "INSIDER-EYE",
+   "university": "Sinai University Technology (SUT)",
+   "checked": "sut.edu.eg homepage fetched via WebFetch - no mention of INSIDER-EYE, CTF club, or any Discord/Slack/Matrix link. ctftime.org/team/442233 (403 Forbidden). WebSearch unavailable. No public chat link found."
+  },
+  {
+   "name": "Ng00m4lDhuhr",
+   "university": null,
+   "checked": "Website field is junk placeholder (transdata.no); alias 'Stands With Palestine' suggests activist team name, not a university club. Skipped as low-odds; no search performed."
+  },
+  {
+   "name": "NovaX",
+   "university": "Sinai University Technology (SUT)",
+   "checked": "sut.edu.eg homepage fetched via WebFetch - no mention of NovaX, CTF club, or any Discord/Slack/Matrix link. ctftime.org/team/386536 (403 Forbidden). WebSearch unavailable. No public chat link found."
+  },
+  {
+   "name": "Hackiit",
+   "university": "Universidad de Granada (UGR)",
+   "checked": "ugr.es homepage fetched via WebFetch - no mention of Hackiit/HackiitUGR club or chat link. ctftime.org/team/70459 (403 Forbidden). WebSearch attempted ('Hackiit UGR CTF discord') but blocked - shared workflow WebSearch budget exhausted. No public chat link found."
+  },
+  {
+   "name": "TheGrue",
+   "university": "Universidad Rey Juan Carlos (URJC)",
+   "checked": "urjc.es (DNS resolution failed via WebFetch - domain likely needs www prefix or has changed). ctftime.org/team/278165 (403 Forbidden). WebSearch attempted but blocked (budget exhausted). No public chat link found."
+  },
+  {
+   "name": "HeapHoppers",
+   "university": null,
+   "checked": "Website field is junk placeholder (transdata.no); country FK (Falkland Islands) is implausible for the team name/context. Skipped as low-odds; no search performed."
+  },
+  {
+   "name": "CTFREI",
+   "university": "EFREI Paris",
+   "checked": "efrei.fr homepage fetched via WebFetch - references a student 'Associations' page and a WARGAME cyber project but no CTFREI-specific link. github.com/ctfrei profile fetched - shows a repo 'Cybernight3' (write-ups by association members) confirming the club exists at Efrei, but no Discord/Slack/Matrix link on the visible profile. linktr.ee/ctfrei (404). ctftime.org/team/284523 (403 Forbidden). WebSearch attempted ('CTFREI Efrei discord') but blocked - budget exhausted. No public chat link found."
+  },
+  {
+   "name": "DaVinciCode",
+   "university": "ESILV (École Supérieure d'Ingénieurs Léonard-de-Vinci), Paris La Défense",
+   "checked": "esilv.fr homepage fetched via WebFetch - no mention of DaVinciCode club or chat link. github.com/davincicode-esilv (404 - guessed URL, not confirmed). ctftime.org/team/112645 (403 Forbidden). WebSearch attempted ('DaVinciCode ESILV CTF discord') but blocked - budget exhausted. No public chat link found."
+  },
+  {
+   "name": "Galette Cidre CTF (GCC-ENSIBS)",
+   "university": "ENSIBS (Université Bretagne Sud), Lorient/Vannes, France",
+   "checked": "Checked ensibs website, GitHub org github.com/GCC-ENSIBS (found gcc-ensibs.fr, contact email, Twitter @gcc_ensibs, LinkedIn), and gcc-ensibs.fr itself. No Discord/Slack/Matrix link found anywhere; contact is email only. ctftime.org/team/246488 blocked (403)."
+  },
+  {
+   "name": "HDFR / EPITA_SRS",
+   "university": "EPITA, France",
+   "checked": "Attempted ctftime.org/team/140217 (403 blocked) and web.archive.org (unreachable). No WebSearch budget remained for this workflow run. Could not locate a public chat link."
+  },
+  {
+   "name": "HackUTT",
+   "university": "Université de Technologie de Troyes (UTT), Troyes, France",
+   "checked": "Fetched utt.fr (no mention of HackUTT club or chat links) and github.com/HackUTT org (has a 'ctf' repo from 2017 but no bio/Discord link visible). ctftime.org/team/38331 blocked (403). No WebSearch budget remained."
+  },
+  {
+   "name": "PHREAKS 2600",
+   "university": "École 2600, Montigny-le-Bretonneux, France",
+   "checked": "ecole2600.com redirects to 2600.eu; fetched 2600.eu, found mention of Phreaks 2600 team and a general clubhouse ('Le Foyer 2600') but no Discord/Slack/Matrix link listed. ctftime.org/team/200877 blocked (403). No WebSearch budget remained."
+  },
+  {
+   "name": "Ynov Cyber Crew (YCC)",
+   "university": "Ynov Campus (multiple French cities), France",
+   "checked": "Fetched ynov.com main site; no mention of Ynov Cyber Crew club or any chat link (site lists 14 campuses, no club-specific page reached). ctftime.org/team/365016 blocked (403). No WebSearch budget remained."
+  },
+  {
+   "name": "Hackchester",
+   "university": "University of Manchester, Manchester, GB",
+   "checked": "ctftime.org/team/358850 blocked (403); web.archive.org unreachable; no WebSearch budget remained to find a society page or Discord link."
+  },
+  {
+   "name": "OP_EN (OUCSS)",
+   "university": "The Open University, GB (distance-learning, no single city)",
+   "checked": "open.ac.uk direct connection refused; students.open.ac.uk redirected to a login-gated page (msds.open.ac.uk signon), which WebFetch cannot pass. ctftime.org/team/150351 blocked (403). No WebSearch budget remained."
+  },
+  {
+   "name": "0xdeada1u5",
+   "university": "University of Crete (uoc.gr), Heraklion/Rethymno, GR",
+   "checked": "Fetched uoc.gr main site — no mention of a CTF/security club or team '0xdeada1u5', no chat links. ctftime.org/team/169558 blocked (403). No WebSearch budget remained."
+  },
+  {
+   "name": "siginthq / UoEsigint",
+   "university": "Unclear — website listed (transdata.no) is unrelated/placeholder",
+   "checked": "Website field on record is a generic placeholder (transdata.no) unrelated to any university. ctftime.org/team/78828 blocked (403); no WebSearch budget remained to identify the actual university (alias suggests 'UoE', possibly University of Edinburgh, but unverified)."
+  },
+  {
+   "name": "MEOW MEOW MEOW MEOW MEOW",
+   "university": "Unclear — website listed (transdata.no) is unrelated/placeholder",
+   "checked": "Website field is a generic placeholder unrelated to any university, no university name in team name or aliases. ctftime.org/team/287661 blocked (403); no WebSearch budget remained."
+  },
+  {
+   "name": "🇫🇷 French Corp",
+   "university": "Unclear — website listed (transdata.no) is unrelated/placeholder",
+   "checked": "Website field is a generic placeholder, team name gives no university clue. ctftime.org/team/378675 blocked (403); no WebSearch budget remained."
+  },
+  {
+   "name": "HKCERT",
+   "university": "Unclear — website listed (transdata.no) is unrelated/placeholder; HKCERT is normally the Hong Kong Computer Emergency Response Team, not obviously a university club",
+   "checked": "Website field is a generic placeholder. ctftime.org/team/134746 blocked (403); no WebSearch budget remained to confirm whether this CTFtime team is actually academic."
+  },
+  {
+   "name": "HKUSTFirebird",
+   "university": "Hong Kong University of Science and Technology (HKUST)",
+   "checked": "ctftime.org/team/65249 (403 Forbidden, Cloudflare-blocked), ust.hk redirects to hkust.edu.hk (no CTF/Firebird mention), github.com/hkust-firebird (404), linktr.ee/hkustfirebird (404). University/city confirmed as Hong Kong, but no public Discord/Slack/Matrix link found. WebSearch budget was already exhausted by other agents in this workflow run before my queries could execute."
+  },
+  {
+   "name": "NuttyShell",
+   "university": "Hong Kong Polytechnic University (PolyU)",
+   "checked": "polyuctf.com fetched in full — confirms team is PolyU's CTF club, Hong Kong, but page has no Discord/Slack/Matrix invite link. polyuctf.com/discord and linktr.ee/polyuctf both 404. ctftime.org/team/72265 403 Forbidden. No WebSearch budget available."
+  },
+  {
+   "name": "What()",
+   "university": null,
+   "checked": "Listed website http://www.transdata.no/ is an unrelated Norwegian domain, not the team's site — likely bad/placeholder metadata. No university name evident from team name. Deprioritized per instructions (low-odds/throwaway); ctftime.org/team/369100 blocked 403. No search performed."
+  },
+  {
+   "name": "A G R I C H E",
+   "university": "Universitas Indo Global Mandiri (UIGM), Palembang (unverified — inferred from listed website uigm.ac.id, not confirmed on a page)",
+   "checked": "uigm.ac.id fetched, no mention of team/aliases (elliottophellia, Ophellia) or any Discord link. ctftime.org/team/405156 403 Forbidden. No WebSearch budget available to search for aliases."
+  },
+  {
+   "name": "ASGama",
+   "university": "Universitas Gadjah Mada (UGM), Yogyakarta",
+   "checked": "ugm.ac.id fetched (main university site) — confirms UGM/Yogyakarta but no mention of ASGama, kslos, otisec, or any club/Discord link (main site has no student-club directory). ctftime.org/team/24022 403 Forbidden. No WebSearch budget available."
+  },
+  {
+   "name": "CCUG",
+   "university": "Universitas Gunadarma, Depok",
+   "checked": "gunadarma.ac.id fetched — confirms university/city but no club or Discord mention. Guessed linktr.ee/ccug and instagram.com/ccug.official resolved to unrelated/unreadable content, not confirmed as this team. ctftime.org/team/45168 403 Forbidden. No WebSearch budget available."
+  },
+  {
+   "name": "CSI",
+   "university": "IPB University (Institut Pertanian Bogor), Bogor (unverified — inferred from website ipb.ac.id, not confirmed on a page)",
+   "checked": "ipb.ac.id blocked by fetch tool's domain-safety check; cysec.ipb.ac.id does not resolve (DNS failure); instagram.com/cysecipb returned no readable text (image-only content); linktr.ee/cysecipb 404. ctftime.org/team/11930 403 Forbidden. No WebSearch budget available."
+  },
+  {
+   "name": "CSUI",
+   "university": "Universitas Indonesia (Fasilkom UI / RISTEK), Depok",
+   "checked": "instagram.com/netsos.csui confirms 'NetSOS RISTEK — Cybersecurity Team of RISTEK Fasilkom UI' but page had no bio link/Discord visible to the fetch tool. cs.ui.ac.id blocked by fetch tool's domain-safety check. github.com/CSUI-net-sos and linktr.ee/netsos.csui both 404. ctftime.org/team/70551 403 Forbidden. No WebSearch budget available."
+  },
+  {
+   "name": "Fisabilillah",
+   "university": "Politeknik Negeri Malang (Polinema), Malang (unverified — inferred from website polinema.ac.id, not confirmed on a page)",
+   "checked": "polinema.ac.id blocked by fetch tool's domain-safety check. Guessed linktr.ee/fisabilillah resolved to an unrelated religious/community account (fisabilillah.online, 'Komunitas Hijrah Berau'), not this CTF team — false match discarded. ctftime.org/team/354285 403 Forbidden. No WebSearch budget available."
+  },
+  {
+   "name": "HCS",
+   "university": "Institut Teknologi Sepuluh Nopember (ITS), Surabaya (unverified — inferred from website its.ac.id, not confirmed on a page)",
+   "checked": "its.ac.id blocked by fetch tool's domain-safety check. instagram.com/heroescybersec returned no readable text (image-only content). linktr.ee/heroescybersec 404. ctftime.org/team/70159 403 Forbidden. No WebSearch budget available."
+  },
+  {
+   "name": "ICC UH",
+   "university": "Universitas Hasanuddin (Unhas), Makassar (unverified — inferred from website unhas.ac.id, not confirmed on a page)",
+   "checked": "unhas.ac.id blocked by fetch tool's domain-safety check. Guessed linktr.ee/icc.uh 404. ctftime.org/team/314212 403 Forbidden. No WebSearch budget available."
+  },
+  {
+   "name": "KOMANDO 71",
+   "university": null,
+   "checked": "Listed website http://www.transdata.no/ is an unrelated Norwegian domain, not the team's actual site — likely bad/placeholder metadata (identical bogus URL as team 'What()'). No university name evident from team name. Deprioritized per instructions (low-odds/throwaway); ctftime.org/team/434825 403 Forbidden. No search performed."
+  },
+  {
+   "name": "N2L",
+   "university": null,
+   "checked": "Website https://n2l.team failed to resolve/verify via WebFetch (DNS/security-policy errors on both apex and www). GitHub org guess n2l-team returned 404. No WebSearch quota remained (session-wide budget of 200 exhausted before my searches ran). No public chat link found."
+  },
+  {
+   "name": "NICP",
+   "university": null,
+   "checked": "Fetched https://nicp.vercel.app directly: page shows only team stats and an easter egg, no Discord/Slack/Matrix link and no university/city named. CTFtime page 374122 returned HTTP 403 (Cloudflare block on WebFetch). No WebSearch quota available."
+  },
+  {
+   "name": "SSS - Pmula",
+   "university": "SMKN 2 Depok Sleman (a vocational high school, not a university)",
+   "checked": "Website is smkn2depoksleman.sch.id, a secondary school domain, not a university club. Skipped active search per instructions (obvious non-university / throwaway team); no evidence of a public chat link found in available checks."
+  },
+  {
+   "name": "STELK_CSC",
+   "university": "SMK Telkom Makassar (vocational high school, not a university)",
+   "checked": "Website smktelkom-mks.sch.id is a secondary school domain. Skipped per instructions as a non-university throwaway; no public chat link located."
+  },
+  {
+   "name": "Tenesys",
+   "university": "Universitas Teknokrat Indonesia",
+   "checked": "Fetched https://teknokrat.ac.id/ and https://csirt.teknokrat.ac.id (the latter errored on WebFetch as unverifiable domain). University confirmed as Universitas Teknokrat Indonesia in Bandar Lampung, Lampung, Indonesia, and the university does run a 'Cyber Security Team'/CSIRT, but no Discord/Slack/Matrix invite for the Tenesys/TCYS student CTF team was found on the fetched pages. CTFtime page 22044 returned HTTP 403. No WebSearch quota available to check social media or student-org portal further."
+  },
+  {
+   "name": "The Ordinary Player",
+   "university": "SMKN 1 Boyolangu (vocational high school, not a university)",
+   "checked": "Website smkn1boyolangu.sch.id is a secondary school domain. Skipped per instructions as an obvious non-university throwaway (many joke alias names); no public chat link located."
+  },
+  {
+   "name": "Try4gain",
+   "university": null,
+   "checked": "Listed website http://www.transdata.no/ is an unrelated Norwegian telecom company, clearly not the team's real site (throwaway/placeholder link). Skipped per instructions; no public chat link found."
+  },
+  {
+   "name": "UCS",
+   "university": "Institut Teknologi Sepuluh Nopember (ITS)",
+   "checked": "Fetched https://www.its.ac.id/: confirms ITS is in Surabaya, East Java, Indonesia, but the fetched homepage content had no mention of a club named UCS or HCS, and no Discord/Slack/Matrix link. CTFtime page 390903 returned HTTP 403. No WebSearch quota available to hunt further (e.g. for an ITS cybersecurity club's own subsite or Instagram)."
+  },
+  {
+   "name": "Xyl0n",
+   "university": "Politeknik Negeri Jakarta (PNJ)",
+   "checked": "Website https://pnj.ac.id/ returned HTTP 403 Forbidden on WebFetch (likely bot protection). CTFtime page 383074 also returned HTTP 403. University is Politeknik Negeri Jakarta, Depok, West Java (campus location), Indonesia, per the site URL, but no chat link could be retrieved. No WebSearch quota available."
+  },
+  {
+   "name": "kiaB kataB",
+   "university": "Universitas Brawijaya (UB)",
+   "checked": "Website http://ub.ac.id/ returned HTTP 403 Forbidden on WebFetch. CTFtime page 380179 also returned HTTP 403. University is Universitas Brawijaya in Malang, East Java, Indonesia (well known), but no public chat link could be retrieved without search access."
+  },
+  {
+   "name": "!!__script_kiddies__!!",
+   "university": "Dayananda Sagar Academy of Technology and Management (DSATM)",
+   "checked": "Website http://dsatm.edu.in/ errored on WebFetch (domain verification/security-policy block). DSATM is a known engineering college in Bengaluru (Bangalore), Karnataka, India, per the .edu.in domain and name, but no page content or Discord link could be retrieved. No WebSearch quota available."
+  },
+  {
+   "name": "$(Straw Hats)",
+   "university": null,
+   "checked": "Listed website http://www.transdata.no/ is the same unrelated Norwegian telecom placeholder used for Try4gain, indicating a throwaway/non-functional link rather than a real team site. Skipped per instructions as an obvious non-academic-site throwaway team; no public chat link found."
+  },
+  {
+   "name": "0bscuri7y",
+   "university": null,
+   "checked": "Fetched https://0bscuri7y.in (team homepage) — no Discord/Slack/Matrix link, no university/city named on the page. WebSearch unavailable (session search budget exhausted). CTFtime page blocked with 403."
+  },
+  {
+   "name": "0xHydra",
+   "university": null,
+   "checked": "Listed website is a placeholder domain (transdata.no) unrelated to the team; CTFtime page 403; no search budget available to find real site."
+  },
+  {
+   "name": "1nf1n1ty",
+   "university": "SASTRA University",
+   "checked": "CTFtime page 403 (blocked). sastra.edu blocked by WebFetch domain-safety filter in this environment. No search budget remaining to find a club-specific Discord/Slack link."
+  },
+  {
+   "name": "4bIn1t10",
+   "university": null,
+   "checked": "Listed website is the same unrelated placeholder domain (transdata.no); no real site found; CTFtime 403; no searches available."
+  },
+  {
+   "name": ":>",
+   "university": null,
+   "checked": "Listed website is the same unrelated placeholder domain (transdata.no); no real site found; CTFtime 403; no searches available."
+  },
+  {
+   "name": "BIT CRIMINALS",
+   "university": "IIT (ISM) Dhanbad",
+   "checked": "CTFtime page 403. iitism.ac.in blocked by WebFetch domain-safety filter. No search budget remaining."
+  },
+  {
+   "name": "BITSkrieg",
+   "university": "BITS Pilani, Goa Campus",
+   "checked": "CTFtime page 403. bits-pilani.ac.in/Goa blocked by WebFetch domain-safety filter. No search budget remaining."
+  },
+  {
+   "name": "Byt3Hunters",
+   "university": "KIET Group of Institutions",
+   "checked": "CTFtime page 403. kiet.edu blocked by WebFetch domain-safety filter (tried http and https). No search budget remaining."
+  },
+  {
+   "name": "ByteBandits",
+   "university": "IIT Indore",
+   "checked": "Fetched github.com/bytebandits org page — no Discord/Slack/Matrix link listed, just repos (bbctf-2020/2023/2026). iiti.ac.in blocked by WebFetch domain-safety filter. linktr.ee/bytebandits returned 404. CTFtime 403. No search budget remaining."
+  },
+  {
+   "name": "CRUx BPHC",
+   "university": "BITS Pilani, Hyderabad Campus",
+   "checked": "Fetched github.com/crux-bphc org page — description 'Programming & Computing Club of BITS Pilani, Hyderabad Campus', email crux@hyderabad.bits-pilani.ac.in, website https://www.crux-bphc.com listed but that domain was blocked by WebFetch's domain-safety filter (tried with and without www). No Discord/Slack/Matrix link found in the fetched GitHub content. CTFtime 403. No search budget remaining to verify further."
+  },
+  {
+   "name": "CtrlXploit",
+   "university": "IIT (ISM) Dhanbad",
+   "checked": "CTFtime page 403. iitism.ac.in blocked by WebFetch domain-safety filter. No search budget remaining."
+  },
+  {
+   "name": "CyberCellVIIT",
+   "university": "Vishwakarma Institute of Information Technology (VIIT)",
+   "checked": "CTFtime page 403. viit.ac.in blocked by WebFetch domain-safety filter. No search budget remaining."
+  }
+ ],
+ "failed": []
+}

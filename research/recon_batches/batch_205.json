@@ -1,0 +1,122 @@
+[
+ {
+  "id": "hack-ctf-concordia",
+  "name": "@Hack CTF - Concordia",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/SJS5sK5vR2",
+  "discord_description": null,
+  "members": 1293,
+  "online": 102,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Hexploit Alliance (via @Hack CTF)",
+  "candidate_notes": "University club; link recovered by the link hunt. Hexploit Alliance's own site (hexploit-alliance.com) lists no chat link, but the group's CTF event site athackctf.com (branded '@HACK 2026') has a 'Join our Discord' button pointing to this invite — this is the community's active Discord, run under the @Hack/AtHack CTF branding rather than the Hexploit Alliance name directly.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://athackctf.com"
+  ]
+ },
+ {
+  "id": "leeds-ethical-hack-soc",
+  "name": "Leeds Ethical Hack Soc",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/SmqrsNjdga",
+  "discord_description": null,
+  "members": 234,
+  "online": 34,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Leeds Hacking Society",
+  "candidate_notes": "University club; link recovered by the link hunt. SU page lists it as 'Ethical Hacking Society' (Leeds Ethical Hack Soc on Discord). Invite verified live, server name confirmed via WebFetch on the discord.com/invite redirect target.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.leedsbeckettsu.co.uk/society/ethical-hacking/"
+  ]
+ },
+ {
+  "id": "toh-ctf",
+  "name": "ToH CTF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Efq5xRagj6",
+  "discord_description": null,
+  "members": 307,
+  "online": 38,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Tower of Hanoi",
+  "candidate_notes": "University club; link recovered by the link hunt. Found on the team's CTF event site (ctf.towerofhanoi.it), which reads 'join our Discord server for the latest news.' Verified the invite resolves to a real Discord server named 'ToH CTF' (not expired/invalid).",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://ctf.towerofhanoi.it/"
+  ]
+ },
+ {
+  "id": "cyscom-vitc",
+  "name": "CYSCOM VITC",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/9RyHCQgjAv",
+  "discord_description": null,
+  "members": 1264,
+  "online": 41,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CYSCOM (Cybersecurity Student Community, VIT Chennai)",
+  "candidate_notes": "University club; link recovered by the link hunt. Confirmed active via WebFetch: invite resolves to a live Discord server named 'CYSCOM VITC'. Also surfaced by web search of the club's GitHub org.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://discord.com/invite/9RyHCQgjAv"
+  ]
+ },
+ {
+  "id": "bamboofox",
+  "name": "BambooFox",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/UCFapuc4jj",
+  "discord_description": "陽明交大網路安全策進會",
+  "members": 910,
+  "online": 244,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Bamboofox (NYCU)",
+  "candidate_notes": "University club; link recovered by the link hunt. Found on bamboofox.org (redirect target of bamboofox.github.io) under Community & Social Media section.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "http://bamboofox.org/"
+  ]
+ },
+ {
+  "id": "misc",
+  "name": "MISC",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/PybR9kpBMn",
+  "discord_description": null,
+  "members": 881,
+  "online": 105,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "University of Melbourne Information Security Club (MISC)",
+  "candidate_notes": "University club; link recovered by the link hunt. Original site umisc.info no longer resolves; club has moved to umisc.club, which lists this Discord invite directly on the homepage.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.umisc.club/"
+  ]
+ }
+]

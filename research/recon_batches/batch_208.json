@@ -1,0 +1,122 @@
+[
+ {
+  "id": "artifactory",
+  "name": "Artifactory",
+  "platform": "slack",
+  "invite_url": "https://perart.io/slack",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace (Perth, AU); activity active; link found by the hackerspace link hunt. Homepage states: 'Slack is our online community platform where members and non-members alike chat and socialise' with signup at perart.io/slack (vanity redirect, presumably to a Slack invite). No other public chat link found.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://artifactory.org.au",
+  "sources": [
+   "https://artifactory.org.au"
+  ]
+ },
+ {
+  "id": "rlab-reading-hackspace",
+  "name": "RLab - Reading Hackspace",
+  "platform": "mailinglist",
+  "invite_url": "https://groups.google.com/d/forum/reading-hackspace",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace (Reading, GB); activity active; link found by the hackerspace link hunt. Google Group 'reading-hackspace' linked from homepage. Site also mentions a private 'Member's Discord' for tool inductions but no public invite link was given. Site has active Meetup/Bluesky presence, seems active.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://rlab.org.uk",
+  "sources": [
+   "https://rlab.org.uk"
+  ]
+ },
+ {
+  "id": "liege-hackerspace",
+  "name": "Liege Hackerspace",
+  "platform": "portal",
+  "invite_url": "https://chat.lghs.be/",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace (Liège, BE); activity active; link found by the hackerspace link hunt. Homepage links to a RocketChat instance at chat.lghs.be (not in the requested platform list but functionally a public group-chat portal comparable to Mattermost). Could not verify open self-signup (WebFetch blocked on that subdomain). Site shows regular Wednesday open hours and active Mastodon/GitHub, appears active",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://lghs.be",
+  "sources": [
+   "https://lghs.be"
+  ]
+ },
+ {
+  "id": "varnalab",
+  "name": "VarnaLab",
+  "platform": "mailinglist",
+  "invite_url": "https://groups.google.com/g/varnalab",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace (Varna, BG); activity unclear; link found by the hackerspace link hunt. Google Group at groups.google.com/g/varnalab is the recommended channel per the contacts page (used for their monthly newsletter). A Slack at https://slack.varnalab.org also exists but the page explicitly states in Bulgarian that Slack is 'NOT actively used' (НЕ СЕ ИЗПОЛЗВА АКТИВНО), so the mailing list is the bett",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.varnalab.org/",
+  "sources": [
+   "https://www.varnalab.org/bg/contacts"
+  ]
+ },
+ {
+  "id": "cheltenham-hackspace",
+  "name": "Cheltenham Hackspace",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/kXMSaasgsJ",
+  "discord_description": null,
+  "members": 113,
+  "online": 10,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cheltenham Hackspace",
+  "candidate_notes": "Hackerspace (Cheltenham, GB); activity active; link found by the hackerspace link hunt. Wiki 'Communication' page (linked from the main site's GitHub link) lists Discord as their primary public channel for non-member questions; also has a members-only WhatsApp group and uses GitHub Issues as an informal forum.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/cheltenhamhackspace/the_space/wiki/Communication"
+  ]
+ },
+ {
+  "id": "l-abscisse",
+  "name": "L'abscisse",
+  "platform": "irc",
+  "invite_url": "irc://irc.oftc.net/#coagul",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace (Dijon, FR); activity unclear; link found by the hackerspace link hunt. Site text says 'sur IRC (#coagul sur oftc)' in the context of arranging carpooling to meetings; page also mentions the domain irc.coagul.org. Content read as fairly dated/community-org style (carpooling coordination), so recent activity is not confirmed from this page alone.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://www.coagul.org",
+  "sources": [
+   "http://www.coagul.org"
+  ]
+ }
+]

@@ -1,0 +1,540 @@
+[
+ {
+  "id": "artifactory",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "chat",
+   "workshops",
+   "hardware-help"
+  ],
+  "summary": "This is the Slack for Perth Artifactory, a community workshop and makerspace in Osborne Park, Western Australia, open to both members and non-members. People chat about laser cutting, 3D printing, CNC, electronics, and other hands-on projects, and coordinate visits and events; it suits anyone curious about making rather than security specifically.",
+  "run_by": "community-run",
+  "website": "https://artifactory.org.au",
+  "github": null,
+  "youtube": null,
+  "region": "australia-nz",
+  "country": "AU",
+  "subdivision": null,
+  "city": "Perth",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Sign up via perart.io/slack; open to non-members as well as paying members.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "rlab-reading-hackspace",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help"
+  ],
+  "summary": "rLAB is a member-run hackspace/makerspace in Reading, UK, where people share tools and skills for electronics, woodworking, and digital fabrication. The public Google Group is used for general coordination and tool inductions, while a separate Discord is reserved for paying members; it suits local makers who want hands-on workshop access more than pure cybersecurity discussion.",
+  "run_by": "community-run",
+  "website": "https://rlab.org.uk",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Reading",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Public Google Group is open; the Discord is members-only. In-person access requires ID, a tour, and a workshop induction; members must be 18+.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "liege-hackerspace",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help"
+  ],
+  "summary": "Liège Hackerspace (LGHS) is an independent nonprofit community lab in Liège, Belgium, offering laser cutting, 3D printing, metal and woodwork, and artist residencies to anyone curious, beginner or expert. Its RocketChat server at chat.lghs.be is the group's day-to-day chat, and weekly open Wednesday evenings are the easiest way to meet people in person.",
+  "run_by": "community-run",
+  "website": "https://lghs.be",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "BE",
+  "subdivision": null,
+  "city": "Liège",
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Best to email ping@lghs.be before a first visit; open hours are Wednesdays 4-10pm.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "varnalab",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups"
+  ],
+  "summary": "VarnaLab is a member-governed hackerspace in Varna, Bulgaria, open to geeks, students, artists, and IT professionals interested in computers, electronics, and technology broadly rather than security specifically. The Google Group mailing list is the group's actively used channel for their newsletter and coordination; a separate Slack exists but the site states it is not actively used.",
+  "run_by": "community-run",
+  "website": "https://www.varnalab.org/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "BG",
+  "subdivision": null,
+  "city": "Varna",
+  "language": "bg",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Use the Google Group, not the Slack, which the site says is not actively monitored.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "cheltenham-hackspace",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "chat",
+   "hardware-help"
+  ],
+  "summary": "Cheltenham Hackspace's Discord is the main public channel for a UK community makerspace, used by members and prospective members to ask questions about the space, its equipment, and events. A members-only WhatsApp group and GitHub Issues supplement it for day-to-day coordination; the focus is general hardware/making rather than cybersecurity.",
+  "run_by": "community-run",
+  "website": null,
+  "github": "https://github.com/cheltenhamhackspace",
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Cheltenham",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Discord is the go-to for non-member questions; deeper coordination happens on a members-only WhatsApp.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "l-abscisse",
+  "include": true,
+  "exclude_reason": null,
+  "category": "regional",
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "chat"
+  ],
+  "summary": "Coagul (L'abscisse) is a French free-software association near Dijon that runs weekly workshops teaching Linux, open-source tools, and digital fabrication through its fablab. The #coagul IRC channel on OFTC is used for coordination, including carpooling to meetings; the focus is free/open-source software advocacy and making, not cybersecurity.",
+  "run_by": "community-run",
+  "website": "http://www.coagul.org",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Dijon",
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Check the meeting calendar before visiting, since sessions run on a fixed weekly schedule (software Wed evenings, fablab Tue/Wed daytime).",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "fizzpop",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "summary": "A member-run, non-profit makerspace in Digbeth, Birmingham with laser cutters, 3D printers, welding gear and pottery kilns. People drop in on Wednesday open evenings to try equipment before joining, or become members for 24/7 swipe-card access; it's a general maker/craft space rather than a security-focused group.",
+  "run_by": "community-run",
+  "website": "http://www.fizzpop.org.uk",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Birmingham",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Join via the Google Group mailing list, or just show up to the Wednesday 7pm open evening to tour first.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "eigenbaukombinat-halle",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "summary": "A community makerspace and workshop collective in Halle, Germany running ceramics, electronics, youth and junior-hacker workshops plus regular social evenings. New users are automatically added to the main Matrix chat room, making it easy to join and ask questions; it's a general maker space, not security-specific.",
+  "run_by": "community-run",
+  "website": "http://eigenbaukombinat.de",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Halle",
+  "language": "de",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Join the Matrix server (matrix.eigenbaukombinat.de) and you're auto-added to the #sozialraum room.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "boring-place",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "homelab",
+   "linux"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "local-meetups",
+   "workshops"
+  ],
+  "summary": "A hackerspace in Saratov, Russia run as a 'technical anti-café,' hosting a robotics/microelectronics/programming club plus biweekly Linux user group (SarLUG) meetups. Announcements go out on the sarlug mailing list; it's a general tech/maker space rather than security-focused, and recent activity levels weren't clearly confirmed.",
+  "run_by": "community-run",
+  "website": "https://boringplace.org",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "RU",
+  "subdivision": null,
+  "city": "Saratov",
+  "language": "ru",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Linux meetup announcements go out via the sarlug mailing list (lists.lug.ru/mailman/listinfo/sarlug); biweekly Sunday meetups.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "stockholm-makerspace",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "summary": "A membership-based makerspace in Stockholm with dedicated rooms for wood, electronics, 3D scanning and laser cutting. Slack is the main way members ask questions, discuss personal projects and coordinate events, with a public shared-invite link to join; it's a general maker space, not security-focused.",
+  "run_by": "community-run",
+  "website": "http://www.makerspace.se",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "SE",
+  "subdivision": null,
+  "city": "Stockholm",
+  "language": "sv",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Join via the public Slack shared-invite link on the wiki.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "vhs",
+  "include": true,
+  "exclude_reason": null,
+  "category": "adjacent",
+  "tags": [
+   "homelab"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "summary": "Vancouver Hack Space is a volunteer-run, not-for-profit makerspace offering 3D printing, laser cutting, woodworking, welding, electronics and coding facilities to paying members. Its Discourse forum at talk.vanhack.ca has a 'Newcomers Lounge' and tour-request category, and the space is open to the public for tours every Tuesday evening; it's a general maker space rather than security-focused.",
+  "run_by": "community-run",
+  "website": "http://vanhack.ca",
+  "github": null,
+  "youtube": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "BC",
+  "city": "Vancouver",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Forum registration at talk.vanhack.ca; tours available Tuesday evenings or by appointment via the forum.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "sieberrsec-ctf",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "youth"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "ctf-events",
+   "challenges",
+   "chat",
+   "q-and-a"
+  ],
+  "summary": "Sieberrsec CTF (SCTF) is an annual jeopardy-style CTF organized by the Cybersecurity Section of Hwa Chong Infocomm & Robotics Society for Singaporean secondary school and pre-university students, now in its seventh edition. It's explicitly designed as a beginner-friendly introduction to cybersecurity, with the Discord serving as the hub for competition chat, challenge support and announcements.",
+  "run_by": "Hwa Chong Infocomm & Robotics Society (Cybersecurity Section)",
+  "website": "https://sieberr.live",
+  "github": null,
+  "youtube": null,
+  "region": "asia",
+  "country": "SG",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Aimed at secondary school and pre-university students; competition runs as an annual event with year-round Discord community.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "securinets-ctf",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "web-appsec",
+   "reverse-engineering"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "challenges",
+   "news-feed"
+  ],
+  "summary": "This Discord is run by Securinets, a long-running Tunisian cybersecurity association based at INSAT (a Tunis engineering school), and centers on their jeopardy-style CTF competitions covering web, pwn, reverse engineering, crypto, forensics, and OSINT. Members discuss challenges, get updates on qualifiers and onsite finals, and it suits players who already have some CTF experience rather than absolute beginners.",
+  "run_by": "Securinets (INSAT student association)",
+  "website": "https://ctf.securinets.tn/",
+  "github": "https://github.com/securinets-insat",
+  "youtube": null,
+  "region": "africa",
+  "country": "TN",
+  "subdivision": null,
+  "city": "Tunis",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "byu-cybersecurity",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "careers",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "study-groups",
+   "job-board",
+   "news-feed"
+  ],
+  "summary": "This Discord is the official hub for Brigham Young University's Cybersecurity Student Association, a campus club for students in or interested in BYU's cybersecurity program. It covers CTF team activity, program announcements, and general student networking, and works well for BYU students at any level who want to get involved with the club or its competitive team.",
+  "run_by": "BYU Cybersecurity Student Association",
+  "website": "https://byu-csa.github.io/",
+  "github": "https://github.com/BYU-CSA",
+  "youtube": null,
+  "region": "us-west",
+  "country": "US",
+  "subdivision": "UT",
+  "city": "Provo",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "bcactf",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "youth",
+   "wargames"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "challenges",
+   "news-feed"
+  ],
+  "summary": "This Discord is run by the CTF club at Bergen County Academies, a public magnet high school in New Jersey, and supports their annual BCACTF competition alongside general CTF chat. It's aimed at high school and early hobbyist CTF players looking for an accessible entry-level competition and community, rather than university or professional-level players.",
+  "run_by": "BCA CTF Club (Bergen County Academies)",
+  "website": "https://bcactf.com",
+  "github": "https://github.com/BCACTF",
+  "youtube": null,
+  "region": "us-northeast",
+  "country": "US",
+  "subdivision": "NJ",
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ }
+]

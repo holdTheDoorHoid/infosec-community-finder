@@ -1,0 +1,122 @@
+[
+ {
+  "id": "fizzpop",
+  "name": "FizzPOP",
+  "platform": "mailinglist",
+  "invite_url": "https://groups.google.com/forum/#!forum/birmingham-hack-space",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace (Birmingham, GB); activity active; link found by the hackerspace link hunt. Google Group 'birmingham-hack-space' listed on the fizzPOP homepage alongside Facebook/Twitter/Meetup. Site shows recent posts (Forge & Blacksmithing, June 2026) and weekly Wednesday open evenings, so the space looks active.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://www.fizzpop.org.uk",
+  "sources": [
+   "http://www.fizzpop.org.uk"
+  ]
+ },
+ {
+  "id": "eigenbaukombinat-halle",
+  "name": "Eigenbaukombinat Halle",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#sozialraum:matrix.eigenbaukombinat.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace (Halle, DE); activity active; link found by the hackerspace link hunt. Matrix room #sozialraum:matrix.eigenbaukombinat.de described as the main chat, 'all new users are automatically added'. Site shows events through March 2026, blog posts Jan-Mar 2026 — clearly active.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://eigenbaukombinat.de",
+  "sources": [
+   "https://eigenbaukombinat.de/unser-neuer-chat-und-nachrichtenserver/"
+  ]
+ },
+ {
+  "id": "boring-place",
+  "name": "Boring Place",
+  "platform": "mailinglist",
+  "invite_url": "https://lists.lug.ru/mailman/listinfo/sarlug",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace (Saratov, RU); activity unclear; link found by the hackerspace link hunt. Homepage says announcements go out via the sarlug mailing list ('Линуксовка, по традиции, объявляется в рассылке') at lists.lug.ru/mailman/listinfo/sarlug. Page references biweekly Sunday meetups but no dated posts were visible to confirm current-year activity.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://boringplace.org",
+  "sources": [
+   "https://boringplace.org"
+  ]
+ },
+ {
+  "id": "stockholm-makerspace",
+  "name": "Stockholm Makerspace",
+  "platform": "slack",
+  "invite_url": "https://join.slack.com/t/stockholmmakerspace/shared_invite/zt-3xjq7qe8m-CNAjm_BRVotMsc3MKCdoCQ",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace (Stockholm, SE); activity active; link found by the hackerspace link hunt. Wiki page explicitly gives this shared-invite link to join Slack ('For att gå med kan man gå till följande länk'). Site has active calendar, member portal, and 2024-2025 dated content.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://www.makerspace.se",
+  "sources": [
+   "https://wiki.makerspace.se/Slack"
+  ]
+ },
+ {
+  "id": "vhs",
+  "name": "VHS",
+  "platform": "forum",
+  "invite_url": "https://talk.vanhack.ca",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace (Vancouver, CA); activity active; link found by the hackerspace link hunt. Discourse-powered community forum, footer says 'Powered by Discourse'; has a 'Newcomers Lounge' and 'Tour Requests' category suggesting active use, but couldn't confirm signup is fully open (no explicit policy statement seen).",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://vanhack.ca",
+  "sources": [
+   "http://vanhack.ca"
+  ]
+ },
+ {
+  "id": "sieberrsec-ctf",
+  "name": "Sieberrsec CTF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/XvpnAMyG78",
+  "discord_description": null,
+  "members": 1314,
+  "online": 231,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "sieberr.live",
+  "candidate_notes": "Academic CTF team / school club at None; link found by the CTFtime link hunt. sieberr.live runs Sieberrsec CTF (SCTF), organized by students of School of Science and Technology (SST), Singapore — a secondary school, not a university, despite the academic_flag. Discord invite named 'Sieberrsec CTF' confirmed live via discord.com/invite/XvpnAMyG78; found via web search citing sieberr.live/faq (that ",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://discord.com/invite/XvpnAMyG78"
+  ]
+ }
+]

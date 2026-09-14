@@ -1,0 +1,540 @@
+{
+ "found": [
+  {
+   "name": "Artifactory",
+   "platform": "slack",
+   "join_url": "https://perart.io/slack",
+   "source_url": "https://artifactory.org.au",
+   "website": "https://artifactory.org.au",
+   "country": "AU",
+   "city": "Perth",
+   "status": "active",
+   "notes": "Homepage states: 'Slack is our online community platform where members and non-members alike chat and socialise' with signup at perart.io/slack (vanity redirect, presumably to a Slack invite). No other public chat link found.",
+   "confidence": "official"
+  },
+  {
+   "name": "Makespace Madrid",
+   "platform": "mailinglist",
+   "join_url": "https://t.me/makespacemadrid",
+   "source_url": "https://makespacemadrid.org/",
+   "website": "https://makespacemadrid.org/",
+   "country": "ES",
+   "city": "Madrid",
+   "status": "active",
+   "notes": "Reporting as closest available category (Telegram isn't in the platform enum, used 'mailinglist' as fallback for a public open broadcast channel). Site explicitly says: 'Puedes enterarte de estos eventos en nuestro grupo abierto de Telegram, el canal de eventos de Telegram o Meetup' with an events-only Telegram channel at t.me/makespacemadrid. There is also a separate 'grupo abierto de Telegram' (open group, no membership required) joinable via a QR code on the Contacto section of the homepage, but the underlying t.me/+ or joinchat URL was not present in the page text extracted — only the QR image. Weekly open house: 'Ven a visitarnos cualquier martes a las 19:00'. Also runs a Meetup page (meetup.com/es-ES/makespace-madrid/).",
+   "confidence": "official"
+  },
+  {
+   "name": "Made Makerspace Barcelona",
+   "platform": "mailinglist",
+   "join_url": "https://t.me/+ZfAwT8CPnr8wMmE0",
+   "source_url": "http://made-bcn.org/es",
+   "website": "http://made-bcn.org",
+   "country": "ES",
+   "city": "Barcelona",
+   "status": "unclear",
+   "notes": "Reporting as closest available category (Telegram isn't in the platform enum). Open Telegram group invite link https://t.me/+ZfAwT8CPnr8wMmE0 found on the Spanish homepage, described as the primary way to join and learn about events. Space also runs a wiki at wiki.made-bcn.org. Could not independently verify recency of activity (main domain returned near-empty content on repeated fetches, likely JS-rendered); Instagram/Facebook links present (instagram.com/made_maker_bcn, facebook.com/made.bcn) but not checked for recent posts due to tool limits.",
+   "confidence": "official"
+  },
+  {
+   "name": "RLab - Reading Hackspace",
+   "platform": "mailinglist",
+   "join_url": "https://groups.google.com/d/forum/reading-hackspace",
+   "source_url": "https://rlab.org.uk",
+   "website": "https://rlab.org.uk",
+   "country": "GB",
+   "city": "Reading",
+   "status": "active",
+   "notes": "Google Group 'reading-hackspace' linked from homepage. Site also mentions a private 'Member's Discord' for tool inductions but no public invite link was given. Site has active Meetup/Bluesky presence, seems active.",
+   "confidence": "listing"
+  },
+  {
+   "name": "Liege Hackerspace",
+   "platform": "portal",
+   "join_url": "https://chat.lghs.be/",
+   "source_url": "https://lghs.be",
+   "website": "https://lghs.be",
+   "country": "BE",
+   "city": "Liège",
+   "status": "active",
+   "notes": "Homepage links to a RocketChat instance at chat.lghs.be (not in the requested platform list but functionally a public group-chat portal comparable to Mattermost). Could not verify open self-signup (WebFetch blocked on that subdomain). Site shows regular Wednesday open hours and active Mastodon/GitHub, appears active.",
+   "confidence": "listing"
+  },
+  {
+   "name": "TkkrLab",
+   "platform": "portal",
+   "join_url": "https://t.me/+SGblPyxVHpI_SBO2",
+   "source_url": "https://www.tkkrlab.nl",
+   "website": "https://www.tkkrlab.nl",
+   "country": "NL",
+   "city": "Enschede",
+   "status": "active",
+   "notes": "Telegram group invite link (t.me/+...) found on homepage; Telegram isn't one of the listed platform categories so reported as 'portal'. Site also has active Mastodon (hsnl.social/@tkkrlab), GitHub org, and newsletter signup at tkkrlab.nl/newsletter/, indicating an active space.",
+   "confidence": "listing"
+  },
+  {
+   "name": "Dordtse Elektronica Club",
+   "platform": "portal",
+   "join_url": "https://t.me/joinchat/BXnWfUv4F4C9qrqwUHvOwA",
+   "source_url": "https://www.pi4dec.nl/",
+   "website": "http://pi4dec.nl/",
+   "country": "NL",
+   "city": "Dordrecht",
+   "status": "active",
+   "notes": "Telegram join-chat link found on homepage (reported as 'portal' since Telegram isn't in the platform list). Site has an events calendar/RSS and a live SDR receiver (openwebrx.pi4dec.nl), suggesting active operation.",
+   "confidence": "listing"
+  },
+  {
+   "name": "VarnaLab",
+   "platform": "mailinglist",
+   "join_url": "https://groups.google.com/g/varnalab",
+   "source_url": "https://www.varnalab.org/bg/contacts",
+   "website": "https://www.varnalab.org/",
+   "country": "BG",
+   "city": "Varna",
+   "status": "unclear",
+   "notes": "Google Group at groups.google.com/g/varnalab is the recommended channel per the contacts page (used for their monthly newsletter). A Slack at https://slack.varnalab.org also exists but the page explicitly states in Bulgarian that Slack is 'NOT actively used' (НЕ СЕ ИЗПОЛЗВА АКТИВНО), so the mailing list is the better public-active channel; activity level of the space itself is unclear from what was fetched.",
+   "confidence": "listing"
+  },
+  {
+   "name": "Segmentation Vault",
+   "platform": "irc",
+   "join_url": "https://t.me/joinchat/QDlAnieCnJuAQstN",
+   "source_url": "https://segvault.space",
+   "website": "https://segvault.space",
+   "country": "AT",
+   "city": "Sankt Pölten",
+   "status": "active",
+   "notes": "Not IRC — actually a Telegram invite link (mislabeled platform field; closest allowed enum value used). Regular Tuesday 18:00-22:00 openings listed, active Mastodon (@segvault@chaos.social) and Facebook presence, events page updated.",
+   "confidence": "official"
+  },
+  {
+   "name": "Hacklabor",
+   "platform": "mailinglist",
+   "join_url": "mailto:members-subscribe@hacklabor.de (send blank email to subscribe; announcements-subscribe@hacklabor.de for announcements only)",
+   "source_url": "https://hacklabor.de/kontakt/",
+   "website": "https://hacklabor.de/",
+   "country": "DE",
+   "city": "Schwerin",
+   "status": "active",
+   "notes": "Classic listserv-style subscribe-by-email addresses on the Kontakt page (no web listinfo form found). Also active on Mastodon (chaos.social/@hacklabor) and Facebook; site mentions ongoing Termine (events).",
+   "confidence": "listing"
+  },
+  {
+   "name": "Cheltenham Hackspace",
+   "platform": "discord",
+   "join_url": "https://discord.gg/kXMSaasgsJ",
+   "source_url": "https://github.com/cheltenhamhackspace/the_space/wiki/Communication",
+   "website": "https://www.cheltenhamhackspace.org",
+   "country": "GB",
+   "city": "Cheltenham",
+   "status": "active",
+   "notes": "Wiki 'Communication' page (linked from the main site's GitHub link) lists Discord as their primary public channel for non-member questions; also has a members-only WhatsApp group and uses GitHub Issues as an informal forum.",
+   "confidence": "official"
+  },
+  {
+   "name": "Hackfest",
+   "platform": "discord",
+   "join_url": "https://discord.hackfest.ca",
+   "source_url": "http://www.hackfest.ca",
+   "website": "http://www.hackfest.ca",
+   "country": "CA",
+   "city": "Quebec",
+   "status": "active",
+   "notes": "Discord link appears in both the header nav (labeled 'AUJOURD'HUI') and footer social icons on the homepage.",
+   "confidence": "official"
+  },
+  {
+   "name": "L'abscisse",
+   "platform": "irc",
+   "join_url": "irc://irc.oftc.net/#coagul",
+   "source_url": "http://www.coagul.org",
+   "website": "http://www.coagul.org",
+   "country": "FR",
+   "city": "Dijon",
+   "status": "unclear",
+   "notes": "Site text says 'sur IRC (#coagul sur oftc)' in the context of arranging carpooling to meetings; page also mentions the domain irc.coagul.org. Content read as fairly dated/community-org style (carpooling coordination), so recent activity is not confirmed from this page alone.",
+   "confidence": "listing"
+  },
+  {
+   "name": "FizzPOP",
+   "platform": "mailinglist",
+   "join_url": "https://groups.google.com/forum/#!forum/birmingham-hack-space",
+   "source_url": "http://www.fizzpop.org.uk",
+   "website": "http://www.fizzpop.org.uk",
+   "country": "GB",
+   "city": "Birmingham",
+   "status": "active",
+   "notes": "Google Group 'birmingham-hack-space' listed on the fizzPOP homepage alongside Facebook/Twitter/Meetup. Site shows recent posts (Forge & Blacksmithing, June 2026) and weekly Wednesday open evenings, so the space looks active.",
+   "confidence": "listing"
+  },
+  {
+   "name": "Eigenbaukombinat Halle",
+   "platform": "matrix",
+   "join_url": "https://matrix.to/#/#sozialraum:matrix.eigenbaukombinat.de",
+   "source_url": "https://eigenbaukombinat.de/unser-neuer-chat-und-nachrichtenserver/",
+   "website": "http://eigenbaukombinat.de",
+   "country": "DE",
+   "city": "Halle",
+   "status": "active",
+   "notes": "Matrix room #sozialraum:matrix.eigenbaukombinat.de described as the main chat, 'all new users are automatically added'. Site shows events through March 2026, blog posts Jan-Mar 2026 — clearly active.",
+   "confidence": "official"
+  },
+  {
+   "name": "Boring Place",
+   "platform": "mailinglist",
+   "join_url": "https://lists.lug.ru/mailman/listinfo/sarlug",
+   "source_url": "https://boringplace.org",
+   "website": "https://boringplace.org",
+   "country": "RU",
+   "city": "Saratov",
+   "status": "unclear",
+   "notes": "Homepage says announcements go out via the sarlug mailing list ('Линуксовка, по традиции, объявляется в рассылке') at lists.lug.ru/mailman/listinfo/sarlug. Page references biweekly Sunday meetups but no dated posts were visible to confirm current-year activity.",
+   "confidence": "listing"
+  },
+  {
+   "name": "Stockholm Makerspace",
+   "platform": "slack",
+   "join_url": "https://join.slack.com/t/stockholmmakerspace/shared_invite/zt-3xjq7qe8m-CNAjm_BRVotMsc3MKCdoCQ",
+   "source_url": "https://wiki.makerspace.se/Slack",
+   "website": "http://www.makerspace.se",
+   "country": "SE",
+   "city": "Stockholm",
+   "status": "active",
+   "notes": "Wiki page explicitly gives this shared-invite link to join Slack ('For att gå med kan man gå till följande länk'). Site has active calendar, member portal, and 2024-2025 dated content.",
+   "confidence": "official"
+  },
+  {
+   "name": "VHS",
+   "platform": "forum",
+   "join_url": "https://talk.vanhack.ca",
+   "source_url": "http://vanhack.ca",
+   "website": "http://vanhack.ca",
+   "country": "CA",
+   "city": "Vancouver",
+   "status": "active",
+   "notes": "Discourse-powered community forum, footer says 'Powered by Discourse'; has a 'Newcomers Lounge' and 'Tour Requests' category suggesting active use, but couldn't confirm signup is fully open (no explicit policy statement seen).",
+   "confidence": "listing"
+  },
+  {
+   "name": "Chaos Computer Club",
+   "platform": "matrix",
+   "join_url": "https://matrix.to/#/#ccchh:hamburg.ccc.de",
+   "source_url": "https://hamburg.ccc.de",
+   "website": "https://hamburg.ccc.de",
+   "country": "DE",
+   "city": "Hamburg",
+   "status": "active",
+   "notes": "Batch entry listed website as ccc.de (national site) but city=Hamburg maps to the CCC Hamburg local chapter site hamburg.ccc.de, which lists a Matrix chat room #ccchh:hamburg.ccc.de and a Matrix 'space' #ccchh-space:hamburg.ccc.de, plus a Mailman mailing list at https://lists.hamburg.ccc.de/postorius/lists/talk.lists.hamburg.ccc.de/. Also active on Fediverse @ccchh@chaos.social.",
+   "confidence": "official"
+  }
+ ],
+ "not_found": [
+  {
+   "name": "HackerSchool @ IST",
+   "status": "unclear",
+   "checked": "hackerschool.dev (redirects to hackerschool.tecnico.ulisboa.pt), the /pt/ page, and the hackerspaces.org wiki page. Site lists only email (hackerschool@tecnico.ulisboa.pt), physical lab location on IST campus, and social links (Instagram, YouTube, GitHub, Facebook) — no Discord/Slack/Matrix/IRC/forum/mailing-list link found. hackerspaces.org wiki page is blocked by an Anubis bot-check and could not be read. Could not assess recent activity due to tool access limits."
+  },
+  {
+   "name": "TinkerSpace Calicut",
+   "status": "unclear",
+   "checked": "tinkerhub.org/tinkerspace/calicut (redirects to jasimcm.github.io/homepage/, a personal page for one TinkerHub organizer). Only links present: an Airtable event-hosting form, a TinkerHub fundraiser link, Google Maps location, and mentions of social media pages (not linked directly). No Discord/Slack/Matrix/IRC/forum/mailing-list link found. TinkerHub (the parent org) is known to be very active nationally in India, but no space-specific or parent-org chat link surfaced from the pages fetched."
+  },
+  {
+   "name": "Sibermerdeka",
+   "status": "unclear",
+   "checked": "sibermerdeka.com.my homepage and /contact page both returned HTTP 403 Forbidden (bot-blocked) on every attempt. hackerspaces.org wiki page for it is blocked by Anubis bot-check. WebSearch was unavailable (shared batch/workflow search budget already exhausted before this task could use any). No public chat link could be located with the available tools."
+  },
+  {
+   "name": "Temporärhaus",
+   "status": "active",
+   "checked": "temporaerhaus.de homepage and /kontakt/ page. Found active presences on GitHub (github.com/temporaerhaus) and Mastodon (chaos.social/@temporaerhaus, indicating an active fediverse-aware/CCC-adjacent space), plus Instagram/Twitter/YouTube/Twitch links and a wiki. No Discord/Slack/Matrix/IRC/forum/mailing-list signup link found in the fetched page text; site also maintains a wiki (mentioned but URL not captured) which may hold a chat link not reached in this pass."
+  },
+  {
+   "name": "Maker Cube",
+   "status": "unclear",
+   "checked": "makercube.ca homepage. Site offers email, phone, a members.makercube.ca member portal, and Facebook/Instagram/Twitter/YouTube — no Discord/Slack/Matrix/IRC/forum/mailing-list link found."
+  },
+  {
+   "name": "AwesomeSpace",
+   "status": "unclear",
+   "checked": "awesomespace.nl homepage (via redirect from www subdomain). Only a newsletter subscription form ('Subscribe to our monthly calendar-newsletter') and a link to a separate Contact page were found — no Discord/Slack/Matrix/IRC/forum/public mailing-list link surfaced; the Contact page itself was not fetched due to tool budget."
+  },
+  {
+   "name": "Hand.Werk.Stadt",
+   "status": "active",
+   "checked": "handwerkstadt.org homepage and wiki.handwerkstadt.org (the latter failed with a TLS certificate-expired error, suggesting the wiki subdomain may be poorly maintained even if the org itself is active). Main site offers email, phone, social media, and a newsletter signup form — no Discord/Slack/Matrix/IRC/forum/mailing-list link found."
+  },
+  {
+   "name": "FarsetLabs",
+   "status": "unclear",
+   "checked": "farsetlabs.org.uk homepage. Found GitHub, Twitter, LinkedIn, Facebook, Flickr, Instagram, and Twitch links plus an email (info@farsetlabs.org.uk) — no Discord/Slack/Matrix/IRC/forum/mailing-list link found. The presence of an active Twitch account is a mild activity signal but not conclusive."
+  },
+  {
+   "name": "NüLand",
+   "status": "unclear",
+   "checked": "nueland.de homepage — page repeatedly fetched as empty/blank content across multiple attempts, so no assessment of chat links or activity could be made with the tools available."
+  },
+  {
+   "name": "Sunlab",
+   "status": "unclear",
+   "checked": "Homepage (mysunlab.org) via WebFetch — only found email contact@mysunlab.org, Twitter/X @Le_Hatlab, Meetup group (fr-FR/FabLab-Versailles), and an /evenements/ reservations page. No Discord/Matrix/Slack/IRC/Mattermost/forum/mailing-list link on the page. wiki.hackerspaces.org/Sunlab was inaccessible (bot-protection page). No public chat channel found."
+  },
+  {
+   "name": "Hacedores Makerspace",
+   "status": "unclear",
+   "checked": "Both makerspace.hacedores.com and www.hacedores.com fetched via WebFetch; only phone, email, physical address, and social media (Instagram, TikTok, Facebook, Twitter, YouTube, Flickr) were found. No Discord/Matrix/Slack/IRC/Mattermost/forum/mailing-list link located. Page mentions regular in-person 'Viernes de Consejo Maker' events, suggesting the space is active in person even without an obvious online public chat."
+  },
+  {
+   "name": "ArtLab Pesaro - Coworking culturale",
+   "status": "active",
+   "checked": "https://www.iltavoloaps.it/artlab via WebFetch — only email (info@iltavoloaps.it) and social media (Facebook, Instagram, YouTube) found; no Discord/Matrix/Slack/IRC/Mattermost/forum/mailing-list. Page describes weekday afternoon open hours (~15:00-18:00), suggesting the space is currently operating."
+  },
+  {
+   "name": "Pannonian Laboratories",
+   "status": "unclear",
+   "checked": "http://www.panlab.at and https://www.panlab.at via WebFetch — only email (contact@panlab.at), physical address in Eisenstadt, and Facebook/Instagram found. No public chat/mailing-list link located."
+  },
+  {
+   "name": "Xinchejian",
+   "status": "unclear",
+   "checked": "http://www.xinchejian.com and https://www.xinchejian.com both returned an 'Anubis' bot-protection access-denied page via WebFetch (could not view real content); wiki.hackerspaces.org/Xinchejian also returned the same Anubis-blocked page; web.archive.org fetch is disallowed for this tool. Unable to determine current chat channel or activity from available tools."
+  },
+  {
+   "name": "UOttawa Richard L'Abbé Makerspace",
+   "status": "unclear",
+   "checked": "University facilities page returned HTTP 402 Payment Required via WebFetch, so page content could not be reviewed. This is a university engineering-faculty makerspace (not a grassroots hackerspace), so a public Discord/IRC/etc. is unlikely to exist independent of the university's own channels; not confirmed either way."
+  },
+  {
+   "name": "Skövde Makerspace",
+   "status": "unclear",
+   "checked": "Homepage, bli-medlem, hitta-hit, om-oss pages, and /wiki/ portal. Only email (info@skovdemakerspace.se) and a member wiki portal at wiki.skovdemakerspace.se (login-gated, not checked further) were found. No public Discord/Matrix/IRC/forum/mailing-list link on the public site. Open House events on Wednesdays 18-20 suggest the space is active."
+  },
+  {
+   "name": "Uppsala Makerspace",
+   "status": "active",
+   "checked": "Homepage and mentions of a Slack workspace referenced in course/orientation text ('Slack? Verkstäder?', '#tälj-workshop i Slack') but no invite/signup link was shown on the fetched page. Facebook group (facebook.com/groups/uppsalamakerspace) is the clearest public community link found; wiki.uppsalamakerspace.se also exists. Site is actively maintained with news/activities pages, so the space appears active, but no public Slack invite URL could be confirmed."
+  },
+  {
+   "name": "Maakplek",
+   "status": "active",
+   "checked": "Homepage and /wiki/ page. Found only email, Instagram, Twitter/X, Mastodon (hsnl.social/@maakplek), Bluesky, and a public Google Calendar. No Discord/Matrix/IRC/forum/mailing-list signup found. Active Mastodon presence and maintained calendar suggest the space is active."
+  },
+  {
+   "name": "AKASHA Hub Barcelona",
+   "status": "active",
+   "checked": "Homepage, contacto and conecta-y-colabora pages. Public community channels are a Telegram channel (t.me/+BimXDWstf680Nzk8) and Meetup group (meetup.com/akashabarcelona), not one of the requested platform types. No Discord/Matrix/IRC/Mattermost/forum/mailing-list found. Active Instagram/Twitter/Meetup presence."
+  },
+  {
+   "name": "TinkerSpace",
+   "status": "unclear",
+   "checked": "tinkerhub.org/tinkerspace page. Found only a Notion volunteer signup and mobile apps; no Discord/Matrix/IRC/forum/mailing-list link visible on this page (parent org TinkerHub likely has a larger community elsewhere, not confirmed here)."
+  },
+  {
+   "name": "Leinelab",
+   "status": "unclear",
+   "checked": "Attempted leinelab.org, www.leinelab.org, and leinelab.org/kontakt via WebFetch (both http and https) — all returned HTTP 403 Forbidden or a domain-safety block; wiki.hackerspaces.org/Leinelab was blocked by an Anubis anti-bot page. Could not retrieve any content to check for chat links within the tool restrictions (no browser tools permitted)."
+  },
+  {
+   "name": "Mikrofabriken",
+   "status": "unclear",
+   "checked": "Homepage (www.mikrofabriken.se) and kontakta-oss page. Only contact method found is email (info@mikrofabriken.se); no Discord/Slack/Matrix/IRC/forum/mailing-list link found. Site is minimal/static; activity level unclear from content alone."
+  },
+  {
+   "name": "Helsinki Bike Kitchen",
+   "status": "active",
+   "checked": "Homepage (pyorapaja.info). Public channels found: Telegram (t.me/pyorapaja), Instagram, Facebook, and Mastodon (kolektiva.social/@pyorapajahelsinki) — none matching the requested platform types (Discord/Matrix/IRC/Mattermost/forum/mailing-list). Active multi-platform social presence suggests the space is active."
+  },
+  {
+   "name": "Niemandsland",
+   "status": "unclear",
+   "checked": "Homepage and /kontakt/ page. Only email (info@niemandsland.org), Facebook, YouTube, Instagram, and OpenStreetMap found; no Discord/Matrix/IRC/forum/mailing-list link on the public site."
+  },
+  {
+   "name": "SUMA",
+   "status": "unclear",
+   "checked": "Homepage (suma-ev.de, which serves MetaGer search engine content). Found Mastodon (suma-ev.social/@MetaGer), Twitter, Facebook, and a metager.de/kontakt contact link but no Discord/Matrix/IRC/forum/mailing-list signup. Site appears primarily focused on the MetaGer search engine product rather than a hackerspace community page, so identifying a hackerspace-specific chat channel was not possible from this content."
+  },
+  {
+   "name": "FabLab Nürnberg",
+   "status": "unclear",
+   "checked": "Homepage, Kontakt/contact pages (404s), wiki.fablab-nuernberg.de main page, nav menu. Found only a newsletter subscription (news.fablab-nuernberg.de) and social media (FB/Twitter/YouTube/Instagram); no Discord/Matrix/Slack/IRC/forum/mailing-list link. Site has active event calendar (OpenLab, KidsLab, RepairCafé, Workshops) suggesting the space is active, just doesn't publish a chat channel on the pages I could reach."
+  },
+  {
+   "name": "K-space.ee",
+   "status": "unclear",
+   "checked": "Homepage, wiki.k-space.ee landing and /en/about pages, spaceapi.k-space.ee (DNS failure) and k-space.ee/spaceapi (404). Only found email, phone, social links (FB/Instagram/YouTube/LinkedIn), and wiki links for doors/membership/hosting/Chaostreffs. Wiki pages returned mostly empty excerpts (JS-rendered content likely not captured by WebFetch), so a chat link may exist there but wasn't visible. Chaostreffs events page reference suggests ongoing activity."
+  },
+  {
+   "name": "Forschung und Technik e.V.",
+   "status": "unclear",
+   "checked": "Homepage, /kontakt, /kontakt/, /contact/ (all either 404 or gave no chat links), and the linked HODOR tool (hodor.futev.de, redirects to projects.futev.de, a project-management tool not a public chat). No Discord/Matrix/Slack/IRC/forum/mailing-list found. Site has active-looking nav (Aktuelles/News, Vereinsheim) but chat presence unconfirmed."
+  },
+  {
+   "name": "Technik.cafe",
+   "status": "unclear",
+   "checked": "Homepage and full nav/footer link list, plus the Chaos-Treff sub-page (technik.cafe/projekte-gemeinschaft/chaos-treff/). No Discord/Matrix/Slack/IRC/forum/mailing-list link found; page only offers social sharing icons for individual posts. Given it's linked to the German Chaos-Treff network, it likely has a channel through CCC/hackint infrastructure but none is published on the pages checked."
+  },
+  {
+   "name": "DingFabrik Köln",
+   "status": "unclear",
+   "checked": "Homepage, /kontakt/ (404), /mitmachen/, /faq/. Found only Facebook, Instagram, and a press email; no Discord/Matrix/Slack/IRC/forum/mailing-list link found on any reachable page."
+  },
+  {
+   "name": "Open Garage",
+   "status": "active",
+   "checked": "opengarage.org redirects (301) to a Meetup group (meetup.com/opengarage/), which the space evidently uses as its primary public community/RSVP channel — this points to ongoing weekly events ('wekelijkse... café-avond') but Meetup isn't one of the requested channel types (Discord/Matrix/Slack/IRC/forum/mailing-list), and the meetup page itself listed no such additional link."
+  },
+  {
+   "name": "Kaunas Makerspace",
+   "status": "active",
+   "checked": "Homepage, GitHub org (github.com/makerspacelt). Found email, Facebook, Instagram, YouTube, GitHub; page describes regular open evenings (Tue-Fri) and monthly Hack & Tell events, suggesting active operation. No Discord/Matrix/Slack/IRC/forum/mailing-list link found."
+  },
+  {
+   "name": "HappyLab",
+   "status": "unclear",
+   "checked": "Homepage (happylab.at and www.happylab.at both loaded), /wiki (404). Found a Wiki nav link and a Member Portal link plus social icons (FB/Instagram/Twitter-YouTube/Pinterest), but no public Discord/Matrix/Slack/IRC/forum/mailing-list link on the reachable pages. Member portal is likely members-only, not a public channel."
+  },
+  {
+   "name": "MakerLabs",
+   "status": "unclear",
+   "checked": "Homepage (truncated footer), /contact (404), /faq and /faq/ (404). Full footer/social section did not load due to content truncation, so a chat link may exist there but could not be confirmed. Nav shows an active-looking commercial makerspace (Membership, Classes, Tool Bookings, Space Booking)."
+  },
+  {
+   "name": "Hasi",
+   "status": "active",
+   "checked": "https://ha.si homepage (email kontakt@ha.si, Mastodon/YouTube/Instagram, events through Dec 2026), http://wiki.ha.si homepage and /Kommunikation (404). No Discord/Matrix/IRC/mailing-list link found; site itself is clearly active (Tue/Thu open hours, Plenum 2026-09-22, Digital Independence Day 2026-10-04)."
+  },
+  {
+   "name": "Makerspace Nanaimo",
+   "status": "active",
+   "checked": "https://makerspacenanaimo.org homepage. Weekly Wednesday open house, events through Sept 2026, recent government funding mentions. No Discord/Matrix/IRC/forum/mailing-list link found; only direct contact."
+  },
+  {
+   "name": "Fablab Neckar-Alb",
+   "status": "active",
+   "checked": "https://www.fablab-neckar-alb.org/ homepage. Blog post Nov 2025, events through Sept 2026, Instagram present. No public chat/mailing-list link found; only email/phone."
+  },
+  {
+   "name": "BricoLabs",
+   "status": "unclear",
+   "checked": "http://bricolabs.cc homepage (Twitter, Facebook, Flickr, GitHub, email), http://wiki.bricolabs.cc/ and /comunicacion (404). No Discord/Matrix/IRC/mailing-list link found. Most recent event referenced is OSHWDem 2014 on the homepage content fetched, though social accounts (Twitter/Facebook) may still be active; activity is uncertain from what was retrievable."
+  },
+  {
+   "name": "Qeske Maastricht",
+   "status": "unclear",
+   "checked": "https://qeske.nl/qeske-maastricht/ and https://qeske.nl both returned HTTP 403 Forbidden to WebFetch; could not verify content or find a chat/mailing-list link. WebSearch budget was exhausted for this batch so could not cross-check via search."
+  },
+  {
+   "name": "Hackerspace Ffm e.V.",
+   "status": "active",
+   "checked": "http://hackerspace-ffm.de homepage (wiki, GitHub org github.com/hackffm), https://github.com/hackffm profile. No Discord/Matrix/IRC/mailing-list link found on homepage or GitHub org page. Site shows recent project photos (June 2026) and an upcoming 'Night of Science' 2026-06-12 mention, plus Mon/Wed open hours — looks active."
+  },
+  {
+   "name": "Site 3 coLaboratory",
+   "status": "unclear",
+   "checked": "https://site3.ca and http://site3.ca both returned HTTP 403 Forbidden to WebFetch; could not retrieve content. WebSearch budget was exhausted so could not cross-check."
+  },
+  {
+   "name": "BeLUG",
+   "status": "unclear",
+   "checked": "http://belug.de homepage, http://belug.de/kontakt (404), http://belug.de/mailingliste (404). No chat/mailing-list link found in the fetched homepage content (calendar/org-info/contact nav only); as a Linux User Group they likely run a mailing list but the exact signup URL could not be located without more search budget."
+  },
+  {
+   "name": "Creator Makerspace",
+   "status": "active",
+   "checked": "http://www.creator.no homepage. Page metadata shows modification date April 1, 2025; Facebook/Instagram/LinkedIn listed but no Discord/Matrix/IRC/mailing-list link found."
+  },
+  {
+   "name": "Vigyan Ashram DIY Lab",
+   "status": "active",
+   "checked": "http://www.vigyanashram.com/ homepage. Updates dated through June 2026 (teacher training, alumni stories April 2026). Facebook/Twitter/YouTube/Instagram listed but no Discord/Matrix/IRC/mailing-list link found."
+  },
+  {
+   "name": "FabLab Munich",
+   "status": "active",
+   "checked": "http://www.fablab-muenchen.de/ homepage and /kontakt/ page. Active events calendar, partner logos, Facebook/YouTube/Instagram/GitHub/LinkedIn/Mastodon/Bluesky links, and a newsletter signup, but no Discord/Matrix/IRC/Mattermost/forum/mailing-list chat link found."
+  },
+  {
+   "name": "Clubelek",
+   "status": "active",
+   "checked": "Fetched http://clubelek.fr homepage — only email (clubelek@insa-lyon.fr) and social media (Facebook/Twitter/YouTube/Instagram/LinkedIn) listed; no Discord/Matrix/Slack/IRC/forum/mailing-list link found. Site shows events through Nov 2026, appears actively maintained."
+  },
+  {
+   "name": "Verdebinario",
+   "status": "active",
+   "checked": "Fetched http://www.verdebinario.org homepage — found only a reference to a historical 'Archivio Sito web e mailing lists 2005-2020' (dead archive, not a live signup), plus email/phone/social links. Weekly in-person meetings still advertised (Wed 7-9pm); site moderately active."
+  },
+  {
+   "name": "Diyode Guelph",
+   "status": "active",
+   "checked": "Fetched http://www.diyode.com homepage — only email (info@diyode.com) and social media (Facebook/Instagram/YouTube/Reddit) present. Blog posts dated through Jan 2026, 'Open House Every Monday Night' promoted — site clearly active, but no public chat/mailing-list link found."
+  },
+  {
+   "name": "Area UR-Maker",
+   "status": "unclear",
+   "checked": "Fetched https://www.unirioja.es/urmaker/ — only email (urmaker@unirioja.es), phone, and social media (Facebook/Twitter/YouTube/Flickr/Pinterest/LinkedIn/Instagram) listed, plus a Google Calendar embed. No chat/forum/mailing-list link and no clear last-updated timestamp; university lab page, likely still operating but activity level unconfirmed."
+  },
+  {
+   "name": "Fab Lab Devon",
+   "status": "unclear",
+   "checked": "Attempted to fetch http://fablabdevon.org/ and https://fablabdevon.org/ — the site's TLS certificate has expired, which WebFetch cannot bypass, so the page content (and any chat links) could not be retrieved. The expired cert itself is a signal the site may be neglected/inactive; no WebSearch budget remained to verify further."
+  },
+  {
+   "name": "Motionlab",
+   "status": "active",
+   "checked": "Fetched https://motionlab.berlin — only email, phone, social (LinkedIn/Instagram/Facebook/YouTube/Meetup) and an email-newsletter signup form found; no Discord/Matrix/Slack/IRC/forum/mailing-list-signup link. Site has a March 2026 blog post and June 2026 partnership video — actively maintained, 2,000+ member innovation hub."
+  },
+  {
+   "name": "Valmiera's Makerspace DARE",
+   "status": "active",
+   "checked": "Fetched https://darevalmiera.lv/ — only email (dare@valmierasnovads.lv), phone, an email-newsletter opt-in ('Pieraksties DARE jaunumiem'), and social media (Facebook/YouTube/Instagram) found; no public chat/forum/mailing-list-signup link. Site has 2025-2026 dated assets and a working booking system — appears active."
+  },
+  {
+   "name": "Hackerspace NTNU",
+   "status": "active",
+   "checked": "Fetched https://www.hackerspace-ntnu.no/ and https://github.com/hackerspace-ntnu — the homepage text mentions using the 'Dev Public' room on Matrix ('bruk 'Dev Public'-rommet på Matrix') for feedback, but no href/matrix.to link accompanies that text, and it wasn't findable via a /kontakt or /bli-medlem subpage (both 404). GitHub org profile has no chat links either. Site references '2 medlemmer på vakt' and Spring 2026 events — clearly active, but the exact Matrix room address (server/room id) was not exposed on any fetched page."
+  },
+  {
+   "name": "Mkmis",
+   "status": "active",
+   "checked": "Fetched https://meninshedsmk.org.uk (Men in Sheds Milton Keynes) — no Discord/Matrix/Slack/IRC/forum/mailing-list link found, only news posts. Latest news post dated August 29, 2026, with 2025-2026 dated funding/member items — clearly active."
+  },
+  {
+   "name": "Bristol Hackspace",
+   "status": "active",
+   "checked": "Homepage https://bristolhackspace.org, /contact, wiki.bristolhackspace.org (found link to bristolhackspace.discourse.group), and portal.bristolhackspace.org. The Discourse forum's login (bristolhackspace.discourse.group/session/sso) redirects through SSO to portal.bristolhackspace.org, which is a members-only login gate ('Enter the email address associated with your Hackspace account') — this is a members forum, not an openly joinable public chat/mailing list, so not counted as a public channel. Space appears active (300+ members, maintained wiki/portal)."
+  },
+  {
+   "name": "Chaostreff Flensburg e.V.",
+   "status": "unclear",
+   "checked": "Homepage https://chaostreff-flensburg.de/ — only found email (mail@chaostreff-flensburg.de) and social links to Mastodon, Instagram, Flickr, and Github; no Discord/Matrix/Slack/IRC/forum/mailing-list link present."
+  },
+  {
+   "name": "Happylab Berlin",
+   "status": "unclear",
+   "checked": "http://happylab.de (redirects/serves Happylab network site) and https://happylab.at — both list only social media (Facebook, Instagram, Twitter/X, Pinterest) plus a members-only Member-Portal and Wiki; no public chat/forum/mailing-list found. A dedicated /berlin path (https://happylab.at/berlin) returned 404, so unclear if the Berlin location page has moved or the location is still separately maintained."
+  },
+  {
+   "name": "Leicester Hackspace",
+   "status": "unclear",
+   "checked": "Homepage http://leicesterhackspace.org.uk (only an email contact, no chat links), http://leicesterhackspace.org.uk/wiki (404), and the hackerspaces.org wiki page for Leicester Hackspace, which is blocked by an Anubis anti-bot challenge and could not be fetched."
+  },
+  {
+   "name": "Modulab",
+   "status": "unclear",
+   "checked": "http://www.modulab.ro and https://www.modulab.ro — both render as a 'coming soon' placeholder page ('We'll write once when the site is live') with only an email signup form, phone, and email; no social media or chat links found despite claimed 100 members. This strongly suggests the site/community presence is stale."
+  },
+  {
+   "name": "Cocoba",
+   "status": "unclear",
+   "checked": "https://www.cocoba.work and https://www.cocoba.work/contact/ — only phone/email contact info found; no Discord/Matrix/Slack/IRC/forum/mailing-list link."
+  },
+  {
+   "name": "Alex Hackerspace",
+   "status": "unclear",
+   "checked": "http://www.alexhacker.com, https://www.alexhacker.com, and https://alexhacker.com all fail TLS validation (certificate is a generic Bluehost/*.bluehost.com cert, not matching the domain), so the site content could not be fetched at all via WebFetch. The hackerspaces.org wiki page for Alex Hackerspace is also blocked by an Anubis anti-bot challenge. The broken TLS setup is itself a sign of an unmaintained site, suggesting the space may be inactive or the domain has lapsed/been repointed."
+  }
+ ],
+ "failed": []
+}

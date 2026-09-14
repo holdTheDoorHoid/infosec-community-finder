@@ -11,8 +11,8 @@ const ICF = (() => {
   const localityLabelIn = (k, region) => (!k.startsWith('city:') && !k.includes('-') && (US.has(region) || region === 'canada')) ? (region === 'canada' ? 'Province not listed' : 'State not listed') : localityLabel(k);
   const isLocal = c => !!c.country && c.region !== 'global';   // anything with a physical home base: local groups, conferences, campus clubs
   const matchesLocality = (c, key) => !key ? false : key.startsWith('city:') ? (c.city || '').toLowerCase() === key.slice(5).toLowerCase() : localityOf(c) === key;
-  const PLATFORM_LABEL = {discord:'Discord', slack:'Slack', matrix:'Matrix', forum:'Forum', reddit:'Reddit', mastodon:'Mastodon', irc:'IRC', mattermost:'Mattermost', discourse:'Forum', portal:'Member portal', web:'Website'};
-  const JOIN_VERB = {discord:'Join on Discord', slack:'Join on Slack', matrix:'Join on Matrix', forum:'Visit the forum', reddit:'Open on Reddit', mastodon:'Join the instance', irc:'Join on IRC', mattermost:'Join on Mattermost', discourse:'Visit the forum', portal:'Sign up on their site', web:'Visit the site'};
+  const PLATFORM_LABEL = {discord:'Discord', slack:'Slack', matrix:'Matrix', forum:'Forum', reddit:'Reddit', mastodon:'Mastodon', irc:'IRC', mattermost:'Mattermost', discourse:'Forum', portal:'Member portal', web:'Website', mailinglist:'Mailing list'};
+  const JOIN_VERB = {discord:'Join on Discord', slack:'Join on Slack', matrix:'Join on Matrix', forum:'Visit the forum', reddit:'Open on Reddit', mastodon:'Join the instance', irc:'Join on IRC', mattermost:'Join on Mattermost', discourse:'Visit the forum', portal:'Sign up on their site', web:'Visit the site', mailinglist:'Subscribe to the list'};
   let DB = null;
 
   async function load() {

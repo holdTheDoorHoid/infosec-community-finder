@@ -1,0 +1,159 @@
+[
+ {
+  "id": "shaktictf-25",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "wargames",
+   "affinity-women",
+   "students",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "challenges"
+  ],
+  "summary": "This is the Discord run each year for ShaktiCTF, hosted by TeamShakti, a women-only student CTF team at Amrita Vishwa Vidyapeetham in India. The event is explicitly designed as a beginner-friendly jeopardy-style CTF (web, crypto, pwn, forensics, reverse engineering) aimed at getting more women into infosec, and the server is where players register, ask questions during the competition, and see writeups afterward.",
+  "run_by": "TeamShakti (student team, Amrita Vishwa Vidyapeetham)",
+  "website": null,
+  "github": "https://github.com/Team-Shakti",
+  "youtube": null,
+  "region": "india",
+  "country": "IN",
+  "subdivision": null,
+  "city": "Amritapuri",
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "This is an event-specific Discord tied to the annual ShaktiCTF competition rather than a permanent hangout; the invite code changes most years.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "pwnzer0tt1",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "wargames",
+   "students",
+   "general-infosec",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "study-groups",
+   "chat",
+   "writeups"
+  ],
+  "summary": "Pwnzer0tt1 is a student CTF team from Politecnico di Bari in Italy that also runs the local chapter of CyberChallenge.IT, Italy's national cybersecurity training program, so the server mixes competitive CTF play with structured beginner training. Members compete in national and international CTFs together, build open-source security tools, and publish challenge writeups.",
+  "run_by": "Pwnzer0tt1 (student team, Politecnico di Bari)",
+  "website": "https://pwnzer0tt1.it/",
+  "github": "https://github.com/pwnzer0tt1",
+  "youtube": null,
+  "region": "europe",
+  "country": "IT",
+  "subdivision": null,
+  "city": "Bari",
+  "language": "it",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "trx-ctf-2026",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "wargames",
+   "students",
+   "binary-exploitation",
+   "reverse-engineering"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "writeups"
+  ],
+  "summary": "TheRomanXpl0it (TRX) is a competitive CTF team of students from Sapienza University of Rome; some of its members play for the Italian DEF CON CTF superteam mHACKeroni. The server is where the team coordinates practice, runs its own TRX CTF events, and discusses challenges, which makes it a more competitive-minded space than a general learning hangout.",
+  "run_by": "TheRomanXpl0it (student team, Sapienza University of Rome)",
+  "website": "https://theromanxpl0.it/",
+  "github": "https://github.com/TheRomanXpl0it",
+  "youtube": null,
+  "region": "europe",
+  "country": "IT",
+  "subdivision": null,
+  "city": "Rome",
+  "language": "it",
+  "year_round": null,
+  "event": null,
+  "rules_note": "The team's own listed public channel is a Telegram group (t.me/TheRomanChat); this Discord invite was surfaced separately and is used for their CTF events.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "tu-delft-ctf-team",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "wargames",
+   "students",
+   "reverse-engineering",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups"
+  ],
+  "summary": "This is the Discord for TU Delft's student CTF team, run out of the university's EEMCS Cybersecurity group, where members meet weekly to work through CTF challenges together and present solutions. The team also organizes the annual TU Delft CTF, billed as the largest beginner-friendly cybersecurity competition in the Netherlands, and there is no application process to join the Discord.",
+  "run_by": "TU Delft CTF Team (EEMCS Cybersecurity group, Delft University of Technology)",
+  "website": "https://ctf.ewi.tudelft.nl/",
+  "github": "https://github.com/TU-Delft-CTF-Team",
+  "youtube": null,
+  "region": "europe",
+  "country": "NL",
+  "subdivision": null,
+  "city": "Delft",
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Open join, no membership or application process.",
+  "red_flags": "The invite code matches one also published by MaaSec, Maastricht University's ACM chapter (per candidate notes); this may be a shared Dutch academic CTF server rather than one exclusive to TU Delft, so treat the exact membership/scope with some caution.",
+  "confidence": "medium"
+ }
+]

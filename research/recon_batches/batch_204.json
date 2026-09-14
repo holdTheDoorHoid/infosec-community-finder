@@ -1,0 +1,122 @@
+[
+ {
+  "id": "wpi-ctf",
+  "name": "WPI CTF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/XfcGqRmxD6",
+  "discord_description": null,
+  "members": 41,
+  "online": 6,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "WPI Cyber Security Club (CSC)",
+  "candidate_notes": "University club; link recovered by the link hunt. Invite found on the WPICTF competition site (run by WPI CSC), described there as the WPI Cyber Security Club's Discord.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://wpictf.xyz/"
+  ]
+ },
+ {
+  "id": "hack-pack",
+  "name": "HACK PACK",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/gKvCPtbmcg",
+  "discord_description": "Official discord server for the CrunchLabs Hack Pack subscription robots. Invite: discord.gg/hackpack",
+  "members": 15041,
+  "online": 919,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "NC State HackPack",
+  "candidate_notes": "University club; link recovered by the link hunt. Invite surfaced via search (also referenced from hackpack.club and NC State's getinvolved.ncsu.edu org page); fetched the invite page directly and confirmed the server name is 'HACK PACK'.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://discord.com/invite/gKvCPtbmcg"
+  ]
+ },
+ {
+  "id": "whitehatters-computer-security-club",
+  "name": "Whitehatters Computer Security Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/PKkFdPhcnv",
+  "discord_description": null,
+  "members": 1054,
+  "online": 89,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Whitehatters Computer Security Club (WCSC)",
+  "candidate_notes": "University club; link recovered by the link hunt. Confirmed via Discord invite API: guild name 'Whitehatters Computer Security Club', 1054 members, no expiration. Club also lists a Slack at wcscusf.slack.com (invite-only, no signup link found).",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://sites.google.com/whitehatters.org/wcsc"
+  ]
+ },
+ {
+  "id": "kuisc",
+  "name": "KUISC",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/zeuP3Hp",
+  "discord_description": null,
+  "members": 405,
+  "online": 36,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "KU Information Security Club (KUISC / Jayhackers)",
+  "candidate_notes": "University club; link recovered by the link hunt. Confirmed via Discord invite API: guild name 'KUISC', ~405 members, active. kuisc.org itself failed to fetch (SSL handshake failure) so link was found via web search rather than the club's own site.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://discord.com/api/v10/invites/zeuP3Hp"
+  ]
+ },
+ {
+  "id": "byuctf",
+  "name": "BYUCTF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Ga472sbs9g",
+  "discord_description": "https://ctftime.org/event/3247",
+  "members": 1744,
+  "online": 240,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "BYU Cyberia (Cybersecurity Students Academic Association)",
+  "candidate_notes": "University club; link recovered by the link hunt. This is the BYUCTF 2026 event Discord (run by BYU's CSA/Cyberia group via github.com/BYU-CSA), not a confirmed persistent club-only server. Could not independently fetch ctftime.org/team/155711 (403) to confirm a standing club server; treat as best-available lead.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://ctftime.org/event/3247/"
+  ]
+ },
+ {
+  "id": "cybersec-club-ucalgary",
+  "name": "CYBERSEC Club - UCalgary",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/wVwv5Pw",
+  "discord_description": null,
+  "members": 2024,
+  "online": 112,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UCalgary CyberSecurity Club (CYBERSEC Club)",
+  "candidate_notes": "University club; link recovered by the link hunt. Listed as 'Official CYBERSEC Discord' on the club's Linktree, linked from their Instagram bio (@cybersecucalgary).",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://linktr.ee/cybersec_ucalgary"
+  ]
+ }
+]

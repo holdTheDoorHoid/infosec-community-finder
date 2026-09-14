@@ -1,0 +1,2249 @@
+[
+ {
+  "id": "hackerspace-pomorze-hsp-sh",
+  "name": "Hackerspace Pomorze - hsp.sh",
+  "platform": "discord",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hardware-hacking",
+   "programming",
+   "iot-embedded"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": 610,
+  "online": 112,
+  "region": "europe",
+  "country": "PL",
+  "subdivision": null,
+  "city": "Gdańsk",
+  "language": "pl",
+  "run_by": "Stowarzyszenie Hackerspace Pomorze",
+  "summary": "Run by the Stowarzyszenie Hackerspace Pomorze association, this is the Discord server for a physical hackerspace and workshop space in Gdańsk, Poland. Members gather for electronics, making, and general tech projects; the Discord serves mostly as a coordination and chat hub for local members and workshop attendees rather than a global security community.",
+  "rules_note": "Primarily Polish-language; Discord invite is publicly shared but the group centers on the physical Gdańsk space.",
+  "red_flags": null,
+  "discord_description": "Stowarzyszenie Hackerspace Pomorze tworzy społeczność oraz przestrzeń warsztatową dla pasjonatów przy ulicy Do Studzienki 28 w Gdańsku",
+  "candidate_notes": "Hackerspace in Gdansk, Pomerania, Poland; ~40 members; founded 2020/10/10. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  A. K. A. Hackerspace Pomorze, HSP, is a hackerspace located in Gdańsk Wrzeszcz. It has been founded in 2020, by a group of 20 members that have been operating since 2017. <!--- Checked by mappall.spa",
+  "confidence": "official"
+ },
+ {
+  "id": "hackerspacesg",
+  "name": "HackerspaceSG",
+  "platform": "irc",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hardware-hacking",
+   "programming",
+   "hacker-culture"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "asia",
+  "country": "SG",
+  "subdivision": null,
+  "city": "Singapore",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "HackerspaceSG is a community-run makerspace in Singapore where volunteers maintain a shared workshop and organize events, from cleanup days to project sessions. It's a general hacker/maker community rather than a dedicated infosec group, with IRC used for day-to-day coordination among members.",
+  "rules_note": "Chat is on Libera IRC (#hackerspacesg).",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Singapore, Singapore; ~16 members; founded 2009/08/27. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  HackerspaceSG is a community based effort of a group of us who want a hackerspace in Singapore. Tons of people are involved from everything from getting the place clean to sourcing events and holding",
+  "confidence": "listing"
+ },
+ {
+  "id": "leeds-hackspace",
+  "name": "Leeds Hackspace",
+  "platform": "irc",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hardware-hacking",
+   "programming",
+   "hacker-culture"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Leeds",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "Leeds Hackspace is a member-run communal workshop in Leeds, UK, giving people access to tools and equipment (electronics, woodworking, digital fabrication and more) they might not otherwise have. It's an open, welcoming general maker community rather than a security-specific one, with IRC used mainly by existing members for coordination.",
+  "rules_note": "Chat is on Libera IRC (#leedshackspace); the space itself typically requires a membership fee to access tools.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Leeds, West Yorkshire, United Kingdom; ~100 members; founded 2009/04/23. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  Leeds Hackspace is a place for anyone to communally get together, socialise and create with access to space/workshop that has tools that you may otherwise not be able to have hands-on with thanks to ",
+  "confidence": "listing"
+ },
+ {
+  "id": "shackspace",
+  "name": "Shackspace",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hardware-hacking",
+   "programming",
+   "hacker-culture"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Stuttgart",
+  "language": "de",
+  "run_by": "shack e.V.",
+  "summary": "Shackspace is the Stuttgart hackerspace run by the shack e.V. association, a workshop and clubhouse for nerds and technology enthusiasts covering electronics, software, and general tinkering. It's a general German hacker/maker community, not an infosec-specific group, with chat bridged to Matrix and Libera IRC.",
+  "rules_note": "Chat is on Matrix, bridged to Libera IRC (#shackspace).",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Stuttgart, Baden-Württemberg, Germany; ~~110 members; founded 2009/09/13. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  === shackspace === shackspace (styled \"'''shackspace'''\") is the Stuttgart Hackerspace run by shack e.V. We're a group of nerds and technology enthusiasts (but I bet you already guessed that, eh). Co",
+  "confidence": "listing"
+ },
+ {
+  "id": "makehackvoid",
+  "name": "MakeHackVoid",
+  "platform": "forum",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hardware-hacking",
+   "programming",
+   "hacker-culture"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "australia-nz",
+  "country": "AU",
+  "subdivision": null,
+  "city": "Canberra",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "MakeHackVoid, also known as Canberra Makerspace, provides ACT residents with a shared multi-use workshop for building and tinkering projects. It's a general maker community rather than a security-focused one, with a public discussion forum used for coordination among members and prospective visitors.",
+  "rules_note": "Discussion happens via a public forum requiring registration to post.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Canberra, Australian Capital Territory, Australia; ~18 members; founded 2009/11/27. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  MakeHackVoid (aka Canberra Makerspace), described by Us Folk magazine as “one of Canberra’s best new creative organisations”, is a makerspace that provides ACT residents with a multi-use workshop and",
+  "confidence": "official"
+ },
+ {
+  "id": "taylor-street-creative-space",
+  "name": "Taylor Street Creative Space",
+  "platform": "discord",
+  "category": "adjacent",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner"
+  ],
+  "tags": [
+   "homelab",
+   "general-infosec"
+  ],
+  "activities": [
+   "chat",
+   "project-showcase",
+   "workshops",
+   "local-meetups"
+  ],
+  "members": 77,
+  "online": 16,
+  "region": "australia-nz",
+  "country": "AU",
+  "subdivision": "NSW",
+  "city": "Sydney",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A community-run makerspace in Sydney's inner west offering 3D printing, laser cutting, CNC milling, sewing and repair services, with workshops and an after-school program. It is a general maker/craft space rather than a security or hacking group, but its Discord is where members coordinate projects and ask for help with tools.",
+  "rules_note": "Membership-based physical space; Discord used for coordination, not primarily for security/hacking discussion.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Sydney, New South Wales, Australia; ~15 members; founded 2024/12/12. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  We're a new makerspace in Annandale, in Sydney's inner west. The space has a range of tools, equipment, and services: sewing & sewing machines, 3d printing, laser cutting, CNC milling, vinyl cutting,",
+  "confidence": "official"
+ },
+ {
+  "id": "b4cksp4ce",
+  "name": "B4CKSP4CE",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "general-infosec",
+   "hacker-culture",
+   "homelab",
+   "programming",
+   "regional"
+  ],
+  "activities": [
+   "chat",
+   "workshops",
+   "project-showcase",
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "RU",
+  "subdivision": null,
+  "city": "Saint Petersburg",
+  "language": "ru",
+  "run_by": "community-run",
+  "summary": "A volunteer-run hackerspace in Saint Petersburg where members hold workshops and lectures spanning soldering, security testing, synthesizers, and software projects. It's a hands-on maker/tech community built on a do-ocracy model rather than a dedicated security shop, welcoming newcomers who message ahead on Telegram before visiting.",
+  "rules_note": "Message the Telegram chat ahead of visiting in person; new residents should share the space's stated principles.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Saint-Petersburg, Russian Federation; ~26 members; founded 2019/10/05. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  Community of enthusiasts united by their interest in technology and art. Together, we explore complex subjects, hold events, work on projects, and simply have a good time. Our mission is to develop a",
+  "confidence": "listing"
+ },
+ {
+  "id": "alpsec",
+  "name": "AlpSec",
+  "platform": "discord",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "general-infosec",
+   "regional",
+   "careers",
+   "networking"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "news-feed",
+   "q-and-a"
+  ],
+  "members": 151,
+  "online": 25,
+  "region": "europe",
+  "country": "AT",
+  "subdivision": null,
+  "city": "Klagenfurt",
+  "language": "de",
+  "run_by": "AlpSec (nonprofit association)",
+  "summary": "A Carinthia, Austria-based association promoting cybersecurity awareness and knowledge-sharing, run out of Makerspace Carinthia in Klagenfurt. Members use the Discord to discuss security topics and coordinate regional meetups and events, aimed at both professionals and locals interested in digital security.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Klagenfurt, Carinthia, Austria; ~12 members; founded January 2025. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Verein zur Förderung von Cybersicherheit in Kärnten und Österreich",
+  "confidence": "official"
+ },
+ {
+  "id": "nerd2nerd",
+  "name": "Nerd2Nerd",
+  "platform": "irc",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "hacker-culture",
+   "regional",
+   "programming",
+   "homelab"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Würzburg",
+  "language": "de",
+  "run_by": "Nerd2Nerd e.V. (CCC Würzburg)",
+  "summary": "The official CCC Würzburg local chapter, a hackerspace of tech enthusiasts meeting weekly at FabLab Würzburg since 2003. Members work on hacker-culture and technology projects together and chat over IRC; it suits people already comfortable in hacker/maker circles more than absolute beginners.",
+  "rules_note": "Weekly in-person meetup Thursdays 18:30 at FabLab Würzburg; IRC on irc.nerd2nerd.org:6697 (#geeks).",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Würzburg, Bavaria, Germany; ~60 members; founded 2014/03/01. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  [[Category:CCC]] [[Category:CCC Erfa]] <!-- Checked by mapall.space bot on 2020-04-26 15:54. --> <!--- Checked by mappall.space bot. ** Space Nerd2Nerd Last modified on wiki 2020-04-26 - days 369 ago",
+  "confidence": "listing"
+ },
+ {
+  "id": "hacklab-in-mama",
+  "name": "Hacklab in mama",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hacker-culture",
+   "regional",
+   "programming",
+   "homelab"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "HR",
+  "subdivision": null,
+  "city": "Zagreb",
+  "language": "hr",
+  "run_by": "community-run",
+  "summary": "A grassroots skill-exchange hacklab hosted within Zagreb's MaMa club, where tech enthusiasts gather informally and irregularly to share knowledge on various technical topics. Coordination happens mainly over IRC (bridged to Matrix), with no fixed schedule or formal membership process.",
+  "rules_note": "Best way to reach the community is via IRC (#razmjenavjestina on Libera.Chat); Matrix bridge available; in-person meetups are sporadic.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Zagreb, Croatia; ~30 members. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  [[Image:Mama_hacklab.jpg|thumb|left|300px|Entrance of the mama hacklab]] Hacklab in Mama is a public working space of technology enthusiasts in the Club Mama. Initiated by the group gathered around t",
+  "confidence": "official"
+ },
+ {
+  "id": "mechartlab",
+  "name": "MechArtLab",
+  "platform": "matrix",
+  "category": "adjacent",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "badgelife-maker",
+   "hacker-culture",
+   "general-infosec"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "CH",
+  "subdivision": null,
+  "city": "Zürich",
+  "language": "de",
+  "run_by": "SGMK (Schweizerische Gesellschaft für Mechatronische Kunst), community-run",
+  "summary": "A Zürich makerspace and art collective (SGMK / Bitwäscherei) focused on electronic art, DIY synth building, and soldering workshops rather than security specifically. People drop into weekly open-lab sessions to build projects, learn electronics, and show off work; it suits hands-on hobbyists more than dedicated infosec learners.",
+  "rules_note": "Join via the Matrix room linked from the wiki; weekly open-lab/synth sessions at Bitwäscherei.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Zürich, Zürich, Switzerland; ~25 members; founded 2009/04/01. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  We promote creatives in electronic technology, mechanics, IT and other related areas. We understand this to be a creative expression of the human mind, which is not primarily utilitarian, but disting",
+  "confidence": "listing"
+ },
+ {
+  "id": "ccczh",
+  "name": "CCCZH",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "privacy",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "workshops",
+   "hardware-help"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "CH",
+  "subdivision": null,
+  "city": "Zürich",
+  "language": "de",
+  "run_by": "Chaos Computer Club Zürich (CCC-CH regional chapter), community-run",
+  "summary": "This is the Zürich regional chapter of the Swiss Chaos Computer Club, meeting weekly in person at the Bitwäscherei hackspace and online via Jitsi. Members discuss hacking, privacy, and tech-policy issues, and organizers explicitly say the group is not elitist and welcomes newcomers alongside experienced hackers.",
+  "rules_note": "Weekly in-person Chaostreff Wednesdays 19:00 at Bitwäscherei; weekly virtual meetup Mondays via Jitsi; join Matrix room for chat.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Zürich, Zürich, Switzerland; ~42 members. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  The Chaos Computer Club Zurich is regional chapter of the CCC (\"Erfakreis\") and part of the [https://www.ccc-ch.ch Chaos Computer Club Switzerland (CCC-CH)] Every Wednesday evening starting from 19:0",
+  "confidence": "listing"
+ },
+ {
+  "id": "rabbithole",
+  "name": "Rabbithole",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hacker-culture",
+   "homelab",
+   "iot-embedded",
+   "general-infosec"
+  ],
+  "activities": [
+   "local-meetups",
+   "hardware-help",
+   "workshops",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Osnabrück",
+  "language": "de",
+  "run_by": "Chaostreff Osnabrück, community-run",
+  "summary": "Rabbithole is the hackerspace run by Chaostreff Osnabrück, a small German civic-tech and hacker collective offering 3D printers, soldering stations, and sensor kits for open experimentation. It's a casual, drop-in workshop space for hackers and tech geeks rather than a dedicated security-training group, also involved in local Code for Osnabrück civic-tech projects.",
+  "rules_note": "Located on 2nd floor at Uni AStA Osnabrück, not wheelchair accessible; join via Matrix chat link.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Osnabrück, Lower-Saxony, Germany; ~30 members; founded 2023/02/11. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl). ",
+  "confidence": "listing"
+ },
+ {
+  "id": "ko-lab",
+  "name": "Ko-Lab",
+  "platform": "mattermost",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "hacker-culture",
+   "badgelife-maker"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "BE",
+  "subdivision": null,
+  "city": "Mechelen",
+  "language": "nl",
+  "run_by": "community-run (Ko-Lab vzw)",
+  "summary": "Ko-Lab is a nonprofit community workspace in Mechelen, Belgium, run collaboratively by its members as a shared workshop, studio, and social space for science, tech, crafts, and digital art. It's a general makerspace with weekly \"Open Friday\" drop-in nights rather than a security-focused group.",
+  "rules_note": "Sign up via the Mattermost invite link on the site; Open Friday nights start 7pm.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Mechelen, Belgium; ~15 members; founded 2015/09/02. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Ko-Lab Our Kollaborative Laboratory provides a space to explore, create and share. Located in the city centre of Mechelen Open on friday's starting at 7pm. Adress is \"Hovenierstraat 14, 2800 Mechelen",
+  "confidence": "official"
+ },
+ {
+  "id": "milton-keynes-makerspace",
+  "name": "Milton Keynes Makerspace",
+  "platform": "slack",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "badgelife-maker"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Milton Keynes",
+  "language": "en",
+  "run_by": "community-run, affiliated with Men in Sheds MK",
+  "summary": "This is a small general-purpose makerspace in Milton Keynes, UK, operating as a sub-group of Men in Sheds MK, where members share tools and skills for hands-on projects. It's a general making/DIY community rather than a security or hacking-focused one.",
+  "rules_note": "Join via Slack invite link on the site.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Milton Keynes, Buckinghamshire, United Kingdom; ~20 members; founded 2015/03/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Currently working as a sub/interest group of Men in Sheds MK. We gain an amazing base to work from and a supportive group of like minded people. They gain the benefits of our skill sets and enthusias",
+  "confidence": "official"
+ },
+ {
+  "id": "micropython",
+  "name": "micropython",
+  "platform": "discord",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "iot-embedded",
+   "programming",
+   "homelab"
+  ],
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "members": 4763,
+  "online": 391,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "George Robotics Limited / MicroPython open-source project",
+  "summary": "This is the official Discord for MicroPython, the compact Python implementation for microcontrollers created by Damien George and maintained by George Robotics. Members ask troubleshooting questions, share embedded projects, and discuss development of the open-source runtime; it's a general embedded-programming community, not security-focused, though it overlaps with hardware/IoT hacking audiences.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": "Community discussion for all things MicroPython",
+  "candidate_notes": "Hackerspace in Melbourne, Victoria, Australia; ~50 members; founded 2009/03/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  There is an incredible pool of talented people living in Melbourne and working on extraordinary projects. Many of these projects are firmly grounded in open-source and true collaboration. Many projec",
+  "confidence": "official"
+ },
+ {
+  "id": "hackerspace-wroc-aw",
+  "name": "Hackerspace Wrocław",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "general-infosec",
+   "regional"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "PL",
+  "subdivision": null,
+  "city": "Wrocław",
+  "language": "pl",
+  "run_by": "community-run",
+  "summary": "A member-run hackerspace in Wrocław, Poland, offering a physical clubhouse and Matrix chat for people working on electronics, software, and other DIY tech projects. It's a general-purpose makerspace with a security-adjacent crowd rather than a dedicated infosec group, suited to locals who want a workshop and community to build things with.",
+  "rules_note": "Small space (~30 members); chat is bridged/public via Matrix room #public:hswro.org.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Wroclaw, Lower Silesia, Poland; ~30 members; founded 2012/11/24. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  <!--- Checked by mapp.space bot. ** Space Hackerspace Wrocław Last modified on wiki 2019-05-10 - days 446 ago ** https://wiki.hackerspaces.org/Hackerspace_Wroc%C5%82aw Url = http://www.hswro.org Site",
+  "confidence": "official"
+ },
+ {
+  "id": "muccc",
+  "name": "MuCCC",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "general-infosec",
+   "regional",
+   "homelab"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Munich",
+  "language": "de",
+  "run_by": "Chaos Computer Club (CCC) Munich chapter",
+  "summary": "MuCCC is the Munich hackerspace and local meeting room for the Chaos Computer Club, hosting regular open evenings, talks, and hands-on tech/hacking projects for around 130 members. It's a general hackerspace culture group (CCC-affiliated) rather than a narrow security-training group, welcoming locals interested in computers, privacy, and hacker ethics.",
+  "rules_note": "Matrix room bridged to hackint IRC network, common across CCC-affiliated spaces.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Munich, Bavaria, Germany; ~about 130 members; founded 2008/06/01. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  [[Image:muc3.png]] The µc3 HQ is a Hackerspace in Munich, which has been started in June 2008. It serves as Room for Munich's Chaos Computer Club and other intergalactic lifeforms. [[Category:DN42]] ",
+  "confidence": "listing"
+ },
+ {
+  "id": "kiberpipa",
+  "name": "Kiberpipa",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "general-infosec",
+   "regional",
+   "homelab"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "SI",
+  "subdivision": null,
+  "city": "Ljubljana",
+  "language": "sl",
+  "run_by": "community-run",
+  "summary": "Kiberpipa (Cyberpipe) is a long-running community hackerspace/meta-space in Ljubljana, Slovenia, hosting talks and discussions on topics like FOSS, networking, and tech policy alongside general hacking culture. It's community-managed and mostly conducted in Slovenian, fitting locals interested in a broad hacker/maker scene rather than a focused security curriculum.",
+  "rules_note": "Also reachable via IRC (#kiberpipa on Libera.Chat); site/infra was being rebuilt as of mid-2025.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Ljubljana, Slovenia; founded 2001/10/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Kiberpipa (Cyberpipe) is a newly revived Slovenian meta-hackerspace in Ljubljana with [[kiberpipa/history|rich history since 2001]]. It's an open and public community for cultivating computer and com",
+  "confidence": "official"
+ },
+ {
+  "id": "cccac",
+  "name": "CCCAC",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "general-infosec",
+   "regional",
+   "homelab"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Aachen",
+  "language": "de",
+  "run_by": "Chaos Computer Club (CCC) Aachen chapter",
+  "summary": "CCCAC is the regional Chaos Computer Club chapter (Erfakreis Aachen) in Aachen, Germany, running a local hackerspace-style meetup for around 50 members interested in hacking, privacy, and computer culture. It functions as a local CCC affiliate group rather than a structured training program, fitting locals who want in-person hacker community.",
+  "rules_note": "Matrix room bridged to hackint, the shared IRC network used by many CCC-affiliated spaces.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Aachen, Nordrhein-Westfalen, Germany; ~50 members; founded 2009/10/15. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  The regional Erfa of the CCC e.V. (Erfakreis Aachen). [[Category:CCC]] [[Category:CCC Erfa]] <!--- Checked by mappall.space bot. ** Space CCCAC Last modified on wiki 2020-03-09 - days 418 ago ** http",
+  "confidence": "listing"
+ },
+ {
+  "id": "chaosstuff",
+  "name": "ChaosStuff",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "general-infosec",
+   "privacy",
+   "regional",
+   "social-engineering"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "LU",
+  "subdivision": null,
+  "city": "Luxembourg City",
+  "language": "en",
+  "run_by": "Chaos Computer Club Lëtzebuerg (c3l.lu)",
+  "summary": "ChaosStuff is a small hackerspace in Luxembourg City run by the Chaos Computer Club Lëtzebuerg NGO, with an explicit focus on IT security, data integrity, privacy, and hacktivism, including educating newcomers as critical hackers. It suits locals wanting hands-on security/privacy discussion and mentorship in a community clubhouse setting.",
+  "rules_note": "Chat is a Matrix room bridged via matrix.c3l.lu.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Luxembourg City, Luxembourg, Luxembourg; ~~30 members; founded 2015/06/11. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  ChaosStuff is run by the [http://c3l.lu/ Chaos Computer Club Lëtzeberg ] NGO. We focus on IT-Security, data integrity, privacy, (h)acktivism, educating the coming generations to critical hackers and ",
+  "confidence": "listing"
+ },
+ {
+  "id": "pixelbar-hackerspace",
+  "name": "Pixelbar - Hackerspace",
+  "platform": "discord",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "general-infosec",
+   "homelab",
+   "regional",
+   "iot-embedded"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "members": 432,
+  "online": 65,
+  "region": "europe",
+  "country": "NL",
+  "subdivision": null,
+  "city": "Rotterdam",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "Pixelbar is a community-run hackerspace in Rotterdam with a Discord server used to coordinate weekly open evenings, 3D-printing meetups, board game nights, and hands-on workshops. It's a general maker/hacker clubhouse (not security-focused) that explicitly welcomes newcomers to its recurring events regardless of experience.",
+  "rules_note": "Open house Wednesday evenings from 7pm; space is up a flight of stairs (accessibility note).",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Rotterdam, Zuid-Holland, Netherlands; ~30 members; founded 2015/08/26. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  == History == The name Pixelbar was founded around 2013 when 4 of our earliest members were joined together in one of the famous “Hacking Weekends”. These weekends existed for the sole purpose of hav",
+  "confidence": "official"
+ },
+ {
+  "id": "hackwerk-aalen",
+  "name": "Hackwerk Aalen",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "homelab",
+   "hacker-culture",
+   "regional",
+   "programming"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Aalen",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "A young Chaostreff (CCC-affiliated hackerspace) in Aalen, Germany, run by a community that grew out of local students and a nearby youth research center. Members meet weekly on Tuesday evenings to work with CNC and laser-cutting tools, electronics, 3D printers, and a self-hosted Kubernetes/FOSS server infrastructure, making it a fit for hobbyists interested in maker projects and self-hosting rather than dedicated offensive/defensive security work.",
+  "rules_note": "Weekly open meetup Tuesdays 7pm at the Aaccelerator space; join chat via Matrix.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Aalen, Baden-Württemberg, Germany; ~35 members; founded 2022/01/14. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Ein junger Chaostreff, entstanden aus einer Gruppe von Studierenden, mit Verbindung zu Vorgängergruppen und MentorInnen des örtlichen Schülerforschungszentrums. Da es auf der Ostalb keinen Chaostreff",
+  "confidence": "official"
+ },
+ {
+  "id": "hackerspace-krak-w",
+  "name": "Hackerspace Kraków",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "hacker-culture",
+   "programming"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "hardware-help",
+   "project-showcase",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "PL",
+  "subdivision": null,
+  "city": "Kraków",
+  "language": "pl",
+  "run_by": "community-run",
+  "summary": "A non-profit, member-run hackerspace based in central Kraków, Poland, offering a shared workshop with 3D printers and electronics tools. People show up for weekly Friday-night open hack sessions and workshops to learn skills, work on personal projects, and meet other local makers; it's a general maker/DIY tech community rather than a cybersecurity-specific group.",
+  "rules_note": "Drop-in Friday night hacks welcome newcomers; see the wiki's 'first steps' guide before visiting.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Cracow, Lesser Poland, Poland; ~~90 members; founded 2012/10/17. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  === About us === We are non-profit hackerspace in central part of [[Cracow|Kraków]]. Our HQ is located in a basement 2 minutes from main railway station and 5 minutes from main square, and just near ",
+  "confidence": "listing"
+ },
+ {
+  "id": "omega-verksted",
+  "name": "Omega Verksted",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "students",
+   "regional",
+   "hacker-culture",
+   "programming"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "hardware-help",
+   "workshops",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "NO",
+  "subdivision": null,
+  "city": "Trondheim",
+  "language": "no",
+  "run_by": "community-run",
+  "summary": "A student electronics and hobby club at NTNU in Trondheim, Norway, operating continuously since 1971 as one of the oldest hackerspaces in the world. Members build microcontroller and robotics projects, sew and use a vinyl cutter, and take part in beginner-friendly courses that explicitly require no prior knowledge, making it well suited to NTNU students new to electronics and making rather than a security-focused audience.",
+  "rules_note": "Open to all NTNU students regardless of major; lifetime membership costs 200 NOK; just show up to join.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Trondheim, Sør-Trøndelag, Norway; ~2500+ members; founded 1971/03/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  '''Omega Verksted''' is possibly one of the oldest extant hackerspaces in the world, having thrived on the Gløshaugen Campus of the Norwegian University of Science and Technology (NTNU) since 1971. A",
+  "confidence": "official"
+ },
+ {
+  "id": "dev-tal",
+  "name": "/dev/tal",
+  "platform": "irc",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "hacker-culture"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "hardware-help",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Wuppertal",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "A member-run hackerspace (/dev/tal e.V.) in Wuppertal, Germany, centered on a FabLab and a monthly Repair Café where volunteers help fix broken devices. It also runs workshops on topics like CNC machining, oscilloscopes, and LED programming, and explicitly welcomes people with no prior technical experience, making it a general electronics/repair-culture community rather than an infosec-focused one.",
+  "rules_note": "No prior knowledge needed to attend Repair Café or workshops; join via IRC (Libera.Chat #devtal) or the mailing list.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Wuppertal, North Rhine-Westphalia, Germany. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl). ",
+  "confidence": "listing"
+ },
+ {
+  "id": "acme-labs",
+  "name": "ACME Labs",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "hacker-culture"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Bielefeld",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "A small member-run hackspace in Bielefeld, Germany (\"A Collective Making Everything\"), focused on technology's role in society through hands-on projects like 3D printing, foodhacking (sourdough bread, oat milk), woodworking, and bicycle repair. It runs a weekly open 'Kontextfreier Freitag' meetup and enforces a code of conduct emphasizing inclusivity, but has no particular cybersecurity focus.",
+  "rules_note": "Weekly open meetup ('Kontextfreier Freitag'); everyone welcome regardless of background; code of conduct enforced.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Bielefeld, North Rhine-Westphalia, Germany; ~16 members; founded 2018/07/06. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  We are a young hackerspace in Bielefeld and our main interests is technology and how it changes our society. We know that technology alone can't safe the world, but we believe we can build tools to c",
+  "confidence": "official"
+ },
+ {
+  "id": "vaasa-hacklab",
+  "name": "Vaasa Hacklab",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "homelab",
+   "regional",
+   "hacker-culture",
+   "programming"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "hardware-help",
+   "workshops",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "FI",
+  "subdivision": null,
+  "city": "Vaasa",
+  "language": "fi",
+  "run_by": "community-run",
+  "summary": "A community makerspace in Vaasa, Finland, running since 2013 with laser cutting, 3D printing, electronics, and wood/metal workshops plus a dedicated software lab. Weekly no-membership-required open houses on Wednesday evenings let newcomers try the space before joining, and courses range from jewelry-making to arcade builds — a general hobbyist maker community rather than a security-specific one.",
+  "rules_note": "Open house every Wednesday at 6pm, no membership needed to visit; join chat via Matrix.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Vaasa, Finland; ~101 members; founded 2013/03/27. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  Vaasa Hacklab is a hackerspace located in old kasarmi area close to down town. We organize workshops, lectures and collaborative projects for our members and everyone else. On Wednesdays we have Open",
+  "confidence": "listing"
+ },
+ {
+  "id": "cadr",
+  "name": "CADR",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "programming",
+   "general-infosec"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "RU",
+  "subdivision": null,
+  "city": "Nizhny Novgorod",
+  "language": "ru",
+  "run_by": "community-run",
+  "summary": "CADR is a small volunteer-run hackerspace in Nizhny Novgorod, Russia, offering shared workshop space and equipment for technical projects, hardware tinkering, and self-education. It is a general maker/DIY hackerspace rather than a cybersecurity-focused group, and welcomes newcomers interested in dropping by and learning.",
+  "rules_note": "Join via Matrix invite link; site and chat are primarily in Russian.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Nizhniy Novgorod, Russian Federation; ~10 members; founded 2013/05/25. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  CADR is a hackerspace in Nizhniy Novgorod city, Russia. We're looking for interested people for participating in the project. CADR is a non-commercial organization (though not registered officially y",
+  "confidence": "official"
+ },
+ {
+  "id": "hackerspace-bremen",
+  "name": "Hackerspace Bremen",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "programming",
+   "general-infosec"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "project-showcase",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Bremen",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "Hackerspace Bremen is a community-run hobby workshop in Bremen, Germany, giving members shared tools and space to build electronics, software, and other DIY projects. It is a general maker/hacker community open to newcomers rather than a dedicated security group, with regular open evenings for anyone curious about tinkering.",
+  "rules_note": "Join via public Matrix room; site and chat are primarily in German.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Bremen, Bremen, Germany; ~65 members; founded 2011/11/09. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  __NOTOC__ == Eine Hobbywerkstatt für jede_n. == Wer kennt es nicht: Man hat eine Idee, es fehlt einem aber Platz, das Werkzeug oder das vollständige Know-How, diese Idee zu realisieren. Oder man stec",
+  "confidence": "official"
+ },
+ {
+  "id": "essembly",
+  "name": "Essembly",
+  "platform": "matrix",
+  "category": "adjacent",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "programming"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "project-showcase",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Esslingen am Neckar",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "Essembly is a makerspace in Esslingen am Neckar, Germany, run by Makerspace Esslingen e.V., offering electronics, 3D printing, networking, and general tinkering space plus monthly open workshops. It is a general tech/maker community, not security-specific, and explicitly welcomes people to just drop in and try things out.",
+  "rules_note": "Join via public Matrix room; site is primarily in German.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Esslingen am Neckar, Baden-Württemberg, Germany; ~25 members; founded 2021/07/04. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  = Essembly = Essembly is the space for technology enthusiasts in Esslingen, run by Makerspace Esslingen e.V. == Events == We have regular events in our space: * a monthly workshop open for everyone o",
+  "confidence": "listing"
+ },
+ {
+  "id": "hackeskur",
+  "name": "Hackeskur",
+  "platform": "irc",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "general-infosec"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DK",
+  "subdivision": null,
+  "city": "Hvidovre",
+  "language": "da",
+  "run_by": "community-run",
+  "summary": "Hackeskur is a newly founded (2025) hackerspace in Hvidovre near Copenhagen, Denmark, connected to the Labitat hacker community. It appears to be a general-purpose hacker/maker meetup space; the group's IRC channel is the main way to reach them since the space is still young.",
+  "rules_note": "Join via IRC on irc.labitat.dk, channel #hackeskur; no official website found, wiki page was accessible only via hackerspaces.org.",
+  "red_flags": "Very new group (founded Feb 2025) with minimal online presence; details could not be independently verified beyond the hackerspaces.org wiki listing.",
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Hvidovre, Copenhagen, Denmark; founded 2025/02/11. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  ",
+  "confidence": "listing"
+ },
+ {
+  "id": "chaostreff-bern",
+  "name": "Chaostreff Bern",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "homelab",
+   "privacy",
+   "general-infosec",
+   "programming"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "CH",
+  "subdivision": "BE",
+  "city": "Bern",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "Chaostreff Bern is a registered association and hackerspace in Bern, Switzerland, hosting thematic tech evenings, talks (e.g. home automation), keysigning parties, and involvement in Swiss digital-rights campaigns against surveillance legislation. It suits people interested in general tech tinkering and digital privacy/independence, with regular open house days for newcomers.",
+  "rules_note": "Join via public Matrix room; site primarily in German with some English.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Bern, Bern, Switzerland; ~42 members; founded 2016/10/25. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  The '''Chaostreff Bern''' is a meetup of hackers in Bern, [[Switzerland]]. Since July 2024 we are located at Zwyissigstrasse 45, 3007 Bern, next to Loryplatz. Previously, from Dec 2018 to June 2024, ",
+  "confidence": "listing"
+ },
+ {
+  "id": "chaos-computer-club-basel",
+  "name": "Chaos Computer Club Basel",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "homelab",
+   "general-infosec",
+   "networking",
+   "programming"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "CH",
+  "subdivision": "BL",
+  "city": "Muttenz",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "Chaos Computer Club Basel is a Swiss hackerspace near Basel offering weekly open evenings, technical workshops (e.g. Linux installation), talks on topics like DNSSEC and retro computing, and tours of infrastructure sites. It is a general hacker/tech community rather than a security-specialist group, welcoming visitors to its open Tuesday nights.",
+  "rules_note": "Join via public Matrix room; open house every Tuesday from 7:30 PM; site primarily in German.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Muttenz, Basel-Landschaft, Switzerland; ~25 members; founded 2010/05/23. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  The Chaos Computer Club Basel (formerly Chaostreff Basel) is a hackerspace located in [[Muttenz]] near [[Basel]]. The doors of our hackerspace are open to the public every Tuesday from 7:30 PM. We're",
+  "confidence": "listing"
+ },
+ {
+  "id": "ents",
+  "name": "ENTS",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "general-infosec",
+   "networking",
+   "linux"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "AB",
+  "city": "Edmonton",
+  "language": "en",
+  "run_by": "community-run (Edmonton New Technology Society, non-profit)",
+  "summary": "A member-run makerspace in Edmonton offering shared woodworking, electronics, metalworking, and pottery studios with 24/7 access for members. It's general maker/hobbyist space rather than security-focused, but overlaps with hardware tinkering and DIY electronics that adjacent hackers may enjoy.",
+  "rules_note": "Paid membership required for facility access; Matrix chat is public to join.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Edmonton, Alberta, Canada; ~65 members; founded 2009/05/10. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  == About ENTS == The Edmonton New Technology Society (ENTS) is a non-profit, member-driven organization of technology and hobby enthusiasts. ENTS offers members a place to create, build, repair and o",
+  "confidence": "listing"
+ },
+ {
+  "id": "das-labor",
+  "name": "Das Labor",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "homelab",
+   "general-infosec",
+   "linux",
+   "hacker-culture"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Bochum",
+  "language": "de",
+  "run_by": "community-run (Das Labor e.V.)",
+  "summary": "A long-running hackerspace in Bochum, Germany, part of the German Chaos hacker scene, where members tinker with electronics, computing, and DIY projects. It's a general hacker/maker collective rather than a dedicated infosec group, appealing to locally-based tech tinkerers of varied skill levels.",
+  "rules_note": "Public wiki and Matrix room; in-person meetups happen at the space.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Bochum, Nordrhein-Westfalen, Germany; ~85 members; founded 2005/01/25. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  About the Hackerspace \"Das Labor\" Consuming Habits and Discount Credits.<br /> No one understand, that you don't like disclosing your consuming habits for a few discount credits? No one wonders, why ",
+  "confidence": "official"
+ },
+ {
+  "id": "datenburg",
+  "name": "Datenburg",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "lockpicking-physical",
+   "linux",
+   "homelab",
+   "general-infosec"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Bonn",
+  "language": "de",
+  "run_by": "community-run (Datenburg e.V.)",
+  "summary": "The Bonn \"Chaostreff\" hackspace, meeting weekly for an open evening plus monthly Raspberry Pi workshops, lockpicking, 3D printing, and Linux installs. It explicitly welcomes newcomers with no prior knowledge, making it a friendly entry point for beginners interested in hands-on tech and light security topics like lockpicking.",
+  "rules_note": "No prior knowledge needed; open Tuesday evenings at Bornheimer Straße 25.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Bonn, Nordrhein-Westfalen, Germany; ~43 members; founded 2019/05/20. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  Der Datenburg e.V. ist der Bonner Chaostreff. Wir treffen uns mindestens jeden Dienstag ab 19 Uhr in der Bornheimer Straße 25.",
+  "confidence": "listing"
+ },
+ {
+  "id": "hacker-embassy",
+  "name": "Hacker Embassy",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "homelab",
+   "general-infosec",
+   "hacker-culture"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "middle-east",
+  "country": "AM",
+  "subdivision": null,
+  "city": "Yerevan",
+  "language": "ru",
+  "run_by": "community-run",
+  "summary": "A hackerspace in Yerevan founded by an international group of tech enthusiasts, offering 3D printers, laser cutters, and soldering stations, with workshops ranging from 3D printing to neural networks. It's a general maker/tech community rather than security-specific, run mostly in Russian with semi-open Friday meetups.",
+  "rules_note": "Contact via Telegram (@HackerEmbassyBot or @hacker_embassy); semi-open Friday meetings at 8 PM.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Yerevan, Armenia; ~18 members; founded 2022/05/10. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  We came from various countries and cities and opened a hackspace in Yerevan. We work together on projects, share ideas and knowledge, and socialize. Our goal is to develop a community in which each p",
+  "confidence": "listing"
+ },
+ {
+  "id": "hack42",
+  "name": "Hack42",
+  "platform": "irc",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "homelab",
+   "linux",
+   "general-infosec",
+   "hacker-culture"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "NL",
+  "subdivision": null,
+  "city": "Arnhem",
+  "language": "nl",
+  "run_by": "community-run (Hack42)",
+  "summary": "A hackerspace in Arnhem, Netherlands, with electronics labs, a computer museum, woodshop, and library, open to the public on Tuesday and Friday evenings. Members work on soldering, programming, laser cutting, and other DIY projects; it's a general tinkerer/maker community with only incidental security angle.",
+  "rules_note": "Open house Tuesday and Friday evenings from 19:00; also reachable via IRC (#hack42 on OFTC).",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Arnhem, Gelderland, Netherlands; ~>60 members; founded 2009/11/20. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  We've got tools and we're not afraid to use them! And we've got a library full of tech books, a pleasant lounge to hang out in, and a computer museum full of cool old stuff to tinker with. Drop by if",
+  "confidence": "listing"
+ },
+ {
+  "id": "hack-hro",
+  "name": "Hack HRO",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "linux",
+   "homelab",
+   "general-infosec",
+   "hacker-culture"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Rostock",
+  "language": "de",
+  "run_by": "community-run (Hackspace Rostock)",
+  "summary": "Hackspace Rostock is a weekly-meeting community workshop for tech enthusiasts to tinker with hardware and software, share knowledge, and run projects like Linux workshops and notebook recycling. It's a general hacker/maker space open to anyone curious about technology, not security-specific.",
+  "rules_note": "Open every Wednesday from 19:00 at Friedhofsweg 44a; Matrix chat and membership form available.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Rostock, Mecklenburg-Vorpommern, Germany. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  <!--- Checked manual by zeno4ever on 10 nov 2022 --> <!--- Checked by mappall.space bot on 2023-12-11 22:21:05. Updated manual on 10:20:54pm via http://mapall.space/hswikilist.php --> <!--- Checked b",
+  "confidence": "official"
+ },
+ {
+  "id": "nobreakspace",
+  "name": "Nobreakspace",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "general-infosec",
+   "hacker-culture",
+   "regional"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase",
+   "chat"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Lübeck",
+  "language": "de",
+  "run_by": "Chaotikum e.V.",
+  "summary": "This is the chat for Nobreakspace, a hackerspace run by the Chaotikum e.V. association in Lübeck, Germany. Members hold weekly open evenings and workshops on Linux, password managers, privacy tools, soldering and 3D printing, and organize a small annual conference called Nights of Open Knowledge; it's a general tech/maker community with a digital-rights bent rather than a dedicated security research group.",
+  "rules_note": "Open Space/Chaostreff meetups happen regularly at the physical space; join via Matrix room linked from the site.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Lübeck, Schleswig-Holstein, Germany; ~72 members; founded 2012/03/20. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  == General == The Nobreakspace, ''nbsp'' for short, is the central meeting point for all hackers in Lübeck, Germany. Located near the city center, right next to the main station, it is the home to ma",
+  "confidence": "official"
+ },
+ {
+  "id": "uk-hackspace",
+  "name": "UK Hackspace",
+  "platform": "discord",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "hacker-culture",
+   "regional",
+   "programming"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase",
+   "chat"
+  ],
+  "members": 151,
+  "online": 39,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "York",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "This Discord serves York Hackspace, a member-run makerspace in York, UK, founded in 2011 as part of the UK Hackspace Foundation. People meet at weekly open evenings to work on electronics, woodworking, 3D printing and other DIY projects, and paying members get 24/7 access to the physical space's tools; it's a general maker/DIY community rather than an information-security focused one.",
+  "rules_note": "Open evenings most Wednesdays for members and visitors; join the mailing list and Discord to get started, paid membership needed for space access.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in York, Yorkshire, United Kingdom; ~>30 members; founded 2011-09-16. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  York Hackspace is an established hackspace in York, UK, and with members from in and around York. We have our own space with facilities for electronics, woodwork and crafts amongs other things, and a",
+  "confidence": "official"
+ },
+ {
+  "id": "chaostreff-backnang",
+  "name": "Chaostreff Backnang",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "general-infosec",
+   "hacker-culture",
+   "regional"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase",
+   "chat"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Backnang",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "Chaostreff Backnang is a small, community-run hacker/maker meetup in Backnang, Germany, part of the wider German Chaostreff network loosely affiliated with the Chaos Computer Club scene. They gather on the third Sunday of each month in a shared community space to swap knowledge and work on projects together, covering general tech and hacking topics rather than one narrow specialty.",
+  "rules_note": "Meets in person monthly (3rd Sunday) at dasWohnzimmer, Willy-Brandt-Platz 2; join chat via Matrix.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Backnang, Baden-Württemberg, Germany; ~33 members; founded 2019/01/27. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  Wir sind der '''Chaostreff Backnang''' und treffen uns an jedem 3. Sonntag des Monats zum Erfahrungsaustausch und der gemeinsamen Umsetzung von Projekten im dasWohnzimmer (Willy-Brandt-Platz 2) in Ba",
+  "confidence": "listing"
+ },
+ {
+  "id": "fablabc",
+  "name": "Fablabc",
+  "platform": "matrix",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "programming",
+   "hacker-culture"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase",
+   "chat"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Chemnitz",
+  "language": "de",
+  "run_by": "Stadtfabrikanten e.V.",
+  "summary": "Fablab Chemnitz, run by the German association Stadtfabrikanten e.V., is a community fab lab/makerspace where members build shared knowledge and collaborate on hardware, 3D-printing, electronics and software projects. It's a general maker and open-hardware community rather than a security-focused one, open to locals wanting hands-on project space.",
+  "rules_note": "Join chat via Matrix; open lab hours at the physical space.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Chemnitz, Saxony, Germany; ~45 members; founded 2016/01/13. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  Fablab Chemnitz is the main project of Stadtfabrikanten e.V. Our goal is to encourage people to work together on projects, ideas and innovations. For this purpose, we create and share knowledge about",
+  "confidence": "listing"
+ },
+ {
+  "id": "foulab",
+  "name": "FOULAB",
+  "platform": "irc",
+  "category": "adjacent",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "homelab",
+   "hacker-culture",
+   "programming"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase",
+   "chat"
+  ],
+  "members": null,
+  "online": null,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "QC",
+  "city": "Montreal",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "Foulab is a member-run, member-funded hackerspace in Montreal founded in 2008, one of the first hackerspaces in Canada. Members get a shared, well-equipped workshop to explore technology, electronics and software hands-on and share knowledge; it's a general hacker/maker community rather than a dedicated infosec group, coordinated over IRC (#foulab on Libera Chat).",
+  "rules_note": "Chat is #foulab on Libera Chat (irc.libera.chat); no signup needed to join the IRC channel.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Montreal, Quebec, Canada; ~17 members; founded 2008/07/18. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  Foulab is a non-profit organization that aims to provide a collaborative and well-equipped environment that allows its users to explore new technologies while sharing knowledge and ideas. Our funding",
+  "confidence": "listing"
+ },
+ {
+  "id": "entropia",
+  "name": "Entropia",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "regional",
+   "privacy",
+   "ctf"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase",
+   "chat"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Karlsruhe",
+  "language": "de",
+  "run_by": "Entropia e.V. (CCC Karlsruhe)",
+  "summary": "Entropia e.V. is the official Karlsruhe local chapter (Erfa-Kreis) of the German Chaos Computer Club, founded in 1999 out of the local Chaostreff. Members hold weekly open meetings on Sunday evenings covering hacking, privacy, reverse engineering and security/tech-policy topics, and the group organizes the Gulaschprogrammiernacht, one of the CCC's largest annual events after the Chaos Communication Congress.",
+  "rules_note": "Open weekly meetings Sundays 19:30 at Gewerbehof, Steinstr. 23; join chat via Matrix.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Karlsruhe, Baden-Württemberg, Germany; ~140 members; founded 2001/05/17. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  {| | [[Image:Entropia-reverse-engineer.jpg|thumb|left|200px|Entropian reverse-engineering an ancient LED panel]] [[Image:Entropia-likes-everything.jpg|thumb|right|200px|We like everything.]] '''Entro",
+  "confidence": "official"
+ },
+ {
+  "id": "flipdot",
+  "name": "Flipdot",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "homelab",
+   "networking",
+   "regional"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Kassel",
+  "language": "de",
+  "run_by": "community-run (CCC Kassel local group)",
+  "summary": "Flipdot is a hackerspace in Kassel, Germany, run as a local CCC group, offering a clubroom where members and visitors tinker on electronics, software, and general hacker-culture projects. It holds regular public open hours and workshops, and coordinates over Matrix, its wiki, and Mastodon.",
+  "rules_note": "Open nearly every day with a public open evening weekly; the Matrix room is linked from the website.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Kassel, Hessen, Germany; ~57 members; founded 2009/09/05. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  flipdot (which is the local CCC Group \"ERFA Kreis\" as well) started September 2009 and rented a very nice room in a former shoe workshop. We lost this room in winter 2010 because of a tango group whi",
+  "confidence": "official"
+ },
+ {
+  "id": "attraktor",
+  "name": "Attraktor",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "homelab",
+   "badgelife-maker",
+   "regional"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Hamburg",
+  "language": "de",
+  "run_by": "community-run (Attraktor e.V.)",
+  "summary": "Attraktor is a large makerspace and hackerspace in Hamburg, Germany, offering metal- and woodworking, electronics, CNC, 3D printing, and software workshops for tinkerers and hobbyists. It has historically hosted Chaos Computer Club Hamburg activities alongside its own member-run projects, and coordinates via a Matrix room.",
+  "rules_note": "Space is member-run; check current opening hours on the website before visiting.",
+  "red_flags": "A former board member's ties to far-right activity led CCC to end its office arrangement with the space in 2019; the space itself continues operating independently.",
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Hamburg, Hamburg, Germany; founded 2010/03/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  [[Image:Attraktor Chefworkshop.jpg|thumb|left|200px|Chef Introduction Talk]] With an area of over 300sqm, it is the largest Hackerspace in northern Germany and offers an event venue for over 100 peop",
+  "confidence": "official"
+ },
+ {
+  "id": "codinglab",
+  "name": "Codinglab",
+  "platform": "irc",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "homelab",
+   "programming",
+   "regional"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "workshops",
+   "hardware-help"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "CH",
+  "subdivision": null,
+  "city": "Minusio",
+  "language": "it",
+  "run_by": "community-run",
+  "summary": "Codinglab is a small computer club and hackerspace in Minusio, near Locarno in Switzerland, where members hold biweekly labs to build skills on varied technical topics. It suits local hobbyists looking for an in-person, hands-on tech community rather than an online-first one.",
+  "rules_note": "IRC channel requires a password (per invite_url); ask via the website to get access, and note the group is quite small (~10 members).",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Minusio, Ticino, Switzerland; ~10 members; founded 2019/02/15. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  We are a computer club and hackerspace in Minusio, near Locarno in Switzerland. We organize bi-weekly labs (Wednesday and Friday), in which participants develop their skills on topics as varied as TC",
+  "confidence": "listing"
+ },
+ {
+  "id": "coredump",
+  "name": "Coredump",
+  "platform": "irc",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "homelab",
+   "networking",
+   "regional"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "CH",
+  "subdivision": null,
+  "city": "Rapperswil-Jona",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "Coredump is a combined hacker- and makerspace in Rapperswil-Jona, Switzerland, with an electronics workshop (soldering stations, SMD oven, PCB etching) and woodworking tools for members' personal projects. It runs a weekly open hacknight where guests are welcome, making it an easy first visit for newcomers in the area.",
+  "rules_note": "Guests are welcome at the weekly Monday hacknight; join chat via the IRC/Libera channel or the website for details.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Jona, St. Gallen, Switzerland; ~35 members; founded 2013/08/26. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  We meet every Monday and sometimes Thursday evening. Guests are welcome! As a member, you always have access to our room. For more information please refer to https://www.coredump.ch/. <!-- Checked b",
+  "confidence": "listing"
+ },
+ {
+  "id": "c3re",
+  "name": "C3RE",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "homelab",
+   "networking",
+   "regional"
+  ],
+  "activities": [
+   "local-meetups",
+   "chat",
+   "workshops",
+   "hardware-help"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Recklinghausen",
+  "language": "de",
+  "run_by": "community-run (Chaostreff Recklinghausen)",
+  "summary": "C3RE is a Chaostreff (informal CCC-affiliated meetup group) in the Recklinghausen district of Germany, meeting weekly in a clubhouse called the Hackerhütte on the grounds of a former coal mine. Members discuss projects, tech, and net-politics topics and help each other with tools and tips in a casual, low-pressure setting.",
+  "rules_note": "Meets every Wednesday at the Hackerhütte; Matrix room linked from the website.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Recklinghausen, North Rhine-Westphalia, Germany; founded 2015/01/29. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  <!--- Checked by mapp.space bot. ** Space C3RE Last modified on wiki 2017-12-27 - days 945 ago ** https://wiki.hackerspaces.org/C3RE Url = https://www.c3re.de/ Site up check on RSS dates. Found name ",
+  "confidence": "official"
+ },
+ {
+  "id": "labaixbidouille",
+  "name": "Labaixbidouille",
+  "platform": "discord",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "homelab",
+   "hardware-hacking",
+   "networking",
+   "general-infosec",
+   "regional"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "hardware-help"
+  ],
+  "members": 34,
+  "online": 8,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Aix-en-Provence",
+  "language": "fr",
+  "run_by": "L.A.B (association loi 1901)",
+  "summary": "This is the Discord for L.A.B (Laboratoire d'Aix-périmentation et de Bidouille), a member-run fablab and hackerspace in Aix-en-Provence, France, offering 3D printing, laser cutting, CNC milling and electronics. Members use it to coordinate weekly workshop sessions, gaming nights, and maker/STEAM projects; it's general maker culture with some electronics/hardware hacking rather than a dedicated security focus, and suits locals wanting hands-on hardware help.",
+  "rules_note": "Primarily a French-language local fablab community; open sessions Tuesdays/Wednesdays evenings.",
+  "red_flags": null,
+  "discord_description": "Serveur discord dédié aux activités, permanences et soirées du fablab associatif et collaboratif L.A.B basé à Aix-en-Provence",
+  "candidate_notes": "Hackerspace in Aix-en-Provence, Provence-Alpes-Côte d'Azur, France; ~100 members; founded 2011/12/06. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  ===Qui sommes nous ?=== Le L.A.B (Laboratoire d’Aix-périmentation et de Bidouille) a pour objectif de favoriser l’émergence d’un espace collaboratif et communautaire d’échange technologique à Aix-en-",
+  "confidence": "official"
+ },
+ {
+  "id": "metalab",
+  "name": "Metalab",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "homelab",
+   "hardware-hacking",
+   "networking",
+   "general-infosec",
+   "regional"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "AT",
+  "subdivision": null,
+  "city": "Vienna",
+  "language": "de",
+  "run_by": "community-run (Verein Metalab)",
+  "summary": "Metalab is Vienna's oldest community-run hackspace, offering laser cutters, 3D printers, CNC mills and electronics labs for members and visitors interested in art, technology, society and science. Interest groups cover networking, ham radio, electronics and robotics; it's a general maker/hacker community rather than security-specific, welcoming newcomers to open days and evening drop-ins.",
+  "rules_note": "Space generally open after 6pm daily; open days second Thursday and fourth Friday of the month; Matrix room is a low-traffic lobby channel.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Vienna, Vienna, Austria; ~168 members; founded 2006/04/01. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  {| | [[Image:Metalab entrance.jpg|thumb|left|200px|Entrance of the metalab]] The '''Metalab''' is a 222sqm non-profit hackerspace in Vienna's first district - right next to the vienna city hall. It o",
+  "confidence": "listing"
+ },
+ {
+  "id": "wizards-of-dos",
+  "name": "Wizards of Dos",
+  "platform": "discord",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "general-infosec",
+   "ctf",
+   "hardware-hacking",
+   "regional",
+   "linux"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "ctf-events"
+  ],
+  "members": 43,
+  "online": 9,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Darmstadt",
+  "language": "de",
+  "run_by": "CCC Darmstadt (Chaos Computer Club local chapter)",
+  "summary": "This is the Discord run by CCC Darmstadt (the local Chaos Computer Club chapter, also called Chaos Darmstadt), used to coordinate meetups, hacking/hardware sessions and CTF-adjacent activity since in-person organizing capacity has been limited. It's a small, low-traffic community oriented around German hacker/CCC culture rather than a dedicated beginner-training space.",
+  "rules_note": "Small server (~40 members); regular organized in-person meetings have been paused, Discord is the fallback coordination channel.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Darmstadt, Hessen, Germany; ~88 members; founded 2006/05/23. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  __NOTOC__ ==chaos, chaos== {| border=\"0\" |[[Image:CDA-Logo.gif]] | Chaos Darmstadt is the local incarnation of the Chaos in Darmstadt. We are a bunch of people who engage themselves in hacking, hardw",
+  "confidence": "official"
+ },
+ {
+  "id": "ccc-mainz",
+  "name": "CCC Mainz",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "general-infosec",
+   "hardware-hacking",
+   "networking",
+   "regional"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Wiesbaden",
+  "language": "de",
+  "run_by": "CCC Wiesbaden (community-run)",
+  "summary": "This is the Matrix lobby for CCC Wiesbaden (CCCWI), a local Chaos Computer Club-affiliated hackspace despite the listing name 'CCC Mainz'; the group explicitly says newcomers are welcome whether or not they have a technical background. People use it to chat and coordinate weekly Tuesday-evening meetups at the space, covering general hacking, tech and privacy topics.",
+  "rules_note": "Actual location is Wiesbaden, not Mainz, despite the entry's given name; open evening Tuesdays from 7pm.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Wiesbaden, Hessen, Germany; ~52 members; founded 2003/10/23. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  [[Image:2704043558_a49ea26d84.jpg|thumb|left|250px|Main room (the former location)]] [[Image:2703068869_985879813e.jpg|thumb|left|250px|Desk (the former location)]] [[Image:Mzwi.jpeg|thumb|left|250px",
+  "confidence": "official"
+ },
+ {
+  "id": "warsaw-hackerspace-2",
+  "name": "Warsaw Hackerspace",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "homelab",
+   "networking",
+   "general-infosec",
+   "regional"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "PL",
+  "subdivision": null,
+  "city": "Warsaw",
+  "language": "pl",
+  "run_by": "community-run (Warszawski Hackerspace association)",
+  "summary": "Warszawski Hackerspace is a community-run creative/maker space in Warsaw with a heavy workshop (CNC, laser, lathe, welding) and an electronics lab, open to anyone with ideas or a need for tools. It hosts weekly open Thursday-evening meetings and workshops on machine building and radio technology; people join via IRC, Matrix or email, and can become members after visiting a few times.",
+  "rules_note": "Weekly open house Thursdays 6pm; several visits typically expected before joining as a full member.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Warsaw, Masovia, Poland; ~130 members; founded 2011/01/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  [[Image:HSWAW_Panorama.jpg|thumb|left|400px|Panorama of Warsaw Hackerspace]] [[Image:WAW-workshop.jpg|thumb|left|200px|Small workshop room in HSWAW]] [[Image:WAW-rack.jpg|thumb|left|200px|Our humble ",
+  "confidence": "official"
+ },
+ {
+  "id": "breizh-entropy",
+  "name": "Breizh Entropy",
+  "platform": "irc",
+  "category": "regional",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "general-infosec",
+   "hardware-hacking",
+   "homelab",
+   "regional"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Rennes",
+  "language": "fr",
+  "run_by": "community-run (Breizh-Entropy collective)",
+  "summary": "Breizh-Entropy is a small informal hackerspace collective in Rennes, France, that grew out of the Breizh Entropy Congress (BEC) hacker conference. It runs a weekly Wednesday-evening open session at its local space and uses IRC on Libera.Chat as its main chat/coordination channel for members and visitors interested in hacking, electronics and free/open-source culture.",
+  "rules_note": "Join #breizh-entropy on irc.libera.chat (TLS port 6697) to reach the group and request space access; open Wednesdays 18:30-21:00.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Rennes, Brittany, France; ~~20 members; founded 2010/10/01. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  = Breizh Entropy = [http://breizh-entropy.org Breizh Entropy] is the hacker space which emerged from the [[Breizh Entropy Congress|Breizh Entropy Congress (BEC)]]. Like all other spaces, we intend to",
+  "confidence": "listing"
+ },
+ {
+  "id": "backspace",
+  "name": "Backspace",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase",
+   "chat"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Bamberg",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "A member-run hackerspace in Bamberg, Germany, open on regular meeting nights for hands-on electronics, software, and maker projects. It suits locals who want a physical space and community rather than an online-only group; the Matrix room is mainly for coordinating meetups and space access.",
+  "rules_note": "Chat is on Matrix (#bckspc:icbm.codes); best used to coordinate an in-person visit rather than as a standalone online community.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Bamberg, Bavaria, Germany; ~90 members; founded 2011/10/23. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  ==General Introduction== Located in the beautiful city of Bamberg which is primarily known for its rich beer culture and cultural heritage it is no great surprise that the backspace e.V. took up its ",
+  "confidence": "official"
+ },
+ {
+  "id": "57north",
+  "name": "57North",
+  "platform": "irc",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase",
+   "chat"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Aberdeen",
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A small hacker collective with a shared physical space in Aberdeen, Scotland, where members meet regularly to work on projects and share knowledge. It's aimed at locals looking for an in-person maker/hacker community rather than a large online chat; the IRC channel is mainly for coordination.",
+  "rules_note": "Chat is on Libera.Chat IRC (#57n); a small, low-traffic channel mostly used by local members.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Aberdeen, Scotland, United Kingdom; ~15 members. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  57North is a hacker collective with a shared space located in Aberdeen, Scotland. We meet regularly to share knowledge, hack on projects together, and build community. If you're interested in joining",
+  "confidence": "listing"
+ },
+ {
+  "id": "hackerspace-gent",
+  "name": "Hackerspace Gent",
+  "platform": "matrix",
+  "category": "regional",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "regional",
+   "hacker-culture",
+   "hardware-hacking",
+   "homelab"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "project-showcase",
+   "chat"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "BE",
+  "subdivision": null,
+  "city": "Ghent",
+  "language": "nl",
+  "run_by": "community-run",
+  "summary": "An independent, member-funded hackerspace in Ghent, Belgium, running since 2009, with regular open workshop nights where anyone can drop by. It's built for locals wanting hands-on electronics, software, and maker projects in a physical space rather than pure online discussion.",
+  "rules_note": "Chat is on Matrix (#hackerspacegent:matrix.org); newcomers are welcome to attend a workshop night in person.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Ghent, Oost-Vlaanderen, Belgium; ~24 members; founded 2009/10/06. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Hackerspace Gent is a hackerspace in the wonderful city of Ghent, Belgium. It is an independent space entirely financed and run by its members since 2009. Anyone is welcome to attend one of the works",
+  "confidence": "official"
+ }
+]

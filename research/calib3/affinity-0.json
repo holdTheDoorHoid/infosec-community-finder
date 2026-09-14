@@ -1,0 +1,1074 @@
+[
+ {
+  "id": "women-s-society-of-cyberjutsu",
+  "name": "Women's Society of Cyberjutsu",
+  "platform": "slack",
+  "category": "affinity",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "affinity-women",
+   "careers",
+   "mentorship",
+   "general-infosec",
+   "certifications"
+  ],
+  "activities": [
+   "mentorship",
+   "job-board",
+   "study-groups",
+   "local-meetups",
+   "chat"
+  ],
+  "members": null,
+  "online": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "Women's Society of Cyberjutsu (nonprofit)",
+  "summary": "Women's Society of Cyberjutsu (WSC) is a nonprofit dedicated to advancing women in cybersecurity through free training, mentorship, scholarships, and networking. Their Slack connects members for career advice, study groups, and local chapter meetups, and is explicitly built to welcome newcomers regardless of experience level. It suits women (and allies) at any stage, from those exploring the field to working professionals.",
+  "rules_note": "Join via the free signup page linked from womenscyberjutsu.org; some WSC programs (training, scholarships) require separate membership registration.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: women; org: Women's Society of Cyberjutsu (WSC); join: free-signup; scope: security. Official Slack join page linked from womenscyberjutsu.org (found via search result titled 'slack, cyberjutsu, women in cyber'). WebFetch got HTTP 403 on the page itself so exact signup mechanics (free vs. membership-gated) could not be fully verified from content; the URL is the org's own dedicated join-Slack page.",
+  "confidence": "listing"
+ },
+ {
+  "id": "wicca",
+  "name": "WICCA",
+  "platform": "discord",
+  "category": "affinity",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "affinity-women",
+   "general-infosec",
+   "careers",
+   "mentorship",
+   "networking"
+  ],
+  "activities": [
+   "chat",
+   "q-and-a",
+   "job-board",
+   "mentorship",
+   "local-meetups",
+   "news-feed"
+  ],
+  "members": 184,
+  "online": 20,
+  "region": "europe",
+  "country": "NL",
+  "subdivision": null,
+  "city": "Amsterdam",
+  "language": "en",
+  "run_by": "Women in Cybersecurity Community Association (WICCA)",
+  "summary": "Run by a Netherlands-based nonprofit for women in cybersecurity, this Discord connects members for networking, events, and a newsletter tied to the group's broader mission of inspiring and supporting women in the field. It suits women (students through professionals) looking for community, events, and career connections rather than deep technical training.",
+  "rules_note": "Open Discord invite link; broader org also runs in-person events and a newsletter.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: women; org: WICCA; join: open-link; scope: security. Official Discord invite found on womenofwicca.nl footer. 1,000+ member community founded 2018 in Amsterdam; Irish chapter WICCA IE exists via Meetup (no separate Discord found).",
+  "confidence": "official"
+ },
+ {
+  "id": "haecksen-ccc",
+  "name": "Haecksen (CCC)",
+  "platform": "portal",
+  "category": "affinity",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "affinity-women",
+   "affinity-lgbtq",
+   "general-infosec",
+   "hacker-culture",
+   "privacy"
+  ],
+  "activities": [
+   "chat",
+   "q-and-a",
+   "local-meetups",
+   "workshops",
+   "news-feed"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": null,
+  "language": "de",
+  "run_by": "community-run (Haecksen collective)",
+  "summary": "Haecksen is a feminist hacker and tech collective loosely associated with the Chaos Computer Club scene, where members network nationwide around digital self-defense, net politics, data protection, and general hacking/activism. It suits women and gender-marginalized people in tech who want a community-run space, though joining the chat requires emailing an admin for an SSO account rather than a self-service link.",
+  "rules_note": "Not a self-service invite: email admin@haecksen.org with a desired nickname to request an SSO account for rocket.haecksen.org; a mailing list join is also expected.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: women, lgbtq; org: Haecksen; join: request-form; scope: security. Primary chat is RocketChat, not Discord/Slack/Matrix. Requires requesting SSO credentials from admin@haecksen.org and joining their mailing list first — not a pure self-service invite link.",
+  "confidence": "official"
+ },
+ {
+  "id": "infosecgirls",
+  "name": "InfosecGirls",
+  "platform": "forum",
+  "category": "affinity",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "affinity-women",
+   "general-infosec",
+   "students",
+   "mentorship",
+   "careers"
+  ],
+  "activities": [
+   "chat",
+   "q-and-a",
+   "mentorship",
+   "job-board",
+   "local-meetups",
+   "news-feed"
+  ],
+  "members": null,
+  "online": null,
+  "region": "india",
+  "country": "IN",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "community-run (InfosecGirls)",
+  "summary": "InfosecGirls is a community-run group (India-based, with chapters) for women and students curious about information security, organizing monthly meetups, webinars, and mentoring alongside a job-resources page. It's aimed squarely at newcomers exploring infosec as a career, joined through a public Google Group forum.",
+  "rules_note": "Join via free signup on the public Google Group forum linked from the site's Join Us page.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: women; org: InfosecGirls; join: free-signup; scope: security. Community for women/students in infosec, founded 2014. Uses a Google Group as its public forum; no Discord/Slack found on official site.",
+  "confidence": "official"
+ },
+ {
+  "id": "raices-cyber",
+  "name": "Raices Cyber",
+  "platform": "discord",
+  "category": "affinity",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "affinity-bipoc",
+   "general-infosec",
+   "careers",
+   "mentorship",
+   "students",
+   "networking"
+  ],
+  "activities": [
+   "chat",
+   "q-and-a",
+   "mentorship",
+   "job-board",
+   "voice-events",
+   "news-feed"
+  ],
+  "members": 2739,
+  "online": 153,
+  "region": "us",
+  "country": "US",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "Raíces Cyber (nonprofit)",
+  "summary": "Raíces Cyber is a nonprofit built to help Hispanic, Latino, and Latinx people break into and grow in cybersecurity careers, and this Discord is described as the community's home base for networking, mentorship, and support. It's welcoming to beginners and students entering the field, not just working professionals.",
+  "rules_note": null,
+  "red_flags": null,
+  "discord_description": "We empower people to forge cybersecurity careers and help build a more inclusive generation of cyber defenders.",
+  "candidate_notes": "Affinity: other; org: Raíces Cyber Org; join: open-link; scope: security. Largest nonprofit for Hispanic/Latino/Latinx people entering or working in cybersecurity; Discord is described as their community home base (2,500+ members). Discord invite link was found via search results describing their own site/bio.link, not directly loaded (bot-check blocked direct Discord fetch), so confidence is 'listing' rather than 'official'.",
+  "confidence": "listing"
+ },
+ {
+  "id": "colorstack",
+  "name": "ColorStack",
+  "platform": "slack",
+  "category": "affinity",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "affinity-bipoc",
+   "careers",
+   "students",
+   "mentorship",
+   "programming"
+  ],
+  "activities": [
+   "mentorship",
+   "job-board",
+   "study-groups",
+   "chat"
+  ],
+  "members": null,
+  "online": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "ColorStack (nonprofit, founded by Jehron Petty)",
+  "summary": "ColorStack is a nonprofit community of thousands of Black and Latinx computer science students supporting each other with academic help, technical interview prep, and career connections. It's a general CS/tech career community rather than security-specific, but it maintains a dedicated career-cybersecurity channel for members interested in the field. Best suited for students who want broader tech community and mentorship with a side channel for security career questions.",
+  "rules_note": "Membership/signup required via colorstack.org (student verification typically expected); Slack invite is a share-link, not a public self-serve page.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: bipoc; org: ColorStack; join: free-signup; scope: tech-with-security-channel. Community for Black and Latinx computer science students (3,000+ members). Their Slack has a dedicated #career-cybersecurity channel per the community wiki. Join link is a Slack share-invite found via search; could not confirm it on colorstack.org directly (site did not surface a direct signup URL to WebFetch).",
+  "confidence": "listing"
+ },
+ {
+  "id": "cyversity",
+  "name": "Cyversity",
+  "platform": "portal",
+  "category": "affinity",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "affinity-bipoc",
+   "affinity-women",
+   "careers",
+   "mentorship",
+   "certifications",
+   "students"
+  ],
+  "activities": [
+   "mentorship",
+   "job-board",
+   "local-meetups",
+   "news-feed"
+  ],
+  "members": null,
+  "online": null,
+  "region": "us",
+  "country": "US",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "Cyversity (nonprofit)",
+  "summary": "Cyversity (formerly ICMCP) is a 501(c)(3) nonprofit working to boost representation of women, underrepresented groups, and veterans in cybersecurity through scholarships, mentoring, certification partnerships, and chapter events. It's a paid membership community platform ($100/year professionals, $20/year students and veterans) rather than a free chat space, suited to people seeking structured career support.",
+  "rules_note": "Requires paid membership ($100/year professional, $20/year student or veteran) via the signup portal, not a free chat space.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: bipoc, women, other; org: Cyversity (formerly ICMCP); join: paid-membership; scope: security. Paid-membership community platform (not Discord/Slack/forum, but a self-service signup site anyone can pay to join). Pricing: $100/year for professionals, $20/year for students and veterans. No public Discord/Slack/forum found on the official site.",
+  "confidence": "official"
+ },
+ {
+  "id": "minorities-in-cybersecurity-mic",
+  "name": "Minorities in Cybersecurity (MiC)",
+  "platform": "portal",
+  "category": "affinity",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "affinity-bipoc",
+   "affinity-women",
+   "careers",
+   "mentorship",
+   "certifications"
+  ],
+  "activities": [
+   "mentorship",
+   "job-board",
+   "workshops",
+   "news-feed"
+  ],
+  "members": null,
+  "online": null,
+  "region": "us-south",
+  "country": "US",
+  "subdivision": "TX",
+  "city": "Mansfield",
+  "language": "en",
+  "run_by": "Minorities in Cybersecurity (nonprofit)",
+  "summary": "Minorities in Cybersecurity is a Texas-based 501(c)(3) nonprofit that builds leadership pathways for minority and women cybersecurity professionals through tiered membership (from students/career-changers up to executives), mentorship, and a MiC LEAD leadership program. It's a membership application portal rather than a chat community, geared toward structured career and leadership development.",
+  "rules_note": "Join by submitting a membership application through the portal; tiers range from student/career-changer to executive.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: bipoc, women; org: Minorities in Cybersecurity; join: paid-membership; scope: security. 501(c)(3) focused on leadership/career development for minority and women cybersecurity professionals. Membership application portal; exact price not shown on the page checked. No public Discord/Slack/forum found on the official site.",
+  "confidence": "official"
+ },
+ {
+  "id": "lgbtq-in-technology-slack",
+  "name": "LGBTQ in Technology Slack",
+  "platform": "slack",
+  "category": "affinity",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "affinity-lgbtq",
+   "general-infosec",
+   "careers",
+   "programming"
+  ],
+  "activities": [
+   "chat",
+   "job-board",
+   "mentorship"
+  ],
+  "members": null,
+  "online": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "community-run",
+  "summary": "A general LGBTQ+ tech-professional Slack with hundreds of topic channels covering all of tech, run by volunteer admins and moderators; it is not security-specific but likely has some infosec-adjacent channels among its many rooms. It suits LGBTQ+ people and allies working in or around technology who want peer support and networking, rather than someone looking for a dedicated security learning space.",
+  "rules_note": "Join by submitting a signup form; approval by moderators required; code of conduct enforced; primarily for LGBTQ+ members, allies welcome.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: lgbtq; org: LGBTQ in Technology; join: request-form; scope: tech-with-security-channel. General LGBTQ+ tech professional Slack (welcomes newcomers, career-focused, hundreds of channels including presumably infosec topic channels, though a dedicated security channel could not be directly confirmed from the homepage). Join by filling out a signup form on the site; a moderator sends the Slack invite. Large, long-running (est. ~2014) community, not a single-purpose security space, so scope is tech-with-security-channel rather than security.",
+  "confidence": "listing"
+ },
+ {
+  "id": "veteransec",
+  "name": "VeteranSec",
+  "platform": "slack",
+  "category": "affinity",
+  "beginner_friendly": 3,
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "affinity-veterans",
+   "general-infosec",
+   "reverse-engineering",
+   "ctf",
+   "careers"
+  ],
+  "activities": [
+   "chat",
+   "job-board",
+   "mentorship",
+   "writeups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "VeteranSec (nonprofit, community-run)",
+  "summary": "VeteranSec is a nonprofit Slack community for current and former military members from any country working in or entering cybersecurity, run by a small group of volunteer admins. Members discuss exploit development, reverse engineering, CTF writeups, penetration testing, wireless hacking, and certification and career guidance, and it doubles as a networking and mentorship space for veterans in the field.",
+  "rules_note": "Join by submitting an application form (name/handle, email, military branch, LinkedIn, background); membership restricted to current or former military personnel working in cybersecurity.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: veterans; org: VeteranSec; join: request-form; scope: security. Small private Slack of cybersecurity veterans at all career stages; you must fill out a contact form (name, email, military branch, LinkedIn, background) and they send a Slack invite. Open to current/former military of any country working in cybersecurity. Distinct organization from VetSec (vetsec.org) despite the similar name.",
+  "confidence": "official"
+ },
+ {
+  "id": "operation-code",
+  "name": "Operation Code",
+  "platform": "slack",
+  "category": "affinity",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "affinity-veterans",
+   "careers",
+   "mentorship",
+   "programming",
+   "study-group"
+  ],
+  "activities": [
+   "mentorship",
+   "job-board",
+   "study-groups",
+   "chat"
+  ],
+  "members": null,
+  "online": null,
+  "region": "global",
+  "country": "US",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "Operation Code (nonprofit)",
+  "summary": "Operation Code is a nonprofit serving military veterans, active-duty service members, and military spouses who are learning to code and building tech careers, offering mentorship, scholarships, and a Slack community. It's a general software-development and tech-career community rather than security-focused, though some members pursue cybersecurity tracks and can find peers there. Best suited for veterans/military-affiliated people early in a tech career transition.",
+  "rules_note": "Free signup via operationcode.org/join; open to veterans, active duty, spouses, and allied SIV refugees learning to code.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: veterans; org: Operation Code; join: free-signup; scope: tech-with-security-channel. Largest community of military veterans, service members, and spouses (plus allied SIV refugees) becoming software developers, with mentors and scholarships. General software-dev/tech-career focus rather than security-specific, though members include those on security tracks; free signup with email/name/zip grants a Slack invite.",
+  "confidence": "official"
+ },
+ {
+  "id": "neurodiversehackers",
+  "name": "NeurodiverseHackers",
+  "platform": "discord",
+  "category": "affinity",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "affinity-neurodivergent",
+   "general-infosec",
+   "mentorship",
+   "careers"
+  ],
+  "activities": [
+   "chat",
+   "mentorship",
+   "job-board",
+   "local-meetups"
+  ],
+  "members": 106,
+  "online": 16,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "Neurodiverse Hackers (501(c)(3) nonprofit)",
+  "summary": "Neurodiverse Hackers (ndhack.org) is a 501(c)(3) nonprofit dedicated to centering and empowering neurodivergent professionals and newcomers in cybersecurity. Its Discord is described as always open to newcomers (read the rules, post an introduction, and you're in), and the group also holds an annual DEF CON meetup, making it a support and networking space for autistic, ADHD, and otherwise neurodivergent people in the field.",
+  "rules_note": "Read the server rules and post an introduction to gain full access; annual DEF CON meetup for members.",
+  "red_flags": null,
+  "discord_description": "Dedicated to strengthening the cybersecurity community by embracing and empowering neurodiverse professionals.",
+  "candidate_notes": "Affinity: neurodivergent; org: Neurodiverse Hackers (ndhack.org); join: free-signup; scope: security. 501(c)(3) nonprofit centering neurodivergent practitioners in cybersecurity; site confirms an always-on Discord ('read the rules, drop an introduction, you're in') and annual DEF CON meetup, but the exact discord.gg invite link is not exposed on the page (site returns 403 to automated fetch; text-proxy fetch also did not surface the raw invite URL). Direct the user to ndhack.org/community to get the current link. | shortlink https://ndhack.org/community -> https://discord.gg/juCqnF6q9S",
+  "confidence": "listing"
+ },
+ {
+  "id": "sober-in-cyber",
+  "name": "Sober in Cyber",
+  "platform": "discord",
+  "category": "affinity",
+  "beginner_friendly": 3,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "general-infosec",
+   "careers",
+   "affinity-neurodivergent"
+  ],
+  "activities": [
+   "chat",
+   "local-meetups"
+  ],
+  "members": 182,
+  "online": 17,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "Sober in Cyber (nonprofit, fiscally sponsored by Hack Club)",
+  "summary": "Sober in Cyber is a volunteer-led nonprofit, fiscally sponsored by Hack Club, for sober and alcohol-free people working in cybersecurity. The Discord is for exchanging resources, finding sober friends at industry events, and coordinating alcohol-free meetups like their 'Rockin' Mocktails' gatherings at conferences such as RSAC, plus a monthly virtual 'Happiest Hour'.",
+  "rules_note": "Reserved for sober/alcohol-free people working in the cybersecurity industry.",
+  "red_flags": null,
+  "discord_description": "A community of sober people working in the cybersecurity industry. Exchange resources & find sober friends at events.",
+  "candidate_notes": "Affinity: other; org: Sober in Cyber; join: open-link; scope: security. Community of sober/alcohol-free cybersecurity professionals; not on the original affinity list (neurodivergent/disability/mental-health) but adjacent mental-health/recovery focus in security, flagging as 'other'. Discord reserved for sober/alcohol-free people working in infosec; monthly 'Happiest Hour' virtual meetup.",
+  "confidence": "official"
+ },
+ {
+  "id": "cyberpatriot",
+  "name": "CyberPatriot",
+  "platform": "discord",
+  "category": "affinity",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "youth",
+   "students",
+   "blue-team",
+   "ctf",
+   "general-infosec"
+  ],
+  "activities": [
+   "chat",
+   "q-and-a",
+   "mentorship",
+   "study-groups"
+  ],
+  "members": 6733,
+  "online": 672,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "community-run (unofficial server tied to AFA CyberPatriot)",
+  "summary": "This is the largely community/alumni-run Discord for AFA CyberPatriot, the National Youth Cyber Defense Competition, and its affiliated programs worldwide. Competitors, coaches, and mentors use it to ask questions, get help with the competition's system-hardening challenges, and connect with other teams, making it a strong beginner entry point for students new to blue-team style security work.",
+  "rules_note": "Unofficial/community-run server, not the official AFA channel; open join via invite link.",
+  "red_flags": null,
+  "discord_description": "The unofficial server for AFA CyberPatriot, the National Youth Cyber Defense Competition, and it's affiliates around the world.",
+  "candidate_notes": "Affinity: youth; org: CyberPatriot (Air & Space Forces Association); join: open-link; scope: security. Official community for the CyberPatriot National Youth Cyber Defense Competition (competitors, coaches, mentors); ~6,900 members. There is also a large unofficial competitor-run server ('Cypat Community', top.gg/discord/servers/711017888541081600) but I could not confirm its exact discord.gg invite text, so it is omitted rather than guessed.",
+  "confidence": "listing"
+ },
+ {
+  "id": "cyber-discovery-2-electric-boogaloo",
+  "name": "Cyber Discovery 2: Electric Boogaloo",
+  "platform": "discord",
+  "category": "affinity",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "youth",
+   "students",
+   "general-infosec",
+   "ctf"
+  ],
+  "activities": [
+   "chat",
+   "mentorship",
+   "study-groups"
+  ],
+  "members": 3158,
+  "online": 132,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "community-run (unofficial alumni group)",
+  "summary": "This Discord is run by alumni of the UK's HMG-backed Cyber Discovery programme (2017-2021) and is explicitly not affiliated with the official programme or NCSC. It has grown into a general student-centered chat that leans toward cybersecurity topics, mostly used by members now in their late teens to mid-20s, with some open to newer participants interested in the field.",
+  "rules_note": "New joiners must DM a moderator for verification/channel access; not affiliated with or endorsed by NCSC or the official Cyber Discovery programme.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: youth; org: Alumni of NCSC/HMG's Cyber Discovery programme (unofficial, alumni-run); join: open-link; scope: security. ~4,000 members who took part in the UK's Cyber Discovery programme (2017-2021, the precursor to today's Cyber Explorers). Now skews ages 18-26 (alumni), but is the closest active public community tied to a UK youth cyber pipeline program; open to the public via the site's Join Server button, though full channel access needs a moderator to verify. | shortlink https://discord.cyberdiscoverycommunity.uk/ -> https://discord.com/invite/ekaD7rk",
+  "confidence": "official"
+ },
+ {
+  "id": "womcy-latam-women-in-cybersecurity",
+  "name": "WOMCY - Latam Women in Cybersecurity",
+  "platform": "portal",
+  "category": "affinity",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "affinity-women",
+   "careers",
+   "mentorship",
+   "regional"
+  ],
+  "activities": [
+   "mentorship",
+   "workshops",
+   "job-board",
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "latin-america",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "es",
+  "run_by": "WOMCY (nonprofit)",
+  "summary": "WOMCY is a nonprofit membership organization for women in cybersecurity across Latin America, offering mentoring, training, speaking opportunities, certification discounts, and a job board in English, Spanish, and Portuguese. Joining requires paid membership (or a discounted student tier with proof of enrollment), so it functions more like a professional association than an open chat community, but it explicitly supports newcomers via its CyberEdu student track and mentoring programs.",
+  "rules_note": "Paid membership required except for the free (min $1 donation) student tier, which needs proof of enrollment; higher tiers require referrals/social promotion.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: women; org: WOMCY; join: paid-membership; scope: security. Membership platform, not a chat community. CyberEdu tier is free-with-$1-min-donation for students (proof of enrollment required); CyberMaster $25/yr, CyberNinja $50/yr for others.",
+  "confidence": "official"
+ },
+ {
+  "id": "cryptoharlem",
+  "name": "CryptoHarlem",
+  "platform": "discord",
+  "category": "affinity",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner"
+  ],
+  "tags": [
+   "affinity-bipoc",
+   "privacy",
+   "osint",
+   "general-infosec"
+  ],
+  "activities": [
+   "voice-events",
+   "mentorship",
+   "chat",
+   "news-feed"
+  ],
+  "members": 128,
+  "online": 12,
+  "region": "us-northeast",
+  "country": "US",
+  "subdivision": "NY",
+  "city": "New York",
+  "language": "en",
+  "run_by": "CryptoHarlem (fiscally sponsored by Proteus Fund)",
+  "summary": "CryptoHarlem is a nonprofit digital-security education project (fiscally sponsored by Proteus Fund) that teaches surveillance self-defense and privacy skills to the Black community, with weekly Saturday livestreams and in-person workshops in NYC and other cities. The Discord server is the between-events hangout for the community and a career-pipeline cohort aimed at getting underrepresented African Americans into cybersecurity, making it very approachable for people new to the field.",
+  "rules_note": "Weekly livestream Saturdays 1pm EST; Discord invite link is open.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: bipoc; org: CryptoHarlem; join: open-link; scope: security. Digital-security/surveillance-self-defense education nonprofit for the Black community; weekly Saturday livestream discussed in Discord.",
+  "confidence": "official"
+ },
+ {
+  "id": "blackgirlshack-microsoft-teams-membership",
+  "name": "BlackGirlsHack (member signup)",
+  "platform": "portal",
+  "category": "affinity",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "affinity-women",
+   "affinity-bipoc",
+   "careers",
+   "mentorship",
+   "ctf"
+  ],
+  "activities": [
+   "mentorship",
+   "workshops",
+   "job-board",
+   "ctf-events",
+   "voice-events"
+  ],
+  "members": null,
+  "online": null,
+  "region": "us-southeast",
+  "country": "US",
+  "subdivision": "VA",
+  "city": "Fredericksburg",
+  "language": "en",
+  "run_by": "BlackGirlsHack (BGH Foundation)",
+  "summary": "BlackGirlsHack is a 501(c)(3) nonprofit helping Black girls and women break into information security careers through training, mentoring, its SquadCon conference, a podcast, and scholarships. This entry is the org's formal Microsoft Teams membership application (a general free tier plus a $49/year full tier with a members-only Teams platform, certification discounts, and early event access), separate from the org's existing open Discord server.",
+  "rules_note": "Membership application takes ~10 minutes and is only processed on Sundays; nonrefundable if paid tier chosen.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: women, bipoc; org: BlackGirlsHack / BGH Foundation; join: request-form; scope: security. SAME ORG already listed on Discord (discord.gg/gCQ8Hu2CQ7) — flagging because the org's actual formal membership process now runs through Microsoft Teams via this application form, a different platform than the existing Discord listing. Applications reportedly only processed on Sundays.",
+  "confidence": "official"
+ },
+ {
+  "id": "wicys-women-in-cybersecurity",
+  "name": "WiCyS (Women in Cybersecurity)",
+  "platform": "portal",
+  "category": "affinity",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "affinity-women",
+   "careers",
+   "mentorship",
+   "students"
+  ],
+  "activities": [
+   "mentorship",
+   "job-board",
+   "workshops",
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "WiCyS (nonprofit)",
+  "summary": "WiCyS (Women in Cybersecurity) is a large national/global nonprofit that recruits, retains, and advances women in the field through professional and student chapters, mentoring, conferences, career fairs, and a job board. Paid membership unlocks a members-only community portal with special-interest groups; exact pricing wasn't visible on the fetched pages but student chapters exist for lower-cost or campus-based entry.",
+  "rules_note": "Membership fee required for portal access; likely a reduced student tier via student chapters, unconfirmed exact price.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: women; org: WiCyS; join: paid-membership; scope: security. Large national/global nonprofit; membership grants access to a members-only community portal (womenincybersecuritywicys.my.site.com) with special interest groups. Exact fee tiers not visible in fetched text (referenced as an image 'fee chart'); likely has a reduced/free student tier but unconfirmed.",
+  "confidence": "listing"
+ },
+ {
+  "id": "wisp-women-in-security-and-privacy",
+  "name": "WISP (Women in Security and Privacy)",
+  "platform": "portal",
+  "category": "affinity",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "affinity-women",
+   "privacy",
+   "careers",
+   "mentorship"
+  ],
+  "activities": [
+   "mentorship",
+   "job-board",
+   "workshops",
+   "news-feed"
+  ],
+  "members": null,
+  "online": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "WISP (nonprofit)",
+  "summary": "WISP is a free-to-join nonprofit community for women in security and privacy, offering scholarships, mentoring, a job board, a podcast, and local networking events with no membership fees. There's no dedicated Slack/Discord; people connect through the newsletter, social media, the podcast, and local group events listed on the site.",
+  "rules_note": "No membership fee; join via newsletter signup, social media, or local group events rather than a chat platform.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: women; org: WISP; join: free-signup; scope: security. Site explicitly states 'no membership fees to join' and 'all are welcome.' No Slack/Discord found — the /connect page is the entry point (direct fetch of that page 404'd for us, but it was referenced from the homepage and in search results).",
+  "confidence": "listing"
+ },
+ {
+  "id": "hackher-network-bugcrowd",
+  "name": "hackHER Network (Bugcrowd)",
+  "platform": "portal",
+  "category": "affinity",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "affinity-women",
+   "careers",
+   "mentorship",
+   "general-infosec",
+   "bug-bounty"
+  ],
+  "activities": [
+   "mentorship",
+   "chat",
+   "workshops",
+   "challenges",
+   "job-board"
+  ],
+  "members": null,
+  "online": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "Bugcrowd",
+  "summary": "Bugcrowd runs this women-only (including trans and nonbinary women) hacking community, offering mentorship from experienced bug bounty hunters, skill-building workshops, sponsored hands-on challenges, and speaking or recognition opportunities. You apply through a short eligibility form and get emailed a Discord invite. It explicitly welcomes people just starting out alongside established hackers.",
+  "rules_note": "Join by filling out an eligibility form; a Discord invite is emailed afterward, not instant.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: women; org: Bugcrowd; join: request-form (eligibility form, then a Discord invite is emailed). Women-only hacking/bug-bounty community run by Bugcrowd.",
+  "confidence": "official"
+ },
+ {
+  "id": "out-in-tech",
+  "name": "Out in Tech",
+  "platform": "portal",
+  "category": "affinity",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "affinity-lgbtq",
+   "careers",
+   "general-infosec",
+   "mentorship"
+  ],
+  "activities": [
+   "chat",
+   "mentorship",
+   "local-meetups",
+   "job-board",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "Out in Tech",
+  "summary": "Out in Tech is a nonprofit connecting LGBTQ+ people working in or entering the tech industry, with chapters in over 30 cities running meetups, mentorship, a coding-education scholarship program (Digital Corps), and career events. It is a broad tech community rather than a security-specific one, though its large Discord (37,000+ members) has a security-interest channel; a free signup flow leads to the Discord invite.",
+  "rules_note": "Not a dedicated security community; sign up on the site to receive the Discord invite.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: lgbtq; org: Out in Tech; join: free-signup (signup flow leads to their Discord, 37,000+ members, migrated 2026); scope: tech-with-security-channel. Broad queer-in-tech career community with chapters in 32+ cities.",
+  "confidence": "listing"
+ },
+ {
+  "id": "techvets",
+  "name": "TechVets",
+  "platform": "portal",
+  "category": "affinity",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "affinity-veterans",
+   "careers",
+   "general-infosec",
+   "regional"
+  ],
+  "activities": [
+   "mentorship",
+   "job-board",
+   "local-meetups",
+   "chat",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "TechVets (Forces Employment Charity)",
+  "summary": "TechVets is a UK Forces Employment Charity program supporting military veterans, service leavers, reservists and military spouses moving into IT and cyber careers, with training pathways, mentorship, and 12 local UK chapters. Joining the community page leads to their Discord/community platform for free. It is a broad tech-careers community with a cyber security training track rather than a security-only space.",
+  "rules_note": "Aimed at UK veterans, reservists, service leavers and military spouses; join via the community page's free signup.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: veterans; org: TechVets (Forces Employment Charity, UK); join: free-signup via the community page (Discord behind it). UK veterans, service leavers, reservists and military spouses into IT and cyber careers; 12 local UK chapters.",
+  "confidence": "listing"
+ },
+ {
+  "id": "techqueria",
+  "name": "Techqueria",
+  "platform": "slack",
+  "category": "affinity",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "affinity-bipoc",
+   "careers",
+   "general-infosec",
+   "mentorship"
+  ],
+  "activities": [
+   "chat",
+   "mentorship",
+   "job-board",
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "Techqueria",
+  "summary": "Techqueria is a 501(c)(3) nonprofit serving the largest community of Latinx professionals in tech, with a Slack workspace where members, allies and partner companies network, share job opportunities and support each other. Access requires applying through a membership form on their site (collecting professional background) before being approved into the Slack; a Slack Newbie Guide and onboarding help first-timers. It is not security-specific but functions as a broad professional and career community.",
+  "rules_note": "Apply for membership at techqueria.org/join first; Slack access is granted after approval, not instant.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: other; org: Techqueria; join: request-form; scope: tech-with-security-channel. Latinx professionals in tech (allies also welcome); Slack access is free but gated behind a membership application (collects professional/demographic info) at techqueria.org/join, not an open invite link. Members log in at techqueria.slack.com. Not a dedicated security community but broad tech community with security-adjacent members.",
+  "confidence": "official"
+ },
+ {
+  "id": "vetsec-veterans-in-security",
+  "name": "VetSec (Veterans in Security)",
+  "platform": "slack",
+  "category": "affinity",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "affinity-veterans",
+   "careers",
+   "mentorship",
+   "general-infosec",
+   "certifications"
+  ],
+  "activities": [
+   "mentorship",
+   "job-board",
+   "chat",
+   "study-groups",
+   "workshops"
+  ],
+  "members": null,
+  "online": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "VetSec",
+  "summary": "VetSec is a nonprofit connecting active duty, reserve, National Guard, retired and veteran service members of the US and Allied NATO/14 Eyes forces who are in or entering cybersecurity, offering free mentorship, training resources, certification support and networking. Membership requires submitting an application on their site; approved members are invited into VetSec's Slack, where program applications also happen. It suits veterans at any career stage, from those new to cyber to established professionals.",
+  "rules_note": "Membership limited to service members/veterans of the US and Allied NATO/14 Eyes countries; apply via the Join Us form to receive a Slack invite.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: veterans; org: VetSec; join: request-form; scope: security. Site states 'Your membership invite will come from Slack, our community platform. Application to any of our programs occurs within Slack.' No public discord.gg/slack-invite link visible; applicants apply via the Join Us page and receive a Slack invite.",
+  "confidence": "official"
+ },
+ {
+  "id": "blacks-in-cybersecurity-bic",
+  "name": "Blacks In Cybersecurity (BIC)",
+  "platform": "portal",
+  "category": "affinity",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "tags": [
+   "affinity-bipoc",
+   "general-infosec",
+   "ctf",
+   "careers",
+   "mentorship",
+   "conference"
+  ],
+  "activities": [
+   "chat",
+   "ctf-events",
+   "job-board",
+   "mentorship",
+   "local-meetups"
+  ],
+  "members": null,
+  "online": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "run_by": "Blacks In Cybersecurity",
+  "summary": "Blacks In Cybersecurity is a community and annual conference (BIC Con) built to increase representation of Black professionals in cybersecurity, running networking, CTF competitions, a security village (ALAAFIA), mentorship and career support. Anyone can join the online community by filling out a public application form, or be vouched for by an existing member; the exact chat platform is not fixed since BIC says it migrates over time. It fits people at various experience levels given its mix of conference, CTF and mentorship programming.",
+  "rules_note": "Join via the online-community application form; platform (Discord/Slack) is not fixed and can migrate.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Affinity: bipoc; org: Blacks In Cybersecurity; join: request-form; scope: security. The blacksincyberconf.com/online-community page (missed by the first pass) states: 'Please fill out this form for our online community application' — an open Google Form anyone can submit, with an alternative path of having an existing member vouch. Platform (Discord/Slack) not disclosed since it migrates over time.",
+  "confidence": "official"
+ },
+ {
+  "id": "maschinenraum",
+  "name": "Maschinenraum",
+  "platform": "matrix",
+  "category": "affinity",
+  "beginner_friendly": 4,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "hardware-hacking",
+   "hacker-culture",
+   "regional",
+   "affinity-lgbtq"
+  ],
+  "activities": [
+   "local-meetups",
+   "hardware-help",
+   "chat"
+  ],
+  "members": null,
+  "online": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Weimar",
+  "language": "de",
+  "run_by": "community-run",
+  "summary": "A small queer-feminist hackerspace in Weimar, Germany, for people who want to creatively engage with their environment through software, hardware, and networking in a deliberately inclusive setting. It's a general hacker/maker community organized around feminist and queer values rather than security specifically.",
+  "rules_note": "Described as a queer-feminist space; site could not be verified directly (fetch blocked), details from listing notes.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Weimar, Thuringia, Germany; ~~10 members; founded 1998. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  == ./info --german == * ist ein offener queerfeministscher hackspace für menschen die kreativ mit ihrer umwelt interagieren. unsere philosophie vom 'hacken' reicht von soft- & hardware, netzwerken üb",
+  "confidence": "listing"
+ },
+ {
+  "id": "queer-computer-club",
+  "name": "Queer Computer Club",
+  "platform": "discord",
+  "category": "affinity",
+  "beginner_friendly": 5,
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "tags": [
+   "affinity-lgbtq",
+   "hardware-hacking",
+   "homelab",
+   "general-infosec"
+  ],
+  "activities": [
+   "local-meetups",
+   "workshops",
+   "hardware-help",
+   "chat",
+   "project-showcase"
+  ],
+  "members": 193,
+  "online": 46,
+  "region": "canada",
+  "country": "CA",
+  "subdivision": "ON",
+  "city": "Toronto",
+  "language": "en",
+  "run_by": "Queer Computer Club Inc.",
+  "summary": "Queer Computer Club is a non-profit, queer-friendly hackerspace and social club in Toronto with a physical clubhouse on Spadina Avenue. Software developers, game makers, and electronics hobbyists gather for open houses, workshops, and demo events, and the Discord server extends that welcoming, LGBTQ-centered community online.",
+  "rules_note": "Has a published Code of Conduct; queer-friendly space, welcoming to LGBTQ+ members specifically but open to allies too.",
+  "red_flags": null,
+  "discord_description": null,
+  "candidate_notes": "Hackerspace in Toronto, Ontario, Canada; ~45 members; founded 2023/09/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Queer friendly hackerspace on Spadina Ave Discord: https://queercomputerclub.ca/discord/ Cohost: https://cohost.org/queercomputerclub ",
+  "confidence": "official"
+ }
+]

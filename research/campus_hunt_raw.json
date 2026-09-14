@@ -1,0 +1,747 @@
+{
+ "found": [
+  {
+   "name": "MIT Security Club (MITsec)",
+   "platform": "discord",
+   "join_url": "https://discord.gg/QwVPmgHYy9",
+   "source_url": "https://techsec.carrd.co/",
+   "website": "http://mitsecurityclub.mit.edu/",
+   "country": "US",
+   "subdivision": "MA",
+   "city": "Cambridge",
+   "notes": "MITsec's own site (mitsecurityclub.mit.edu) has no chat link listed and did not resolve for DNS lookup on this pass. This invite is for TechSec (techsec.mit.edu), MIT's current active student security/CTF club, which appears to be the operating successor/rebrand of the same community and is what students currently join. Verify this is the intended club before publishing under the MITsec name.",
+   "confidence": "listing"
+  },
+  {
+   "name": "WPI Cyber Security Club (CSC)",
+   "platform": "discord",
+   "join_url": "https://discord.gg/XfcGqRmxD6",
+   "source_url": "https://wpictf.xyz/",
+   "website": "https://mywpi.wpi.edu/CSC/",
+   "country": "US",
+   "subdivision": "MA",
+   "city": "Worcester",
+   "notes": "Invite found on the WPICTF competition site (run by WPI CSC), described there as the WPI Cyber Security Club's Discord.",
+   "confidence": "listing"
+  },
+  {
+   "name": "NC State HackPack",
+   "platform": "discord",
+   "join_url": "https://discord.com/invite/gKvCPtbmcg",
+   "source_url": "https://discord.com/invite/gKvCPtbmcg",
+   "website": "https://hackpack.club/",
+   "country": "US",
+   "subdivision": "NC",
+   "city": "Raleigh",
+   "notes": "Invite surfaced via search (also referenced from hackpack.club and NC State's getinvolved.ncsu.edu org page); fetched the invite page directly and confirmed the server name is 'HACK PACK'.",
+   "confidence": "listing"
+  },
+  {
+   "name": "Whitehatters Computer Security Club (WCSC)",
+   "platform": "discord",
+   "join_url": "https://discord.gg/PKkFdPhcnv",
+   "source_url": "https://sites.google.com/whitehatters.org/wcsc",
+   "website": "https://wcsc.myweb.usf.edu/",
+   "country": "US",
+   "subdivision": "FL",
+   "city": "Tampa",
+   "notes": "Confirmed via Discord invite API: guild name 'Whitehatters Computer Security Club', 1054 members, no expiration. Club also lists a Slack at wcscusf.slack.com (invite-only, no signup link found).",
+   "confidence": "official"
+  },
+  {
+   "name": "KU Information Security Club (KUISC / Jayhackers)",
+   "platform": "discord",
+   "join_url": "https://discord.com/invite/zeuP3Hp",
+   "source_url": "https://discord.com/api/v10/invites/zeuP3Hp",
+   "website": "https://kuisc.org/",
+   "country": "US",
+   "subdivision": "KS",
+   "city": "Lawrence",
+   "notes": "Confirmed via Discord invite API: guild name 'KUISC', ~405 members, active. kuisc.org itself failed to fetch (SSL handshake failure) so link was found via web search rather than the club's own site.",
+   "confidence": "listing"
+  },
+  {
+   "name": "Cybersecurity Club at UTD (Computer Security Group / CSG)",
+   "platform": "discord",
+   "join_url": "https://discord.gg/kuejt8p",
+   "source_url": "https://csg.utdallas.edu/get-involved/",
+   "website": "https://csg.utdallas.edu/",
+   "country": "US",
+   "subdivision": "TX",
+   "city": "Richardson",
+   "notes": "The CS department page (cs.utdallas.edu) points to CSG (Computer Security Group), the actual security club at UTD, whose own site is csg.utdallas.edu. csg.utdallas.edu was unreachable via direct WebFetch (DNS error in this sandbox) so the invite link and its page were confirmed only via search-engine snippet, not direct fetch — verify before trusting fully.",
+   "confidence": "listing"
+  },
+  {
+   "name": "BYU Cyberia (Cybersecurity Students Academic Association)",
+   "platform": "discord",
+   "join_url": "https://discord.gg/Ga472sbs9g",
+   "source_url": "https://ctftime.org/event/3247/",
+   "website": "https://cybersecurity.byu.edu/",
+   "country": "US",
+   "subdivision": "UT",
+   "city": "Provo",
+   "notes": "This is the BYUCTF 2026 event Discord (run by BYU's CSA/Cyberia group via github.com/BYU-CSA), not a confirmed persistent club-only server. Could not independently fetch ctftime.org/team/155711 (403) to confirm a standing club server; treat as best-available lead.",
+   "confidence": "guess"
+  },
+  {
+   "name": "Layer Zero",
+   "platform": "discord",
+   "join_url": "",
+   "source_url": "https://www.linkedin.com/posts/chang-tan-52b45452_join-the-layer-zero-discord-server-activity-6968786910542528512-PaKQ",
+   "website": "https://www.layer-zero.org/",
+   "country": "US",
+   "subdivision": "NV",
+   "city": "Las Vegas",
+   "notes": "A LinkedIn post titled 'Join the Layer Zero Discord Server!' confirms a public Discord exists, but the actual discord.gg/discord.com invite URL was not visible in fetched content and layer-zero.org returned 403 (bot-blocked) on every page tried (/, /about, /home). Could not obtain the exact invite URL, so leaving join_url blank rather than guessing.",
+   "confidence": "guess"
+  },
+  {
+   "name": "UCalgary CyberSecurity Club (CYBERSEC Club)",
+   "platform": "discord",
+   "join_url": "http://discord.gg/wVwv5Pw",
+   "source_url": "https://linktr.ee/cybersec_ucalgary",
+   "website": "https://cybersec-ucalgary.club/",
+   "country": "CA",
+   "subdivision": "AB",
+   "city": "Calgary",
+   "notes": "Listed as 'Official CYBERSEC Discord' on the club's Linktree, linked from their Instagram bio (@cybersecucalgary).",
+   "confidence": "listing"
+  },
+  {
+   "name": "Hexploit Alliance (via @Hack CTF)",
+   "platform": "discord",
+   "join_url": "https://discord.gg/SJS5sK5vR2",
+   "source_url": "https://athackctf.com",
+   "website": "https://hexploit-alliance.com/",
+   "country": "CA",
+   "subdivision": "QC",
+   "city": "Montreal",
+   "notes": "Hexploit Alliance's own site (hexploit-alliance.com) lists no chat link, but the group's CTF event site athackctf.com (branded '@HACK 2026') has a 'Join our Discord' button pointing to this invite — this is the community's active Discord, run under the @Hack/AtHack CTF branding rather than the Hexploit Alliance name directly.",
+   "confidence": "listing"
+  },
+  {
+   "name": "OUCSS (Cyber Security Club)",
+   "platform": "discord",
+   "join_url": "https://discord.com/invite/A2pPwnUuue",
+   "source_url": "https://www.oustudents.com/organisation/6552/",
+   "website": "https://oucss.rocks",
+   "country": "GB",
+   "subdivision": null,
+   "city": null,
+   "notes": "IMPORTANT MISMATCH: the batch entry labels this 'OUCSS (Open University Cyber Security Society)' with university=University of Oklahoma, Norman OK, US — but the actual club found (via oustudents.com, and its own site oucss.rocks, plus the R60 degree-pathway reference) is the UK Open University's Cyber Security Society, not University of Oklahoma. The original club's website oucss.org was unreachable both times (DNS/domain error), so I could not confirm whether a separate, actual University-of-Oklahoma club by a similar name/domain exists. Recommend verifying which institution this directory entry is really meant to represent before publishing.",
+   "confidence": "guess"
+  },
+  {
+   "name": "Leeds Hacking Society",
+   "platform": "discord",
+   "join_url": "https://discord.gg/SmqrsNjdga",
+   "source_url": "https://www.leedsbeckettsu.co.uk/society/ethical-hacking/",
+   "website": "https://www.leedsbeckettsu.co.uk/society/ethical-hacking/",
+   "country": "GB",
+   "subdivision": null,
+   "city": "Leeds",
+   "notes": "SU page lists it as 'Ethical Hacking Society' (Leeds Ethical Hack Soc on Discord). Invite verified live, server name confirmed via WebFetch on the discord.com/invite redirect target.",
+   "confidence": "official"
+  },
+  {
+   "name": "Tower of Hanoi",
+   "platform": "discord",
+   "join_url": "https://discord.gg/Efq5xRagj6",
+   "source_url": "https://ctf.towerofhanoi.it/",
+   "website": "https://towerofhanoi.it/",
+   "country": "IT",
+   "subdivision": null,
+   "city": "Milan",
+   "notes": "Found on the team's CTF event site (ctf.towerofhanoi.it), which reads 'join our Discord server for the latest news.' Verified the invite resolves to a real Discord server named 'ToH CTF' (not expired/invalid).",
+   "confidence": "official"
+  },
+  {
+   "name": "CYSCOM (Cybersecurity Student Community, VIT Chennai)",
+   "platform": "discord",
+   "join_url": "https://discord.gg/9RyHCQgjAv",
+   "source_url": "https://discord.com/invite/9RyHCQgjAv",
+   "website": "https://cyscomvit.com/",
+   "country": "IN",
+   "subdivision": "TN",
+   "city": "Chennai",
+   "notes": "Confirmed active via WebFetch: invite resolves to a live Discord server named 'CYSCOM VITC'. Also surfaced by web search of the club's GitHub org.",
+   "confidence": "official"
+  },
+  {
+   "name": "BITSkrieg",
+   "platform": "discord",
+   "join_url": "https://discord.gg/z8vpFa7j",
+   "source_url": "https://discord.com/invite/z8vpFa7j",
+   "website": "https://github.com/bitskriegofficial",
+   "country": "IN",
+   "subdivision": "GA",
+   "city": "Goa",
+   "notes": "Discord invite surfaced via web search tied to BITSCTF 2025 (organized by BITSkrieg, the BITS Pilani Goa cybersecurity club). WebFetch confirmed the short link redirects to a live discord.com/invite page, but could not confirm the server's display name/member count from fetched text, and could not independently verify via CTFtime (ctftime.org returned 403 to WebFetch on every attempt) whether this is the persistent club server vs. an event-specific one. Treat as likely-current but not fully verified.",
+   "confidence": "listing"
+  },
+  {
+   "name": "Bamboofox (NYCU)",
+   "platform": "discord",
+   "join_url": "https://discord.com/invite/UCFapuc4jj",
+   "source_url": "http://bamboofox.org/",
+   "website": "http://bamboofox.org/",
+   "country": "TW",
+   "subdivision": null,
+   "city": "Hsinchu",
+   "notes": "Found on bamboofox.org (redirect target of bamboofox.github.io) under Community & Social Media section.",
+   "confidence": "official"
+  },
+  {
+   "name": "University of Melbourne Information Security Club (MISC)",
+   "platform": "discord",
+   "join_url": "https://discord.gg/PybR9kpBMn",
+   "source_url": "https://www.umisc.club/",
+   "website": "https://www.umisc.club/",
+   "country": "AU",
+   "subdivision": "VIC",
+   "city": "Melbourne",
+   "notes": "Original site umisc.info no longer resolves; club has moved to umisc.club, which lists this Discord invite directly on the homepage.",
+   "confidence": "official"
+  },
+  {
+   "name": "Computing and Security Student Association (CASSA)",
+   "platform": "discord",
+   "join_url": "https://cassa.au/discord/",
+   "source_url": "https://cassa.au/discord/",
+   "website": "https://cassa.au/",
+   "country": "AU",
+   "subdivision": "WA",
+   "city": "Perth",
+   "notes": "cassa.au (and cassa.org.au) block direct fetch with a 403 (Cloudflare-style bot check), so the raw discord.gg code behind the redirect could not be read. cassa.au/discord/ is the club's own published vanity redirect to their Discord and appears as such in search results/page title; treat as the current public link but verify the destination code before publishing if possible.",
+   "confidence": "listing"
+  },
+  {
+   "name": "NYUSEC / OSIRIS Lab",
+   "platform": "discord",
+   "join_url": "https://discord.gg/T8tKFtbjKp",
+   "source_url": "https://osiris.cyber.nyu.edu/",
+   "website": "https://osiris.cyber.nyu.edu/",
+   "country": "US",
+   "subdivision": "NY",
+   "city": "New York",
+   "notes": "Site's live 'Join our Discord' button uses shortlink https://osiris.link/discord which redirects to discord.gg/T8tKFtbjKp. Verified via Discord invite API: guild 'NYUSEC', ~3015 members, description 'The Cybersecurity community at NYU'. The previously-recorded osirislab / discord.com/invite/osirislab codes are confirmed dead (404 Unknown Invite).",
+   "confidence": "official"
+  },
+  {
+   "name": "WolvSec — University of Michigan",
+   "platform": "discord",
+   "join_url": "https://discord.gg/333DvQVeks",
+   "source_url": "https://wolvsec.org/",
+   "website": "https://wolvsec.org/",
+   "country": "US",
+   "subdivision": "MI",
+   "city": "Ann Arbor",
+   "notes": "wolvsec.org lists two Discord links; the footer/social-section one (JND8QNRbSY) is confirmed dead via Discord invite API, but the 'Get in touch' one (333DvQVeks) is live and verified: guild 'WolvSec', ~1428 members, ~104 online.",
+   "confidence": "official"
+  },
+  {
+   "name": "Cambridge University Cyber Security Society (CyberSoc)",
+   "platform": "discord",
+   "join_url": "https://discord.gg/8VDRkaZFvD",
+   "source_url": "https://cybersoc.soc.srcf.net/",
+   "website": "https://cybersoc.soc.srcf.net/",
+   "country": "GB",
+   "subdivision": null,
+   "city": "Cambridge",
+   "notes": "Official club site (cybersoc.soc.srcf.net) lists two current Discord invites, both different from the previously-dead G9GDq88bVj: https://discord.gg/8VDRkaZFvD and https://discord.gg/wcTYCGcrHr. Also has a mailing list (lists.cam.ac.uk/sympa/subscribe/soc-cyber) and a Google Form sign-up for non-Cambridge members.",
+   "confidence": "official"
+  },
+  {
+   "name": "OSIRIS Lab (NYU Tandon)",
+   "platform": "discord",
+   "join_url": "https://discord.gg/T8tKFtbjKp",
+   "source_url": "https://osiris.cyber.nyu.edu",
+   "website": "https://osiris.cyber.nyu.edu",
+   "country": "US",
+   "subdivision": "NY",
+   "city": "Brooklyn",
+   "notes": "Official lab website links a vanity redirector https://osiris.link/discord, which 302-redirects to a current invite code (T8tKFtbjKp), different from the previously-dead fSsjzMXtrX. 'All lab and club communications happen there' per site.",
+   "confidence": "official"
+  },
+  {
+   "name": "WolvSec",
+   "platform": "discord",
+   "join_url": "https://discord.gg/333DvQVeks",
+   "source_url": "https://wolvsec.org/",
+   "website": "https://wolvsec.org/",
+   "country": null,
+   "subdivision": null,
+   "city": null,
+   "notes": "Website's 'Get in touch' section listed the known-dead JND8QNRbSY, but a second invite (333DvQVeks) is listed under 'Social links' on the same page. Confirmed live: its invite landing page title renders as 'WolvSec' (the server name), unlike a dead-invite page which renders the generic title 'Discord' (verified by comparing against the expired JND8QNRbSY code).",
+   "confidence": "official"
+  }
+ ],
+ "not_found": [
+  {
+   "name": "Terrapin Hackers / UMD Cybersecurity Club (UMDCSEC)",
+   "checked": "csec.umd.edu (only a TerpLink-gated 'Join Discord' button, no direct invite)"
+  },
+  {
+   "name": "GW Cyber Security Club",
+   "checked": "facebook.com/gwcyber (fetched, no link), cs.engineering.gwu.edu student orgs, web search; found a separate related club 'GW Systems Hacking Club' (github.com/GW-SHC/info) whose README points to gw-shc.slack.com but requires emailing the faculty advisor for an invite, not a self-serve public link, and it's not confirmed to be the same club"
+  },
+  {
+   "name": "Cyberbirds",
+   "checked": "cyberbirdsjhu.com (fetched, no chat link, only sponsor/resource links), github.com/cyberbirds-jhu (404), web search"
+  },
+  {
+   "name": "Lehigh Cybersecurity Club (LCSC)",
+   "checked": "instagram.com/lehighcybersecurityclub (fetched, bio links to a GroupMe group at groupme.com/join_group/90114001/GmSGMJh6, not a Discord/Slack/Matrix platform)"
+  },
+  {
+   "name": "Pitt Cybersecurity Club",
+   "checked": "sci.pitt.edu student-orgs page (fetched, club not even listed there), web search for instagram/discord/linktree turned up only the separate Pitt Computer Science Club (CSC), not this club"
+  },
+  {
+   "name": "Rams Hack",
+   "checked": "heellife.unc.edu/organization/ntropy-unc (fetched, page content minimal, no link); no budget left to search further"
+  },
+  {
+   "name": "CyberWVU",
+   "checked": "cyberwvu.orgs.wvu.edu and /join and /discord (403 Forbidden to fetch); web search confirms they use Slack but only via a gated WVU Engage membership request that then emails a Slack invite, no direct public join link"
+  },
+  {
+   "name": "HackUTK",
+   "checked": "hackutk.org (DNS did not resolve this pass), web search (X/Twitter and GitHub found, no Discord/Slack link surfaced)"
+  },
+  {
+   "name": "VolSec",
+   "checked": "volsec.utk.edu (fetched, only contact email/phone, no chat link), web search found no associated Discord/Slack account"
+  },
+  {
+   "name": "Cyber Security Club at MSU",
+   "checked": "CampusLabs org page (JS-rendered, no links extracted), web search for MSU-specific Discord. A generic Discord named 'Cybersecurity Club - Learning, Networking & Connecting' (2094 members) surfaced in search but its description/content gives no indication of MSU affiliation, so not reported as a match."
+  },
+  {
+   "name": "Cybersecurity@FIU (student club)",
+   "checked": "cyber.fiu.edu (no chat link), cis.fiu.edu student-organizations page, web search for FIU cybersecurity club + Discord/PantherSync — no public Discord/Slack/Matrix link surfaced; FIU appears to have a WiCyS chapter but no link found for it either."
+  },
+  {
+   "name": "OWL Cyber Student Club",
+   "checked": "kennesaw.edu cybersecurity resources page (fetch failed/404), web search for KSU OWL Cyber/OffSec Discord/KSU Infosec Slack. Found a Discord called 'OwlSec' (discord.com/invite/owlsec, 166k+ members) but its description is generic CTF/red-team community content with no mention of Kennesaw State, so KSU affiliation could not be confirmed — not reported as a match."
+  },
+  {
+   "name": "Cyber Defense Club (K-State CDC)",
+   "checked": "orgcentral.k-state.edu/cyber (email contact only, no chat link), web search for K-State Cyber Defense Club Discord, attempted fetch of ksucdc.org (blocked by fetch tool's domain-safety check)."
+  },
+  {
+   "name": "Cybersecurity Club (UMSL)",
+   "checked": "umsl.edu/cmpsci/resources/cyber-club.html — only lists faculty adviser contact, no community chat link; no separate web search run (page was fully reachable and conclusive)."
+  },
+  {
+   "name": "NDSU Cybersecurity Student Association",
+   "checked": "ndhack.club (empty/JS-rendered, no content), ndsu-csa.github.io/about (no link), myndsu.ndsu.edu org page not fetched (portal), web search for NDSU Discord — no NDSU-specific server found among generic cybersecurity Discord results."
+  },
+  {
+   "name": "cyberCWRU",
+   "checked": "community.case.edu/cybercwru/home (lists only social media + contact form, no chat link), web search for cyberCWRU Discord invite — no CWRU-specific server surfaced."
+  },
+  {
+   "name": "Cyber Eagles",
+   "checked": "marquette.edu/cyber-security/student-organization.php — page explicitly states the group coordinates via Microsoft Teams, not a public Discord/Slack; no public join link exists to find."
+  },
+  {
+   "name": "Women in Cybersecurity (WiCyS) Student Chapter",
+   "checked": "wichita.campuslabs.com/engage/organization/wicys (JS-rendered, no content), web search for WiCyS Wichita State Discord — no chat link found; wicys.org student-chapters page did not list one either."
+  },
+  {
+   "name": "Texas A&M Cybersecurity Club",
+   "checked": "cybr.club (404 on fetch), github.com/tamucybersec/cybr.club README (no invite link), web search for TAMU cybersecurity Discord — club is confirmed to use Discord per cybersecurity.tamu.edu coverage but no invite URL was published in any source checked."
+  },
+  {
+   "name": "TX/CSS (Texas Cybersecurity Society)",
+   "checked": "txcybersociety.com (home, /about, /join - 404); only email txcybersociety@gmail.com and a Google Form membership link found; no chat platform link anywhere on site."
+  },
+  {
+   "name": "Console Cowboys",
+   "checked": "caicc.utsa.edu student-orgs page, careercenter.utsa.edu/organizations/console-cowboys (404), utsa.campuslabs.com org page (no chat link), rowdylink.utsa.edu (404). A search result asserted a discord.gg/ateu4e3zTr invite but no actual source page showing it could be located (discord.com invite page itself renders JS-only, no server name visible), so not reporting per no-invent rule."
+  },
+  {
+   "name": "BYU Cyberia (persistent club server)",
+   "checked": "cybersecurity.byu.edu (no chat link), github.com/BYU-CSA org page (no chat link), ctftime.org/team/155711 (403 forbidden). Only found event-specific BYUCTF Discords (reported in found[] with caveat)."
+  },
+  {
+   "name": "UCO Cybersecurity Club",
+   "checked": "ucore.uco.edu/cyber/home/ and /cyber/ — only Facebook/Twitter links and a contact form; no Discord/Slack/Matrix link on site."
+  },
+  {
+   "name": "Cyber Eagles",
+   "checked": "oc.edu/student-life/clubs-organizations/cybereagles and the general clubs listing page — email-only contact (cybereagles@oc.edu), club not listed on the general org index; no chat platform found."
+  },
+  {
+   "name": "OSU Information Security and Assurance Club",
+   "checked": "campuslink.okstate.edu org page (403), okstate.campuslabs.com contact page (404), isac.okstate.edu (connection refused/unreachable). No chat link located."
+  },
+  {
+   "name": "Nevada Cyber Club",
+   "checked": "nevadacyberclub.com and nevadacyberclub.com/discord — the latter is a redirect page ('Redirecting to Nevada Cyber Club Discord...') but the actual destination URL was not visible in the fetched (JS-rendered) content, so the real invite could not be captured. Site confirms invite is otherwise request-by-email per original note."
+  },
+  {
+   "name": "McMaster Cyber Society",
+   "checked": "msumcmaster.ca club page (no link), WebSearch for discord, Instagram @mcmastercyber (image-only, no bio text readable via WebFetch) - no public invite link surfaced."
+  },
+  {
+   "name": "CyberGryph",
+   "checked": "WebSearch for CyberGryph Guelph discord/website - only news articles (news.uoguelph.ca, uoguelph.ca) found describing the club's founding; no website, Discord, or social link surfaced. No fetchable club site exists."
+  },
+  {
+   "name": "Cardiff CyberSoc",
+   "checked": "cardiffcybersoc.com (DNS fails to resolve), cybersoc.wales (fetched, no invite link on page), cardiffstudents.com/activities/society/cybersoc/ (403 forbidden), WebSearch for discord.gg link - none found in visible results though LinkedIn/Facebook mention they use Discord."
+  },
+  {
+   "name": "Sheffield Ethical Student Hackers (ShefESH)",
+   "checked": "shefesh.com (403), shefesh.com/join and /discord (403), WebSearch confirmed a Discord community exists (477 members, discord.com/invite/XyQBQJFEcR appeared in a search result title) but WebFetch of that URL only returned the bare server name 'ShefESH' with no way to confirm current validity - flagging as found with lower confidence instead would need re-check; kept here since fetch could not verify page beyond name."
+  },
+  {
+   "name": "Glasgow University Hacking Society (GUHacksoc)",
+   "checked": "guhacksoc.com (placeholder site, no content), WebSearch 'GUHacksoc discord' - only returned an unrelated GUTechSoc Discord link, not GUHacksoc's own; no valid link found."
+  },
+  {
+   "name": "Bournemouth Computer & Security Society",
+   "checked": "subu.org.uk guessed activity URL (404), WebSearch - confirmed contact email subucompandsecsoc@bournemouth.ac.uk and that Instagram/Discord exist per description, but no discord.gg/invite URL appeared in any fetchable source."
+  },
+  {
+   "name": "Cardiff Met Cyber Society",
+   "checked": "cardiffmetsu.co.uk/organisation/10351/ (fetched - only lists email ctf@cardiffmet.ac.uk and Instagram @ctf_cmu, no Discord/Slack/Matrix link present), WebSearch confirmed society exists (X handle @MetCTF) but no invite link found."
+  },
+  {
+   "name": "Cyber Security Society (University of South Wales)",
+   "checked": "uswsu.com/organisation/uswcss/ (fetched - only lists a student email, no chat platform link), WebSearch - no discord/slack/matrix link found (a similarly-named 'SUCSS' Discord belongs to a different, unrelated society)."
+  },
+  {
+   "name": "Ethical Hackers",
+   "checked": "greenwichsu.co.uk/societies/9013/ and /organisation/ethicalhackers/ - SU confirms society is 'no longer active'. Successor-looking society GreCyberSec (greenwichsu.co.uk/societies/grecybersec/) was found and fetched, but it only lists a WhatsApp group link (not a supported platform type), plus email and Instagram - no Discord/Slack/Matrix."
+  },
+  {
+   "name": "QUB Cyber Sec",
+   "checked": "q-su.org/clubssocieties/cybersecuritysociety (403 forbidden), WebSearch for QUB cyber security society discord - only found a LinkedIn company page and general QUB cybersecurity research pages (CSIT); a Discord was mentioned for a different group (Queen's Computing Society), not this one."
+  },
+  {
+   "name": "Teeside Net Society",
+   "checked": "tees-su.org.uk/groups full listing (fetched) does not contain any computing/networking/cyber society currently - suggests defunct. Guessed activity URLs 404'd. WebSearch found no 'Net Society' at Teesside, only unrelated societies."
+  },
+  {
+   "name": "University of Gloucestershire Ethical Hacking",
+   "checked": "uogsu.com/society/ethicalhacking/ page explicitly states the society is 'no longer active'; no Discord link on site or SU page. A discord.gg/drqWZ7Dh link surfaced via web search but resolves to a generic/unconfirmed invite page (no server name/member count visible), so could not verify it as current; not reported given club is inactive."
+  },
+  {
+   "name": "SHU Computer Forensics Society",
+   "checked": "hallamstudentsunion.com/soc/11667/ (404) and hallamstudentsunion.com (404 for org page); web search for Forensoc + discord.gg found only email contact (forensoc@gmail.com), no Discord link."
+  },
+  {
+   "name": "University of Galway Cyber Security Society",
+   "checked": "socs.universityofgalway.ie/societies/cybersecurity page text and full outbound link list (Instagram, Facebook, Twitter, YouTube) plus Instagram bio text; no Discord/Slack/Matrix link anywhere."
+  },
+  {
+   "name": "King's College London Cyber Security Society",
+   "checked": "kclsu.org page (403 to fetch); web search found a KCL Cyber Security Society Discord invite (discord.com/invite/aRQETvq22Z) but the server name shown when fetched is 'KCL Cyber Security Society OLD', indicating it is a retired/superseded server, not a current link."
+  },
+  {
+   "name": "KITCTF",
+   "checked": "kitctf.de and kitctf.de/about/; team confirmed to use Mattermost (join via emailing team@kitctf.de), no public Discord/Slack/Matrix invite exists."
+  },
+  {
+   "name": "saarsec",
+   "checked": "saarsec.rocks, saarsec.rocks/about.html, saarsec.rocks/meetings.html; only email contact and in-person meeting location (CISPA) listed; web search for discord.gg found nothing."
+  },
+  {
+   "name": "ALLES! CTF Team",
+   "checked": "github.com/allesctf org page/README (email + Twitter only); ctftime.org/team/18419/ blocked fetch with 403; web search found no Discord invite link."
+  },
+  {
+   "name": "flagbot",
+   "checked": "flagbot.ch and flagbot.ch/about/; page states a Discord link is handed out in person at Monday meetings but no public URL is published on the site; web search confirmed no public invite indexed."
+  },
+  {
+   "name": "Sauercloud",
+   "checked": "ctftime.org/team/54748/ blocked fetch (403); github.com/Sauercloud and web search for discord found no public chat link, only social media/CTFtime presence."
+  },
+  {
+   "name": "pwnthem0le",
+   "checked": "pwnthem0le.polito.it homepage and /recruitment/ page; full link list is Twitter, Instagram, YouTube, email, m0leCon workshops, Google Form -- no Discord/Slack/Matrix link."
+  },
+  {
+   "name": "TheRomanXpl0it / mHACKeroni-affiliated (Sapienza area)",
+   "checked": "theromanxpl0.it homepage; full link list is GitHub, LinkedIn, Instagram, X, Telegram (t.me/TheRomanChat), email, CTFtime -- uses Telegram, not Discord/Slack/Matrix, so no qualifying link."
+  },
+  {
+   "name": "p4 team",
+   "checked": "p4.team homepage (no invite; only email/Twitter/GitHub/CTFtime links), LinkedIn/GitHub org listing, ctftime.org team pages (blocked WebFetch with 403), web searches for 'p4 team discord' and 'p4.team discord/slack contact' — no chat platform link found anywhere."
+  },
+  {
+   "name": "dcua / Information Security Club (Igor Sikorsky Kyiv Polytechnic Institute)",
+   "checked": "kpi.ua taxonomy page and kpi.ua/en/ctftime article (both describe the team's competition record but list no contact/chat links), ctftime.org team page (blocked, 403), web searches for 'dcua discord/telegram' and 'dcua ctftime' — no public chat link found."
+  },
+  {
+   "name": "İGÜ Cyber Security Applications Club (İGÜCTF organizer)",
+   "checked": "ctftime.org event page (403 blocked), web search for 'İGÜCTF discord.gg' which only surfaced an unrelated İGÜ software-developers club Discord (İGÜ YGK, discord.me/iguygk) — not the CTF-organizing security club. No confirmed link for the actual club."
+  },
+  {
+   "name": "Team bi0s",
+   "checked": "bi0s.in homepage (no chat links; only CTFtime/email/Twitter/GitHub/LinkedIn), web search 'bi0s discord.gg' which found only their CTF event site (ctf.bi0s.in) and wiki, no Discord invite."
+  },
+  {
+   "name": "InfoSecIITR",
+   "checked": "infoseciitr.in homepage (writeups/blog only, no chat links) and github.com/infoseciitr org profile (email only) — no Discord/Slack/Matrix link found."
+  },
+  {
+   "name": "DefenseLab Cybersecurity Club (NITC)",
+   "checked": "defenselabnitc.github.io homepage and github.com/defenselabnitc org profile — no chat platform link found on either."
+  },
+  {
+   "name": "PESU C-ISFCR / Cybersecurity Community",
+   "checked": "isfcr.pes.edu homepage (email/Instagram/LinkedIn only) and linktr.ee/isfcr_pesu (404, does not exist) — no Discord/Slack/Matrix link found."
+  },
+  {
+   "name": "Cybersecurity Club, IIT Madras (exploiitm)",
+   "checked": "exploiitm.github.io homepage and github.com/exploiitm org profile (email/Instagram/LinkedIn/website only) — no chat platform link found."
+  },
+  {
+   "name": "Coding Club RVCE (Cyber Security vertical)",
+   "checked": "rvce.edu.in club page (site fetch returned minimal content, no chat link) and web search 'RVCE coding club cybersecurity discord.gg' which found their tryhackme.codingclubrvce.com CTF platform and GitHub org but no Discord invite link."
+  },
+  {
+   "name": "IIIT Delhi student clubs (security-focused, unidentified)",
+   "checked": "studentcouncil.iiitd.edu.in/clubs.html (page did not render club list via fetch). Web search identified the actual security club as 'd4rkc0de' (hosts Hackcon CTF, collaborates with OWASP IIITD chapter), but its site d4rkc0de.com failed DNS resolution and no cached/archived version was fetchable; no Discord/Slack/Matrix link located for d4rkc0de or OWASP IIITD."
+  },
+  {
+   "name": "DevClub CTF community",
+   "checked": "LinkedIn company page (no invite), devclub.in homepage (fetch returned only title, no full content extracted). WebSearch budget was exhausted before a search could run."
+  },
+  {
+   "name": "Jadavpur University cybersecurity/CTF club",
+   "checked": "No known website to check; no CTFtime/GitHub/social page identified. WebSearch budget exhausted before a search could run."
+  },
+  {
+   "name": "NUS Greyhats",
+   "checked": "Homepage (Twitter/Telegram/YouTube/GitHub/email only) and CTFtime team page 16740 (same links, no Discord/Slack/Matrix)."
+  },
+  {
+   "name": "SMU Whitehat Society",
+   "checked": "whitehats.computing.smu.edu.sg and /community both returned ECONNREFUSED; Google cache attempt returned nothing useful. WebSearch budget exhausted before a search could run."
+  },
+  {
+   "name": "HKUST Firebird",
+   "checked": "ctf.firebird.sh (event page, no invite, 'coming soon'), intro.firebird.sh (only a dev.to article link), firebird.sh (blank 'hello world' page), github.com/orgs/firebird-ctf (404). WebSearch budget exhausted before a search could run."
+  },
+  {
+   "name": "KAIST GoN (KaisHack GoN)",
+   "checked": "gon.kaist.ac.kr did not resolve; github.com/kaist-gon org page found but lists no Discord, only the same dead website. WebSearch budget exhausted before a search could run."
+  },
+  {
+   "name": "POSTECH PLUS",
+   "checked": "Guessed URL plus.postech.ac.kr returned ECONNREFUSED; no other website/social page identified. WebSearch budget exhausted before a search could run."
+  },
+  {
+   "name": "Korea University CyKor",
+   "checked": "cykor.kr (JS app, no content), github.com/cykorteam (writeup repos only, no Discord link). WebSearch budget exhausted before a search could run."
+  },
+  {
+   "name": "TSG (University of Tokyo)",
+   "checked": "tsg.ne.jp homepage (only old-site link, application info) and github.com/TSGCTF (404)."
+  },
+  {
+   "name": "Balsn (National Taiwan University)",
+   "checked": "balsn.tw homepage (email/GitHub/Twitter/CTFtime links only, no chat platform)."
+  },
+  {
+   "name": "BKSEC (Bach Khoa Security Club)",
+   "checked": "bksec.vn (403) and bksec.vn/discord (403); linktr.ee/bksec returned Linktree's generic/placeholder page (profile likely unavailable); facebook.com/atttbkhn fetch returned only the page title, no content. WebSearch budget exhausted before a search could run."
+  },
+  {
+   "name": "KMITL Cybersecurity Club",
+   "checked": "kcsc.in.th (does not resolve/under construction), web search for Discord/Line/Facebook links, KMITL engineering Facebook page (not fetchable, requires login/JS). No public chat link found."
+  },
+  {
+   "name": "Sunway Cybersecurity Club (CSC)",
+   "checked": "sunwaycybersecurityclub.org homepage (lists only Instagram, TikTok, LinkedIn, Luma, Google Form, email), web search for discord.gg link. No public chat link found."
+  },
+  {
+   "name": "BINUS Cyber Security Community (CSC)",
+   "checked": "student-activity.binus.ac.id/csc/ (lists only Instagram, YouTube, LinkedIn, phone numbers), github.com/cscbinus profile, web search for discord.gg link (search budget exhausted before this query completed). No public chat link found."
+  },
+  {
+   "name": "UTM Cyber X",
+   "checked": "No standalone website found; ctftime.org/team/58474 returns 403 to fetch; web search for team name + Discord found only CTFtime/UTM general pages, no chat link."
+  },
+  {
+   "name": "GDGoC APU CTF / FSEC-SS",
+   "checked": "apu-ctf.web.app (page renders essentially empty/title-only via fetch, no links extracted); web search query for the club could not be run (search budget exhausted). No public chat link found."
+  },
+  {
+   "name": "Swinburne Cyber Security Club (SCSC)",
+   "checked": "scsc.wtf (does not resolve), scsc.io (expired, redirects to GoDaddy \"domain for sale\" page), swincybersec.club homepage and /discord and /join subpages (404/no link), github.com/swin-scsc org profile (no link, points back to swincybersec.club), studentlife.swinburne.edu.au (does not resolve). No current public chat link found."
+  },
+  {
+   "name": "Deadbeef Society",
+   "checked": "deadbeefsociety.com redirects (302) to deadbeefsociety-com.l.ink, which is a Porkbun \"domain for sale\" parked page. Domain is confirmed expired/lapsed, not just inaccessible."
+  },
+  {
+   "name": "Latrobe University ISACA Student Group",
+   "checked": "latrobesu.org.au/Clubs/Cybersecurity/Pages/ISG (404) and latrobesu.org.au/Clubs/Cybersecurity (404 on refetch, though search snippet showed a title). No public chat link found."
+  },
+  {
+   "name": "MonSec (Monash Cyber Security Club)",
+   "checked": "monsec.io and monsec.io/join (403), monsec.io/about (loads, no chat link, direct to email/social), github.com/monsec org profile (email + social only, no chat link), monashclubs.org/Clubs/monsec (404), clubs.msa.monash.edu/organisation/7533/ (lists only email/social; says to contact secretary via email or Discord but does not publish an invite URL). No public invite link found."
+  },
+  {
+   "name": "GISSIC",
+   "checked": "gissic.frc.utn.edu.ar homepage fetched in full; page covers research projects, HackLab CTF, publications, and contact info but has no Discord/Slack/WhatsApp/Telegram link."
+  },
+  {
+   "name": "Security UC Club (\"Hack.ING\" CTF)",
+   "checked": "official site security.ing.puc.cl (email/Instagram/LinkedIn only), GitHub org github.com/securityucclub, WebSearch — no Discord/Slack/Matrix; only email contact"
+  },
+  {
+   "name": "Club de Ethical Hacking (Centro de Investigación en Ciberseguridad)",
+   "checked": "Universidad Mayor's diariomayor.cl news site fetched, no club-specific chat link; WebSearch tool errored/unavailable for this query, no Linktree or CTFtime page found"
+  },
+  {
+   "name": "Centro Cultural de Ciberseguridad (CCC)",
+   "checked": "capacitacion-ccc.vercel.app returned 503 both times; WebSearch surfaced the related C Cúbico UNI chapter (facebook.com/CCCUNI, linktr.ee/cccuni) whose linktree lists only a WhatsApp community (chat.whatsapp.com/Ii8GXHT6AlKKSnLqiqCG5n), not Discord/Slack/Matrix"
+  },
+  {
+   "name": "HXPLOIT UPC",
+   "checked": "WebSearch for founder Gianpaul Custodio + discord; found Instagram (@hxploit_upc) and LinkedIn (linkedin.com/company/upc-hack-the-box) only, no chat platform link"
+  },
+  {
+   "name": "C Cúbico",
+   "checked": "WebSearch found facebook.com/CCCUNI and linktr.ee/cccuni; linktree fetched and lists Facebook, LinkedIn, and a WhatsApp community link only — no Discord/Slack/Matrix"
+  },
+  {
+   "name": "CiberSec Unasam",
+   "checked": "WebSearch found linktr.ee/CiberSecUnasam; fetched it — lists Eventbrite, Facebook, Instagram, LinkedIn only, no Discord/Slack/Matrix"
+  },
+  {
+   "name": "FAST Society of Cybersecurity",
+   "checked": "GitHub org github.com/FAST-Society-of-Cybersecurity fetched — contact is email/LinkedIn/Instagram only, no chat link"
+  },
+  {
+   "name": "Cyber Security Club, Dhaka International University",
+   "checked": "facebook.com/cscdiucse fetched (content truncated, no link found); WebSearch found studentshub.daffodilvarsity page (different club) and a generic unrelated Discord server; no club-specific chat link"
+  },
+  {
+   "name": "DIU Cyber Security Club",
+   "checked": "studentshub.daffodilvarsity.edu.bd/club/30/home fetched (no chat link); WebSearch found LinkedIn, Facebook page/group, Telegram group, YouTube, and csclubdiu.bio.link (bio.link returned 403 Forbidden on fetch); no Discord/Slack/Matrix confirmed"
+  },
+  {
+   "name": "ctf_enjoyers",
+   "checked": "WebSearch (kbtu.edu.kz, ctftime data dump, general CTF discord servers) found no club-specific chat link; ctftime.org team search page returned 403 Forbidden on fetch"
+  },
+  {
+   "name": "EUI Cyber Security Club",
+   "checked": "linkedin.com/company/euicsc fetched, WebSearch run twice — only LinkedIn/X presence found, no Discord/Slack/Matrix"
+  },
+  {
+   "name": "Cyber Security Club (CSC_IAU)",
+   "checked": "x.com/csc_iau fetch returned 402 Payment Required; WebSearch found only university program pages and the org's own X account, no chat link"
+  },
+  {
+   "name": "Cyber Security Laboratory, ACE (OAU)",
+   "checked": "Fetched http://cslab.oauife.edu.ng/ directly - only email (cslab@oauife.edu.ng) and phone listed, social icons present but unpopulated/no hrefs; no Discord/Slack/Matrix link found."
+  },
+  {
+   "name": "Technion CTF Group",
+   "checked": "Fetched https://cyber.technion.ac.il/ (cert error, unable to verify first certificate) and https://cyber.technion.ac.il/ctf/ (same cert error); could not retrieve content. No WebSearch budget remaining to find alternate source."
+  },
+  {
+   "name": "UCT Cybersecurity Student Society (via C3SA)",
+   "checked": "Fetched https://c3sa.uct.ac.za/ - no chat link, only LinkedIn/Twitter for the C3SA hub. Tried https://c3sa.uct.ac.za/discord which 404'd. No public chat community link found."
+  },
+  {
+   "name": "PumaHat",
+   "checked": "No known website (crawl=no-site in source data); described only as a competition team (3rd place HackDef 2021). No WebSearch budget remaining to locate a site/CTFtime/social profile."
+  },
+  {
+   "name": "APIsec University",
+   "checked": "Fetched https://au.apisec.ai/ (redirected from apisecuniversity.com) - only Twitter and LinkedIn links in footer, no Discord/Slack/Matrix community. Note: this appears to be an online training platform, not a university student club, so the batch entry may be mismatched data."
+  },
+  {
+   "name": "University of Delaware Capture the Flag / Cybersecurity Club",
+   "checked": "Fetched https://www.cis.udel.edu/academics/undergraduate-programs/cis-student-clubs/ - only shows the old discord.gg/xEEuXVR, confirmed dead via Discord API (404 Unknown Invite). Tried linktr.ee/udelctf (404) and ctftime.org/team/UDCTF (403 blocked). No live invite found."
+  },
+  {
+   "name": "Society for Cybersecurity (SCS) at UGA",
+   "checked": "Fetched https://www.ugascs.org/ - old discord.gg/ffFXDBcs7V confirmed dead via Discord API. Found their Linktree (linktr.ee/ugascs) which lists discord.gg/qTFnQvM3e7, but this ALSO returns 404/Unknown Invite from the Discord invite API, so their current published invite is itself broken/expired right now."
+  },
+  {
+   "name": "Ntropy (UNC Chapel Hill)",
+   "checked": "Fetched https://ntropy-unc.github.io/ - old discord.gg/YjfgCz796g confirmed dead via Discord API. Checked github.com/ntropy-unc org page and their CTF-Club-Constitution doc (both 404'd via WebFetch). No live invite found."
+  },
+  {
+   "name": "Clemson Cyber",
+   "checked": "Fetched https://cucyber.net/ - old discord.gg/f7ZcC7z confirmed dead via Discord API. Tried github.com/clemson-cyber (404), cucyber.net/discord (blank page), and ctftime.org/team/clemson-cyber (403 blocked). No live invite found."
+  },
+  {
+   "name": "Glasgow Caledonian University Ethical Hacking Society",
+   "checked": "Society page (gcustudents.co.uk) still shows only the same expired invite NXKjyFtswc plus an email (EthicalHacking@gcustudents.co.uk); no society-specific Instagram/Twitter (only parent GCU SA accounts); WebSearch unavailable (session budget exhausted)."
+  },
+  {
+   "name": "LUHack (Lancaster University Ethical Hacking Group)",
+   "checked": "Security Lancaster page, GitHub org (github.com/luhack, just a repo link, no live socials), and luhack.github.io site checked; none list a Discord — only a Facebook group and Twitter @LancsUniHackers, plus generic Security Lancaster email/phone. No Discord/Slack/Matrix link found anywhere. WebSearch unavailable (budget exhausted)."
+  },
+  {
+   "name": "BTU Cyber Security & CTF Club",
+   "checked": "Club page (b-tu.de) still shows only the same expired invite hsXCmJmu6x and an email; only parent-university social accounts listed, no club-specific alternates found. WebSearch unavailable (budget exhausted)."
+  },
+  {
+   "name": "UN-Hack-Bar",
+   "checked": "Homepage (un-hack-bar.de) lists no Discord; only Mastodon (@UN_Hack_Bar@chaos.social), a mailing list (discuss@lists.unhb.de), and a git server (git.un-hack-bar.de). /kontakt page 404'd. No Discord/Slack/Matrix invite found. WebSearch unavailable (budget exhausted)."
+  },
+  {
+   "name": "SHIELD NITH (NIT Hamirpur cybersecurity club)",
+   "checked": "GitHub org, SHIELD_NITH repo README, and club site shield-nith.vercel.app (home and /join, both checked) show a placeholder invite string 'discord.gg/shield-nith-mock' with no real code; only email shield@nith.ac.in given. linktr.ee/shieldnith 404'd. No real current invite found. WebSearch unavailable (budget exhausted)."
+  },
+  {
+   "name": "UNCG InfoSec (UNC Greensboro)",
+   "checked": "GitHub org page (only email uncginfosecclub@gmail.com listed, no Discord), github.com/uncg-infosec/.github and uncg-infosec.github.io both 404'd, uncginfosec.org does not resolve, linktr.ee/uncginfosec 404'd. No Discord/Slack/Matrix link found. WebSearch unavailable (budget exhausted)."
+  },
+  {
+   "name": "UD Cyber Security / Capture the Flag Club",
+   "checked": "UD CIS student clubs page still shows only the same expired invite xEEuXVR plus contact Landon Jones (lhjones@udel.edu); no other webpage, Instagram, or GroupMe listed. No new link found."
+  },
+  {
+   "name": "Cybersecurity Club at Florida State University (H4CK3RS)",
+   "checked": "linktr.ee/cybersecurity_fsu still shows only the same expired invite VgUsdPPaq4; Instagram (fsucybersecurity) bio text not retrievable via fetch (only images returned). No new link confirmed."
+  },
+  {
+   "name": "Society for Cyber Security (UGA SCS)",
+   "checked": "ugascs.org still shows only the same expired invite ffFXDBcs7V. Site also lists a GroupMe (groupme.com/join_group/84888832/I8vsRDQg) as an alternate current community channel, plus Instagram/LinkedIn/X/GitHub, but GroupMe is not a supported platform type for this directory."
+  },
+  {
+   "name": "Clemson Cyber",
+   "checked": "cucyber.net still shows only the same expired invite f7ZcC7z; Instagram, LinkedIn, Twitter, YouTube listed but no alternate chat platform. No new link found."
+  },
+  {
+   "name": "ntropy (UNC CTF Team)",
+   "checked": "Website (https://ntropy-unc.github.io/) still only lists the known-dead invite YjfgCz796g. Checked GitHub org profile (github.com/ntropy-unc) - only links back to the same website, no Discord link. ctftime.org/team/ntropy returned HTTP 403 (blocked). No Linktree/Instagram found."
+  },
+  {
+   "name": "Abertay Hackers (HackSoc)",
+   "checked": "discord.hacksoc.co.uk (invite redirect page) returned HTTP 403 Forbidden. hacksoc.co.uk main site also returned HTTP 403 Forbidden. No Linktree, GitHub org, or CTFtime page located within available checks."
+  },
+  {
+   "name": "Radboud Institute of Pwning",
+   "checked": "Website home, /welcome/, and /about-us/ pages fetched - all mention 'Discord' as a contact method but none include an actual invite URL. LinkedIn company page (nl.linkedin.com/company/pwning) only links back to the website. ctftime.org/team/128996 returned HTTP 403 (blocked)."
+  },
+  {
+   "name": "SCSC (Swedish Cyber Security Challenge)",
+   "checked": "KTH page (kth.se/ecsc/scsc-1.1146514) still only shows the known-dead invite rNZQKZsZR8. No separate SCSC site, Linktree, or social profile located within available checks."
+  },
+  {
+   "name": "CTF Club - Chair of IT Security, BTU Cottbus-Senftenberg",
+   "checked": "Website (b-tu.de/en/fg-it-sicherheit/ctf-club) still only shows the known-dead invite hsXCmJmu6x. Checked linked Instagram (instagram.com/btucs/) bio - no Discord link there (only a wonderlink.de bio-link page not directly fetchable as its own URL). Facebook/YouTube/LinkedIn pages listed but not separately checked for a newer invite (no bot-check-free access path found)."
+  },
+  {
+   "name": "QUT Whitehats",
+   "checked": "Linktree (linktr.ee/qutwhitehats) still only lists the known-dead invite adNUaueMKH. Website link on Linktree (qutwhitehats.club) failed to resolve (DNS error). Twitter/X profile redirect could not be completed within remaining checks. Facebook group/page listed on Linktree but not fetchable as plain URLs for bio text."
+  }
+ ],
+ "failed": []
+}

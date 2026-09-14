@@ -1,0 +1,62 @@
+[
+ {
+  "id": "securinets-ctf",
+  "name": "Securinets CTF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Xqj6WnNmbQ",
+  "discord_description": "Securinets CTF is an online jeopardy style CTF organized by Securinets INSAT.",
+  "members": 3038,
+  "online": 322,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "FL1TZ (INSAT (Institut National des Sciences Appliquées et de Technologie))",
+  "candidate_notes": "Academic CTF team / school club at INSAT (Institut National des Sciences Appliquées et de Technologie); link found by the CTFtime link hunt. FL1TZ is a student CTF team tied to the Securinets INSAT club at INSAT (Institut National des Sciences Appliquées et de Technologie), Tunis. Discord invite named 'Securinets CTF' confirmed live via discord.com/invite/Xqj6WnNmbQ; link surfaced via web search (",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://discord.com/invite/Xqj6WnNmbQ"
+  ]
+ },
+ {
+  "id": "byu-cybersecurity",
+  "name": "BYU Cybersecurity",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/QNtYkyHUKR",
+  "discord_description": "The official hub for the BYU Cybersecurity program and related student involvement.",
+  "members": 634,
+  "online": 54,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "BYU Cyberia (Brigham Young University (BYU))",
+  "candidate_notes": "Academic CTF team / school club at Brigham Young University (BYU); link found by the CTFtime link hunt. Site is titled 'BYU CSA' (Cybersecurity Student Association) but logo/branding reads 'BYU Cyberia'; this is the club behind the CTF team.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://byu-csa.github.io/"
+  ]
+ },
+ {
+  "id": "bcactf",
+  "name": "BCACTF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/NP9Bb7PDWf",
+  "discord_description": null,
+  "members": 1900,
+  "online": 220,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "BCACTF (Bergen County Academies)",
+  "candidate_notes": "Academic CTF team / school club at Bergen County Academies; link found by the CTFtime link hunt. BCACTF is the competition run by BCA CTF Club (github.com/BCACTF) at Bergen County Academies, a public magnet high school, not a university - listed as academic_flag by source but is secondary/K-12, not postsecondary.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://bcactf.com"
+  ]
+ }
+]

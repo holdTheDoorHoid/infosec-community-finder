@@ -1,0 +1,40 @@
+{
+ "changes": [
+  {
+   "id": "sieberrsec-ctf",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": [
+    "ctf",
+    "students",
+    "wargames",
+    "youth",
+    "general-infosec"
+   ],
+   "audience": null,
+   "summary": "Sieberrsec CTF (SCTF) is an annual jeopardy-style CTF for Singaporean secondary school and pre-university students, organized by students of the School of Science and Technology (SST) via sieberr.live, now in its seventh edition. It's explicitly designed as a beginner-friendly introduction to cybersecurity, with the Discord serving as the hub for competition chat, challenge support and announcements.",
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Summary and run_by credit 'Hwa Chong Infocomm & Robotics Society', but the entry's own candidate_notes state the CTF is run by students of School of Science and Technology (SST) via sieberr.live -- an internal contradiction, corrected in favor of the sourced research. Also added 'general-infosec' tag to match how peer beginner-intro CTF servers in this batch (byu-cybersecurity, pwnzer0tt1, tu-delft-ctf-team) are tagged."
+  },
+  {
+   "id": "shaktictf-25",
+   "category": null,
+   "beginner_friendly": null,
+   "tags": null,
+   "audience": null,
+   "summary": "This is the Discord run each year for ShaktiCTF, organized by TeamShakti, a women-in-infosec student CTF group with ties to Amrita Vishwa Vidyapeetham. The event is an explicitly beginner-friendly jeopardy-style CTF (web, crypto, pwn, forensics, reverse engineering) aimed at getting more women into infosec, and the server is where players register, ask questions during the competition, and see writeups afterward.",
+   "hide": false,
+   "exclude_reason": null,
+   "language": null,
+   "region": null,
+   "reason": "Summary/run_by assert the team is 'at Amrita Vishwa Vidyapeetham', but the entry's own candidate_notes state TeamShakti is 'pan-India, not tied to one university' -- softened the summary to reconcile the two rather than overclaiming an exclusive university affiliation."
+  }
+ ],
+ "duplicates": [],
+ "notes": [
+  "late-0: Systemic category inconsistency, not individually changed because it's ambiguous which side is 'correct': entries 1-6 (artifactory, rlab-reading-hackspace, liege-hackerspace, varnalab, cheltenham-hackspace, l-abscisse) are all general, non-security-focused local hackerspaces/makerspaces categorized as 'regional', while entries 7-11 (fizzpop, eigenbaukombinat-halle, boring-place, stockholm-makerspace, vhs) are the same type of entity -- local, non-security makerspaces with near-identical summaries explicitly disclaiming a security focus -- categorized as 'adjacent'. The 'adjacent' category is explicitly defined as covering 'maker' hobby spaces, which fits both groups equally; there's no content difference that explains the split. Recommend the maintainer pick one category for all local general-purpose hacker/makerspaces and apply it uniformly, since this affects a third of the file. Related: the 'adjacent' cohort's blanket use of the 'homelab' tag is a loose fit for a few of them (fizzpop is welding/pottery/laser-cutting with no computing angle at all; stockholm-makerspace is wood/electronics/3D-scanning) -- likely used as a catch-all since no other allowed tag fits a generic craft makerspace, left unchanged since no better tag exists in the allowed list. Also note: run_by, city, and discord_description are not in this tool's editable schema, so the two attribution fixes above could only be applied to the summary/tags fields -- the run_by field on sieberrsec-ctf and shaktictf-25 still needs a manual correction by whoever owns the source data."
+ ]
+}

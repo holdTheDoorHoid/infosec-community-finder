@@ -1,0 +1,122 @@
+[
+ {
+  "id": "mqcybersec",
+  "name": "MQCyberSec",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/aWAajZcZtp",
+  "discord_description": null,
+  "members": 1272,
+  "online": 200,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "MQCyberSec (Macquarie University)",
+  "candidate_notes": "Academic CTF team / university club at Macquarie University; link found by the CTFtime link hunt. Primary club Discord (~1,233 members) listed on MQCyberSec's official Linktree, page notes 'uni wifi blocks' it. Club also has related Women in Computing and MACS Discords, but this is the primary one.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://linktr.ee/mqcybersec"
+  ]
+ },
+ {
+  "id": "sigflag",
+  "name": "SIGFLAG",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/5SvkDWs",
+  "discord_description": null,
+  "members": 80,
+  "online": 14,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "SIGFLAG (Johannes Kepler University (JKU) Linz)",
+  "candidate_notes": "Academic CTF team / university club at Johannes Kepler University (JKU) Linz; link found by the CTFtime link hunt. Discord invite is on the team's own 'Join Us' page, described as organised by students of JKU Linz.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://sigflag.at/participate/"
+  ]
+ },
+ {
+  "id": "uoftctf",
+  "name": "UofTCTF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/MxuUeCtRVA",
+  "discord_description": "Home of the University of Toronto Capture The Flag Team (UofTCTF), the largest cybersecurity community at UofT. We bring together students who are passionate or simply curious about cybersecurity. Join us for competitions, workshops, and fun social events throughout the year!",
+  "members": 1457,
+  "online": 172,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UofTCTF (University of Toronto)",
+  "candidate_notes": "Academic CTF team / university club at University of Toronto; link found by the CTFtime link hunt. Official club Discord confirmed via both the club's own discord.uoftctf.org vanity redirect and its GitHub org page.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://discord.uoftctf.org (redirects to discord.gg/MxuUeCtRVA); also listed on github.com/UofTCTF org profile"
+  ]
+ },
+ {
+  "id": "faust-ctf-2026",
+  "name": "FAUST CTF 2026",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/H57RVYabwq",
+  "discord_description": null,
+  "members": 1050,
+  "online": 190,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "FAUST (Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))",
+  "candidate_notes": "Academic CTF team / university club at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU); link found by the CTFtime link hunt. Discord invite is on the FAUST CTF 2023 competition site's contact page ('Come join us on Discord!'), run by FAUST, FAU's CTF team. It is the event Discord rather than a confirmed standing team community server, but is the only public chat link found.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://2023.faustctf.net/contact/"
+  ]
+ },
+ {
+  "id": "upb-hack",
+  "name": "/upb/hack",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/F2FFY9e",
+  "discord_description": "Learn more about IT security. We meet regularly and participate in Capture The Flag competitions 🚩",
+  "members": 247,
+  "online": 30,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "upbhack (Paderborn University)",
+  "candidate_notes": "Academic CTF team / university club at Paderborn University; link found by the CTFtime link hunt. upbhack.de states '/upb/hack is the CTF team at Paderborn University'; Discord invite found directly on the team's own homepage.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://upbhack.de/"
+  ]
+ },
+ {
+  "id": "rwth-aachen-ctf",
+  "name": "RWTH Aachen CTF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Ubjqwm7N3B",
+  "discord_description": "The official home of Pwn-la-Chapelle, RWTHs student-organized CTF group",
+  "members": 478,
+  "online": 65,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Pwn-la-Chapelle",
+  "candidate_notes": "Academic CTF team / university club at RWTH Aachen University; link found by the CTFtime link hunt. Team's own site (pwn-la-chapelle.eu) describes itself as 'the officially unofficial CTF team of RWTH Aachen University' and encodes the Discord invite as base64 next to 'If you're new, join the Discord and attend one of our in-person CTF events'; decoded verbatim from the page's own base64 string.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://pwn-la-chapelle.eu"
+  ]
+ }
+]
