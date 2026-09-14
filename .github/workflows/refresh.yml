@@ -1,7 +1,7 @@
-name: Weekly invite & stats refresh
+name: Daily link & stats refresh (rolling slice)
 on:
   schedule:
-    - cron: "17 6 * * 1"   # Mondays 06:17 UTC
+    - cron: "17 6 * * *"   # daily 06:17 UTC; each run re-checks the 250 least-recently-checked entries, so every entry is checked every few days
   workflow_dispatch: {}
 permissions:
   contents: write
@@ -15,11 +15,11 @@ jobs:
         with:
           python-version: "3.12"
       - name: Re-check every invite (public Discord invite preview, no login)
-        run: REFRESH_BUDGET_SECONDS=3600 python3 scripts/refresh.py
+        run: REFRESH_LIMIT=250 REFRESH_BUDGET_SECONDS=3000 python3 scripts/refresh.py
       - name: Commit if anything changed
         run: |
           git config user.name "refresh-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/communities.json
-          git diff --cached --quiet && echo "no changes" || git commit -m "chore: weekly refresh of member counts and invite status"
+          git diff --cached --quiet && echo "no changes" || git commit -m "chore: daily refresh slice (member counts, link status)"
           git push

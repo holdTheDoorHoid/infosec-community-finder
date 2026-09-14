@@ -19,14 +19,18 @@ def size_tier(n):
     return t
 
 BUDGET_SECONDS = int(__import__("os").environ.get("REFRESH_BUDGET_SECONDS", "3600"))  # never run away: stop checking after this and still save
+LIMIT = int(__import__("os").environ.get("REFRESH_LIMIT", "0"))  # 0 = check everything; N = only the N least-recently-checked entries (Discord throttles shared runners)
 
 def main():
     doc = json.loads(DATA.read_text())
     today = datetime.date.today().isoformat()
     ok = dead = err = skipped = 0; throttled = 0
     t0 = time.time()
-    for i, c in enumerate(doc["communities"]):
-        if i % 50 == 0: print(f"[{int(time.time()-t0)}s] {i}/{len(doc['communities'])} ok={ok} dead={dead} err={err}", flush=True)
+    todo = sorted(doc["communities"], key=lambda c: (c.get("last_checked") or "", c["id"]))
+    if LIMIT: todo = todo[:LIMIT]
+    print(f"checking {len(todo)} of {len(doc['communities'])} entries (least recently checked first)", flush=True)
+    for i, c in enumerate(todo):
+        if i % 50 == 0: print(f"[{int(time.time()-t0)}s] {i}/{len(todo)} ok={ok} dead={dead} err={err}", flush=True)
         if time.time() - t0 > BUDGET_SECONDS:
             skipped += 1; c["last_error"] = "skipped: time budget"; continue
         if c.get("platform", "discord") != "discord":
@@ -67,7 +71,7 @@ def main():
             c["invite_expires_at"] = r["expires_at"]
             c["nsfw"] = r["nsfw"]
             c.setdefault("history", []).append({"date": today, "members": r["members"], "online": r["online"]})
-            c["history"] = c["history"][-52:]
+            c["history"] = c["history"][-90:]
         elif r["status"] == "dead":
             dead += 1
             c["invite_status"] = "dead"

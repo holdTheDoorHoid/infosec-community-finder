@@ -15,7 +15,7 @@ A directory of cybersecurity, hacking, CTF, hardware, OSINT, career, local-group
 | `scripts/import_candidates.py` | Merges new candidate lists into the database, resolving invites and de-duplicating by Discord guild id. |
 | `scripts/discordapi.py` | The tiny unauthenticated client both scripts share. |
 | `research/` | Raw discovery output: seed lists, directory scrapes, agent findings. Kept for provenance. |
-| `.github/workflows/refresh.yml` | Weekly refresh (Mondays 06:17 UTC) plus a manual "Run workflow" button. |
+| `.github/workflows/refresh.yml` | Daily refresh at 06:17 UTC of the 250 least-recently-checked entries (so every entry is re-checked every few days), plus a manual "Run workflow" button. Discord throttles GitHub's shared runners, which is why it works in slices. |
 | `.github/ISSUE_TEMPLATE/` | Forms for submitting a server or reporting a dead link. |
 
 ## How the data is collected
@@ -23,7 +23,7 @@ A directory of cybersecurity, hacking, CTF, hardware, OSINT, career, local-group
 1. **Discovery** – seed lists (user-supplied, LinkedIn/Medium/blog roundups, GitHub awesome-lists, Discord's own server directory, Disboard, top.gg and other listing sites), topical web research per cluster (CTF, creators and podcasts, open-source tools, hardware, blue team, careers, OSINT, affinity groups, appsec, adjacent hobbies, non-English communities), university clubs by region, every DEF CON Group on the official list plus hackerspaces and Meetup groups by region, a pass over every conference in the LSOH conference tracker plus DEF CON villages, a scan of the READMEs of 3,400 popular security repositories on GitHub, and a curated pass over non-Discord platforms (Slack workspaces with durable signup pages, Matrix/IRC/Mattermost, forums, subreddits, Mastodon instances).
 2. **Resolution** – every Discord invite is looked up through `https://discord.com/api/v10/invites/<code>?with_counts=true`. That is public, needs no login, and returns the server name, description, approximate member and online counts, and feature flags (verified, partnered, discoverable). Duplicates collapse by guild id. Non-Discord links get a liveness check (HTTP status plus the known "invite expired" pages); Mastodon instances expose a public user count; Reddit blocks automated checks and is marked "not auto-checked".
 3. **Reconnaissance** – each community gets a category, topic tags, an audience and beginner-friendliness rating, the activities you will find there, who runs it, where it is (region, country, state/province, city for local groups and conferences), language, and a plain-English summary. A second review pass checks each category group for consistency. These are editorial and can be wrong; fix them with a PR or an issue.
-4. **Refresh** – weekly, automatically. Dead invites are flagged, not deleted, so they can be replaced.
+4. **Refresh** – daily in rolling slices, automatically. Dead links are flagged, not deleted, so they can be replaced. Platforms that block automated checks (Reddit, some Slack and forum pages, IRC) are marked "not auto-checked" rather than dead.
 
 Nobody joins servers on your behalf, ever. Only public information is used.
 

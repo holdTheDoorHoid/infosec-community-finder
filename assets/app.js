@@ -148,7 +148,7 @@ async function initBrowse() {
   $('#grid').addEventListener('click', e => { const el = e.target.closest('.card'); if (el) ICF.openModal(all.find(c => c.id === el.dataset.id)); });
   $('#grid').addEventListener('keydown', e => { if (e.key === 'Enter') { const el = e.target.closest('.card'); if (el) ICF.openModal(all.find(c => c.id === el.dataset.id)); } });
   const s = db.stats || {}; const alive = all.filter(c => c.invite_status === 'ok' && c.platform === 'discord'); const nonDiscord = all.filter(c => c.platform !== 'discord').length;
-  $('#stats').innerHTML = `<span><b>${all.length}</b> communities</span><span><b>${ICF.fmt(alive.reduce((a,c)=>a+(c.members||0),0))}</b> combined members</span><span><b>${ICF.fmt(alive.reduce((a,c)=>a+(c.online||0),0))}</b> online right now</span>${nonDiscord ? `<span><b>${nonDiscord}</b> on Slack, Matrix, forums & more</span>` : ''}<span>links re-checked weekly · last <b>${ICF.esc(db.last_refresh || db.last_import || '—')}</b></span>`;
+  $('#stats').innerHTML = `<span><b>${all.length}</b> communities</span><span><b>${ICF.fmt(alive.reduce((a,c)=>a+(c.members||0),0))}</b> combined members</span><span><b>${ICF.fmt(alive.reduce((a,c)=>a+(c.online||0),0))}</b> online right now</span>${nonDiscord ? `<span><b>${nonDiscord}</b> on Slack, Matrix, forums & more</span>` : ''}<span>links re-checked in daily slices · last <b>${ICF.esc(db.last_refresh || db.last_import || '—')}</b></span>`;
   render();
   if (location.hash) { const c = all.find(x => x.id === location.hash.slice(1)); if (c) ICF.openModal(c); }
 }
