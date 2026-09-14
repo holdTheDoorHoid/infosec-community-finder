@@ -1,8 +1,8 @@
 # Research report
 
-Generated 2026-09-13.
+Generated 2026-09-14.
 
-- Servers in database: **867** (visible 720, hidden as off-topic/rejected 147, dead invites 0)
+- Servers in database: **867** (visible 718, hidden as off-topic/rejected 147, dead invites 2)
 - Name-only leads that could not be resolved to a working invite: 368
 - Organizations checked and confirmed to have no public Discord (Slack/Matrix/forum instead, or none): 921
 
@@ -12,7 +12,7 @@ Generated 2026-09-13.
 - learning: 80
 - regional: 68
 - ctf: 68
-- general: 64
+- general: 62
 - conference: 51
 - hardware: 37
 - blueteam: 36
@@ -27,7 +27,7 @@ Generated 2026-09-13.
 
 ## Visible by platform
 
-- discord: 587
+- discord: 585
 - reddit: 47
 - forum: 40
 - slack: 21
@@ -40,13 +40,13 @@ Generated 2026-09-13.
 
 - 1: 4
 - 2: 136
-- 3: 210
+- 3: 208
 - 4: 254
 - 5: 116
 
 ## Languages (visible)
 
-- en: 665
+- en: 663
 - fr: 16
 - es: 12
 - pt: 8
@@ -63,31 +63,31 @@ Generated 2026-09-13.
 
 ## Largest 25 (members)
 
-- HackTheBox — 386,046 members, 29,700 online — ctf (discord)
-- TryHackMe — 373,480 members, 25,414 online — learning (discord)
-- OwlSec — 166,068 members, 14,169 online — redteam (discord)
-- Cyber Info — 159,944 members, 26,118 online — learning (discord)
-- David Bombal — 118,851 members, 4,160 online — creator (discord)
-- Flipper Devices — 115,742 members, 17,296 online — tool (discord)
-- NetworkChuck — 98,359 members, 8,487 online — creator (discord)
-- OffSec — 96,526 members, 10,146 online — learning (discord)
-- Infosec Exchange — 83,228 members, 0 online — general (mastodon)
-- Professor Messer — 82,822 members, 12,045 online — creator (discord)
-- Hacker101 — 77,319 members, 3,458 online — learning (discord)
-- Kali Linux & Friends — 72,286 members, 3,857 online — tool (discord)
-- Hack4u — 72,238 members, 6,588 online — creator (discord)
-- TCM Security — 71,420 members, 7,078 online — creator (discord)
-- Overflow — 71,165 members, 3,550 online — creator (discord)
+- HackTheBox — 386,064 members, 25,266 online — ctf (discord)
+- TryHackMe — 373,497 members, 21,823 online — learning (discord)
+- OwlSec — 166,106 members, 11,275 online — redteam (discord)
+- Cyber Info — 159,934 members, 21,367 online — learning (discord)
+- David Bombal — 118,853 members, 3,660 online — creator (discord)
+- Flipper Devices — 115,744 members, 13,562 online — tool (discord)
+- NetworkChuck — 98,358 members, 6,847 online — creator (discord)
+- OffSec — 96,541 members, 9,587 online — learning (discord)
+- Infosec Exchange — 83,230 members, 0 online — general (mastodon)
+- Professor Messer — 82,828 members, 6,883 online — creator (discord)
+- Hacker101 — 77,319 members, 3,145 online — learning (discord)
+- Kali Linux & Friends — 72,289 members, 3,292 online — tool (discord)
+- Hack4u — 72,245 members, 3,137 online — creator (discord)
+- TCM Security — 71,422 members, 5,935 online — creator (discord)
+- Overflow — 71,244 members, 2,278 online — creator (discord)
 - Fosstodon — 62,695 members, 0 online — adjacent (mastodon)
-- Black Hills Infosec — 61,411 members, 6,711 online — general (discord)
-- DEFCON — 57,969 members, 9,937 online — conference (discord)
-- Meshtastic — 52,945 members, 8,768 online — adjacent (discord)
-- Learn Prompting/HackAPrompt — 51,468 members, 2,084 online — learning (discord)
-- Project Owl: The OSINT Community — 50,816 members, 6,500 online — osint (discord)
-- Cybersecurity Station — 46,093 members, 3,065 online — careers (discord)
-- Bellingcat — 43,788 members, 3,745 online — osint (discord)
-- Nahamsec — 41,719 members, 3,365 online — creator (discord)
-- pwn.college — 41,074 members, 4,936 online — ctf (discord)
+- Black Hills Infosec — 61,416 members, 5,160 online — general (discord)
+- DEFCON — 57,968 members, 8,287 online — conference (discord)
+- Meshtastic — 52,945 members, 7,151 online — adjacent (discord)
+- Learn Prompting/HackAPrompt — 51,464 members, 1,926 online — learning (discord)
+- Project Owl: The OSINT Community — 50,819 members, 5,082 online — osint (discord)
+- Cybersecurity Station — 46,091 members, 2,279 online — careers (discord)
+- Bellingcat — 43,789 members, 3,258 online — osint (discord)
+- Nahamsec — 41,720 members, 3,283 online — creator (discord)
+- pwn.college — 41,100 members, 4,416 online — ctf (discord)
 
 ## Hidden (rejected) servers and why
 
