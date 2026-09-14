@@ -93,6 +93,8 @@ def check_join_url(url):
     """Liveness check for non-Discord join links: HTTP status plus known 'expired invite' phrases."""
     if re.search(r"^https?://(www\.|old\.)?reddit\.com/", url or ""):
         return {"status": "unchecked", "error": "reddit blocks automated checks"}
+    if not re.match(r"^https?://", url or ""):
+        return {"status": "unchecked", "error": "non-HTTP link (irc/matrix) cannot be auto-checked"}
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) Chrome/120"})
         with urllib.request.urlopen(req, timeout=20) as r:
@@ -100,7 +102,9 @@ def check_join_url(url):
             if any(m in body for m in DEAD_MARKERS): return {"status": "dead", "error": "expired-invite page"}
             return {"status": "ok", "final_url": r.geturl()}
     except urllib.error.HTTPError as e:
-        return {"status": "dead" if e.code in (404, 410) else "error", "error": f"HTTP {e.code}"}
+        if e.code in (404, 410): return {"status": "dead", "error": f"HTTP {e.code}"}
+        if e.code in (401, 403, 429, 503): return {"status": "unchecked", "error": f"HTTP {e.code} (bot-blocked, not dead)"}
+        return {"status": "error", "error": f"HTTP {e.code}"}
     except Exception as ex:
         return {"status": "error", "error": str(ex)[:120]}
 
