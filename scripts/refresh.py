@@ -18,11 +18,17 @@ def size_tier(n):
         if n >= floor: t = name
     return t
 
+BUDGET_SECONDS = int(__import__("os").environ.get("REFRESH_BUDGET_SECONDS", "3600"))  # never run away: stop checking after this and still save
+
 def main():
     doc = json.loads(DATA.read_text())
     today = datetime.date.today().isoformat()
-    ok = dead = err = 0
-    for c in doc["communities"]:
+    ok = dead = err = skipped = 0; throttled = 0
+    t0 = time.time()
+    for i, c in enumerate(doc["communities"]):
+        if i % 50 == 0: print(f"[{int(time.time()-t0)}s] {i}/{len(doc['communities'])} ok={ok} dead={dead} err={err}", flush=True)
+        if time.time() - t0 > BUDGET_SECONDS:
+            skipped += 1; c["last_error"] = "skipped: time budget"; continue
         if c.get("platform", "discord") != "discord":
             chk = check_join_url(c.get("invite_url")); c["last_checked"] = today
             if chk["status"] == "ok":
@@ -37,8 +43,15 @@ def main():
         code = c.get("invite_code") or invite_code(c.get("invite_url"))
         if not code:
             c["invite_status"] = "missing"; continue
+        if throttled >= 25:
+            skipped += 1; c["last_error"] = "skipped: Discord rate limit persisted"; continue
         r = lookup_invite(code)
         c["last_checked"] = today
+        if r["status"] == "error" and str(r.get("error", "")).startswith("429"):
+            throttled += 1; err += 1; c["last_error"] = r["error"]
+            time.sleep(min(60, 10 * throttled))  # back off harder each time the shared runner IP is throttled
+            continue
+        throttled = 0
         if r["status"] == "ok":
             ok += 1
             c["invite_status"] = "ok"
@@ -64,9 +77,9 @@ def main():
             c["invite_status"] = c.get("invite_status", "unknown")  # keep last known state on transient errors
             c["last_error"] = r.get("error")
     doc["last_refresh"] = today
-    doc["stats"] = {"total": len(doc["communities"]), "ok": ok, "dead": dead, "errors": err}
+    doc["stats"] = {"total": len(doc["communities"]), "ok": ok, "dead": dead, "errors": err, "skipped": skipped, "seconds": int(time.time() - t0)}
     DATA.write_text(json.dumps(doc, indent=1, ensure_ascii=False) + "\n")
-    print(f"refreshed {len(doc['communities'])}: ok={ok} dead={dead} errors={err}")
+    print(f"refreshed {len(doc['communities'])}: ok={ok} dead={dead} errors={err} skipped={skipped} in {int(time.time()-t0)}s")
 
 if __name__ == "__main__":
     main()

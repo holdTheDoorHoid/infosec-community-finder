@@ -25,7 +25,8 @@ def _get(url, tries=4):
             except Exception: data = {"message": body[:200]}
             if e.code == 429:
                 wait = float(data.get("retry_after", 2)) + 0.5
-                time.sleep(min(wait, 30)); continue
+                if attempt >= 2: return 429, data  # do not stall a whole run on one hot endpoint
+                time.sleep(min(wait, 15)); continue
             return e.code, data
         except Exception as ex:
             if attempt == tries - 1: return 0, {"message": str(ex)}
