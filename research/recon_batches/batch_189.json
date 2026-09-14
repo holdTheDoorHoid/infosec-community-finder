@@ -1,0 +1,122 @@
+[
+ {
+  "id": "imperial-cyber-security-society",
+  "name": "Imperial Cyber Security Society",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/j9QrDEyCXh",
+  "discord_description": null,
+  "members": 299,
+  "online": 25,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Imperial College Cybersecurity Society",
+  "candidate_notes": "University club at Imperial College London (London, GB). Listed on the Imperial College Union CSP page for the Cybersecurity society.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.imperialcollegeunion.org/csp/1377"
+  ]
+ },
+ {
+  "id": "hack-keele-the-computing-society",
+  "name": "Hack Keele - The Computing Society",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/hKfarpucqc",
+  "discord_description": null,
+  "members": 253,
+  "online": 31,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Hack Keele - The Computing Society",
+  "candidate_notes": "University club at Keele University (Keele, GB). Found via a Discord-server listing snippet; matches HackKeele from the ENUSEC UK CyberSec Societies directory. Covers general computing incl. cybersecurity.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://discord.com/invite/hKfarpucqc"
+  ]
+ },
+ {
+  "id": "rhul-cyber-security-society-26-27",
+  "name": "RHUL Cyber Security Society 26/27",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/J9wXrR9zE",
+  "discord_description": null,
+  "members": 20,
+  "online": 3,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cyber Security Society RHUL",
+  "candidate_notes": "University club at Royal Holloway, University of London (Egham, GB). Discord link shown on the society's own Linktree.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://linktr.ee/cssrhul"
+  ]
+ },
+ {
+  "id": "ou-cyber-security-society",
+  "name": "OU Cyber Security Society",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/A2pPwnUuue",
+  "discord_description": "This server is for Students of the Open University.  We are a collective who enjoy learning about Cyber Security.",
+  "members": 1710,
+  "online": 124,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Open University Cyber Security Club",
+  "candidate_notes": "University club at The Open University (, GB). For students on the R60 cybersecurity degree and other pathways; distance-learning university so no physical city. Also has vanity link join.oucss.rocks.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.oustudents.com/organisation/6552/"
+  ]
+ },
+ {
+  "id": "enoflag-ag-rechnersicherheit-tu-berlin",
+  "name": "ENOFLAG / AG Rechnersicherheit (TU Berlin)",
+  "platform": "portal",
+  "invite_url": "http://ag-rechnersicherheit.de/",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "University club at Technische Universität Berlin (Berlin, DE). No Discord/Matrix found; they list email, Mastodon, and a Jitsi meeting room (meet.enoflag.de/erstis) as public entry points instead. Listed as guess since the Jitsi link is the closest thing to a public join link seen on their own page.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": "https://www.enoflag.de/",
+  "sources": [
+   "http://ag-rechnersicherheit.de/"
+  ]
+ },
+ {
+  "id": "polygl0ts",
+  "name": "polygl0ts",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/7Zx4FZyTSP",
+  "discord_description": null,
+  "members": 886,
+  "online": 79,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "polygl0ts (EPFL CTF team)",
+  "candidate_notes": "University club at École Polytechnique Fédérale de Lausanne (Lausanne, CH). Official EPFL CTF team; Discord link confirmed on their own contact page.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://polygl0ts.ch/contact.html"
+  ]
+ }
+]

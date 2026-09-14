@@ -1,0 +1,122 @@
+[
+ {
+  "id": "cyber-security-club-ohio-state",
+  "name": "Cyber Security Club @ Ohio State",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/G2BGWVdg9p",
+  "discord_description": null,
+  "members": 1294,
+  "online": 85,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cyber Security Club @ Ohio State (OSU Cyber)",
+  "candidate_notes": "University club at The Ohio State University (Columbus, US). Runs BuckeyeCTF; link surfaced via search of club's own domain (osucyber.club), could not directly render the JS site to confirm on-page.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://osucyber.club/"
+  ]
+ },
+ {
+  "id": "acm-security",
+  "name": "ACM Security",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/57QaYqhuaZ",
+  "discord_description": null,
+  "members": 385,
+  "online": 48,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "ACM Security (Missouri S&T ACM cybersecurity SIG)",
+  "candidate_notes": "University club at Missouri University of Science and Technology (Rolla, US). Cybersecurity special-interest group of Missouri S&T's ACM chapter.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://security.mstacm.org/"
+  ]
+ },
+ {
+  "id": "spartan-hackers",
+  "name": "Spartan Hackers",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/TFm9fK8JAD",
+  "discord_description": null,
+  "members": 1071,
+  "online": 68,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Spartan Hackers",
+  "candidate_notes": "University club at Michigan State University (East Lansing, US). General hacking/hackathon-and-ethical-hacking club (~1200 in Discord); MSU also has a separate, narrower 'Cybersecurity Club' that could not be located online.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://spartanhackers.github.io/"
+  ]
+ },
+ {
+  "id": "hashdump",
+  "name": "Hashdump",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/KfdWtGb",
+  "discord_description": "Cybersecurity Club @ CSU",
+  "members": 293,
+  "online": 21,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Hashdump Security Club",
+  "candidate_notes": "University club at Colorado State University (Fort Collins, US). General security awareness club, open to all majors.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://hashdumpsecurity.org/"
+  ]
+ },
+ {
+  "id": "uwaterloo-cybersecurity-club",
+  "name": "UWaterloo Cybersecurity Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/kd57hu4jvw",
+  "discord_description": null,
+  "members": 714,
+  "online": 80,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UW Cybersecurity Club",
+  "candidate_notes": "University club at University of Waterloo (Waterloo, CA). Discord invite shared by a club officer in a LinkedIn post promoting the club; not confirmed live on the club's own site (ctf.uwaterloo.ca returned a connection error when fetched directly).",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.linkedin.com/posts/ian-korovinsky_join-the-uwaterloo-cybersecurity-club-discord-activity-7105173785598705664-vBqn"
+  ]
+ },
+ {
+  "id": "ucl-cyber-security-society",
+  "name": "UCL Cyber Security Society",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/J9vD39UW3K",
+  "discord_description": "Open to all, UCL Cyber Security Society offers hands-on workshops, expert-led seminars, and social events. Join us!",
+  "members": 115,
+  "online": 8,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UCL Cyber Security Society",
+  "candidate_notes": "University club at University College London (London, GB). Linktree lists Discord under Socials alongside WhatsApp/Instagram.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://linktr.ee/uclcybersoc"
+  ]
+ }
+]

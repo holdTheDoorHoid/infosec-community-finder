@@ -1,0 +1,102 @@
+[
+ {
+  "id": "womcy-latam-women-in-cybersecurity",
+  "name": "WOMCY - Latam Women in Cybersecurity",
+  "platform": "portal",
+  "invite_url": "https://womcy.org/membership/",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: women; org: WOMCY; join: paid-membership; scope: security. Membership platform, not a chat community. CyberEdu tier is free-with-$1-min-donation for students (proof of enrollment required); CyberMaster $25/yr, CyberNinja $50/yr for others.",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://womcy.org/membership/"
+  ]
+ },
+ {
+  "id": "cryptoharlem",
+  "name": "CryptoHarlem",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/cryptoharlem",
+  "discord_description": null,
+  "members": 128,
+  "online": 12,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CryptoHarlem",
+  "candidate_notes": "Affinity: bipoc; org: CryptoHarlem; join: open-link; scope: security. Digital-security/surveillance-self-defense education nonprofit for the Black community; weekly Saturday livestream discussed in Discord.",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.cryptoharlem.com/get-involved"
+  ]
+ },
+ {
+  "id": "blackgirlshack-microsoft-teams-membership",
+  "name": "BlackGirlsHack (Microsoft Teams membership)",
+  "platform": "portal",
+  "invite_url": "https://forms.office.com/r/nLgihaLrmA?origin=lprLink",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: women, bipoc; org: BlackGirlsHack / BGH Foundation; join: request-form; scope: security. SAME ORG already listed on Discord (discord.gg/gCQ8Hu2CQ7) — flagging because the org's actual formal membership process now runs through Microsoft Teams via this application form, a different platform than the existing Discord listing. Applications reportedly only processed on Sundays.",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.blackgirlshack.org/Join"
+  ]
+ },
+ {
+  "id": "wicys-women-in-cybersecurity",
+  "name": "WiCyS (Women in Cybersecurity)",
+  "platform": "portal",
+  "invite_url": "https://www.wicys.org/benefits/",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: women; org: WiCyS; join: paid-membership; scope: security. Large national/global nonprofit; membership grants access to a members-only community portal (womenincybersecuritywicys.my.site.com) with special interest groups. Exact fee tiers not visible in fetched text (referenced as an image 'fee chart'); likely has a reduced/free student tier but unconfirmed.",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.wicys.org/"
+  ]
+ },
+ {
+  "id": "wisp-women-in-security-and-privacy",
+  "name": "WISP (Women in Security and Privacy)",
+  "platform": "portal",
+  "invite_url": "https://www.wisporg.com/connect",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: women; org: WISP; join: free-signup; scope: security. Site explicitly states 'no membership fees to join' and 'all are welcome.' No Slack/Discord found — the /connect page is the entry point (direct fetch of that page 404'd for us, but it was referenced from the homepage and in search results).",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.wisporg.com/"
+  ]
+ }
+]

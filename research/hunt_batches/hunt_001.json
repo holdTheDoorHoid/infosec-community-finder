@@ -1,0 +1,122 @@
+[
+ {
+  "name": "Whitehatters Computer Security Club (WCSC)",
+  "university": "University of South Florida",
+  "country": "US",
+  "city": "Tampa",
+  "website": "https://wcsc.myweb.usf.edu/",
+  "crawl": "unreachable",
+  "note": "Site unreachable via fetch (connection refused); known to use Discord per club announcements, link not confirmed.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Cyber Security Club at MSU",
+  "university": "Mississippi State University",
+  "country": "US",
+  "city": "Starkville",
+  "website": "https://msstate.campuslabs.com/engage/organization/cyberatmsu",
+  "crawl": "ok",
+  "note": "CampusLabs page renders client-side; needs a JS-capable crawl to extract social/Discord links.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Cybersecurity@FIU (student club)",
+  "university": "Florida International University",
+  "country": "US",
+  "city": "Miami",
+  "website": "https://cyber.fiu.edu/",
+  "crawl": "ok",
+  "note": "Official cybersecurity program site has no visible student-club chat link; check FIU's student org portal (PantherSync/Engage) for the actual club chapter.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "OWL Cyber Student Club",
+  "university": "Kennesaw State University",
+  "country": "US",
+  "city": "Kennesaw",
+  "website": "https://www.kennesaw.edu/cybersecurity/resources/student-activities/",
+  "crawl": "unreachable",
+  "note": "KSU also has an 'OffSec Discord' and a 'KSU Infosec Security Slack' per department resource page (URL now 404 in this pass); re-crawl the CyberInstitute resources page for current links.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "KU Information Security Club (KUISC / Jayhackers)",
+  "university": "University of Kansas",
+  "country": "US",
+  "city": "Lawrence",
+  "website": "https://kuisc.org/",
+  "crawl": "unreachable",
+  "note": "Site returned SSL handshake failure on fetch; also listed at rockchalkcentral.ku.edu/organization/KUISC. Discord confirmed to exist per club description but link not visible.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Cyber Defense Club (K-State CDC)",
+  "university": "Kansas State University",
+  "country": "US",
+  "city": "Manhattan",
+  "website": "https://orgcentral.k-state.edu/cyber/home/",
+  "crawl": "ok",
+  "note": "Only email contact (ksucdc@ksu.edu) found on org page; no chat link visible.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Cybersecurity Club",
+  "university": "University of Missouri-St. Louis (UMSL)",
+  "country": "US",
+  "city": "St. Louis",
+  "website": "https://www.umsl.edu/cmpsci/resources/cyber-club.html",
+  "crawl": "ok",
+  "note": "Page lists only a faculty adviser contact, no community chat link.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "NDSU Cybersecurity Student Association",
+  "university": "North Dakota State University",
+  "country": "US",
+  "city": "Fargo",
+  "website": "https://ndhack.club/ (also myndsu.ndsu.edu/organization/csa)",
+  "crawl": "unreachable",
+  "note": "Runs student-led lessons and hacking-competition teams; site is JS-rendered and would not fetch as text, no link retrieved.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "cyberCWRU",
+  "university": "Case Western Reserve University",
+  "country": "US",
+  "city": "Cleveland",
+  "website": "https://community.case.edu/cybercwru/home/",
+  "crawl": "ok",
+  "note": "Page lists social media (Instagram, Facebook, Twitter, LinkedIn, YouTube) and a contact form but no chat invite link.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Cyber Eagles",
+  "university": "Marquette University",
+  "country": "US",
+  "city": "Milwaukee",
+  "website": "https://www.marquette.edu/cyber-security/student-organization.php",
+  "crawl": "ok",
+  "note": "Reported to coordinate via Microsoft Teams rather than a public Discord/Slack; no public join link exists.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Women in Cybersecurity (WiCyS) Student Chapter",
+  "university": "Wichita State University",
+  "country": "US",
+  "city": "Wichita",
+  "website": "https://wichita.campuslabs.com/engage/organization/wicys",
+  "crawl": "ok",
+  "note": "Listed on ShockerSync student-org platform; no chat link surfaced.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Texas A&M Cybersecurity Club",
+  "university": "Texas A&M University",
+  "country": "US",
+  "city": "College Station",
+  "website": "https://cybr.club/",
+  "crawl": "unreachable",
+  "note": "Club states it uses Discord but link not published on public pages checked (cybr.club, getinvolved.tamu.edu/org/cybr).",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ }
+]

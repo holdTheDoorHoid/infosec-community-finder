@@ -1,0 +1,122 @@
+[
+ {
+  "name": "KMITL Cybersecurity Club",
+  "university": "King Mongkut's Institute of Technology Ladkrabang",
+  "country": "TH",
+  "city": "Bangkok",
+  "website": "https://kcsc.in.th/",
+  "crawl": "unreachable",
+  "note": "Domain did not resolve; site reported to be under construction.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Sunway Cybersecurity Club (CSC)",
+  "university": "Sunway University",
+  "country": "MY",
+  "city": "Petaling Jaya",
+  "website": "https://www.sunwaycybersecurityclub.org/",
+  "crawl": "ok",
+  "note": "Site listed Instagram/TikTok/LinkedIn/Luma/Google Form only; club is reported elsewhere to have a Discord but no invite link surfaced.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "BINUS Cyber Security Community (CSC)",
+  "university": "Bina Nusantara University",
+  "country": "ID",
+  "city": "Jakarta",
+  "website": "https://student-activity.binus.ac.id/csc/",
+  "crawl": "ok",
+  "note": "Only Instagram/YouTube/LinkedIn listed on fetched page.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "UTM Cyber X",
+  "university": "Universiti Teknologi Malaysia",
+  "country": "MY",
+  "city": "Johor Bahru",
+  "website": null,
+  "crawl": "no-site",
+  "note": "Only known via CTFtime team page (id 58474), which returned 403 on fetch; no separate club site found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "GDGoC APU CTF / FSEC-SS",
+  "university": "Asia Pacific University (APU)",
+  "country": "MY",
+  "city": "Kuala Lumpur",
+  "website": "https://apu-ctf.web.app/",
+  "crawl": "ok",
+  "note": "Page only showed a title, no links visible in fetched content.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "University of Melbourne Information Security Club (MISC)",
+  "university": "University of Melbourne",
+  "country": "AU",
+  "city": "Melbourne",
+  "website": "https://www.umisc.info/",
+  "crawl": "unreachable",
+  "note": "Primary site returned 403; Facebook page/about section also inaccessible via fetch.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Computing and Security Student Association (CASSA)",
+  "university": "Edith Cowan University",
+  "country": "AU",
+  "city": "Perth",
+  "website": "https://cassa.org.au/",
+  "crawl": "unreachable",
+  "note": "Domain did not resolve during this pass.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Swinburne Cyber Security Club (SCSC)",
+  "university": "Swinburne University of Technology",
+  "country": "AU",
+  "city": "Melbourne",
+  "website": "http://scsc.wtf",
+  "crawl": "unreachable",
+  "note": "Domain did not resolve during this pass.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Deadbeef Society",
+  "university": "University of Queensland",
+  "country": "AU",
+  "city": "Brisbane",
+  "website": "https://www.deadbeefsociety.com/",
+  "crawl": "ok",
+  "note": "Site redirects to what appears to be an expired/parked domain landing page (Porkbun).",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Latrobe University ISACA Student Group",
+  "university": "La Trobe University",
+  "country": "AU",
+  "city": "Melbourne",
+  "website": "https://www.latrobesu.org.au/Clubs/Cybersecurity/Pages/ISG",
+  "crawl": "unreachable",
+  "note": "Page returned 404 during this pass.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "MonSec (Monash Cyber Security Club)",
+  "university": "Monash University",
+  "country": "AU",
+  "city": "Melbourne",
+  "website": "https://monsec.io",
+  "crawl": "ok",
+  "note": "Homepage returned 403; /join page also 403; linktr.ee/monsec was for an unrelated 'MonSec Consultoria' profile, not this club.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "GISSIC (Grupo de Investigación en Seguridad de Sistemas de Información y Ciberseguridad)",
+  "university": "Universidad Tecnológica Nacional (UTN), Facultad Regional Córdoba",
+  "country": "AR",
+  "city": "Córdoba",
+  "website": "https://gissic.frc.utn.edu.ar/",
+  "crawl": "ok",
+  "note": "Runs annual HackLab CTF event for UTN students; no community chat link found on site.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "id": "mag-lab",
+  "name": "mag.lab",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#mag.lab:hackint.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in unknown location. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl). LindenstraÃe 14, 36037 Fulda, Germany",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://maglab.space",
+  "sources": [
+   "https://maglab.space"
+  ]
+ },
+ {
+  "id": "koyono",
+  "name": "økoyono",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23public:matrix.okoyono.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in unknown location. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl). ANX84, netcup colocation in the NorthC RZ, Nürnberg, Germany",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://okoyono.de/",
+  "sources": [
+   "https://okoyono.de/"
+  ]
+ }
+]

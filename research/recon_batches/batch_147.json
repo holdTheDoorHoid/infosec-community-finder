@@ -1,0 +1,122 @@
+[
+ {
+  "id": "c-base",
+  "name": "C-base",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#c-base:c-base.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Berlin, Berlin, Germany; ~550 members; founded 1995/08/20. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  == c-base == The c-base is the crashed spacestation in the center of Berlin. Nerds, SciFi-Fans and digital activists founded the society in 1995. Since that time they reconstruct the space station an",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://c-base.org/",
+  "sources": [
+   "https://c-base.org/"
+  ]
+ },
+ {
+  "id": "wak-lab",
+  "name": "WAK-Lab",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#wak-lab:im.kabi.tk",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Eisenach, Thuringia, Germany; ~25 members; founded 2019/12/18. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl). ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.wak-lab.org",
+  "sources": [
+   "https://www.wak-lab.org"
+  ]
+ },
+ {
+  "id": "makerspace-bratislava",
+  "name": "MakerSpace Bratislava",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/mmcTuwmn6t",
+  "discord_description": null,
+  "members": 52,
+  "online": 8,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "MakerSpace Bratislava",
+  "candidate_notes": "Hackerspace in Bratislava, Bratislava, Slovakia; ~50 members; founded 2025/03/03. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl). ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.msba.sk/"
+  ]
+ },
+ {
+  "id": "the-gamer-club-glasgow",
+  "name": "The Gamer Club Glasgow",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23thegamerclub:glasgow.social",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Glasgow, Scotland, United Kingdom; ~70 members; founded 2022/10/11. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  Glasgow's first 24/7 members club for gamers and geeks with 3D printing and electronics hackerspace. There are five rooms in the venue, the largest room has four large (and extendable) tables, with s",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.thegamerclub.co.uk",
+  "sources": [
+   "https://www.thegamerclub.co.uk"
+  ]
+ },
+ {
+  "id": "entit-t",
+  "name": "Entität",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/f4UHY7Xuq9",
+  "discord_description": null,
+  "members": 26,
+  "online": 1,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Entität",
+  "candidate_notes": "Hackerspace in Neubrandenburg, Mecklenburg-Vorpommern, Germany; ~15 members; founded 2014/01/13. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  The association \"Entität e.V.\" operates a hacker space with its premises in Neubrandenburg. It will be presented on these pages. The main purpose of the association is the operation of a hacker space",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://entitaet.org"
+  ]
+ },
+ {
+  "id": "kyiv-hackerspace-community",
+  "name": "Kyiv Hackerspace community",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/X93qAG2jH6",
+  "discord_description": null,
+  "members": 760,
+  "online": 71,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "NU31Hackerspace",
+  "candidate_notes": "Hackerspace in Kyiv, Kyiv, Ukraine; ~20 members; founded 2025/08/03. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  NU31 Hackerspace is a community-run organization located in the heart of Kyiv’s Podil district. Built around three core values — People, Community, and Technology — the hackerspace supports creative ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://nu31.space"
+  ]
+ }
+]

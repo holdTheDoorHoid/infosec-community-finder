@@ -1,0 +1,82 @@
+[
+ {
+  "id": "women-s-society-of-cyberjutsu",
+  "name": "Women's Society of Cyberjutsu",
+  "platform": "slack",
+  "invite_url": "https://womenscyberjutsu.org/page/JoinSlack",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: women; org: Women's Society of Cyberjutsu (WSC); join: free-signup; scope: security. Official Slack join page linked from womenscyberjutsu.org (found via search result titled 'slack, cyberjutsu, women in cyber'). WebFetch got HTTP 403 on the page itself so exact signup mechanics (free vs. membership-gated) could not be fully verified from content; the URL is the org's own dedicated join-",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://womenscyberjutsu.org/page/JoinSlack"
+  ]
+ },
+ {
+  "id": "colorstack",
+  "name": "ColorStack",
+  "platform": "slack",
+  "invite_url": "https://join.slack.com/share/enQtMzA4MzE0NDkzNTg1OS03ZGUwZTgwZTMwZDRjMTgyYjM4ZDY3MzljYmQyNjc1MThjZTUyZDk0MTEwN2NkY2JkMzQ4MGNmZDBmMzVjY2Nl",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: bipoc; org: ColorStack; join: free-signup; scope: tech-with-security-channel. Community for Black and Latinx computer science students (3,000+ members). Their Slack has a dedicated #career-cybersecurity channel per the community wiki. Join link is a Slack share-invite found via search; could not confirm it on colorstack.org directly (site did not surface a direct signup URL to WebFetch).",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://wiki.colorstack.org/the-colorstack-family/community/all-things-slack/slack-channels"
+  ]
+ },
+ {
+  "id": "operation-code",
+  "name": "Operation Code",
+  "platform": "slack",
+  "invite_url": "https://www.operationcode.org/join",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: veterans; org: Operation Code; join: free-signup; scope: tech-with-security-channel. Largest community of military veterans, service members, and spouses (plus allied SIV refugees) becoming software developers, with mentors and scholarships. General software-dev/tech-career focus rather than security-specific, though members include those on security tracks; free signup with email/name/z",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.operationcode.org/get_involved"
+  ]
+ },
+ {
+  "id": "inforge-forum",
+  "name": "Inforge Forum",
+  "platform": "forum",
+  "invite_url": "https://www.inforge.net/forum",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: non-english; org: Inforge.net; join: free-signup; scope: security. Largest Italian tech forum community (founded 2007) with a dedicated Sicurezza Informatica (cybersecurity/ethical hacking) section; registration is free and not required to browse most content. Also has a Telegram channel (t.me/inforge) which is out of scope.",
+  "category_hints": [
+   "general"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.inforge.net/forum/forums/sicurezza-informatica.434/"
+  ]
+ }
+]

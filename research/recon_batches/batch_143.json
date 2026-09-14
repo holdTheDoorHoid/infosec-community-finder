@@ -1,0 +1,62 @@
+[
+ {
+  "id": "elhacker-net-foro",
+  "name": "elhacker.NET Foro",
+  "platform": "forum",
+  "invite_url": "https://foro.elhacker.net",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: non-english; org: elhacker.net; join: free-signup; scope: security. Long-running Spanish-language hacking/security forum, 331k+ registered users, open free registration. No Discord server visible on the homepage; they instead run Telegram (t.me/elhackerdotnet), Mastodon (infosec.exchange/@elhackernet) and a Facebook group, but Telegram is out of scope per instructions.",
+  "category_hints": [
+   "general"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.elhacker.net"
+  ]
+ },
+ {
+  "id": "kanxue-security-forum",
+  "name": "Kanxue (看雪) Security Forum",
+  "platform": "forum",
+  "invite_url": "https://bbs.kanxue.com",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: non-english; org: bbs.kanxue.com; join: free-signup; scope: security. Major Chinese reverse-engineering / software security forum founded 2000, sections for reverse engineering, Android/iOS security, CTF, etc. Site blocked direct WebFetch (403), so registration flow and any QQ-group link could not be visually confirmed — based on search-result description only.",
+  "category_hints": [
+   "general"
+  ],
+  "website": null,
+  "sources": [
+   "https://bbs.kanxue.com/homepage"
+  ]
+ },
+ {
+  "id": "hackplayers-foro",
+  "name": "Hackplayers Foro",
+  "platform": "forum",
+  "invite_url": "https://foro.hackplayers.com",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: non-english; org: Hackplayers; join: free-signup; scope: security. Spanish-language hacking/security research community founded 2009 in Madrid; runs its own forum plus a Telegram channel (t.me/hackplayers, out of scope). Could not directly WebFetch the forum (DNS resolution failed from this environment) so the join flow is unverified first-hand.",
+  "category_hints": [
+   "general"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.hackplayers.com/2017/01/nuevo-foro-de-hackplayers.html"
+  ]
+ }
+]

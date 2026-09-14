@@ -1,0 +1,122 @@
+[
+ {
+  "id": "nobreakspace",
+  "name": "Nobreakspace",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#nbsp-community:matrix.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Lübeck, Schleswig-Holstein, Germany; ~72 members; founded 2012/03/20. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  == General == The Nobreakspace, ''nbsp'' for short, is the central meeting point for all hackers in Lübeck, Germany. Located near the city center, right next to the main station, it is the home to ma",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.chaotikum.org/",
+  "sources": [
+   "https://www.chaotikum.org/"
+  ]
+ },
+ {
+  "id": "uk-hackspace",
+  "name": "UK Hackspace",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/bvYrEGzyaC",
+  "discord_description": null,
+  "members": 151,
+  "online": 39,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "York Hackspace",
+  "candidate_notes": "Hackerspace in York, Yorkshire, United Kingdom; ~>30 members; founded 2011-09-16. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  York Hackspace is an established hackspace in York, UK, and with members from in and around York. We have our own space with facilities for electronics, woodwork and crafts amongs other things, and a",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://york.hackspace.org.uk/"
+  ]
+ },
+ {
+  "id": "chaostreff-backnang",
+  "name": "Chaostreff Backnang",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23chaostreff-bk:ctbk.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Backnang, Baden-Württemberg, Germany; ~33 members; founded 2019/01/27. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  Wir sind der '''Chaostreff Backnang''' und treffen uns an jedem 3. Sonntag des Monats zum Erfahrungsaustausch und der gemeinsamen Umsetzung von Projekten im dasWohnzimmer (Willy-Brandt-Platz 2) in Ba",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://ctbk.de",
+  "sources": [
+   "https://ctbk.de"
+  ]
+ },
+ {
+  "id": "fablabc",
+  "name": "Fablabc",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23hallo:matrix.fablabchemnitz.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Chemnitz, Saxony, Germany; ~45 members; founded 2016/01/13. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  Fablab Chemnitz is the main project of Stadtfabrikanten e.V. Our goal is to encourage people to work together on projects, ideas and innovations. For this purpose, we create and share knowledge about",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://stadtfabrikanten.org",
+  "sources": [
+   "https://stadtfabrikanten.org"
+  ]
+ },
+ {
+  "id": "foulab",
+  "name": "FOULAB",
+  "platform": "irc",
+  "invite_url": "irc://'''#foulab''' @libera",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Montreal, Quebec, Canada; ~17 members; founded 2008/07/18. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  Foulab is a non-profit organization that aims to provide a collaborative and well-equipped environment that allows its users to explore new technologies while sharing knowledge and ideas. Our funding",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://foulab.org/",
+  "sources": [
+   "https://foulab.org/"
+  ]
+ },
+ {
+  "id": "entropia",
+  "name": "Entropia",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#entropia:entropia.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Karlsruhe, Baden-Württemberg, Germany; ~140 members; founded 2001/05/17. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  {| | [[Image:Entropia-reverse-engineer.jpg|thumb|left|200px|Entropian reverse-engineering an ancient LED panel]] [[Image:Entropia-likes-everything.jpg|thumb|right|200px|We like everything.]] '''Entro",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://entropia.de/",
+  "sources": [
+   "https://entropia.de/"
+  ]
+ }
+]

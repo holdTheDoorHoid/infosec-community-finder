@@ -1,0 +1,122 @@
+[
+ {
+  "name": "McMaster Cyber Society",
+  "university": "McMaster University",
+  "country": "CA",
+  "city": "Hamilton",
+  "website": "https://msumcmaster.ca/initiative/mcmaster-cyber-society/",
+  "crawl": "ok",
+  "note": "MSU-recognized club (email cybersoc@mcmaster.ca); news coverage says it began as a Discord channel and the club has Instagram/Discord, but no invite link was found on the MSU page or in search snippet",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "CyberGryph",
+  "university": "University of Guelph",
+  "country": "CA",
+  "city": "Guelph",
+  "website": null,
+  "crawl": "no-site",
+  "note": "University of Guelph's WiCyS chapter, announced Feb 2023 via news.uoguelph.ca; as of that article the club's website was still \"under way\" with no link yet published. Worth a fresh search for a curren",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Cardiff CyberSoc",
+  "university": "Cardiff University",
+  "country": "GB",
+  "city": "Cardiff",
+  "website": "https://cardiffcybersoc.com",
+  "crawl": "unreachable",
+  "note": "Domain did not resolve on fetch (DNS failure); an ACE-CSE gold-award university, likely has an active society worth a later crawl attempt or fresh domain lookup.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Sheffield Ethical Student Hackers (ShefESH)",
+  "university": "University of Sheffield",
+  "country": "GB",
+  "city": "Sheffield",
+  "website": "https://shefesh.com",
+  "crawl": "unreachable",
+  "note": "Site mentions a Discord for members but the invite URL is not exposed in fetchable page text (site returned 403 on contact page); check shefesh.com/contact or Discord widget.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Glasgow University Hacking Society (GUHacksoc)",
+  "university": "University of Glasgow",
+  "country": "GB",
+  "city": "Glasgow",
+  "website": "https://guhacksoc.com",
+  "crawl": "ok",
+  "note": "Site is a placeholder ('real content coming soon'); Instagram @guhacksoc and SRC org page found but no Discord link surfaced yet.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Bournemouth Computer & Security Society",
+  "university": "Bournemouth University",
+  "country": "GB",
+  "city": "Bournemouth",
+  "website": "https://subu.org.uk",
+  "crawl": "ok",
+  "note": "Listed in the ENUSEC directory with SU website but exact activity page URL 404'd; needs a fresh SU search.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Cardiff Met Cyber Society",
+  "university": "Cardiff Metropolitan University",
+  "country": "GB",
+  "city": "Cardiff",
+  "website": "https://cardiffmetsu.co.uk",
+  "crawl": "ok",
+  "note": "Listed in ENUSEC directory; exact SU activity page URL guessed and 404'd.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Cyber Security Society (University of South Wales)",
+  "university": "University of South Wales",
+  "country": "GB",
+  "city": "Pontypridd",
+  "website": "https://uswsu.com",
+  "crawl": "ok",
+  "note": "Listed in ENUSEC directory; exact SU activity page URL guessed and 404'd.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Ethical Hackers",
+  "university": "University of Greenwich",
+  "country": "GB",
+  "city": "London",
+  "website": "https://greenwichsu.co.uk",
+  "crawl": "ok",
+  "note": "SU page states this society is 'no longer active' - likely defunct, confirm before crawling further.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "QUB Cyber Sec",
+  "university": "Queen's University Belfast",
+  "country": "GB",
+  "city": "Belfast",
+  "website": "https://q-su.org",
+  "crawl": "ok",
+  "note": "SU page (q-su.org/clubssocieties/cybersecuritysociety) returned 403 to automated fetch.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Leeds Hacking Society",
+  "university": "Leeds Beckett University",
+  "country": "GB",
+  "city": "Leeds",
+  "website": "https://leedsbeckettsu.co.uk",
+  "crawl": "ok",
+  "note": "Listed in ENUSEC directory; exact SU activity page URL guessed and 404'd.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Teeside Net Society",
+  "university": "Teesside University",
+  "country": "GB",
+  "city": "Middlesbrough",
+  "website": "https://tees-su.org.uk",
+  "crawl": "ok",
+  "note": "Listed in ENUSEC directory (also has a Facebook group); exact SU activity page URL guessed and 404'd.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ }
+]

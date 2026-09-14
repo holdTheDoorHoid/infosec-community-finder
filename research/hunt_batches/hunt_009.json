@@ -1,0 +1,122 @@
+[
+ {
+  "name": "Cyber Security Laboratory, ACE",
+  "university": "Obafemi Awolowo University (OAU)",
+  "country": "NG",
+  "city": "Ile-Ife",
+  "website": "http://cslab.oauife.edu.ng/",
+  "crawl": "ok",
+  "note": "African Center of Excellence cybersecurity lab/club; no chat community link found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Technion CTF Group",
+  "university": "Technion – Israel Institute of Technology",
+  "country": "IL",
+  "city": "Haifa",
+  "website": "https://cyber.technion.ac.il/",
+  "crawl": "ok",
+  "note": "University CTF group referenced on Technion cyber center site; no public invite link found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "UCT Cybersecurity Student Society (via C3SA)",
+  "university": "University of Cape Town (UCT)",
+  "country": "ZA",
+  "city": "Cape Town",
+  "website": "https://c3sa.uct.ac.za/",
+  "crawl": "ok",
+  "note": "Non-profit student society bridging academia/industry mentorships; no chat link found on C3SA hub page.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "PumaHat",
+  "university": "Universidad Nacional Autónoma de México (UNAM)",
+  "country": "MX",
+  "city": "Mexico City",
+  "website": null,
+  "crawl": "no-site",
+  "note": "3rd place, HackDef 2021 student category; appears to be a competition CTF team without a standing public site/community found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "OSIRIS Lab (NYU) / NYUSEC",
+  "university": null,
+  "country": null,
+  "city": null,
+  "website": "https://osiris.cyber.nyu.edu/",
+  "crawl": "expired-invite",
+  "note": "Previously found invite osirislab is dead (Unknown Invite). Source: https://osiris.cyber.nyu.edu/",
+  "task": "find a CURRENT public invite for this club (the one on its site/GitHub expired); check Linktree, Instagram bio, university org portal, GitHub org profile, CTFtime team page"
+ },
+ {
+  "name": "APIsec University",
+  "university": null,
+  "country": null,
+  "city": null,
+  "website": "https://discord.com/servers?query=bug+bounty",
+  "crawl": "expired-invite",
+  "note": "Previously found invite  is None (None). Source: https://discord.com/servers?query=bug+bounty",
+  "task": "find a CURRENT public invite for this club (the one on its site/GitHub expired); check Linktree, Instagram bio, university org portal, GitHub org profile, CTFtime team page"
+ },
+ {
+  "name": "NYUSEC / OSIRIS Lab",
+  "university": null,
+  "country": null,
+  "city": null,
+  "website": "https://discord.com/invite/osirislab",
+  "crawl": "expired-invite",
+  "note": "Previously found invite osirislab is dead (Unknown Invite). Source: https://discord.com/invite/osirislab",
+  "task": "find a CURRENT public invite for this club (the one on its site/GitHub expired); check Linktree, Instagram bio, university org portal, GitHub org profile, CTFtime team page"
+ },
+ {
+  "name": "University of Delaware Capture the Flag / Cybersecurity Club",
+  "university": null,
+  "country": null,
+  "city": null,
+  "website": "https://www.cis.udel.edu/academics/undergraduate-programs/cis-student-clubs/",
+  "crawl": "expired-invite",
+  "note": "Previously found invite xEEuXVR is dead (Invite is expired.). Source: https://www.cis.udel.edu/academics/undergraduate-programs/cis-student-clubs/",
+  "task": "find a CURRENT public invite for this club (the one on its site/GitHub expired); check Linktree, Instagram bio, university org portal, GitHub org profile, CTFtime team page"
+ },
+ {
+  "name": "Society for Cybersecurity (SCS) at UGA",
+  "university": null,
+  "country": null,
+  "city": null,
+  "website": "https://www.ugascs.org/",
+  "crawl": "expired-invite",
+  "note": "Previously found invite ffFXDBcs7V is dead (Invite is expired.). Source: https://www.ugascs.org/",
+  "task": "find a CURRENT public invite for this club (the one on its site/GitHub expired); check Linktree, Instagram bio, university org portal, GitHub org profile, CTFtime team page"
+ },
+ {
+  "name": "Ntropy (UNC Chapel Hill)",
+  "university": null,
+  "country": null,
+  "city": null,
+  "website": "https://ntropy-unc.github.io/",
+  "crawl": "expired-invite",
+  "note": "Previously found invite YjfgCz796g is dead (Invite is expired.). Source: https://ntropy-unc.github.io/",
+  "task": "find a CURRENT public invite for this club (the one on its site/GitHub expired); check Linktree, Instagram bio, university org portal, GitHub org profile, CTFtime team page"
+ },
+ {
+  "name": "Clemson Cyber",
+  "university": null,
+  "country": null,
+  "city": null,
+  "website": "https://cucyber.net/",
+  "crawl": "expired-invite",
+  "note": "Previously found invite f7ZcC7z is dead (Invite is expired.). Source: https://cucyber.net/",
+  "task": "find a CURRENT public invite for this club (the one on its site/GitHub expired); check Linktree, Instagram bio, university org portal, GitHub org profile, CTFtime team page"
+ },
+ {
+  "name": "WolvSec — University of Michigan",
+  "university": null,
+  "country": null,
+  "city": null,
+  "website": "https://wolvsec.org/",
+  "crawl": "expired-invite",
+  "note": "Previously found invite JND8QNRbSY is dead (Invite is expired.). Source: https://wolvsec.org/",
+  "task": "find a CURRENT public invite for this club (the one on its site/GitHub expired); check Linktree, Instagram bio, university org portal, GitHub org profile, CTFtime team page"
+ }
+]

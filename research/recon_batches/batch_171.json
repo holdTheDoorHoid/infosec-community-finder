@@ -1,0 +1,122 @@
+[
+ {
+  "id": "hacklab-kuopio-halko",
+  "name": "Hacklab Kuopio - HaLKo",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/FzJMbnjKT4",
+  "discord_description": null,
+  "members": 187,
+  "online": 45,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Kuopio Hacklab",
+  "candidate_notes": "Hackerspace in Kuopio, Northern Savonia, Finland; founded 2015/08/06. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Kuopio Hacklab has a lab space in Kaivokatu 38. It's located in Särkiniemi, 4km from the city center and is easily reachable by public transport We are currently looking for new members. If you are i",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://halko.fi/"
+  ]
+ },
+ {
+  "id": "leigh-hackspace",
+  "name": "Leigh Hackspace",
+  "platform": "slack",
+  "invite_url": "https://join.slack.com/t/leighhack/shared_invite/enQtNDYzMjEyMDMxNDExLTE1MWY5N2IwMzdhMzQ0ZWFiNDkyNzJmMGM1ZmFkODcwMGM5ODFmYmI4MjhmM2JiMWEyY2E3NTRjMTQzMzljZWU",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Leigh, United Kingdom, United Kingdom; ~25 members; founded 2014. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  '''Leigh Hackspace''' is a non-profit CIC hackspace operated in Leigh, Greater Manchester. Currently on its 4rd iteration, it initially formed as a online only group but was quickly able to lease a s",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.leighhack.org/",
+  "sources": [
+   "https://www.leighhack.org/"
+  ]
+ },
+ {
+  "id": "ackspace",
+  "name": "ACKspace",
+  "platform": "irc",
+  "invite_url": "ircs://irc.libera.chat:6697/ackspace",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Heerlen, Limburg, Netherlands; ~15 members; founded 2010/08/27. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  Our hackerspace is located in Heerlen, The Netherlands where we found a great location in the centre of Heerlen with 24/7 access. Since august 30th 2014, we moved back to Kloosterweg 1 into Carbon6 (",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://ackspace.nl/",
+  "sources": [
+   "https://ackspace.nl/"
+  ]
+ },
+ {
+  "id": "bytespeicher",
+  "name": "Bytespeicher",
+  "platform": "irc",
+  "invite_url": "irc://irc.hackint.eu/bytespeicher",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Erfurt, Thuringia, Germany; ~35 members; founded 2013/05/01. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  In 2013 some people are planning a hackerspace in Erfurt. We found an official club and build our first space with two small rooms in student populated area. In 2014 we'll changed our name to Bytespe",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://technikkultur-erfurt.de/start",
+  "sources": [
+   "http://technikkultur-erfurt.de/start"
+  ]
+ },
+ {
+  "id": "south-london-makerspace",
+  "name": "South London Makerspace",
+  "platform": "forum",
+  "invite_url": "http://discourse.southlondonmakerspace.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in London, London, United Kingdom; ~340 members; founded 2012/10/25. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  South London Makerspace is a social community workshop, run by our members who pay a small monthly fee to keep the space open for working on personal projects. We have a railway arch two minutes walk",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://southlondonmakerspace.org",
+  "sources": [
+   "http://southlondonmakerspace.org"
+  ]
+ },
+ {
+  "id": "chaostreff-klaus",
+  "name": "Chaostreff Klaus",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23chaostreffvlbg:matrix.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Klaus, Vorarlberg, Vorarlberg, Austria; founded September 2021. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  Der Chaostreff Klaus trifft sich im Open-Lab in Klaus Mittwochs von 16 - 20 Uhr. Jewesen ist bei uns im Space willkommen. The Chaostreff Klaus meets in the Room of Open-Lab every Wednesday 16 - 20h. ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://open-lab.at/",
+  "sources": [
+   "https://open-lab.at/"
+  ]
+ }
+]

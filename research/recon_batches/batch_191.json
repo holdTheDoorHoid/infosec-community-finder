@@ -1,0 +1,82 @@
+[
+ {
+  "id": "risc",
+  "name": "RISC",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/heGeEbpbyT",
+  "discord_description": null,
+  "members": 1089,
+  "online": 134,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "RMIT Information Security Collective (RISC)",
+  "candidate_notes": "University club at RMIT University (Melbourne, AU). Discord link found on the club's official Linktree (linked from its Instagram bio).",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://linktr.ee/rmit_risc"
+  ]
+ },
+ {
+  "id": "deakin-information-security-club-disc",
+  "name": "Deakin Information Security Club (DISC)",
+  "platform": "slack",
+  "invite_url": "https://join.slack.com/t/discclub/signup",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "University club at Deakin University (Melbourne, AU). Slack signup link listed alongside club website and email in their Facebook group description.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": "https://www.deakininfosec.com.au/",
+  "sources": [
+   "https://www.facebook.com/groups/DeakinInfoSecClub/"
+  ]
+ },
+ {
+  "id": "cibersecuni-htb-meetup-lima-pe",
+  "name": "CiberSecUNI - HTB Meetup Lima, PE",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/TMcuhvcMkD",
+  "discord_description": null,
+  "members": 1107,
+  "online": 39,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CiberSecUNI",
+  "candidate_notes": "University club at Universidad Nacional de Ingeniería (UNI) (Lima, PE). Official partner of HackTheBox; organizes HTB Meetup Lima. Discord link found in the site's contact/footer section.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://cibersecuni.org/"
+  ]
+ },
+ {
+  "id": "cyber-security-club-uttara-university",
+  "name": "Cyber Security Club, Uttara University",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/N83SjBHjzG",
+  "discord_description": null,
+  "members": 167,
+  "online": 11,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cyber Security Club, Uttara University",
+  "candidate_notes": "University club at Uttara University (Dhaka, BD). Motto \"Hunt Together, Defend Together\"; runs CTFs and CyberCon25. Discord link on official club site.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://cybersecurity.club.uttara.ac.bd/"
+  ]
+ }
+]

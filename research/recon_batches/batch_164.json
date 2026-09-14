@@ -1,0 +1,122 @@
+[
+ {
+  "id": "labaixbidouille",
+  "name": "Labaixbidouille",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/RTgr5sWEhW",
+  "discord_description": "Serveur discord dédié aux activités, permanences et soirées du fablab associatif et collaboratif L.A.B basé à Aix-en-Provence",
+  "members": 34,
+  "online": 8,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Laboratoire d'Aix-périmentation et de Bidouille",
+  "candidate_notes": "Hackerspace in Aix-en-Provence, Provence-Alpes-Côte d'Azur, France; ~100 members; founded 2011/12/06. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  ===Qui sommes nous ?=== Le L.A.B (Laboratoire d’Aix-périmentation et de Bidouille) a pour objectif de favoriser l’émergence d’un espace collaboratif et communautaire d’échange technologique à Aix-en-",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "http://www.labaixbidouille.com/"
+  ]
+ },
+ {
+  "id": "metalab",
+  "name": "Metalab",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23metalab:fairydust.space",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Vienna, Vienna, Austria; ~168 members; founded 2006/04/01. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  {| | [[Image:Metalab entrance.jpg|thumb|left|200px|Entrance of the metalab]] The '''Metalab''' is a 222sqm non-profit hackerspace in Vienna's first district - right next to the vienna city hall. It o",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://metalab.at/",
+  "sources": [
+   "https://metalab.at/"
+  ]
+ },
+ {
+  "id": "wizards-of-dos",
+  "name": "Wizards of Dos",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/NnE9XYunyA",
+  "discord_description": null,
+  "members": 43,
+  "online": 9,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CCC Darmstadt",
+  "candidate_notes": "Hackerspace in Darmstadt, Hessen, Germany; ~88 members; founded 2006/05/23. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  __NOTOC__ ==chaos, chaos== {| border=\"0\" |[[Image:CDA-Logo.gif]] | Chaos Darmstadt is the local incarnation of the Chaos in Darmstadt. We are a bunch of people who engage themselves in hacking, hardw",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.chaos-darmstadt.de"
+  ]
+ },
+ {
+  "id": "ccc-mainz",
+  "name": "CCC Mainz",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23Lobby%3Acccwi.de?via=cccwi.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Wiesbaden, Hessen, Germany; ~52 members; founded 2003/10/23. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  [[Image:2704043558_a49ea26d84.jpg|thumb|left|250px|Main room (the former location)]] [[Image:2703068869_985879813e.jpg|thumb|left|250px|Desk (the former location)]] [[Image:Mzwi.jpeg|thumb|left|250px",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.cccwi.de/",
+  "sources": [
+   "https://www.cccwi.de/"
+  ]
+ },
+ {
+  "id": "warsaw-hackerspace-2",
+  "name": "Warsaw Hackerspace",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#spotorg:hackerspace.pl",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Warsaw, Masovia, Poland; ~130 members; founded 2011/01/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  [[Image:HSWAW_Panorama.jpg|thumb|left|400px|Panorama of Warsaw Hackerspace]] [[Image:WAW-workshop.jpg|thumb|left|200px|Small workshop room in HSWAW]] [[Image:WAW-rack.jpg|thumb|left|200px|Our humble ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://hackerspace.pl",
+  "sources": [
+   "http://hackerspace.pl"
+  ]
+ },
+ {
+  "id": "breizh-entropy",
+  "name": "Breizh Entropy",
+  "platform": "irc",
+  "invite_url": "ircs://irc.libera.chat/#breizh-entropy",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Rennes, Brittany, France; ~~20 members; founded 2010/10/01. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  = Breizh Entropy = [http://breizh-entropy.org Breizh Entropy] is the hacker space which emerged from the [[Breizh Entropy Congress|Breizh Entropy Congress (BEC)]]. Like all other spaces, we intend to",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://breizh-entropy.org/",
+  "sources": [
+   "https://breizh-entropy.org/"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "computerclub-itzehoe",
+  "name": "ComputerClub Itzehoe",
+  "platform": "irc",
+  "invite_url": "ircs://irc.hackint.org:9999/#cciz",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Itzehoe, Schleswig-Holstein, Germany; ~25 members; founded 2001/03/15. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  Der ChomputerClub Itzehoe e.V. trifft sich regelmäßig jeden Donnerstag ab 19 Uhr im Clubhaus des Itzehoer Hockeyclubs (IHC). <!--- Checked by mappall.space bot. ** Space ComputerClub Itzehoe Last mod",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.cciz.de",
+  "sources": [
+   "https://www.cciz.de"
+  ]
+ },
+ {
+  "id": "hackerspace-tr-jmiasto-hs3",
+  "name": "Hackerspace Trójmiasto (HS3)",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/GSTgYzU",
+  "discord_description": null,
+  "members": 1237,
+  "online": 160,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Tricity Hackerspace",
+  "candidate_notes": "Hackerspace in Gdansk, Pomerania, Poland; ~40 members; founded 2016/08/03. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  <!--- still active (corona message) checed by zeno on 2020-05-04 ---> <!--- Checked by mappall.space bot. Updated manual via http://mapall.space/hswikilist.php --> <!--- Checked by mappall.space bot.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "http://hs3.pl/"
+  ]
+ },
+ {
+  "id": "opennet-frieda23",
+  "name": "Opennet - Frieda23",
+  "platform": "irc",
+  "invite_url": "https://irc.opennet-initiative.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Rostock, Mecklenburg-Vorpommern, Germany; ~20 members; founded 2007/08/01. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  <!-- Checked by mapall.space bot on 2020-04-28 02:31. --> <!--- Checked by mappall.space bot. ** Space Opennet - Frieda23 Last modified on wiki 2020-04-28 - days 399 ago ** https://wiki.hackerspaces.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.opennet-initiative.de/",
+  "sources": [
+   "https://www.opennet-initiative.de/"
+  ]
+ },
+ {
+  "id": "horten-folkeverksted",
+  "name": "Horten Folkeverksted",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/4jqhmEE69K",
+  "discord_description": "Horten folkeverksted et makerspace i Horten.",
+  "members": 145,
+  "online": 27,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Horten Folkeverksted",
+  "candidate_notes": "Hackerspace in Horten, Vestfold, Norway; ~70 members; founded 2017/02/06. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  == KORT OM HORTEN FOLKEVERKSTED == Vi er et makerspace, også kalt skaperverksted på norsk. Forestill deg en klassisk sløydsal, men også med 3d-printere, elektronikk, fres og laserkutter. Hos oss er d",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://folkeverkstedet.com"
+  ]
+ },
+ {
+  "id": "halifax-makerspace",
+  "name": "Halifax Makerspace",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/eZcQ74wNBW",
+  "discord_description": null,
+  "members": 213,
+  "online": 29,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Halifax Maker Space",
+  "candidate_notes": "Hackerspace in Halifax, Nova Scotia, Canada; ~20 members; founded 2012/08/06. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Halifax Makerspace is the name of a hackerspace in Halifax, NS. == Current Status == The group recently moved into a new space in Bedford, at 275 Rocky Lake Dr. This is the third physical space for t",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "http://halifaxmakerspace.org/"
+  ]
+ },
+ {
+  "id": "hobart-makers",
+  "name": "Hobart Makers",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/CsTrgVt7BS",
+  "discord_description": null,
+  "members": 69,
+  "online": 8,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Hobart Makers",
+  "candidate_notes": "Hackerspace in Hobart, Tasmania, Australia; ~10 members; founded 2017/01/21. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  We are a group of people that love making things. We are based in Hobart, Tasmania and we welcome people of any age, gender, skill level and from any background. We are run by a team of four (Leo, Cr",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "http://hobartmakers.com"
+  ]
+ }
+]

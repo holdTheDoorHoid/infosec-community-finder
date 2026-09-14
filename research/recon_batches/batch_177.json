@@ -1,0 +1,122 @@
+[
+ {
+  "id": "sensorica",
+  "name": "Sensorica",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/WtagUqjKnj",
+  "discord_description": "Discussion space for Sensorica affiliates.",
+  "members": 398,
+  "online": 25,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Sensorica",
+  "candidate_notes": "Hackerspace in Montreal, Quebec, Canada; ~50 members; founded 2011/02/11. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  A stigmergic environment for synergistic open innovation. Individuals and organizations use this environment to set in motion and contribute to crowd-based economic processes. They create or contribu",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.sensorica.co"
+  ]
+ },
+ {
+  "id": "shl-hackerspace",
+  "name": "SHL Hackerspace",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/27GfdV4Jd9",
+  "discord_description": "SHL (Share.Hack.Learn) is a distributed community hackerspace promoting hacking, tinkering, knowledge sharing, and serendipitous innovation.",
+  "members": 327,
+  "online": 48,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "SHL // Sophia Hack Lab",
+  "candidate_notes": "Hackerspace in Sophia Antipolis, Alpes Maritimes, France; ~60 members; founded 2023/01/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.shl.contact"
+  ]
+ },
+ {
+  "id": "cerkinfo",
+  "name": "Cerkinfo",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/CNbfeXm2HN",
+  "discord_description": null,
+  "members": 615,
+  "online": 74,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UrLab",
+  "candidate_notes": "Hackerspace in Brussels, Brussels, Belgium; ~~20 members; founded 2012/03/29. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  UrLab is the hackerspace of the Université Libre de Bruxelles. It was founded in the beginning of 2012 by students of many different backgrounds with the idea of bringing the hacker culture to their ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://urlab.be/"
+  ]
+ },
+ {
+  "id": "surrey-hampshire-makerspace",
+  "name": "Surrey Hampshire Makerspace",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/myazAtg",
+  "discord_description": null,
+  "members": 52,
+  "online": 6,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Surrey and Hampshire Makerspace",
+  "candidate_notes": "Hackerspace in Guildford, Surrey, United Kingdom; ~26 members; founded 2012/05/05. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  <!--- Checked by mappall.space bot. ** Space Surrey and Hampshire Makerspace Last modified on wiki 2019-07-08 - days 511 ago ** https://wiki.hackerspaces.org/Surrey_and_Hampshire_Makerspace Url = htt",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.shmakerspace.org/"
+  ]
+ },
+ {
+  "id": "kika",
+  "name": "KIKA",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23spodeli:spodeli.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Skopje, Macedonia; ~15 members; founded 2009/09/09. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  == About == КИКА значи: Кика е Информации, Култура, Автономија (KIKA means: Kika is Information, Kulture, Autonomy) In KIKA you can meet the local Python, Ruby, GNU/Linux and Free Software communitie",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://blog.spodeli.org/",
+  "sources": [
+   "http://blog.spodeli.org/"
+  ]
+ },
+ {
+  "id": "greeklug",
+  "name": "GreekLUG",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23ellak:matrix.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Thessaloniki, Central Macedonia, Greece; ~60 members; founded 2007-05-21. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  == Beginning == The Greek Linux User Group (GreekLUG) is a FOSS space in Thessaloniki, Greece. The community first gathered on the 21st of May 2007, the starting day of the 1st Biennale of Contempora",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://www.greeklug.gr",
+  "sources": [
+   "http://www.greeklug.gr"
+  ]
+ }
+]

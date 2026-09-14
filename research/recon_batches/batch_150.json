@@ -1,0 +1,122 @@
+[
+ {
+  "id": "hackforge",
+  "name": "Hackforge",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/f4CZXNUZNC",
+  "discord_description": "Windsor Hackforge is your friendly neighbourhood tech non-profit!We serve Windsor and Essex County, Ontario, Canada.",
+  "members": 532,
+  "online": 55,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Windsor Hackforge",
+  "candidate_notes": "Hackerspace in Windsor, Ontario, Canada; ~30 members; founded 2012/08/29. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  A member-driven organization, Hackforge hosts in-person and online events and workshops for beginners, professionals, and hobbyists. We are an inclusive organization with new initiatives happening re",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "http://hackf.org/"
+  ]
+ },
+ {
+  "id": "haum",
+  "name": "HAUM",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23haum:matrix.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Le Mans, Pays de la Loire, France; ~41 members; founded 2011/10/31. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  HAUM is a hackerspace located in Le Mans (France) and hosted next to the railway station in the Le Mans Innovation coworking place. The HAUM state (open or closed) can be found on [https://haum.org/s",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://haum.org",
+  "sources": [
+   "https://haum.org"
+  ]
+ },
+ {
+  "id": "maschinendeck",
+  "name": "Maschinendeck",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/e5xYxA8",
+  "discord_description": null,
+  "members": 206,
+  "online": 31,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Maschinendeck",
+  "candidate_notes": "Hackerspace in Trier, Rhineland-Palatinate, Germany; founded 2014/07/23. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  When we founded the Maschinendeck e.V., our goal was to establish a place in Trier that can be a home for all kind of nerd culture. No matter if you want to code, solder, roast coffee, play board gam",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "http://www.maschinendeck.org"
+  ]
+ },
+ {
+  "id": "werkraum",
+  "name": "WerkRaum",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#werkraum-space:fairydust.space",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Zittau, Saxony, Germany; ~15 members; founded 2014-05-23. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Der Polytechnische Werkraum Zittau ist eine offene Werkstatt und Hackerspace. Offene Treffen finden jeden Dienstag ab 16:00 Uhr statt. Nähere Details auch unter [[WerkRaum-Treffen]] <!--- Checked by ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://werkraum.freiraumzittau.de/",
+  "sources": [
+   "http://werkraum.freiraumzittau.de/"
+  ]
+ },
+ {
+  "id": "syn2cat",
+  "name": "Syn2cat",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23hackerspace:matrix.opencloud.lu",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Differdange, Luxembourg, Luxembourg; ~~ 52 members; founded 2008/08/26. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  We are located in Differdange. The current space is called [https://warp3.lu/ Warp3]. The first space was called Stage1 and was located in [https://www.openstreetmap.org/#map=19/49.616280/6.070927 St",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.syn2cat.lu",
+  "sources": [
+   "https://www.syn2cat.lu"
+  ]
+ },
+ {
+  "id": "afra",
+  "name": "AFRA",
+  "platform": "irc",
+  "invite_url": "irc://irc.hackint.org/#afra",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Berlin, Berlin, Germany; ~42 members; founded 2012/09/21. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  The AFRA (Abteilung-für-Redundanz-Abteilung, German version of DORD) is an open hackerspace in Berlin. Regular meetings are on Tuesday and Fridays from 20:00 p.m. <!-- --> <!-- Checked by mapall.spac",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://afra-berlin.de/",
+  "sources": [
+   "https://afra-berlin.de/"
+  ]
+ }
+]

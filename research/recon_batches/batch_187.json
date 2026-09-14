@@ -1,0 +1,122 @@
+[
+ {
+  "id": "ghost-za-hacker-society",
+  "name": "Ghost Za Hacker Society",
+  "platform": "slack",
+  "invite_url": "https://join.slack.com/t/ghostzahackersociety/sharedinvite/zt-42wfyxgpf-yk8IJsmXb8Asf~JqnCm6Fw",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "University club found via GitHub org/README scan (Br1tBreaker): Breaking firewalls and cracking codes, all from my London flat. Mind the gap. ( Ethical Hacker ). Slack invite in a personal repo; may be a small informal group.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Br1tBreaker"
+  ]
+ },
+ {
+  "id": "cmu-computer-club",
+  "name": "CMU Computer Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/8DbsrtjAde",
+  "discord_description": "The Carnegie Mellon University Computer Club (CMUCC). https://www.cmucc.org/",
+  "members": 217,
+  "online": 40,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CMU Computer Club (includes PPP hacking team)",
+  "candidate_notes": "University club at Carnegie Mellon University (Pittsburgh, US). Club's own homepage links its Discord (and IRC libera/#cmucc) via the discord icon; also home to PPP, CMU's DEF CON-winning CTF team. | shortlink https://cmucc.org/discord -> https://discord.gg/8DbsrtjAde",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.cmucc.org/"
+  ]
+ },
+ {
+  "id": "hackbu",
+  "name": "HackBU",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/Xka5uUh",
+  "discord_description": null,
+  "members": 1735,
+  "online": 128,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "HackBU",
+  "candidate_notes": "University club at Binghamton University (Binghamton, US). General hacking/hackathon-oriented tech club (not exclusively infosec) but a common on-ramp for students interested in security/CTFs at Binghamton.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://hackbu.org/"
+  ]
+ },
+ {
+  "id": "cyber-cornell",
+  "name": "Cyber@Cornell",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/jrjnwWK",
+  "discord_description": null,
+  "members": 561,
+  "online": 40,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cornell Hacking Club (CHC)",
+  "candidate_notes": "University club at Cornell University (Ithaca, US). CTF-focused club (CTFtime team 'CHC'). Invite link surfaced via search snippet dated ~2021, not independently re-verified live on the club site (chc.cs.cornell.edu could not be fetched this session, DNS failure) — should be re-checked before publishing.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://chc.cs.cornell.edu/"
+  ]
+ },
+ {
+  "id": "cybersecurity-club-gsu",
+  "name": "Cybersecurity Club @ GSU",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/gg5rFKq7Na",
+  "discord_description": "All are welcome to GSU's Cybersecurity Club where we explore the ever expanding Cybersecurity field.",
+  "members": 1112,
+  "online": 43,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cybersecurity Club at GSU",
+  "candidate_notes": "University club at Georgia State University (Atlanta, US). ~1000 members on Discord per Linktree.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://linktr.ee/cybersecurityclubgsu"
+  ]
+ },
+ {
+  "id": "usc-cyborg",
+  "name": "USC CybOrg",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/uA6rh2Arg6",
+  "discord_description": null,
+  "members": 222,
+  "online": 21,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "USC CybOrg",
+  "candidate_notes": "University club at University of South Carolina (Columbia, US). Premier cybersecurity & digital forensics org at USC.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://usccyb.org/"
+  ]
+ }
+]

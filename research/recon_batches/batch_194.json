@@ -1,0 +1,122 @@
+[
+ {
+  "id": "fsr-informatik",
+  "name": "🐮Φ FSR Informatik",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/GkXdXMfsC4",
+  "discord_description": null,
+  "members": 2360,
+  "online": 161,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "saarsec",
+  "candidate_notes": "Academic CTF team on CTFtime (https://ctftime.org/team/15337, country DE, academic flag True); Discord link found on the team website.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.cs.uni-saarland.de/"
+  ]
+ },
+ {
+  "id": "ctf-club-fr",
+  "name": "CTF Club [FR]",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/HTuZ7wk8kQ",
+  "discord_description": null,
+  "members": 36,
+  "online": 8,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CTF Club [FR]",
+  "candidate_notes": "Academic CTF team on CTFtime (https://ctftime.org/team/422281, country FR, academic flag False); Discord link found on the CTFtime team page.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://ctftime.org/team/422281"
+  ]
+ },
+ {
+  "id": "oteria",
+  "name": "OTERIA",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/YHxhYnQYwS",
+  "discord_description": null,
+  "members": 420,
+  "online": 66,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "OteriHack",
+  "candidate_notes": "Academic CTF team on CTFtime (https://ctftime.org/team/190074, country FR, academic flag True); Discord link found on the team website.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.oteria.fr/"
+  ]
+ },
+ {
+  "id": "laboratoire-sys-s-cu-tudiants",
+  "name": "Laboratoire Sys/Sécu Étudiants",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/GKAUFmA3bW",
+  "discord_description": null,
+  "members": 299,
+  "online": 60,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "LSE",
+  "candidate_notes": "Academic CTF team on CTFtime (https://ctftime.org/team/757, country FR, academic flag True); Discord link found on the team website.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://lse.re/"
+  ]
+ },
+ {
+  "id": "the-bus-factor-is-1",
+  "name": "The Bus Factor is 1:",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/dEKKgVdYHr",
+  "discord_description": "Cybersecurity team competing in global CTF competitions. Also known as: MarkTeam, My Code Works I Don't Know Why, grep -o 'flag''",
+  "members": 117,
+  "online": 25,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "The Bus Factor is 1:",
+  "candidate_notes": "Academic CTF team on CTFtime (https://ctftime.org/team/389946, country ID, academic flag True); Discord link found on the CTFtime team page.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://ctftime.org/team/389946"
+  ]
+ },
+ {
+  "id": "binus-university-official",
+  "name": "BINUS University Official",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/binus-university-official-1015256813437993030",
+  "discord_description": "Leading Private University in Indonesia, committed to providing Quality Education and Innovative Programs for Students",
+  "members": 17807,
+  "online": 3641,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Petir Cyber Security",
+  "candidate_notes": "Academic CTF team on CTFtime (https://ctftime.org/team/64958, country ID, academic flag True); Discord link found on the team website.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "http://binus.ac.id/"
+  ]
+ }
+]

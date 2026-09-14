@@ -1,0 +1,122 @@
+[
+ {
+  "id": "wicca",
+  "name": "WICCA",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/a7md6Zfh6S",
+  "discord_description": null,
+  "members": 184,
+  "online": 20,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "WICCA (Women in Cybersecurity Community Association)",
+  "candidate_notes": "Affinity: women; org: WICCA; join: open-link; scope: security. Official Discord invite found on womenofwicca.nl footer. 1,000+ member community founded 2018 in Amsterdam; Irish chapter WICCA IE exists via Meetup (no separate Discord found).",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.womenofwicca.nl/"
+  ]
+ },
+ {
+  "id": "haecksen-ccc",
+  "name": "Haecksen (CCC)",
+  "platform": "portal",
+  "invite_url": "https://rocket.haecksen.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: women, lgbtq; org: Haecksen; join: request-form; scope: security. Primary chat is RocketChat, not Discord/Slack/Matrix. Requires requesting SSO credentials from admin@haecksen.org and joining their mailing list first — not a pure self-service invite link.",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://wiki.haecksen.org/books/treffen-community/page/welcome-to-the-haecksen-community"
+  ]
+ },
+ {
+  "id": "infosecgirls",
+  "name": "InfosecGirls",
+  "platform": "forum",
+  "invite_url": "https://groups.google.com/forum/?place=forum/infosecgirls#!forum/infosecgirls",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: women; org: InfosecGirls; join: free-signup; scope: security. Community for women/students in infosec, founded 2014. Uses a Google Group as its public forum; no Discord/Slack found on official site.",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://infosecgirls.in/join-us/"
+  ]
+ },
+ {
+  "id": "raices-cyber",
+  "name": "Raices Cyber",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/raicescyber",
+  "discord_description": "We empower people to forge cybersecurity careers and help build a more inclusive generation of cyber defenders.",
+  "members": 2739,
+  "online": 153,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Raíces Cyber",
+  "candidate_notes": "Affinity: other; org: Raíces Cyber Org; join: open-link; scope: security. Largest nonprofit for Hispanic/Latino/Latinx people entering or working in cybersecurity; Discord is described as their community home base (2,500+ members). Discord invite link was found via search results describing their own site/bio.link, not directly loaded (bot-check blocked direct Discord fetch), so confidence is 'lis",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.raicescyber.org/ourprograms/networking"
+  ]
+ },
+ {
+  "id": "cyversity",
+  "name": "Cyversity",
+  "platform": "portal",
+  "invite_url": "https://community.cyversity.org/signup",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: bipoc, women, other; org: Cyversity (formerly ICMCP); join: paid-membership; scope: security. Paid-membership community platform (not Discord/Slack/forum, but a self-service signup site anyone can pay to join). Pricing: $100/year for professionals, $20/year for students and veterans. No public Discord/Slack/forum found on the official site.",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://cyversity.org/"
+  ]
+ },
+ {
+  "id": "minorities-in-cybersecurity-mic",
+  "name": "Minorities in Cybersecurity (MiC)",
+  "platform": "portal",
+  "invite_url": "https://mcy.memberclicks.net/membership-application",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: bipoc, women; org: Minorities in Cybersecurity; join: paid-membership; scope: security. 501(c)(3) focused on leadership/career development for minority and women cybersecurity professionals. Membership application portal; exact price not shown on the page checked. No public Discord/Slack/forum found on the official site.",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.mincybsec.org/"
+  ]
+ }
+]

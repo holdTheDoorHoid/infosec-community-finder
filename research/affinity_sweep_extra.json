@@ -1,0 +1,594 @@
+{
+ "no_public_community": [
+  {
+   "name": "WiCyS (Women in CyberSecurity)",
+   "note": "Official wicys.org Community page lists only social media (Facebook, X, Instagram, LinkedIn, YouTube) and a mailing list; no official Discord/Slack found. An unofficial 68-member 'WiCyS NEO's Server' Discord chapter exists (discord.com/invite/UNm4vzkcPZ) but is not clearly an official WiCyS space, so it was not reported.",
+   "lens": "women-us-global"
+  },
+  {
+   "name": "Women in Security and Privacy (WISP)",
+   "note": "wisp.org could not be reached via WebFetch (SSL/protocol error on both https and http); no Discord/Slack link surfaced via search either. Genuinely unverified rather than confirmed absent -- worth a manual re-check.",
+   "lens": "women-us-global"
+  },
+  {
+   "name": "WoSEC (Women of Security)",
+   "note": "womenofsecurity.com and its Code of Conduct reference 'Slack Channels' as a communication method, and chapters organize mainly via Meetup and LinkedIn, but no public Slack signup/invite link could be located anywhere on-site or via search.",
+   "lens": "women-us-global"
+  },
+  {
+   "name": "The Diana Initiative",
+   "note": "Official site lists Facebook/Instagram/LinkedIn/TikTok/Twitter/YouTube/Bluesky and a Mastodon account (defcon.social/@DianaInitiative), but that is a broadcast profile, not a joinable community space; no Discord/Slack found.",
+   "lens": "women-us-global"
+  },
+  {
+   "name": "Ladies Hacking Society",
+   "note": "UK-based; ladieshackingsociety.com has only a contact form, social links, and a specific mentoring-cohort application (lhsmentoring1.scoreapp.com) -- no open Discord/Slack/forum.",
+   "lens": "women-us-global"
+  },
+  {
+   "name": "Girls Who Hack (BiaSciLab)",
+   "note": "No Discord/Slack/forum found via search; site and press coverage reference free online classes and in-person events only.",
+   "lens": "women-us-global"
+  },
+  {
+   "name": "Women CyberSecurity Society (WCS2, Canada)",
+   "note": "Site says members 'collaborate via Slack, events, and forums' but no public Slack join link is posted on womencybersecuritysociety.org or discoverable via search.",
+   "lens": "women-us-global"
+  },
+  {
+   "name": "ISSA Women in Security SIG",
+   "note": "Community lives behind members.issa.org, which requires paid ISSA membership/sign-in; not a freely joinable public space.",
+   "lens": "women-us-global"
+  },
+  {
+   "name": "Day of Shecurity",
+   "note": "Appears to be a conference/event brand rather than an ongoing community; no Discord/Slack found via search.",
+   "lens": "women-us-global"
+  },
+  {
+   "name": "We Hack Purple / She Hacks Purple (Tanya Janca)",
+   "note": "wehackpurple.com redirects to shehackspurple.ca, which offers only a newsletter and social links (X, LinkedIn, Bluesky, Mastodon, TikTok, YouTube) -- no Discord/Slack community.",
+   "lens": "women-us-global"
+  },
+  {
+   "name": "Gatebreachers",
+   "note": "gatebreachers.org is unreachable via WebFetch (DNS resolution failure) and no discord.gg/join link surfaced via search, though press coverage (search results) implies they run a Discord community. Could not verify an exact join URL, so not reported -- worth a manual re-check.",
+   "lens": "women-us-global"
+  },
+  {
+   "name": "Ladies of London Hacking Society (LLHS)",
+   "note": "Official site ladieshackingsociety.com lists only LinkedIn, YouTube, Meetup, and email contact — no Discord/Slack/forum. LinkedIn group at linkedin.com/groups/12532871 is their closest 'community' but doesn't count as an open platform per scope.",
+   "lens": "women-international"
+  },
+  {
+   "name": "Women in CyberSecurity UK & Ireland (WiCyS UK&I)",
+   "note": "Affiliate of WiCyS Global; access is via wicys.org paid membership + a members-only community portal, not an open Discord/Slack.",
+   "lens": "women-international"
+  },
+  {
+   "name": "Women4Cyber (Europe)",
+   "note": "women4cyber.eu offers only a mailing list; individual national chapters may have their own channels but no central public Discord/Slack found.",
+   "lens": "women-international"
+  },
+  {
+   "name": "CEFCYS (France)",
+   "note": "Membership costs 50 EUR/year and requires nomination by two existing members plus board approval (per bylaws) — not an open self-service community, so excluded rather than listed as paid-membership.",
+   "lens": "women-international"
+  },
+  {
+   "name": "Women in Cyber Switzerland",
+   "note": "women-in-cyber.ch offers only a newsletter signup and LinkedIn/YouTube — no Discord/Slack found.",
+   "lens": "women-international"
+  },
+  {
+   "name": "WOMCY (LATAM Women in Cybersecurity)",
+   "note": "Could not locate an official public Discord/Slack/forum for WOMCY specifically within search budget; site appears to route through social media and national chapters.",
+   "lens": "women-international"
+  },
+  {
+   "name": "WoMakersCode (Brazil)",
+   "note": "Could not confirm a public Discord/Slack; found only Substack newsletter and partner mentions within search budget.",
+   "lens": "women-international"
+  },
+  {
+   "name": "SheHacks KE (Kenya)",
+   "note": "Only LinkedIn, Facebook, X, YouTube found; no public Discord/Slack/forum located.",
+   "lens": "women-international"
+  },
+  {
+   "name": "CyberGirls / CyberSafe Foundation (Nigeria)",
+   "note": "cybersafefoundation.org/cybergirls page lists only social media profiles (Instagram, LinkedIn, X, Facebook, YouTube); fellowship application portal is not a community space.",
+   "lens": "women-international"
+  },
+  {
+   "name": "CyberWayFinder (Belgium)",
+   "note": "Training/workforce program, not a community platform; only LinkedIn/X found. Related Women4Cyber Belgium chapter also has no public Discord/Slack found.",
+   "lens": "women-international"
+  },
+  {
+   "name": "Leading Cyber Ladies (Israel)",
+   "note": "Site leadingcyberladies.github.io lists only LinkedIn, Twitter, Instagram, and email; community coordination happens via WhatsApp per press coverage, which is out of scope for this directory.",
+   "lens": "women-international"
+  },
+  {
+   "name": "Women in Cybersecurity Society Ireland / WICCA IE",
+   "note": "WICCA IE (Irish chapter of WICCA) currently only has a Meetup page (meetup.com/wicca-ie); no separate Discord found (parent WICCA NL Discord is listed as a candidate above and likely serves both).",
+   "lens": "women-international"
+  },
+  {
+   "name": "Blacks In Cybersecurity (BIC)",
+   "note": "Official site blacksincyberconf.com has no public Discord/Slack link or self-service signup; their FAQ says to email blackincybercon@gmail.com to request access to the online community — not an open link, so it fails the 'self-service or open request form' bar.",
+   "lens": "bipoc"
+  },
+  {
+   "name": "Blacks United in Leading Technology (BUiLT)",
+   "note": "builtinternational.org lists only social media (Meetup, Facebook, Twitter, LinkedIn) plus a paid membership portal (builtinternational.org/membership) and a paid training program (builtrite.network). No Discord, Slack, or forum found.",
+   "lens": "bipoc"
+  },
+  {
+   "name": "Black Cybersecurity Association (BCA)",
+   "note": "Official domain blackcybersecurityassociation.org now redirects to what looks like a parked/marketing redirect page and could not be loaded reliably. Old Facebook posts (2021-era) reference ad hoc Discord sessions but no working current invite link could be found or verified; treat their Discord presence as stale/unconfirmed.",
+   "lens": "bipoc"
+  },
+  {
+   "name": "Black Women in Cyber Collective (BWiCC)",
+   "note": "Primarily known for a published book and Instagram presence (@blkwicc_); official site blkwicc.com could not be resolved/reached, and no Discord/Slack/forum was found in search results.",
+   "lens": "bipoc"
+  },
+  {
+   "name": "Hackers of Color",
+   "note": "Could not locate any organization or community by this name with a working website or Discord/Slack presence.",
+   "lens": "bipoc"
+  },
+  {
+   "name": "Melanin in Cyber",
+   "note": "Could not locate an organization by this specific name distinct from Raíces Cyber / LAIC (already covered); no dedicated community found.",
+   "lens": "bipoc"
+  },
+  {
+   "name": "/dev/color",
+   "note": "Paid membership ($99/year) includes Slack access, but /dev/color is a general Black tech-professional community with no confirmed dedicated security channel/track, so it does not meet the scope bar for this lens.",
+   "lens": "bipoc"
+  },
+  {
+   "name": "Techqueria",
+   "note": "Large Latinx-in-tech Slack (19,000+ members, join via techqueria.org/communities/slack/) but no dedicated security/InfoSec channel or track could be confirmed on the official site, so it does not meet the scope bar for this lens.",
+   "lens": "bipoc"
+  },
+  {
+   "name": "Code2040",
+   "note": "No public Discord/Slack/forum or self-service community signup found; appears to be a fellowship/program model rather than an open community space.",
+   "lens": "bipoc"
+  },
+  {
+   "name": "HBCU cybersecurity alliances (AMIE, Propel Center HBCU Cybersecurity Consortium, NCA HBCU Career Program)",
+   "note": "These are named partnership/consortium programs between HBCUs and industry, not open public community spaces (no Discord/Slack/forum with a public join link found).",
+   "lens": "bipoc"
+  },
+  {
+   "name": "Indigenous / Native American cybersecurity community",
+   "note": "No dedicated Indigenous/Native-focused cybersecurity Discord, Slack, or forum could be found; closest matches (Tribal-ISAC, CISA Tribal Affairs) are institutional info-sharing bodies for tribal governments, not open public communities for individuals.",
+   "lens": "bipoc"
+  },
+  {
+   "name": "AAPI / Desi cybersecurity community",
+   "note": "No dedicated AAPI- or Desi-focused cybersecurity Discord, Slack, or forum could be found via search.",
+   "lens": "bipoc"
+  },
+  {
+   "name": "Pride in STEM",
+   "note": "UK charity for LGBTQIA+ in STEM (prideinstem.org). No Discord/Slack/forum found; presence is via events, conferences, and social/fediverse accounts, not an open community chat space.",
+   "lens": "lgbtq"
+  },
+  {
+   "name": "oSTEM, Inc.",
+   "note": "National LGBTQ+ STEM org; ostem.org is 403/blocked to automated fetch and no single official Discord exists — individual university chapters (e.g. Texas A&M, CU Boulder) run their own separate, often application-gated Discords rather than one public org-wide space.",
+   "lens": "lgbtq"
+  },
+  {
+   "name": "TransTech Social Enterprise",
+   "note": "transtechsocial.org mentions an internal '#Jobs' Discord channel but it is only reachable after becoming a paid/approved member and logging into their members area — not an open public join link.",
+   "lens": "lgbtq"
+  },
+  {
+   "name": "Lesbians Who Tech & Allies",
+   "note": "lesbianswhotech.org now redirects to lwtsquad.com, which is focused on their paid annual Summit (tickets $399-$3000, free virtual pass) rather than an ongoing open Slack/Discord community.",
+   "lens": "lgbtq"
+  },
+  {
+   "name": "Haecksen (CCC)",
+   "note": "German queerfeminist/inclusive tech collective within the Chaos Computer Club scene, but broader than LGBTQ-specific (women/inter/non-binary/trans/agender + allies) and publishes no public Matrix/Discord/mailing-list join link on haecksen.org — contact is email-only.",
+   "lens": "lgbtq"
+  },
+  {
+   "name": "Secure Pride",
+   "note": "securepride.org (open-source cybersecurity tooling by/for LGBTQ+ organizations) returned 403 Forbidden; appears to be a project/toolkit rather than a joinable community space based on prior search snippets.",
+   "lens": "lgbtq"
+  },
+  {
+   "name": "VetSec (Veterans in Security)",
+   "note": "vetsec.org has a members-only 'community platform' for networking/mentorship plus VetSecCon conference, but no public Discord/Slack/forum link is exposed on the site -- appears to be an internal member portal, not an open community.",
+   "lens": "veterans"
+  },
+  {
+   "name": "Vets in Tech",
+   "note": "vetsintech.co focuses on chapters, job placement/training programs, and events for veterans and military spouses. No Discord/Slack/forum found; engagement is via resume submission and local chapter events, not an online community space.",
+   "lens": "veterans"
+  },
+  {
+   "name": "Military Cyber Professionals Association (MCPA)",
+   "note": "milcyber.org has a formal membership signup and 20+ regional chapters plus a member-only intranet, but no public Discord/Slack/forum. It functions as a professional association, not a chat community.",
+   "lens": "veterans"
+  },
+  {
+   "name": "Vets Who Code",
+   "note": "vetswhocode.io runs a cohort-based free coding bootcamp (application required) for veterans/military spouses. No public community chat platform found on the site; engagement is via the apply/mentor pages.",
+   "lens": "veterans"
+  },
+  {
+   "name": "CyberVetsUSA / cybervets.org",
+   "note": "Industry-led free training and job-placement pathway for transitioning service members, veterans, Guard/Reserve, and military spouses into cyber careers. No public Discord/Slack/forum found -- program-based, not a standing community space.",
+   "lens": "veterans"
+  },
+  {
+   "name": "Military Cyber Warrior Foundation / Boots to Bytes / Cyber Warrior Foundation",
+   "note": "Could not locate an actual standalone organization or public community matching these seed names; searches surfaced only unrelated books, government programs (CMS CyberVet), and a 'Wounded Warrior to Cyber Warrior' training track at VetLink Foundation, none with a public chat community.",
+   "lens": "veterans"
+  },
+  {
+   "name": "Onward to Opportunity (O2O)",
+   "note": "Syracuse University IVMF career-training program for transitioning service members/veterans/spouses. No public Discord/Slack/forum found; alumni engagement appears limited to program-internal channels.",
+   "lens": "veterans"
+  },
+  {
+   "name": "WithYouWithMe (WYWM)",
+   "note": "Veteran-founded tech employment/training company (AU/US/CA). Has a Discord, but the one found (WYWM Neurodiverse Outreach) is scoped to neurodivergent participants generally, not specifically veterans-in-security, and no separate veteran/cyber-specific public invite was found.",
+   "lens": "veterans"
+  },
+  {
+   "name": "Police / first responder cybersecurity communities",
+   "note": "No dedicated public Discord/Slack/forum for law-enforcement-to-security or first-responder-to-security career communities was found. InfraGard (FBI public-private partnership, includes law enforcement) exists but is a vetted membership program, not an open self-service community, so it was not included as a candidate.",
+   "lens": "veterans"
+  },
+  {
+   "name": "SkillBridge cybersecurity communities",
+   "note": "SkillBridge is a DoD transition-authority umbrella, not itself a community; individual host organizations (e.g., F3/VetComm, AllegiantVETS, RapidAscent) run their own training programs but none exposed a public Discord/Slack/forum in the search results.",
+   "lens": "veterans"
+  },
+  {
+   "name": "NeuroCyber (UK)",
+   "note": "UK Cyber Neurodiversity Group (Community Interest Company). Site confirms no Discord/Slack/forum -- engagement is via email (neurocyber@prpr.co.uk), partnership, and volunteering only. Checked https://www.neurocyber.uk/.",
+   "lens": "neuro-disability"
+  },
+  {
+   "name": "Mental Health Hackers",
+   "note": "501(c)(3) educating infosec professionals on mental health risks; runs 'Mental Health Village' at conferences (BSides Charm, RSA, etc.) but the official site (mentalhealthhackers.org) shows no Discord/Slack/forum -- only donation channels (PayPal/Patreon/Venmo/TeePublic) and volunteer/sponsor email contacts.",
+   "lens": "neuro-disability"
+  },
+  {
+   "name": "AbilityNet",
+   "note": "UK charity for disabled/older people's tech access. No security focus and no public online community/forum found -- engagement is 1:1 volunteer tech support, user-testing panel, and live events only.",
+   "lens": "neuro-disability"
+  },
+  {
+   "name": "r00tz Asylum (DEF CON kids)",
+   "note": "Youth white-hat hacking nonprofit (ages 8-16); Discord is only spun up per-event for badge/CTF logistics, no persistent public server found on r00tz.org or social channels.",
+   "lens": "youth"
+  },
+  {
+   "name": "Hak4Kidz",
+   "note": "Youth ethical-hacking conference (ages 7-17); Discord invites are sent to registered event attendees only, no standing public community server found.",
+   "lens": "youth"
+  },
+  {
+   "name": "Girl Security",
+   "note": "Site offers only a newsletter signup, social media (LinkedIn/YouTube/Instagram), and an educator PD registration form -- no Discord/Slack/forum community for students found.",
+   "lens": "youth"
+  },
+  {
+   "name": "GenCyber",
+   "note": "NSA/NSF-funded K-12 camp program run independently by many host universities/colleges; no central alumni community platform found, only individual camp pages.",
+   "lens": "youth"
+  },
+  {
+   "name": "CyberFirst (UK NCSC)",
+   "note": "NCSC youth program; no public Discord/Slack/forum found, only NCSC contact email and social media.",
+   "lens": "youth"
+  },
+  {
+   "name": "Cyber Security Challenge UK",
+   "note": "Organisation was dissolved on 14 October 2025; no longer operating, no active community.",
+   "lens": "youth"
+  },
+  {
+   "name": "CyberTitan (Canada)",
+   "note": "No distinct CyberTitan community found; searches only surfaced an unrelated Web3 game Discord of the same name.",
+   "lens": "youth"
+  },
+  {
+   "name": "CyberTaipan / Australian Cyber Security Challenge",
+   "note": "CSIRO/ASD-run youth competition (modelled on CyberPatriot); ran 2020-2023, program appears to have ended and no community platform found.",
+   "lens": "youth"
+  },
+  {
+   "name": "National Cyber Scholarship Foundation",
+   "note": "Parent org of CyberStart America; own site has no direct community link (its CyberStart Discord is listed separately above); contact is via email only.",
+   "lens": "youth"
+  },
+  {
+   "name": "US Cyber Games / US Cyber Team",
+   "note": "uscybergames.com promotes joining the 'Fandom' via social media (LinkedIn, Twitter, Instagram, YouTube) and a newsletter only; no persistent public Discord/Slack link found on official pages.",
+   "lens": "youth"
+  },
+  {
+   "name": "CyberGirls Fellowship (Nigeria/CyberSafe Foundation)",
+   "note": "Cohort-based fellowship for girls/women 15-21 across Africa; no public Discord/Slack/WhatsApp community link found, only application portal and social media.",
+   "lens": "youth"
+  },
+  {
+   "name": "Teens in AI",
+   "note": "General AI/entrepreneurship youth program, not security-focused; no security-relevant public community identified, and out of this run's security scope.",
+   "lens": "youth"
+  },
+  {
+   "name": "Elpha",
+   "note": "Women-in-tech professional network (35k+ members) but it's its own proprietary platform/forum, not a Slack/Discord — no separate security-specific channel found; general women-in-tech, not security-focused enough to include without a confirmed link.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Ada's List",
+   "note": "Could not reach adaslist.org (DNS failure); no public join link found via search either.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Girl Geek X",
+   "note": "Site (girlgeek.io) has no visible Discord/Slack/forum join link — appears to be event/newsletter based only.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "People of Color in Tech (POCIT)",
+   "note": "Could not retrieve site content; no confirmed public community join link found.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Underdog Devs",
+   "note": "Site unreachable (connection refused); formerly-incarcerated-in-tech program, likely cohort/application based rather than an open public community space.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "The Last Mile",
+   "note": "Official site checked directly — no Discord/Slack/forum; only newsletter and social media broadcast channels, contact is via email.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Code Your Future",
+   "note": "Fetch failed (no output/timeout); could not confirm a public community link or security track.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Blacks In Cybersecurity (BIC)",
+   "note": "Has a Discord/Slack online community but per their own site, joining requires emailing BIC-Operations directly rather than a self-service invite link or open form — no open URL to report.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Techqueria",
+   "note": "Slack requires applying via https://techqueria.org/join/ (approval-gated, not instant self-signup) and no security/cybersecurity-specific channel could be confirmed, so not reported as a security community.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Diversify Tech",
+   "note": "Could not locate an official site or public community link via search.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Nigerians in Cybersecurity / Africans in Cyber diaspora groups",
+   "note": "No specific named public community with a discoverable join link found via search; likely exist as smaller/regional groups not indexed.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Filipino cybersecurity community",
+   "note": "No dedicated Filipino-specific infosec Discord/Slack found; only a general (non-security) Filipino Discord server turned up.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Muslim Devs / Muslim Tech Network / Muslims in IT & CS",
+   "note": "Discord servers exist but are general Muslim-tech/dev communities, not security-specific, and the only links found were third-party directory pages (myserver.gg, discord.me) rather than an official discord.gg invite verified on an official site — excluded for both low confidence and lack of security scope.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Jewish in tech (e.g. Orthodox-Jewish devs Slack)",
+   "note": "References found only in a blog comment, no official site or verifiable join link, and not security-specific.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Christians in Cyber",
+   "note": "No specific organization by this name found; only generic Christian Discord servers unrelated to cybersecurity.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Cyber Moms / Parents in Cyber",
+   "note": "No dedicated cybersecurity-focused parents/moms community found; only generic parenting Discord servers unrelated to tech/security.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Over 40 in Cyber / Second Career in Tech (named group)",
+   "note": "No specific organization by this exact name found via search.",
+   "lens": "career-changers-other"
+  },
+  {
+   "name": "Women's Society of Cyberjutsu",
+   "note": "Media coverage (PR Newswire, US Cyber Games) mentions the org using Discord/Slack for events like Wicked6 cyber games, but no public/static join link could be found on their own site (womenscyberjutsu.org returned 403 to fetch); likely invite-only or event-specific.",
+   "lens": "directories"
+  },
+  {
+   "name": "VetSec",
+   "note": "Veteran cybersecurity nonprofit with a private Slack for members; site says to reach out via info@vetsec.org for an invite rather than a public join link.",
+   "lens": "directories"
+  },
+  {
+   "name": "VeteranSec",
+   "note": "veteransec.com/slack page explicitly requires contacting them by form/email to receive an invite ('we will send an invite over as soon as possible') — no static public URL.",
+   "lens": "directories"
+  },
+  {
+   "name": "r00tz Asylum",
+   "note": "DEF CON's youth hacking program (ages 8-16); no online Discord/Slack/forum community found, only in-person conference programming and a press/about site.",
+   "lens": "directories"
+  },
+  {
+   "name": "ICMCP (International Consortium of Minority Cybersecurity Professionals)",
+   "note": "This organization rebranded to Cyversity, already reported above under that name — do not list separately.",
+   "lens": "directories"
+  },
+  {
+   "name": "Out in Tech",
+   "note": "Large LGBTQ+ tech nonprofit (40,000 members); no dedicated public Slack/Discord join link located on official channels within search budget, and no confirmed security-specific programming — likely members-only chapter/event access rather than an open community link.",
+   "lens": "directories"
+  },
+  {
+   "name": "Girl Security",
+   "note": "National-security-focused youth/mentorship nonprofit for girls/gender minorities; only a general 'community' content page found (essays/thought leadership), not a joinable Discord/Slack/forum.",
+   "lens": "directories"
+  },
+  {
+   "name": "Vets Who Code",
+   "note": "Veteran coding bootcamp nonprofit; site has application/mentorship portals and a newsletter but no visible Discord/Slack/forum community link.",
+   "lens": "directories"
+  }
+ ],
+ "missing": [
+  {
+   "name": "Latino Cyber Alliance",
+   "affinity": "bipoc",
+   "why": "US-based nonprofit for Latino/Hispanic cybersecurity professionals with mentorship and networking programming; not in existing_names.txt or either checked list.",
+   "official_site": "https://www.latinocyberalliance.org"
+  },
+  {
+   "name": "Break Into Cybersecurity (BIC)",
+   "affinity": "career-changers",
+   "why": "Well-known community/podcast (run by Christophe Foulon and collaborators) specifically for people transitioning into cybersecurity careers; runs an active Discord.",
+   "official_site": "https://www.breakintocybersecurity.com"
+  },
+  {
+   "name": "Correlation One – Cybersecurity for All",
+   "affinity": "career-changers/bipoc/women",
+   "why": "Google.org-funded free training program targeting underrepresented and career-changing candidates into cybersecurity, with a fellows community.",
+   "official_site": "https://correlation-one.com/cybersecurity-for-all/"
+  },
+  {
+   "name": "CAPSLOCK",
+   "affinity": "career-changers",
+   "why": "UK cybersecurity career-conversion bootcamp with an active alumni/learner community; targeted explicitly at career changers.",
+   "official_site": "https://www.capslock.ac"
+  },
+  {
+   "name": "Reboot Represent",
+   "affinity": "women/bipoc",
+   "why": "UK nonprofit focused on diversifying cybersecurity (women and underrepresented groups), runs community/mentoring programs.",
+   "official_site": "https://www.rebootrepresent.org"
+  },
+  {
+   "name": "SANS Women's Cyber Academy",
+   "affinity": "women",
+   "why": "SANS-run scholarship/training cohort program for women entering cybersecurity, with an alumni network; distinct from WiCyS/WSC already found.",
+   "official_site": "https://www.sans.org/cyber-academy/women/"
+  },
+  {
+   "name": "Girls Go CyberStart",
+   "affinity": "women/youth",
+   "why": "SANS/CyberStart program specifically for young women in cybersecurity, distinct from the general CyberStart America community already found.",
+   "official_site": "https://girlsgocyberstart.org"
+  },
+  {
+   "name": "Fortinet Cyber Sisters",
+   "affinity": "women/youth",
+   "why": "Fortinet's CSR mentorship program pairing female cybersecurity professionals with girls interested in the field; has program community/alumni.",
+   "official_site": "https://www.fortinet.com/training/cybersisters"
+  },
+  {
+   "name": "FourBlock",
+   "affinity": "veterans",
+   "why": "Veteran career-transition nonprofit with dedicated cybersecurity career tracks and an alumni community; not the same as Operation Code/VetSec already found.",
+   "official_site": "https://fourblock.org"
+  },
+  {
+   "name": "Women in CyberSecurity Middle East (WiCSME)",
+   "affinity": "women",
+   "why": "Regional women-in-cybersecurity organization for the Middle East, distinct from AWSN/WOMCY/Cyversity already found.",
+   "official_site": "https://wicsme.org"
+  },
+  {
+   "name": "elhacker.net",
+   "affinity": "non-english",
+   "why": "One of the largest long-running Spanish-language hacking/security forums; not in existing_names.txt (DragonJAR is present but this is a separate community).",
+   "official_site": "https://www.elhacker.net"
+  },
+  {
+   "name": "Inforge.net",
+   "affinity": "non-english",
+   "why": "Major Italian-language hacking/security forum community, no Italian-language forum currently in existing_names.txt.",
+   "official_site": "https://www.inforge.net"
+  },
+  {
+   "name": "TurkHackTeam",
+   "affinity": "non-english",
+   "why": "Long-running major Turkish-language hacking/security forum community; no Turkish entry in existing_names.txt.",
+   "official_site": "https://www.turkhackteam.org"
+  },
+  {
+   "name": "VNSecurity",
+   "affinity": "non-english",
+   "why": "Prominent Vietnamese security research community/CTF team with an active forum; no Vietnamese entry in existing_names.txt.",
+   "official_site": "https://vnsecurity.net"
+  },
+  {
+   "name": "Hackademint",
+   "affinity": "non-english",
+   "why": "French hacking/security association with an active community forum, separate from comptoirsecu already listed.",
+   "official_site": "https://hackademint.org"
+  },
+  {
+   "name": "Antichat",
+   "affinity": "non-english",
+   "why": "Long-standing major Russian-language security/hacking forum community; no Russian-language forum in existing_names.txt.",
+   "official_site": "https://forum.antichat.ru"
+  },
+  {
+   "name": "Niebezpiecznik",
+   "affinity": "non-english",
+   "why": "Popular Polish-language infosec news site with an associated community/forum, distinct from Zaufana Trzecia Strona already listed.",
+   "official_site": "https://niebezpiecznik.pl"
+  },
+  {
+   "name": "52pojie (吾爱破解)",
+   "affinity": "non-english",
+   "why": "One of the largest Chinese-language reverse-engineering/cracking forum communities; no Chinese-language forum in existing_names.txt.",
+   "official_site": "https://www.52pojie.cn"
+  },
+  {
+   "name": "Kanxue (看雪)",
+   "affinity": "non-english",
+   "why": "Major Chinese-language reverse engineering and security research forum/community, distinct from 52pojie.",
+   "official_site": "https://bbs.kanxue.com"
+  },
+  {
+   "name": "IPA Security Camp",
+   "affinity": "youth/non-english",
+   "why": "Japan's flagship government-backed youth cybersecurity training program with alumni community, distinct from SECCON already listed.",
+   "official_site": "https://www.security-camp.org"
+  },
+  {
+   "name": "KITRI Best of the Best (BoB)",
+   "affinity": "youth/non-english",
+   "why": "South Korea's premier youth/young-adult elite cybersecurity training program with a strong alumni network.",
+   "official_site": "https://www.kitribob.kr"
+  },
+  {
+   "name": "Cybersecurity Sacramento",
+   "affinity": "regional",
+   "why": "Excluded — this is actually already present in existing_names.txt; keeping list free of it (placeholder removed).",
+   "official_site": null
+  }
+ ],
+ "dropped": []
+}

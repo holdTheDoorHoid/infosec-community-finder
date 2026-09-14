@@ -1,0 +1,90 @@
+[
+ {
+  "name": "Techqueria",
+  "invite_url": "https://techqueria.org/slack",
+  "platform": "slack",
+  "source_url": "https://techqueria.org/slack",
+  "category_hint": "affinity",
+  "country": "US",
+  "language": "en",
+  "notes": "Affinity: other; org: Techqueria; join: request-form; scope: tech-with-security-channel. Latinx professionals in tech (allies also welcome); Slack access is free but gated behind a membership application (collects professional/demographic info) at techqueria.org/join, not an open invite link. Members log in at techqueria.slack.com. Not a dedicated security community but broad tech community with security-adjacent members.",
+  "confidence": "official"
+ },
+ {
+  "name": "VetSec (Veterans in Security)",
+  "invite_url": "https://vetsec.org/join-us/",
+  "platform": "slack",
+  "source_url": "https://vetsec.org/join-us/",
+  "category_hint": "affinity",
+  "country": "US",
+  "language": "en",
+  "notes": "Affinity: veterans; org: VetSec; join: request-form; scope: security. Site states 'Your membership invite will come from Slack, our community platform. Application to any of our programs occurs within Slack.' No public discord.gg/slack-invite link visible; applicants apply via the Join Us page and receive a Slack invite.",
+  "confidence": "official"
+ },
+ {
+  "name": "Blacks In Cybersecurity (BIC)",
+  "invite_url": "https://forms.gle/soNj7pzbvqcBx2rH8",
+  "platform": "portal",
+  "source_url": "https://www.blacksincyberconf.com/online-community",
+  "category_hint": "affinity",
+  "country": "US",
+  "language": "en",
+  "notes": "Affinity: bipoc; org: Blacks In Cybersecurity; join: request-form; scope: security. The blacksincyberconf.com/online-community page (missed by the first pass) states: 'Please fill out this form for our online community application' — an open Google Form anyone can submit, with an alternative path of having an existing member vouch. Platform (Discord/Slack) not disclosed since it migrates over time.",
+  "confidence": "official"
+ },
+ {
+  "name": "elhacker.NET Foro",
+  "invite_url": "https://foro.elhacker.net",
+  "platform": "forum",
+  "source_url": "https://www.elhacker.net",
+  "category_hint": "general",
+  "country": "ES",
+  "language": "Spanish",
+  "notes": "Affinity: non-english; org: elhacker.net; join: free-signup; scope: security. Long-running Spanish-language hacking/security forum, 331k+ registered users, open free registration. No Discord server visible on the homepage; they instead run Telegram (t.me/elhackerdotnet), Mastodon (infosec.exchange/@elhackernet) and a Facebook group, but Telegram is out of scope per instructions.",
+  "confidence": "official"
+ },
+ {
+  "name": "Inforge Forum",
+  "invite_url": "https://www.inforge.net/forum",
+  "platform": "forum",
+  "source_url": "https://www.inforge.net/forum/forums/sicurezza-informatica.434/",
+  "category_hint": "general",
+  "country": "IT",
+  "language": "Italian",
+  "notes": "Affinity: non-english; org: Inforge.net; join: free-signup; scope: security. Largest Italian tech forum community (founded 2007) with a dedicated Sicurezza Informatica (cybersecurity/ethical hacking) section; registration is free and not required to browse most content. Also has a Telegram channel (t.me/inforge) which is out of scope.",
+  "confidence": "listing"
+ },
+ {
+  "name": "CTF-BR",
+  "invite_url": "https://discord.gg/bqvh4qw",
+  "platform": "discord",
+  "source_url": "https://ctf-br.org/2020/07/ctf-br-no-discord/",
+  "category_hint": "general",
+  "country": "BR",
+  "language": "Portuguese",
+  "notes": "Affinity: non-english; org: CTF-BR; join: open-link; scope: security. CTF-BR is a Brazilian community promoting CTF competitions; their own site publishes this open Discord invite for anyone interested in Brazilian CTF/security. Verify the invite is still live before publishing since it dates to a 2020 post.",
+  "confidence": "official"
+ },
+ {
+  "name": "Kanxue (看雪) Security Forum",
+  "invite_url": "https://bbs.kanxue.com",
+  "platform": "forum",
+  "source_url": "https://bbs.kanxue.com/homepage",
+  "category_hint": "general",
+  "country": "CN",
+  "language": "Chinese",
+  "notes": "Affinity: non-english; org: bbs.kanxue.com; join: free-signup; scope: security. Major Chinese reverse-engineering / software security forum founded 2000, sections for reverse engineering, Android/iOS security, CTF, etc. Site blocked direct WebFetch (403), so registration flow and any QQ-group link could not be visually confirmed — based on search-result description only.",
+  "confidence": "guess"
+ },
+ {
+  "name": "Hackplayers Foro",
+  "invite_url": "https://foro.hackplayers.com",
+  "platform": "forum",
+  "source_url": "https://www.hackplayers.com/2017/01/nuevo-foro-de-hackplayers.html",
+  "category_hint": "general",
+  "country": "ES",
+  "language": "Spanish",
+  "notes": "Affinity: non-english; org: Hackplayers; join: free-signup; scope: security. Spanish-language hacking/security research community founded 2009 in Madrid; runs its own forum plus a Telegram channel (t.me/hackplayers, out of scope). Could not directly WebFetch the forum (DNS resolution failed from this environment) so the join flow is unverified first-hand.",
+  "confidence": "guess"
+ }
+]

@@ -1,0 +1,442 @@
+[
+ {
+  "id": "fsr-informatik",
+  "include": false,
+  "exclude_reason": "This is the general student-council (Fachschaftsrat) Discord for the Computer Science department at Saarland University — broad department chat, not a dedicated security/CTF community. The saarsec CTF team (ctftime.org/team/15337) links to it as a hangout but the server itself is general CS student life, not security-focused.",
+  "category": "general",
+  "tags": [
+   "students",
+   "general-infosec",
+   "ctf",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "study-groups",
+   "q-and-a"
+  ],
+  "summary": "Run by the Computer Science student council at Saarland University, this server is the general hangout for CS/Informatik students covering courses, exams, and campus life. Members of the saarsec CTF team are active here, but security topics are one thread among many rather than the server's focus.",
+  "run_by": "Saarland University Informatik student council (Fachschaftsrat)",
+  "website": null,
+  "github": "https://github.com/saarsec",
+  "youtube": null,
+  "region": "europe",
+  "country": "DE",
+  "subdivision": null,
+  "city": "Saarbrücken",
+  "language": "de",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ctf-club-fr",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "wargames"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "study-groups"
+  ],
+  "summary": "A small French-language student CTF club that competes together in online CTF competitions and registers as a team on CTFtime. Members share writeups and practice challenges together; it suits students starting out in CTF who want a French-speaking group to learn and compete with.",
+  "run_by": "community-run",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": null,
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "oteria",
+  "include": true,
+  "exclude_reason": null,
+  "category": "learning",
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "careers"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "study-groups",
+   "job-board"
+  ],
+  "summary": "Run by OTERIA, a cybersecurity-focused school near Paris offering bachelor's through master's programs in offensive security, blue team defense, and vulnerability research. The Discord serves roughly 400 current students and hosts school-run competitions like the Oteria Cyber Cup and Cyber Ninja CTF, making it a fit for students formally studying security who want peers and practice challenges.",
+  "run_by": "OTERIA (cybersecurity school)",
+  "website": "https://www.oteria.fr/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": "Gennevilliers",
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "laboratoire-sys-s-cu-tudiants",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "reverse-engineering",
+   "binary-exploitation",
+   "ctf",
+   "hardware-hacking",
+   "iot-embedded"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "ctf-events",
+   "writeups",
+   "workshops",
+   "project-showcase"
+  ],
+  "summary": "LSE is a French systems-and-security research lab (open to non-students too) that works on kernel/hypervisor internals, reverse engineering, exploit development, and hardware security, and has placed at Pwn2Own Automotive and IoT events. They run their own CTF platform and Discord for members doing serious offensive security research, not a beginner support space.",
+  "run_by": "community-run (LSE lab)",
+  "website": "https://lse.re/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "FR",
+  "subdivision": null,
+  "city": null,
+  "language": "fr",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "the-bus-factor-is-1",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "wargames",
+   "students"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "ctf-events"
+  ],
+  "summary": "An Indonesian student CTF team (also called MarkTeam) that competes together in international CTF competitions, registered on CTFtime. The Discord is small and mainly for the team's own members and collaborators to coordinate during competitions rather than a general learning space.",
+  "run_by": "community-run (student CTF team)",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "asia",
+  "country": "ID",
+  "subdivision": null,
+  "city": null,
+  "language": "id",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "binus-university-official",
+  "include": false,
+  "exclude_reason": "This is the official general-purpose Discord for all of BINUS University in Jakarta (all faculties, 17,800+ members) covering campus life broadly, not a security-focused community — even though BINUS is home to the competitive CTF team PETIR Cyber Security (7th worldwide at Black Hat MEA CTF 2025), that team is not what this server is about.",
+  "category": "general",
+  "tags": [
+   "students",
+   "ctf",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "news-feed",
+   "q-and-a"
+  ],
+  "summary": "The official all-campus Discord for BINUS University in Jakarta, used by students across every faculty for general campus news, chat, and Q&A. Security-specific activity comes from the student-run PETIR Cyber Security CTF team, but that is a small niche within a much larger general university community.",
+  "run_by": "BINUS University",
+  "website": "http://binus.ac.id/",
+  "github": null,
+  "youtube": null,
+  "region": "asia",
+  "country": "ID",
+  "subdivision": null,
+  "city": "Jakarta",
+  "language": "id",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "mntcrl",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "wargames",
+   "students",
+   "reverse-engineering",
+   "binary-exploitation"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "study-groups",
+   "workshops",
+   "writeups",
+   "chat"
+  ],
+  "summary": "Mntcrl Lab is a student- and alumni-run cybersecurity lab at the University of Bari Aldo Moro in Italy that started as a CTF team and grew into a broader training and research community. Members run workshops on security fundamentals, compete in national and international CTFs (over 100 since 2022), and publish vulnerability research and forensic write-ups; it suits students at the university and CTF players wanting a training-oriented team.",
+  "run_by": "Mntcrl Lab (University of Bari Aldo Moro students/alumni)",
+  "website": "https://mntcrl.it/",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "IT",
+  "subdivision": null,
+  "city": "Bari",
+  "language": "it",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "applications-for-singapore-student-merger-team",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "wargames",
+   "reverse-engineering"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "ctf-events",
+   "chat"
+  ],
+  "summary": "This is the Discord for a Singapore-based student CTF team (listed on CTFtime as a merged squad of Singaporean students) that plays in international CTF competitions together. It functions mainly as a coordination and chat space for teammates during competitions, and suits students already involved in or looking to join a competitive CTF team rather than complete beginners.",
+  "run_by": "community-run (Singapore student CTF players)",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "asia",
+  "country": "SG",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "low"
+ },
+ {
+  "id": "opensage",
+  "include": true,
+  "exclude_reason": null,
+  "category": "tool",
+  "tags": [
+   "ai-security",
+   "ctf",
+   "programming",
+   "reverse-engineering"
+  ],
+  "audience": [
+   "advanced"
+  ],
+  "beginner_friendly": 2,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "project-showcase"
+  ],
+  "activities_note": null,
+  "run_by": "OpenSage project (open-source, contributors unlisted)",
+  "website": "https://www.opensage-agent.ai/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium",
+  "summary": "OpenSage is an open-source framework for building AI agents that can autonomously develop and train other agents, and the team behind it built SageCTF, an AI agent that competed in a CTF at DEF CON 2026. The Discord is a small discussion space for the underlying software (agent development kit, inference/training tooling) rather than a general security-learning community, so it mainly suits developers already working on AI-driven offensive security tooling."
+ },
+ {
+  "id": "cybercorns",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "youth",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "chat",
+   "study-groups"
+  ],
+  "summary": "Cybercorns is the official student-run cybersecurity club at NCSSM Durham (North Carolina School of Science and Mathematics), a public residential high school. Members compete together in international CTF competitions, are working on forming a related nonprofit, and run informal activities to introduce classmates to cybersecurity; it's aimed squarely at high-schoolers new to the field.",
+  "run_by": "NCSSM Durham students (Cybercorns club)",
+  "website": "https://cybercorns.github.io/",
+  "github": null,
+  "youtube": null,
+  "region": "us-southeast",
+  "country": "US",
+  "subdivision": "NC",
+  "city": "Durham",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "lit",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "youth",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops"
+  ],
+  "summary": "LIT (Lexington Informatics Tournament) is a student-run competitive programming tournament out of Lexington, Massachusetts (organized by the LexMACS club) that includes a CTF round alongside its standard programming contest. The Discord is where competitors of all levels — split into middle school, high school, and post-high-school brackets — get support, form teams of up to three, and follow the annual event; it suits students looking for a first taste of CTF-style challenges as much as programming-contest regulars.",
+  "run_by": "LexMACS (student club)",
+  "website": "https://lit.lhsmathcs.org/",
+  "github": null,
+  "youtube": null,
+  "region": "us-northeast",
+  "country": "US",
+  "subdivision": "MA",
+  "city": "Lexington",
+  "language": "en",
+  "year_round": false,
+  "event": "LIT",
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "d25ga03",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "wargames"
+  ],
+  "audience": [
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "ctf-events",
+   "chat"
+  ],
+  "summary": "D25GA03 (CTFtime team \"PTIT Waguri\") is a student CTF team out of the Posts and Telecommunications Institute of Technology (PTIT) in Vietnam that competes together in international CTF events. The Discord serves as the team's practice and coordination channel and mainly suits members already playing CTFs together rather than newcomers looking for structured teaching.",
+  "run_by": "community-run (PTIT student CTF team)",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "asia",
+  "country": "VN",
+  "subdivision": null,
+  "city": null,
+  "language": "vi",
+  "year_round": null,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "low"
+ }
+]

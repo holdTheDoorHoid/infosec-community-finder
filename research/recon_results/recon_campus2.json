@@ -1,0 +1,463 @@
+[
+ {
+  "id": "rpisec",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "reverse-engineering",
+   "binary-exploitation",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "ctf-events",
+   "study-groups",
+   "workshops",
+   "job-board",
+   "mentorship"
+  ],
+  "summary": "This is the student-run computer security club at Rensselaer Polytechnic Institute, known for consistently placing among the top teams in international CTF competitions. Members attend weekly meetings (a beginner-focused intro series on Wednesdays, advanced topics on Fridays), practice CTF challenges together, and get help with security job and internship searches.",
+  "run_by": "RPI students",
+  "website": "https://rpis.ec/",
+  "github": null,
+  "youtube": null,
+  "region": "us-northeast",
+  "country": "US",
+  "subdivision": "NY",
+  "city": "Troy",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Weekly in-person meetings (Wed/Fri 6pm) exist alongside the Discord; IntroSec series is explicitly for beginners.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "uconn-cyber-csu",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "study-group"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "study-groups",
+   "workshops"
+  ],
+  "summary": "This is the cybersecurity student organization at the University of Connecticut, also known as UConnCyber, which maintains a GitHub org and gathers students interested in security. Members practice for and compete in CTF competitions together and hold study sessions and workshops on security topics.",
+  "run_by": "UConn students",
+  "website": null,
+  "github": "https://github.com/UConnSec",
+  "youtube": null,
+  "region": "us-northeast",
+  "country": "US",
+  "subdivision": "CT",
+  "city": "Storrs",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "computer-and-network-security-club-uva",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "study-group"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "study-groups",
+   "workshops"
+  ],
+  "summary": "This is the cybersecurity club at the University of Virginia, run by students, focused on educating members in security topics and fielding teams for national CTF competitions. Members join through the club's mailing list and Discord to learn together and prep for competitions representing UVA.",
+  "run_by": "UVA students",
+  "website": "https://uvacns.com/",
+  "github": null,
+  "youtube": null,
+  "region": "us-southeast",
+  "country": "US",
+  "subdivision": "VA",
+  "city": "Charlottesville",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "umn-blockchain",
+  "include": false,
+  "exclude_reason": "The Discord invite and description are for a University of Minnesota web3/blockchain discussion server ('We talk and share about web3/blockchain'), not a security or CTF club - it does not match the security-focused candidate name/notes attached to it.",
+  "category": "adjacent",
+  "tags": [
+   "programming",
+   "students"
+  ],
+  "audience": [
+   "intermediate"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat"
+  ],
+  "summary": "This is a student-run Discord for discussing web3 and blockchain technology at the University of Minnesota Twin Cities, unrelated to information security or CTF competitions. It doesn't fit a cybersecurity-focused directory.",
+  "run_by": "UMN students",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "us-midwest",
+  "country": "US",
+  "subdivision": "MN",
+  "city": "Minneapolis",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": "Invite/description mismatched with the intended security club (candidate name 'GopherHack' does not match this Discord's actual blockchain/web3 focus).",
+  "confidence": "medium"
+ },
+ {
+  "id": "isusec",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "blue-team",
+   "red-team",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "study-groups",
+   "workshops"
+  ],
+  "summary": "This is the Cybersecurity Club (ISUSec) at Illinois State University, a registered student organization where members learn information security fundamentals and compete in national cyber defense and offense competitions. The club also supports a high-school cyberdefense competition and takes members to regional conferences like BSides Peoria and ChiCyberCon.",
+  "run_by": "Illinois State University students",
+  "website": null,
+  "github": null,
+  "youtube": null,
+  "region": "us-midwest",
+  "country": "US",
+  "subdivision": "IL",
+  "city": "Normal",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ssl",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "malware-analysis",
+   "linux",
+   "general-infosec"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "study-groups",
+   "workshops",
+   "job-board"
+  ],
+  "summary": "The Security Society at LSU is a student-run cybersecurity club at Louisiana State University that runs weekly workshops and professional talks covering Linux command-line tools, C programming basics, and malware analysis. Members build a network of peers and industry professionals and get exposure to CTF-style challenges and competitions.",
+  "run_by": "LSU students",
+  "website": "https://www.cyberclublsu.com/",
+  "github": null,
+  "youtube": null,
+  "region": "us-south",
+  "country": "US",
+  "subdivision": "LA",
+  "city": "Baton Rouge",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Meets in person Mondays and Fridays 6-7:30pm; Discord invite mentioned on site but link not directly confirmed on-page.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "damsec-security-club-at-osu",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "regional"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "ctf-events",
+   "study-groups",
+   "chat",
+   "project-showcase"
+  ],
+  "summary": "This is the official cybersecurity club at Oregon State University, running weekly meetings, guest speakers, and a competition team for CTFs and Cyber Defense Competitions. It suits students in Corvallis (or online for talks) who want a structured, welcoming path into hands-on security, from newcomers learning basics to a competitive CTF team.",
+  "run_by": "Oregon State University students",
+  "website": "https://osusec.org/",
+  "github": null,
+  "youtube": null,
+  "region": "us-west",
+  "country": "US",
+  "subdivision": "OR",
+  "city": "Corvallis",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Discord invite not published directly on the site; join via the site's 'Join our Discord' link or email security.clubs@oregonstate.edu.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "durham-compsoc",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "programming",
+   "general-infosec",
+   "regional"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups"
+  ],
+  "summary": "Durham CompSoc is Durham University's student-run computing society covering programming, development, and general computing, with security-flavored talks, hackathons, and CTF-adjacent activity woven into its broader tech programme. It's aimed at Durham students of any experience level who want a general tech community rather than a security-only space.",
+  "run_by": "Durham University students",
+  "website": "https://compsoc.tech",
+  "github": "https://github.com/ducompsoc/website",
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": "Durham",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Discord invite is listed at compsoc.tech/discord; broader computing focus rather than security-specific.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "cryptonite",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "reverse-engineering",
+   "binary-exploitation",
+   "cryptography",
+   "hardware-hacking"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "ctf-events",
+   "workshops",
+   "mentorship",
+   "study-groups"
+  ],
+  "summary": "Cryptonite is the official cybersecurity and ethical hacking student organization at Manipal Institute of Technology (MAHE), running research, training, and mentorship in software and hardware security. They're best known for organizing the flagship niteCTF competition and the Cryptober event, drawing a CTF-competitive crowd.",
+  "run_by": "Manipal Institute of Technology (MAHE) students",
+  "website": "https://cryptonitemit.in/",
+  "github": "https://github.com/Cryptonite-MIT",
+  "youtube": null,
+  "region": "india",
+  "country": "IN",
+  "subdivision": null,
+  "city": "Manipal",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "The provided Slack invite_url (a generic cors-anywhere.herokuapp.com proxy) is not a valid invite; the club's own site lists only Instagram/LinkedIn/GitHub/email as public contact points.",
+  "red_flags": "Supplied invite_url does not point to an actual Slack workspace invite; a working join link could not be verified.",
+  "confidence": "medium"
+ },
+ {
+  "id": "0x1337-iiith",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "reverse-engineering",
+   "binary-exploitation",
+   "general-infosec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "ctf-events",
+   "study-groups",
+   "chat",
+   "workshops"
+  ],
+  "summary": "0x1337 is the official hacking and cybersecurity club at IIIT Hyderabad, focused on CTF training and competition, including running their own annual TheDeccanCTF event. It's geared toward students already comfortable with programming who want to build toward competitive CTF play.",
+  "run_by": "IIIT Hyderabad students",
+  "website": "https://clubs.iiit.ac.in/clubs/hacking.club",
+  "github": "https://github.com/0x1337iiit",
+  "youtube": null,
+  "region": "india",
+  "country": "IN",
+  "subdivision": null,
+  "city": "Hyderabad",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "uts-csec",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "general-infosec",
+   "regional"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups",
+   "mentorship"
+  ],
+  "summary": "UTS:CSEC is the cybersecurity society at the University of Technology Sydney, running a large, active Discord for students to chat, get help, and organize CTF practice and events. It suits UTS students from beginners through more experienced players looking for a campus security community.",
+  "run_by": "University of Technology Sydney students",
+  "website": "https://utscyber.org/",
+  "github": null,
+  "youtube": null,
+  "region": "australia-nz",
+  "country": "AU",
+  "subdivision": null,
+  "city": "Sydney",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "macs",
+  "include": true,
+  "exclude_reason": null,
+  "category": "ctf",
+  "tags": [
+   "ctf",
+   "students",
+   "programming",
+   "general-infosec",
+   "regional"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "ctf-events",
+   "chat",
+   "workshops",
+   "study-groups",
+   "job-board"
+  ],
+  "summary": "MACS (Macquarie Association of Computing Students) is a large, general computing society at Macquarie University in Sydney with a very active Discord covering programming, careers, and tech broadly, including some CTF and security activity rather than being security-focused. It suits Macquarie students wanting a big, lively general-CS community with security as one thread among many.",
+  "run_by": "Macquarie University students",
+  "website": "https://macs.codes/",
+  "github": null,
+  "youtube": null,
+  "region": "australia-nz",
+  "country": "AU",
+  "subdivision": null,
+  "city": "Sydney",
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": null,
+  "red_flags": null,
+  "confidence": "medium"
+ }
+]

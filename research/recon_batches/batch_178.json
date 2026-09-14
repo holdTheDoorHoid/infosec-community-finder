@@ -1,0 +1,122 @@
+[
+ {
+  "id": "takt",
+  "name": "TAKT",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23general:taktpraha.cz",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Prague, Czech Republic; ~25 members; founded 2020/06/01. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  We are a newly established hackerspace located at Jeseniova 212. We tend to create a place for creative people, that are interested in electronics, art, and SW. Aims: Our goal is to provide a support",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://taktpraha.cz",
+  "sources": [
+   "https://taktpraha.cz"
+  ]
+ },
+ {
+  "id": "lag",
+  "name": "LAG",
+  "platform": "irc",
+  "invite_url": "irc://irc.indymedia.nl/#lag",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Amsterdam, Noord-Holland, Netherlands; ~10+ members; founded 2007/05/10. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  The LAG is a cold but cozy hacklab located within collective [http://binnenpr.home.xs4all.nl/ De Binnenpret]. The LAG has it's origin in the [https://slug.squat.net SLUG], aka Squatters Linux User Gr",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.laglab.org",
+  "sources": [
+   "https://www.laglab.org"
+  ]
+ },
+ {
+  "id": "east-essex-hackspace",
+  "name": "East Essex Hackspace",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/KftFA5S",
+  "discord_description": null,
+  "members": 714,
+  "online": 55,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "East Essex Hackspace",
+  "candidate_notes": "Hackerspace in Hockley, Essex, United Kingdom; ~115 members; founded 2018/09/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  == EEH == East Essex Hackspace is a charity hackspace, located 45 minutes outside of London by train (and a 15 minute walk). It is open 24/7, a community run workshop where people come to share tools",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "http://eehack.space"
+  ]
+ },
+ {
+  "id": "bytewerk",
+  "name": "Bytewerk",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23bytewerk:libera.chat",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Ingolstadt, Bavaria, Germany; ~41 members; founded 2009/04/28. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  The Hackerspace of bingo e.V. ! http://www.bingo-ev.de/ official <span style=\"font-size: 120%\">OPENING 2010-04-10 at 13:30 CEST</span>, come visit us! [[Category:Hackerspace|bytewerk]] <!--- still ac",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://bytewerk.org/",
+  "sources": [
+   "https://bytewerk.org/"
+  ]
+ },
+ {
+  "id": "hackstub",
+  "name": "Hackstub",
+  "platform": "irc",
+  "invite_url": "irc://hackstub@irc.geeknode.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Strasbourg, Alsace, France; ~12 members; founded 2012/10/15. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  Hackstub is an associative hackerspace in Strasbourg that practices, contributes and raises awareness about free culture and computing among the local public, and conducts popular education work in a",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://hackstub.eu/",
+  "sources": [
+   "https://hackstub.eu/"
+  ]
+ },
+ {
+  "id": "undefspace",
+  "name": "Undefspace",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23undefspace:matrix.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Moscow, Moscow, Russian Federation; ~10 members; founded 2020/11/28. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  == ♥ == ♥ Hackerspace in the middle of Moscow ♥ We are gathering to hack Prolog on Thursdays, and to rant and hack away at random stuff on Fridays — that’s when you have the best chance to know us. M",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://undef.club",
+  "sources": [
+   "https://undef.club"
+  ]
+ }
+]

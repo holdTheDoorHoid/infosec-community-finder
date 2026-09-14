@@ -1,0 +1,122 @@
+[
+ {
+  "id": "revelation-space",
+  "name": "Revelation space",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#libera_#revspace:pixie.town",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Leidschendam, Zuid-Holland, Netherlands; ~~90 members; founded 2009/08/17. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  == Founding == “Why isn’t there a hackerspace in Den Haag?”. A question frequently overheard during Hacking at Random (HAR2009), the recent hacker camp in The Netherlands. And a good question as well",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://revspace.nl/",
+  "sources": [
+   "http://revspace.nl/"
+  ]
+ },
+ {
+  "id": "ccc-hamburg",
+  "name": "CCC Hamburg",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#ccchh-space:hamburg.ccc.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Hamburg, Hamburg, Germany; ~137 members; founded 1985/04/12. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  We are now to be found in the Zeiseweg 9 in Altona-Nord. [[Category:CCC]] [[Category:CCC Erfa]] <!--- Checked by mappall.space bot. WikiMessage En Zo. --> <!--- Checked by mappall.space bot. Updated ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://www.hamburg.ccc.de/",
+  "sources": [
+   "http://www.hamburg.ccc.de/"
+  ]
+ },
+ {
+  "id": "toppoint-e-v",
+  "name": "Toppoint e.V.",
+  "platform": "irc",
+  "invite_url": "irc://hackint.net/toppoint",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Kiel, Schleswig-Holstein, Germany; ~98 members; founded 1990/07/20. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  The Toppoint e.V. is Kiel's local hackerspace. We meet every monday, thursday and friday from about 19:00. [http://www.toppoint.de/tp/verein/wegbeschreibung/index] <!-- Checked by mapall.space bot on",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://toppoint.de",
+  "sources": [
+   "http://toppoint.de"
+  ]
+ },
+ {
+  "id": "nerdbridge",
+  "name": "NerdBridge",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#nerdbridge:nerdbridge.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Einbeck, Lower-Saxony, Germany; ~10 members; founded 2014/06/27. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  __NOTOC__ == Die NerdBridge == Die noch junge NerdBridge im Herzen von Einbeck befindet sich noch im Aufbau. Wir haben im Moment ca. 10 Mitglieder und es kommen immer mal wieder neue Gesichter vorbei",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://www.nerdbridge.de",
+  "sources": [
+   "http://www.nerdbridge.de"
+  ]
+ },
+ {
+  "id": "metamakers",
+  "name": "MetaMakers",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/nSWAjkxtDp",
+  "discord_description": null,
+  "members": 107,
+  "online": 9,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Meta Makers Co-operative",
+  "candidate_notes": "Hackerspace in Windsor, Ontario, Canada; ~25 members; founded 2019/04/25. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl). ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.metamakers.org"
+  ]
+ },
+ {
+  "id": "italian-hackers-embassy",
+  "name": "Italian Hackers Embassy",
+  "platform": "slack",
+  "invite_url": "https://join.slack.com/t/italiangrappa/shared_invite/enQtMzMwNzg3MDIzMDQ3LWM1YjY0ZTNjNmJkMjk4OGUwODFhNDg3YjdkYjE3ZTZjMzMxN2Y2MGM5NmI0NDliNzNlMWRhZjU4NzUyZTgzNzA",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Italy; ~2000 members; founded 2007/08/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  We're a spontaneous community of Italian hackers who since 2007 get together around different hackers events happening mostly abroad (not in Italy), providing an inclusive environment where hackers m",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://italianhackerembassy.it/#not yet existing",
+  "sources": [
+   "https://italianhackerembassy.it/#not yet existing"
+  ]
+ }
+]

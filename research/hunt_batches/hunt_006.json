@@ -1,0 +1,122 @@
+[
+ {
+  "name": "DevClub CTF community",
+  "university": "Indian Institute of Technology Delhi",
+  "country": "IN",
+  "city": "New Delhi",
+  "website": "https://linkedin.com/company/devclub-iit-delhi",
+  "crawl": "ok",
+  "note": "DevClub IIT Delhi has organized CTF events with an event-specific Discord (discord.gg/wEKuy3s7cK, 2022) but no evidence of a persistent official security-club server; needs verification.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Jadavpur University cybersecurity/CTF club",
+  "university": "Jadavpur University",
+  "country": "IN",
+  "city": "Kolkata",
+  "website": null,
+  "crawl": "no-site",
+  "note": "Could not locate a dedicated student cybersecurity/CTF club site or social page in search results; needs a directory crawl of the university's official student-organizations portal.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "NUS Greyhats",
+  "university": "National University of Singapore",
+  "country": "SG",
+  "city": "Singapore",
+  "website": "https://nusgreyhats.org/",
+  "crawl": "ok",
+  "note": "Site checked; only Twitter/Telegram/YouTube/GitHub/email listed, no Discord/Slack found on homepage.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "SMU Whitehat Society",
+  "university": "Singapore Management University",
+  "country": "SG",
+  "city": "Singapore",
+  "website": "https://whitehats.computing.smu.edu.sg/",
+  "crawl": "unreachable",
+  "note": "Site unreachable (connection refused) during this pass; needs re-crawl.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "HKUST Firebird",
+  "university": "Hong Kong University of Science and Technology",
+  "country": "HK",
+  "city": "Hong Kong",
+  "website": "https://ctf.firebird.sh/",
+  "crawl": "ok",
+  "note": "CTF competition site had no invite listed yet (2026 page under construction); team is reported to use Discord internally.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "KAIST GoN (KaisHack GoN)",
+  "university": "KAIST",
+  "country": "KR",
+  "city": "Daejeon",
+  "website": "https://gon.kaist.ac.kr/",
+  "crawl": "unreachable",
+  "note": "Domain did not resolve during this pass.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "POSTECH PLUS",
+  "university": "POSTECH",
+  "country": "KR",
+  "city": "Pohang",
+  "website": null,
+  "crawl": "no-site",
+  "note": "Could not locate an official club website; only mentioned as part of the K-Students CTF coalition.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Korea University CyKor",
+  "university": "Korea University",
+  "country": "KR",
+  "city": "Seoul",
+  "website": "https://cykor.kr/",
+  "crawl": "ok",
+  "note": "Site loaded almost blank (JS-rendered app); no link visible in fetched content.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "TSG (University of Tokyo)",
+  "university": "University of Tokyo",
+  "country": "JP",
+  "city": "Tokyo",
+  "website": "https://tsg.ne.jp/",
+  "crawl": "ok",
+  "note": "Site fetched; only membership application info, no chat platform link visible.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Balsn (National Taiwan University)",
+  "university": "National Taiwan University",
+  "country": "TW",
+  "city": "Taipei",
+  "website": "https://balsn.tw/",
+  "crawl": "ok",
+  "note": "Only email/GitHub/Twitter listed; no Discord/Slack link found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Bamboofox (NYCU)",
+  "university": "National Yang Ming Chiao Tung University",
+  "country": "TW",
+  "city": "Hsinchu",
+  "website": "https://github.com/bamboofox",
+  "crawl": "ok",
+  "note": "Primary domain (bamboofox.tw) did not resolve; GitHub org has no chat link visible.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "BKSEC (Bach Khoa Security Club)",
+  "university": "Hanoi University of Science and Technology",
+  "country": "VN",
+  "city": "Hanoi",
+  "website": "https://bksec.vn/",
+  "crawl": "ok",
+  "note": "Site returned 403 to fetch; needs a different crawl method.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ }
+]

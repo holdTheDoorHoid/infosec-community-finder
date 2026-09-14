@@ -1,0 +1,122 @@
+[
+ {
+  "name": "MIT Security Club (MITsec)",
+  "university": "Massachusetts Institute of Technology",
+  "country": "US",
+  "city": "Cambridge",
+  "website": "http://mitsecurityclub.mit.edu/",
+  "crawl": "unreachable",
+  "note": "Runs CTFs and biweekly security talks; site mentions an email list but no discord/slack link found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "WPI Cyber Security Club (CSC)",
+  "university": "Worcester Polytechnic Institute",
+  "country": "US",
+  "city": "Worcester",
+  "website": "https://mywpi.wpi.edu/CSC/",
+  "crawl": "ok",
+  "note": "Runs WPICTF annually and MITRE eCTF team; uses Discord per description but no public invite link located.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Terrapin Hackers / UMD Cybersecurity Club (UMDCSEC)",
+  "university": "University of Maryland, College Park",
+  "country": "US",
+  "city": "College Park",
+  "website": "https://csec.umd.edu/",
+  "crawl": "ok",
+  "note": "Site's 'Join Discord' button routes through TerpLink (login-gated) rather than a direct public invite.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "GW Cyber Security Club",
+  "university": "George Washington University",
+  "country": "US",
+  "city": "Washington",
+  "website": "https://www.facebook.com/gwcyber/",
+  "crawl": "unreachable",
+  "note": "Also a 'Buff & Blue Hat Hacking Club' referenced in search results but not confirmed on GW's own student-org listing.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Cyberbirds",
+  "university": "Johns Hopkins University",
+  "country": "US",
+  "city": "Baltimore",
+  "website": null,
+  "crawl": "no-site",
+  "note": "Described as JHU's undergraduate cybersecurity collective; cyber.jhu.edu was unreachable this session (DNS failure) so no page/link could be checked.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Lehigh Cybersecurity Club (LCSC)",
+  "university": "Lehigh University",
+  "country": "US",
+  "city": "Bethlehem",
+  "website": "https://www.instagram.com/lehighcybersecurityclub/",
+  "crawl": "ok",
+  "note": "Instagram bio points to a GroupMe, not a Discord/Slack/Matrix space.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Pitt Cybersecurity Club",
+  "university": "University of Pittsburgh",
+  "country": "US",
+  "city": "Pittsburgh",
+  "website": "https://www.sci.pitt.edu/student-resources/student-organizations",
+  "crawl": "ok",
+  "note": "Existence referenced (co-founder named in search results) but no dedicated club page or chat link found; worth a direct crawl of the SCI student-orgs page.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "NC State HackPack",
+  "university": "North Carolina State University",
+  "country": "US",
+  "city": "Raleigh",
+  "website": "https://hackpack.club/",
+  "crawl": "ok",
+  "note": "Site references a Discord link behind a button/icon that a plain-text fetch could not resolve; crawl the rendered page for the actual invite URL.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Rams Hack",
+  "university": "University of North Carolina at Chapel Hill",
+  "country": "US",
+  "city": "Chapel Hill",
+  "website": "https://heellife.unc.edu/organization/ntropy-unc",
+  "crawl": "ok",
+  "note": "Hands-on security club, communicates via Discord and Instagram (@ramshackunc); no invite link surfaced in fetched pages, contact ramshack@unc.edu.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "CyberWVU",
+  "university": "West Virginia University",
+  "country": "US",
+  "city": "Morgantown",
+  "website": "https://cyberwvu.orgs.wvu.edu/",
+  "crawl": "ok",
+  "note": "WVU student org (NCL, MACCDC, Locked Shields); the orgs.wvu.edu page returned 403 to automated fetch.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "HackUTK",
+  "university": "University of Tennessee, Knoxville",
+  "country": "US",
+  "city": "Knoxville",
+  "website": "https://hackutk.org/",
+  "crawl": "unreachable",
+  "note": "Domain did not resolve during this pass; verify current URL and check for a Discord/Slack link.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "VolSec",
+  "university": "University of Tennessee, Knoxville",
+  "country": "US",
+  "city": "Knoxville",
+  "website": "https://volsec.utk.edu/",
+  "crawl": "unreachable",
+  "note": "Faculty/student cybersecurity research consortium; no public chat link found on site.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ }
+]

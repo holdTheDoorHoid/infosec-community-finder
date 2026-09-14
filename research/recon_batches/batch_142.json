@@ -1,0 +1,122 @@
+[
+ {
+  "id": "hackher-network-bugcrowd",
+  "name": "hackHER Network (Bugcrowd)",
+  "platform": "portal",
+  "invite_url": "https://www.surveymonkey.com/r/hackHER-network-bc",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: women; org: Bugcrowd; join: request-form (eligibility form, then a Discord invite is emailed). Women-only hacking/bug-bounty community run by Bugcrowd.",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.bugcrowd.com/blog/announcing-the-new-women-only-hacking-community-hackerher-network/"
+  ]
+ },
+ {
+  "id": "out-in-tech",
+  "name": "Out in Tech",
+  "platform": "portal",
+  "invite_url": "https://outintech.com/join",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: lgbtq; org: Out in Tech; join: free-signup (signup flow leads to their Discord, 37,000+ members, migrated 2026); scope: tech-with-security-channel. Broad queer-in-tech career community with chapters in 32+ cities.",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://outintech.com/join"
+  ]
+ },
+ {
+  "id": "techvets",
+  "name": "TechVets",
+  "platform": "portal",
+  "invite_url": "https://www.techvets.co/community/",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: veterans; org: TechVets (Forces Employment Charity, UK); join: free-signup via the community page (Discord behind it). UK veterans, service leavers, reservists and military spouses into IT and cyber careers; 12 local UK chapters.",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.techvets.co/community/"
+  ]
+ },
+ {
+  "id": "techqueria",
+  "name": "Techqueria",
+  "platform": "slack",
+  "invite_url": "https://techqueria.org/slack",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: other; org: Techqueria; join: request-form; scope: tech-with-security-channel. Latinx professionals in tech (allies also welcome); Slack access is free but gated behind a membership application (collects professional/demographic info) at techqueria.org/join, not an open invite link. Members log in at techqueria.slack.com. Not a dedicated security community but broad tech community with s",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://techqueria.org/slack"
+  ]
+ },
+ {
+  "id": "vetsec-veterans-in-security",
+  "name": "VetSec (Veterans in Security)",
+  "platform": "slack",
+  "invite_url": "https://vetsec.org/join-us/",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: veterans; org: VetSec; join: request-form; scope: security. Site states 'Your membership invite will come from Slack, our community platform. Application to any of our programs occurs within Slack.' No public discord.gg/slack-invite link visible; applicants apply via the Join Us page and receive a Slack invite.",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://vetsec.org/join-us/"
+  ]
+ },
+ {
+  "id": "blacks-in-cybersecurity-bic",
+  "name": "Blacks In Cybersecurity (BIC)",
+  "platform": "portal",
+  "invite_url": "https://forms.gle/soNj7pzbvqcBx2rH8",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: bipoc; org: Blacks In Cybersecurity; join: request-form; scope: security. The blacksincyberconf.com/online-community page (missed by the first pass) states: 'Please fill out this form for our online community application' — an open Google Form anyone can submit, with an alternative path of having an existing member vouch. Platform (Discord/Slack) not disclosed since it migrates over time",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.blacksincyberconf.com/online-community"
+  ]
+ }
+]

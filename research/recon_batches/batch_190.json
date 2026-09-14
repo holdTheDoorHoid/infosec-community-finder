@@ -1,0 +1,122 @@
+[
+ {
+  "id": "stellar-vector",
+  "name": "Stellar Vector",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/tbP75TNfNR",
+  "discord_description": null,
+  "members": 230,
+  "online": 27,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Stellar Vector",
+  "candidate_notes": "University club at KU Leuven (Leuven, BE). Primarily-academic CTF team associated with KU Leuven; Discord is described as their main communication channel.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.stellarvector.be/"
+  ]
+ },
+ {
+  "id": "kalmarctf",
+  "name": "KalmarCTF",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/adQNMZRcJU",
+  "discord_description": null,
+  "members": 2753,
+  "online": 654,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Kalmarunionen (KalmarCTF)",
+  "candidate_notes": "University club at Danish/Nordic academic CTF collective (DTU-affiliated) (, DK). Collaborative of mostly Danish/Nordic academic CTF players (DTU and others), not a single university club, but the leading Nordic academic CTF community; Discord is for the KalmarCTF event/team.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://ctftime.org/team/114856/"
+  ]
+ },
+ {
+  "id": "itemize-ntnu",
+  "name": "Itemize NTNU",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/gWJdXbW8Sg",
+  "discord_description": null,
+  "members": 531,
+  "online": 79,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Itemize NTNU",
+  "candidate_notes": "University club at Norwegian University of Science and Technology (NTNU) (Trondheim, NO). Norwegian CTF team out of NTNU Trondheim; Discord link found in the site footer.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://itemize.no"
+  ]
+ },
+ {
+  "id": "csec-iit-bombay",
+  "name": "CSeC, IIT Bombay",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/hYthhnGVdN",
+  "discord_description": "Official server of the Cyber security Community (CSeC), IIT Bombay.",
+  "members": 993,
+  "online": 24,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cyber Security Community (CSeC), IIT Bombay",
+  "candidate_notes": "University club at Indian Institute of Technology Bombay (Mumbai, IN). Also referenced as IITBreachers CTF team via csea-iitb.github.io wiki, which lists a different invite (discord.gg/eHGwP6CGSy) for what appears to be the same broader club; used the club's own current site (cseciitb.github.io) as primary.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://cseciitb.github.io/"
+  ]
+ },
+ {
+  "id": "programming-club-iit-kanpur",
+  "name": "Programming Club, IIT Kanpur",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/RGSSrYDTKw",
+  "discord_description": "We are a community of IIT Kanpur students highly enthusiastic about all aspects of programming.",
+  "members": 6176,
+  "online": 94,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Programming Club, IIT Kanpur (InfoSec vertical)",
+  "candidate_notes": "University club at Indian Institute of Technology Kanpur (Kanpur, IN). InfoSec is a track/team within the broader Programming Club, which runs a dedicated infosec roadmap (wiredin.pclub.in) and an infosec channel on this shared Discord; no separate infosec-only server was found.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://pclub.in/about/"
+  ]
+ },
+ {
+  "id": "syncs-usyd",
+  "name": "SYNCS USYD",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/k7PefhcXSx",
+  "discord_description": null,
+  "members": 1367,
+  "online": 200,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "The Sydney Computing Society (SYNCS)",
+  "candidate_notes": "University club at University of Sydney (Sydney, AU). Infosec/security-focused computing society; Discord invite listed in site footer under social links.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://syncs.org.au"
+  ]
+ }
+]

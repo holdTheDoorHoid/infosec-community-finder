@@ -1,0 +1,122 @@
+[
+ {
+  "id": "rpisec",
+  "name": "RPISEC",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/esNEjvuy78",
+  "discord_description": null,
+  "members": 803,
+  "online": 130,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "RPISEC",
+  "candidate_notes": "University club at Rensselaer Polytechnic Institute (Troy, US); link found by crawling the club site. Well-known competitive CTF club; site says schedule changes are announced 'on discord' but no invite link is published on the page.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://rpis.ec/"
+  ]
+ },
+ {
+  "id": "uconn-cyber-csu",
+  "name": "UConn Cyber (CSU)",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/FGu9Fs2XTm",
+  "discord_description": null,
+  "members": 288,
+  "online": 13,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UConn Cybersecurity Club (UConnCyber)",
+  "candidate_notes": "University club at University of Connecticut (Storrs, US); link found by crawling the club site. Also has a GitHub org (github.com/UConnSec); no discord/slack link surfaced.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://uconntact.uconn.edu/organization/uconncyber"
+  ]
+ },
+ {
+  "id": "computer-and-network-security-club-uva",
+  "name": "Computer and Network Security Club @ UVA",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/AeSy8wM3NV",
+  "discord_description": "We are the cybersecurity club at the University of Virginia! We focus on educating our members in cybersecurity topics and representing UVA in cybersecurity competitions around the country.",
+  "members": 843,
+  "online": 62,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Computer and Network Security Club (UVA CNS)",
+  "candidate_notes": "University club at University of Virginia (Charlottesville, US); link found by crawling the club site. Site returned 403 to fetch; mailing list + Discord mentioned in search snippet but invite not confirmed.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://uvacns.com/"
+  ]
+ },
+ {
+  "id": "umn-blockchain",
+  "name": "UMN Blockchain",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/EeVuh24q8E",
+  "discord_description": "We talk and share about web3/blockchain, come join!",
+  "members": 755,
+  "online": 33,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "GopherHack",
+  "candidate_notes": "University club at University of Minnesota Twin Cities (Minneapolis, US); link found by crawling the club site. Referenced as offensive-security CTF student org; specific club homepage/link not located within search budget.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://cse.umn.edu/cs/student-groups"
+  ]
+ },
+ {
+  "id": "isusec",
+  "name": "ISUSec",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/9ZgKubhJRX",
+  "discord_description": null,
+  "members": 195,
+  "online": 11,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cybersecurity Club",
+  "candidate_notes": "University club at Illinois State University (Normal, US); link found by crawling the club site. RedbirdLife org page did not render a chat/community link.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://redbirdlife.illinoisstate.edu/organization/security"
+  ]
+ },
+ {
+  "id": "ssl",
+  "name": "SSL",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/7GW2uaGZSR",
+  "discord_description": null,
+  "members": 480,
+  "online": 56,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Security Society at LSU",
+  "candidate_notes": "University club at Louisiana State University (Baton Rouge, US); link found by crawling the club site. Site says \"join our discord group\" but no invite URL rendered/accessible (tigerlink page 403).",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.cyberclublsu.com/"
+  ]
+ }
+]

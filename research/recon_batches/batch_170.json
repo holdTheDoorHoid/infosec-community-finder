@@ -1,0 +1,122 @@
+[
+ {
+  "id": "helsinki-hacklab",
+  "name": "Helsinki Hacklab",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23helsinki:hacklab.fi",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Helsinki, Finland; ~about 450 members, ~85 keyholders members; founded 2010-01-17. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  Helsinki Hacklab is the first Finnish open hackerspace. We organize workshops, lectures and collaborative projects for our members and everyone else. On Tuesdays we have Open Day where we meet other ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://helsinki.hacklab.fi/",
+  "sources": [
+   "http://helsinki.hacklab.fi/"
+  ]
+ },
+ {
+  "id": "tinycore-lab",
+  "name": "~/tinycore.lab",
+  "platform": "irc",
+  "invite_url": "irc://irc.oftc.net/tinycore-lab",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Litochoro, Pieria, Greece; ~2 members; founded 2016/12/24. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  ~/tinycore.lab is a tiny warehouse space where a small group of people share their passion for research and collect tools in order to develop and build upon open-source individual projects. <!-- Chec",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://tinycorelab.noblogs.org",
+  "sources": [
+   "https://tinycorelab.noblogs.org"
+  ]
+ },
+ {
+  "id": "voidwarranties",
+  "name": "voidwarranties",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/2zWM4BP",
+  "discord_description": null,
+  "members": 153,
+  "online": 25,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "VoidWarranties",
+  "candidate_notes": "Hackerspace in Deurne, Belgium, Antwerp Province, Belgium; ~20 members; founded 2010/03/01. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  We are located about 5 km east of the Antwerp city center and have regular meetings on Wednesday. We are also very often open on Friday and evening. Check the VoidWarranties website for more info on ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://we.voidwarranties.be"
+  ]
+ },
+ {
+  "id": "hackgyver-2-0",
+  "name": "HackGyver 2.0",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/P6dj5ayr44",
+  "discord_description": "Le hackerspace de Belfort",
+  "members": 60,
+  "online": 13,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "HackGyver",
+  "candidate_notes": "Hackerspace in Belfort, Franche-Comté, France; ~~32 members; founded 2012/05/24. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl). ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "http://www.hackgyver.fr"
+  ]
+ },
+ {
+  "id": "garagelab-ev",
+  "name": "GarageLab eV",
+  "platform": "forum",
+  "invite_url": "https://forum.garage-lab.de/",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Duesseldorf, North Rhine-Westphalia, Germany. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  '''''GarageLab e.V. Das FabLab in Duesseldorf''''' is a [[:Category:FabLab|FabLab]] in Duesseldorf, Germany Main Topics are DIY, Rapid Prototyping, 3D-Printing with an own [http://reprap.org/wiki/Pru",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://garage-lab.de",
+  "sources": [
+   "https://garage-lab.de"
+  ]
+ },
+ {
+  "id": "pvv-nvg",
+  "name": "PVV/NVG",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/pyDDFpbG2x",
+  "discord_description": null,
+  "members": 666,
+  "online": 143,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Programvareverkstedet",
+  "candidate_notes": "Hackerspace in Trondheim, Trøndelag, Norway; ~2000 members; founded 1985. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Programvareverkstedet (PVV, The Software Workshop) is a student organization at the Norwegian University of Science and Technology (NTNU). PVV's purpose is to create an environment for people that ta",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.pvv.ntnu.no/"
+  ]
+ }
+]

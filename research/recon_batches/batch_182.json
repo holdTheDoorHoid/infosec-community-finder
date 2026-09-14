@@ -1,0 +1,122 @@
+[
+ {
+  "id": "turku-hacklab",
+  "name": "Turku Hacklab",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23turku:hacklab.fi",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Turku, Finland; ~~40 members; founded 2011/09/22. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  Doors are open for public every Tuesday after 18:00. <!--- Checked by mappall.space bot. Updated manual via http://mapall.space/hswikilist.php --> <!--- Checked by mappall.space bot. ** Space Turku H",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://turku.hacklab.fi",
+  "sources": [
+   "https://turku.hacklab.fi"
+  ]
+ },
+ {
+  "id": "chaostreff-dortmund",
+  "name": "Chaostreff Dortmund",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23ccc.do:matrix.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Dortmund, North Rhine-Westphalia, Germany; ~>25 members; founded 2003/02. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  The Chaostreff Dortmund is a hackerspace run by friendly people from Dortmund and the cities around. We are located north of the city centre of Dortmund, a rather large town at the east of the “Ruhrg",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.chaostreff-dortmund.de/",
+  "sources": [
+   "https://www.chaostreff-dortmund.de/"
+  ]
+ },
+ {
+  "id": "matehackers",
+  "name": "Matehackers",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#matehackers:matrix.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Porto Alegre, Rio Grande do Sul, Brazil. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  <!-- Checked by mapall.space bot on 2020-04-28 00:28. --> <!--- Checked by mappall.space bot. ** Space Matehackers Last modified on wiki 2020-04-28 - days 368 ago ** https://wiki.hackerspaces.org/Mat",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://matehackers.org",
+  "sources": [
+   "http://matehackers.org"
+  ]
+ },
+ {
+  "id": "namespace-gera",
+  "name": "Namespace Gera",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23namespace:matrix.ffggrz.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Gera, Thuringia, Germany; ~15 members; founded 2018. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  Our space named \"<name>space\" was founded as a part of a state-funded project based around \"Freifunk\". The focus is still on network content but was widened into LoRaWAN, sensors in general and tinke",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://buergernetz-gera-greiz.de/namespace",
+  "sources": [
+   "https://buergernetz-gera-greiz.de/namespace"
+  ]
+ },
+ {
+  "id": "hackland",
+  "name": "HackLand",
+  "platform": "slack",
+  "invite_url": "https://join.slack.com/t/hakland/shared_invite/zt-40uqqj8ip-uTt1z_V_0lB0V~xC_DyiLg",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Auckland, Auckland, New Zealand; ~25 members; founded 2017/06/27. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Hackland is an independent, not for profit Hackspace in central Auckland for Ukelele, Coffee, Ethereum, Bitcoin, 3D Printing, CNC, Woodworking, Metalworking, Electronics, Coding, Sewing, Arts and Cra",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://hackland.nz",
+  "sources": [
+   "http://hackland.nz"
+  ]
+ },
+ {
+  "id": "munich-maker-lab",
+  "name": "Munich Maker Lab",
+  "platform": "irc",
+  "invite_url": "irc://irc.hackint.org/munichmakerlab",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Munich, Bavaria, Germany; ~120 members; founded 2014/02/01. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  == About == The Munich Maker Lab provides tools resources and space to any hacker, maker and tinkerer of any kind. We're currently equipped with a laser cutter, multiple 3D printers (that are only so",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://munichmakerlab.de/",
+  "sources": [
+   "https://munichmakerlab.de/"
+  ]
+ }
+]

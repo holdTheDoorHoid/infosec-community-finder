@@ -1,0 +1,122 @@
+[
+ {
+  "id": "the-cyber-sentinels-club",
+  "name": "The Cyber Sentinels Club",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/CYVe2CyrXk",
+  "discord_description": null,
+  "members": 1382,
+  "online": 60,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "The Cyber Sentinel Club",
+  "candidate_notes": "University club found via GitHub org/README scan (CyberSentinels): The mission of The Cyber Sentinel Club is to create a community of cyber and IT professionals who are committed to sharing knowledge and ideas.. Club of cyber/IT professionals and students; verify whether campus-based.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/CyberSentinels"
+  ]
+ },
+ {
+  "id": "glasgow-university-hacksoc",
+  "name": "Glasgow University HackSoc",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/6r2rhNZKph",
+  "discord_description": null,
+  "members": 113,
+  "online": 11,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "ENUSEC (Edinburgh Napier University Security Society)",
+  "candidate_notes": "University club found via GitHub org/README scan (ENUSEC): Edinburgh Napier University Security Society. ",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/ENUSEC"
+  ]
+ },
+ {
+  "id": "brunel-cybersecurity-society",
+  "name": "Brunel Cybersecurity Society",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/anmggPyVcs",
+  "discord_description": null,
+  "members": 7,
+  "online": 2,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Brunel Cyber Security Society",
+  "candidate_notes": "University club found via GitHub org/README scan (brunelcybersec): . ",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/brunelcybersec"
+  ]
+ },
+ {
+  "id": "guelph-cyber-security-society",
+  "name": "Guelph Cyber Security Society",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/q8sFYSHP94",
+  "discord_description": "Explore the world of cyber security and protect the digital world with our club. Join us for hands-on workshops, guest speakers and events.",
+  "members": 517,
+  "online": 41,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "University of Guelph Cyber Security Society",
+  "candidate_notes": "University club found via GitHub org/README scan (Guelph-Cyber-Security-Society): The University of Guelph Cyber Security Society. ",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/Guelph-Cyber-Security-Society"
+  ]
+ },
+ {
+  "id": "hawksec",
+  "name": "HawkSec",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/3bCNU2Rxvz",
+  "discord_description": "HawkSec is a community for University of Iowa students interested in hacking and computer security",
+  "members": 6,
+  "online": 1,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "HawkSec (University of Iowa computer security club)",
+  "candidate_notes": "University club found via GitHub org/README scan (HawkSecUIowa): The computer security club at the University of Iowa. ",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/HawkSecUIowa"
+  ]
+ },
+ {
+  "id": "uol-cybersec-dev-team",
+  "name": "UoL CyberSec Dev Team",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/5MjSsbxEe8",
+  "discord_description": null,
+  "members": 14,
+  "online": 1,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UoLCyberSec (University of London)",
+  "candidate_notes": "University club found via GitHub org/README scan (uolcybersec): UoLCyberSec is the University of London's student-led international cybersecurity and ethical hacking society.. ",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://github.com/uolcybersec"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "siscd",
+  "name": "SiSCD",
+  "platform": "irc",
+  "invite_url": "https://web.libera.chat/#siscd",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Duffel, Antwerp Province, Belgium; ~10 members; founded 2018/08/24. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  We collaborate and share knowledge about electronics, digital technology, and mechanics. SiSCD is an open initiative — everyone with an interest is welcome to join, contribute, or learn, with no memb",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.siscd.org/",
+  "sources": [
+   "https://www.siscd.org/"
+  ]
+ },
+ {
+  "id": "hackerspace-pomorze-hsp-sh",
+  "name": "Hackerspace Pomorze - hsp.sh",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/2VZfQVejVP",
+  "discord_description": "Stowarzyszenie Hackerspace Pomorze tworzy społeczność oraz przestrzeń warsztatową dla pasjonatów przy ulicy Do Studzienki 28 w Gdańsku",
+  "members": 610,
+  "online": 112,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Hackerspace Pomerania",
+  "candidate_notes": "Hackerspace in Gdansk, Pomerania, Poland; ~40 members; founded 2020/10/10. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  A. K. A. Hackerspace Pomorze, HSP, is a hackerspace located in Gdańsk Wrzeszcz. It has been founded in 2020, by a group of 20 members that have been operating since 2017. <!--- Checked by mappall.spa",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://hsp.sh/"
+  ]
+ },
+ {
+  "id": "hackerspacesg",
+  "name": "HackerspaceSG",
+  "platform": "irc",
+  "invite_url": "irc://irc.libera.chat/hackerspacesg",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Singapore, Singapore; ~16 members; founded 2009/08/27. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  HackerspaceSG is a community based effort of a group of us who want a hackerspace in Singapore. Tons of people are involved from everything from getting the place clean to sourcing events and holding",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://hackerspace.sg",
+  "sources": [
+   "https://hackerspace.sg"
+  ]
+ },
+ {
+  "id": "leeds-hackspace",
+  "name": "Leeds Hackspace",
+  "platform": "irc",
+  "invite_url": "irc://libera.chat/#leedshackspace",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Leeds, West Yorkshire, United Kingdom; ~100 members; founded 2009/04/23. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  Leeds Hackspace is a place for anyone to communally get together, socialise and create with access to space/workshop that has tools that you may otherwise not be able to have hands-on with thanks to ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://www.leedshackspace.org.uk",
+  "sources": [
+   "http://www.leedshackspace.org.uk"
+  ]
+ },
+ {
+  "id": "shackspace",
+  "name": "Shackspace",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23shackspace:libera.chat",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Stuttgart, Baden-Württemberg, Germany; ~~110 members; founded 2009/09/13. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  === shackspace === shackspace (styled \"'''shackspace'''\") is the Stuttgart Hackerspace run by shack e.V. We're a group of nerds and technology enthusiasts (but I bet you already guessed that, eh). Co",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://shackspace.de/",
+  "sources": [
+   "https://shackspace.de/"
+  ]
+ },
+ {
+  "id": "makehackvoid",
+  "name": "MakeHackVoid",
+  "platform": "forum",
+  "invite_url": "https://community.canberramaker.space/",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Canberra, Australian Capital Territory, Australia; ~18 members; founded 2009/11/27. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  MakeHackVoid (aka Canberra Makerspace), described by Us Folk magazine as “one of Canberra’s best new creative organisations”, is a makerspace that provides ACT residents with a multi-use workshop and",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://canberramaker.space/",
+  "sources": [
+   "https://canberramaker.space/"
+  ]
+ }
+]

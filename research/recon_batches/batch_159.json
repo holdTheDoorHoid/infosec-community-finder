@@ -1,0 +1,122 @@
+[
+ {
+  "id": "hackwerk-aalen",
+  "name": "Hackwerk Aalen",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#space:aalen.space",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Aalen, Baden-Württemberg, Germany; ~35 members; founded 2022/01/14. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Ein junger Chaostreff, entstanden aus einer Gruppe von Studierenden, mit Verbindung zu Vorgängergruppen und MentorInnen des örtlichen Schülerforschungszentrums. Da es auf der Ostalb keinen Chaostreff",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://aalen.space/",
+  "sources": [
+   "https://aalen.space/"
+  ]
+ },
+ {
+  "id": "hackerspace-krak-w",
+  "name": "Hackerspace Kraków",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23hskrk:hackerspace.pl",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Cracow, Lesser Poland, Poland; ~~90 members; founded 2012/10/17. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  === About us === We are non-profit hackerspace in central part of [[Cracow|Kraków]]. Our HQ is located in a basement 2 minutes from main railway station and 5 minutes from main square, and just near ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://hackerspace-krk.pl/",
+  "sources": [
+   "https://hackerspace-krk.pl/"
+  ]
+ },
+ {
+  "id": "omega-verksted",
+  "name": "Omega Verksted",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#omegaverksted:matrix.omegav.no",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Trondheim, Sør-Trøndelag, Norway; ~2500+ members; founded 1971/03/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  '''Omega Verksted''' is possibly one of the oldest extant hackerspaces in the world, having thrived on the Gløshaugen Campus of the Norwegian University of Science and Technology (NTNU) since 1971. A",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://www.omegav.no",
+  "sources": [
+   "http://www.omegav.no"
+  ]
+ },
+ {
+  "id": "dev-tal",
+  "name": "/dev/tal",
+  "platform": "irc",
+  "invite_url": "ircs://irc.libera.chat/devtal",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Wuppertal, North Rhine-Westphalia, Germany. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl). ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://devtal.de",
+  "sources": [
+   "http://devtal.de"
+  ]
+ },
+ {
+  "id": "acme-labs",
+  "name": "ACME Labs",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#layer8:acmelabs.space",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Bielefeld, North Rhine-Westphalia, Germany; ~16 members; founded 2018/07/06. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  We are a young hackerspace in Bielefeld and our main interests is technology and how it changes our society. We know that technology alone can't safe the world, but we believe we can build tools to c",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://acmelabs.space",
+  "sources": [
+   "https://acmelabs.space"
+  ]
+ },
+ {
+  "id": "vaasa-hacklab",
+  "name": "Vaasa Hacklab",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23vaasa:hacklab.fi",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Vaasa, Finland; ~101 members; founded 2013/03/27. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  Vaasa Hacklab is a hackerspace located in old kasarmi area close to down town. We organize workshops, lectures and collaborative projects for our members and everyone else. On Wednesdays we have Open",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://vaasa.hacklab.fi/",
+  "sources": [
+   "https://vaasa.hacklab.fi/"
+  ]
+ }
+]

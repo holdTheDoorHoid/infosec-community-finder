@@ -1,0 +1,122 @@
+[
+ {
+  "id": "make-ntnu",
+  "name": "MAKE NTNU",
+  "platform": "slack",
+  "invite_url": "https://makentnu.slack.com/signup#/",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Trondheim, Trøndelag, Norway; ~~40 members; founded 2017/09/29. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  <!--- Checked by mappall.space bot. Updated manual via http://mapall.space/hswikilist.php --> <!--- Checked by mappall.space bot. Updated manual via http://mapall.space/hswikilist.php --> <!--- Check",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://makentnu.no/",
+  "sources": [
+   "https://makentnu.no/"
+  ]
+ },
+ {
+  "id": "ume-hackerspace",
+  "name": "Umeå Hackerspace",
+  "platform": "irc",
+  "invite_url": "irc://irc.umeahackerspace.se/#uhck",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Umeå, Västerbotten County, Sweden; ~64 members; founded 2009-11-29. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  Umeå Hackerspace is located in northern Sweden. We currently reside in a awesome basement about 120 square meters large. Membership is generally not required to join activities or take part in projec",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://umeahackerspace.se/",
+  "sources": [
+   "http://umeahackerspace.se/"
+  ]
+ },
+ {
+  "id": "hacklab-lahti",
+  "name": "Hacklab Lahti",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#lahti:hacklab.fi",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Lahti, Finland; ~20 members; founded 2017/09/25. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Hacklab Lahti is located in the centrum of Lahti, at Kirkkokatu 11. Please check our website for more information. Meetings are on every Wednesday at 18:00 and everybody is welcome. Come take a look!",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://lahti.hacklab.fi/",
+  "sources": [
+   "http://lahti.hacklab.fi/"
+  ]
+ },
+ {
+  "id": "hackerspace-minsk",
+  "name": "Hackerspace Minsk",
+  "platform": "irc",
+  "invite_url": "irc://irc.bynets.org/#hackerspace",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Minsk, Belarus; ~30 members; founded 2012/02/11. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  The first hackerspace in Minsk, Belarus. Located at [http://www.openstreetmap.org/?mlat=53.94302&mlon=27.59767#map=19/53.94302/27.59767|vul. Leanida Biady 45]. [[Image:Hackathon in Minsk.jpg|left|thu",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://hackerspace.by/",
+  "sources": [
+   "http://hackerspace.by/"
+  ]
+ },
+ {
+  "id": "subraum",
+  "name": "Subraum",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23public:matrix.c3pb.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Paderborn, North Rhine-Westphalia, Germany; ~~50 members; founded 2004/05/19. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  Jeden Mittwoch Abend ab 19:00 ist der Subraum zum ChaosTreff geöffnet. Dieser bietet einen öffentlichen Treffpunkt zum Austausch, Kennenlernen von Gleichgesinnten und Arbeit an gemeinsamen Projekten.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://www.c3pb.de/",
+  "sources": [
+   "http://www.c3pb.de/"
+  ]
+ },
+ {
+  "id": "z-labor",
+  "name": "Z-Labor",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#public:z-labor.space",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Zwickau, Saxony, Germany; ~15 members; founded 2015/09/20. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  z-Labor e. V. is a Hackspace in Zwickau/Saxony. We are located in an old factory building, meeting usually weekly on Thursday starting at 7:00 pm. You can also join our online meetings on mumble: * S",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.z-labor.space/",
+  "sources": [
+   "https://www.z-labor.space/"
+  ]
+ }
+]

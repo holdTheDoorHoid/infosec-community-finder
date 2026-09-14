@@ -1,0 +1,122 @@
+[
+ {
+  "id": "datorf-reningen-update",
+  "name": "Datorföreningen Update",
+  "platform": "irc",
+  "invite_url": "irc://irc.efnet.org:6697/#update",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Uppsala, Uppsala County, Sweden; ~100 members; founded 1983/04/21. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  Datorföreningen Update (the Update Computer Club) is a club for everybody who loves computers, in Uppsala and the whole world. We do stuff with computers of all kinds, be it hardware, software, moder",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.dfupdate.se",
+  "sources": [
+   "https://www.dfupdate.se"
+  ]
+ },
+ {
+  "id": "dctrl",
+  "name": "DCTRL",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/7rjEfhtsxe",
+  "discord_description": "DCTRL is a hackerspace located at 436 W Pender Street in Vancouver, BC, Canada.",
+  "members": 313,
+  "online": 30,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "DctrlVan",
+  "candidate_notes": "Hackerspace in Vancouver, British Columbia, Canada; ~50 members; founded 2014/02/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  DCTRL is Vancouver's longest-running decentralized tech space.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://dctrl.wtf"
+  ]
+ },
+ {
+  "id": "hackspace-gie-en-mudbyte-e-v",
+  "name": "Hackspace Gießen (MudByte e.V.)",
+  "platform": "irc",
+  "invite_url": "irc://irc.hackint.org:6667/#mudbyte",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Giessen, Hessen, Germany; ~25 members; founded 2019/07/01. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  The best way to get started is simply to drop by and visit us in person. Come over, have a look around, and get to know the people and the space — we’re always happy to meet new faces and answer your",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://mudbyte.de",
+  "sources": [
+   "http://mudbyte.de"
+  ]
+ },
+ {
+  "id": "westwoodlabs",
+  "name": "Westwoodlabs",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#westwoodlabs:entropia.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Ransbach-Baumbach, Rhineland-Palatinate, Germany; ~37 members; founded 2016/06/11. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  <!--- Checked by mappall.space bot. ** Space Westwoodlabs Last modified on wiki 2020-10-08 - days 449 ago ** https://wiki.hackerspaces.org/Westwoodlabs Url = https://westwoodlabs.de Site up check on ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://westwoodlabs.de",
+  "sources": [
+   "https://westwoodlabs.de"
+  ]
+ },
+ {
+  "id": "nerdberg-hackspace",
+  "name": "Nerdberg Hackspace",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23bergwerk:nerdberg.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Nuremberg, Bavaria, Germany; ~45 members; founded 2018/09/30. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  == Nerdberg Hackspace (Nuremberg) == Nerdberg Hackspace is a hackerspace in [[Nuremberg]]. It is a place for people who like technology, computers, electronics, hacking, making things and learning to",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://nerdberg.de/",
+  "sources": [
+   "https://nerdberg.de/"
+  ]
+ },
+ {
+  "id": "base48",
+  "name": "Base48",
+  "platform": "irc",
+  "invite_url": "irc://irc.libera.chat/#base48",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Brno, Czech Republic; ~60 members; founded 2010/07/16. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  '''Base48''' is a hackerspace in Brno, [[Czech_Republic]] Our space is located in warehouse at: '''Mojmírovo náměstí 17, Palackého třída 742''' 612 00 Brno-Královo Pole If you want to join/visit us, ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://base48.cz",
+  "sources": [
+   "https://base48.cz"
+  ]
+ }
+]

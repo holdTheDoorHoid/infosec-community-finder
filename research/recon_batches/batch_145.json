@@ -1,0 +1,123 @@
+[
+ {
+  "id": "hackspace-marburg",
+  "name": "Hackspace Marburg",
+  "platform": "irc",
+  "invite_url": "ircs://irc.hackint.org:6697/#hsmr",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Marburg, Hessen, Germany; ~36 members; founded 2012/10/23. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  The Hackspace Marburg, short [hsmr], offers space to play, tinker, learn, solder, code, chat, deconstruct, create, hang out, exchange, cook, etc. and thus wants to promote a creative approach to tech",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://hsmr.cc/",
+  "sources": [
+   "https://hsmr.cc/"
+  ]
+ },
+ {
+  "id": "ccc-salzburg",
+  "name": "CCC Salzburg",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23chaossbg:darkfasel.net",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Salzburg, Salzburg, Austria; ~~42 members; founded 2011/12/15. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  [[Category:DN42]] 2018: Renamed from [[Chaostreff_Salzburg|Chaostreff Salzburg]] to [[CCC_Salzburg|CCC Salzburg]] [[Category:CCC]] [[Category:CCC Erfa]] <!-- Checked by mapall.space bot on 2020-04-28",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://cccsbg.at/",
+  "sources": [
+   "https://cccsbg.at/",
+   "https://sbg.chaostreff.at"
+  ]
+ },
+ {
+  "id": "hacklab-sein-joki-ry",
+  "name": "Hacklab Seinäjoki ry",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/u6JDCHfyh7",
+  "discord_description": null,
+  "members": 83,
+  "online": 18,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Hacklab Seinäjoki",
+  "candidate_notes": "Hackerspace in Seinäjoki, Finland; founded 2016/11/22. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Doors are open for public every Thursday after 18.15",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "http://seinajoki.hacklab.fi"
+  ]
+ },
+ {
+  "id": "it-syndikat",
+  "name": "IT-Syndikat",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#lobby:it-syndik.at",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Innsbruck, Tyrol, Austria; ~32 members; founded 2010/10/10. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Open Space: Every Tuesday 19:00+ ==Projects== * Towel day party: Douglas Adams had the idea for the Hitchhikers guide in Innsbruck. So come and party with us * Blinkenwall: A modular transporable Wal",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://it-syndikat.org/",
+  "sources": [
+   "https://it-syndikat.org/"
+  ]
+ },
+ {
+  "id": "bin-hacken",
+  "name": "/bin/hacken",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/A8YXme6eJK",
+  "discord_description": null,
+  "members": 156,
+  "online": 28,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Binhacken",
+  "candidate_notes": "Hackerspace in Bingen, Rhineland-Palatinate, Germany; ~18 members; founded 2023/06/26. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl). ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://binhacken.de"
+  ]
+ },
+ {
+  "id": "hackens",
+  "name": "HackEns",
+  "platform": "irc",
+  "invite_url": "irc://irc.ulminfo.fr/#hackens",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Paris, Île-de-France, France; ~~15 members; founded 2010/09/29. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  [https://hackens.org/ hackEns] is the hacking club of the [http://www.ens.fr/ École normale supérieure] The aim of hackEns is to gather students of the ENS to work on various projects: 3D printing wi",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://hackens.org/",
+  "sources": [
+   "http://hackens.org/"
+  ]
+ }
+]

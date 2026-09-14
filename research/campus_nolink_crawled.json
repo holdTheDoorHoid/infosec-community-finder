@@ -1,0 +1,1633 @@
+[
+ {
+  "name": "MIT Security Club (MITsec)",
+  "university": "Massachusetts Institute of Technology",
+  "country": "US",
+  "city": "Cambridge",
+  "website": "http://mitsecurityclub.mit.edu/",
+  "note": "Runs CTFs and biweekly security talks; site mentions an email list but no discord/slack link found.",
+  "region_key": "us-northeast",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "RPISEC",
+  "university": "Rensselaer Polytechnic Institute",
+  "country": "US",
+  "city": "Troy",
+  "website": "https://rpis.ec/",
+  "note": "Well-known competitive CTF club; site says schedule changes are announced 'on discord' but no invite link is published on the page.",
+  "region_key": "us-northeast",
+  "found": {
+   "discord": [
+    "https://discord.com/invite/esNEjvuy78",
+    "https://discord.gg/esNEjvuy78"
+   ],
+   "github": [
+    "https://github.com/RPISEC/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "WPI Cyber Security Club (CSC)",
+  "university": "Worcester Polytechnic Institute",
+  "country": "US",
+  "city": "Worcester",
+  "website": "https://mywpi.wpi.edu/CSC/",
+  "note": "Runs WPICTF annually and MITRE eCTF team; uses Discord per description but no public invite link located.",
+  "region_key": "us-northeast",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Terrapin Hackers / UMD Cybersecurity Club (UMDCSEC)",
+  "university": "University of Maryland, College Park",
+  "country": "US",
+  "city": "College Park",
+  "website": "https://csec.umd.edu/",
+  "note": "Site's 'Join Discord' button routes through TerpLink (login-gated) rather than a direct public invite.",
+  "region_key": "us-northeast",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "UConn Cybersecurity Club (UConnCyber)",
+  "university": "University of Connecticut",
+  "country": "US",
+  "city": "Storrs",
+  "website": "https://uconntact.uconn.edu/organization/uconncyber",
+  "note": "Also has a GitHub org (github.com/UConnSec); no discord/slack link surfaced.",
+  "region_key": "us-northeast",
+  "found": {
+   "discord": [
+    "https://discord.gg/FGu9Fs2XTm"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "GW Cyber Security Club",
+  "university": "George Washington University",
+  "country": "US",
+  "city": "Washington",
+  "website": "https://www.facebook.com/gwcyber/",
+  "note": "Also a 'Buff & Blue Hat Hacking Club' referenced in search results but not confirmed on GW's own student-org listing.",
+  "region_key": "us-northeast",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "Cyberbirds",
+  "university": "Johns Hopkins University",
+  "country": "US",
+  "city": "Baltimore",
+  "website": null,
+  "note": "Described as JHU's undergraduate cybersecurity collective; cyber.jhu.edu was unreachable this session (DNS failure) so no page/link could be checked.",
+  "region_key": "us-northeast",
+  "crawl": "no-site"
+ },
+ {
+  "name": "Lehigh Cybersecurity Club (LCSC)",
+  "university": "Lehigh University",
+  "country": "US",
+  "city": "Bethlehem",
+  "website": "https://www.instagram.com/lehighcybersecurityclub/",
+  "note": "Instagram bio points to a GroupMe, not a Discord/Slack/Matrix space.",
+  "region_key": "us-northeast",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Pitt Cybersecurity Club",
+  "university": "University of Pittsburgh",
+  "country": "US",
+  "city": "Pittsburgh",
+  "website": "https://www.sci.pitt.edu/student-resources/student-organizations",
+  "note": "Existence referenced (co-founder named in search results) but no dedicated club page or chat link found; worth a direct crawl of the SCI student-orgs page.",
+  "region_key": "us-northeast",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "NC State HackPack",
+  "university": "North Carolina State University",
+  "country": "US",
+  "city": "Raleigh",
+  "website": "https://hackpack.club/",
+  "note": "Site references a Discord link behind a button/icon that a plain-text fetch could not resolve; crawl the rendered page for the actual invite URL.",
+  "region_key": "us-southeast",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Rams Hack",
+  "university": "University of North Carolina at Chapel Hill",
+  "country": "US",
+  "city": "Chapel Hill",
+  "website": "https://heellife.unc.edu/organization/ntropy-unc",
+  "note": "Hands-on security club, communicates via Discord and Instagram (@ramshackunc); no invite link surfaced in fetched pages, contact ramshack@unc.edu.",
+  "region_key": "us-southeast",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "CyberWVU",
+  "university": "West Virginia University",
+  "country": "US",
+  "city": "Morgantown",
+  "website": "https://cyberwvu.orgs.wvu.edu/",
+  "note": "WVU student org (NCL, MACCDC, Locked Shields); the orgs.wvu.edu page returned 403 to automated fetch.",
+  "region_key": "us-southeast",
+  "found": {
+   "github": [
+    "https://github.com/newrelic/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "HackUTK",
+  "university": "University of Tennessee, Knoxville",
+  "country": "US",
+  "city": "Knoxville",
+  "website": "https://hackutk.org/",
+  "note": "Domain did not resolve during this pass; verify current URL and check for a Discord/Slack link.",
+  "region_key": "us-southeast",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "VolSec",
+  "university": "University of Tennessee, Knoxville",
+  "country": "US",
+  "city": "Knoxville",
+  "website": "https://volsec.utk.edu/",
+  "note": "Faculty/student cybersecurity research consortium; no public chat link found on site.",
+  "region_key": "us-southeast",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "Whitehatters Computer Security Club (WCSC)",
+  "university": "University of South Florida",
+  "country": "US",
+  "city": "Tampa",
+  "website": "https://wcsc.myweb.usf.edu/",
+  "note": "Site unreachable via fetch (connection refused); known to use Discord per club announcements, link not confirmed.",
+  "region_key": "us-southeast",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "Computer and Network Security Club (UVA CNS)",
+  "university": "University of Virginia",
+  "country": "US",
+  "city": "Charlottesville",
+  "website": "https://uvacns.com/",
+  "note": "Site returned 403 to fetch; mailing list + Discord mentioned in search snippet but invite not confirmed.",
+  "region_key": "us-southeast",
+  "found": {
+   "discord": [
+    "https://discord.com/invite/AeSy8wM3NV"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Cybersecurity Club at Virginia Tech (CyberVT / Hokie Hackers)",
+  "university": "Virginia Tech",
+  "country": "US",
+  "city": "Blacksburg",
+  "website": "https://cybervt.org/",
+  "note": "Discord found (discord.gg/ghgpNdCctT) but appears to already exist under 'CyberVT' in the existing directory; verify before adding to avoid duplicate.",
+  "region_key": "us-southeast",
+  "found": {
+   "discord": [
+    "https://discord.gg/ghgpNdCctT"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Cyber Security Club at MSU",
+  "university": "Mississippi State University",
+  "country": "US",
+  "city": "Starkville",
+  "website": "https://msstate.campuslabs.com/engage/organization/cyberatmsu",
+  "note": "CampusLabs page renders client-side; needs a JS-capable crawl to extract social/Discord links.",
+  "region_key": "us-southeast",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Cybersecurity@FIU (student club)",
+  "university": "Florida International University",
+  "country": "US",
+  "city": "Miami",
+  "website": "https://cyber.fiu.edu/",
+  "note": "Official cybersecurity program site has no visible student-club chat link; check FIU's student org portal (PantherSync/Engage) for the actual club chapter.",
+  "region_key": "us-southeast",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Florida Polytechnic University Cybersecurity Club",
+  "university": "Florida Polytechnic University",
+  "country": "US",
+  "city": "Lakeland",
+  "website": "https://floridapoly.presence.io/organization/cybersecurity-club",
+  "note": "Competed at SECCDC 2026; Presence.io org page renders client-side, could not extract chat link.",
+  "region_key": "us-southeast",
+  "found": {
+   "discord": [
+    "https://discord.gg/AkfMMtyXq4"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "OWL Cyber Student Club",
+  "university": "Kennesaw State University",
+  "country": "US",
+  "city": "Kennesaw",
+  "website": "https://www.kennesaw.edu/cybersecurity/resources/student-activities/",
+  "note": "KSU also has an 'OffSec Discord' and a 'KSU Infosec Security Slack' per department resource page (URL now 404 in this pass); re-crawl the CyberInstitute resources page for current links.",
+  "region_key": "us-southeast",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "Auburn University Ethical Hacking Club (AUEHC)",
+  "university": "Auburn University",
+  "country": "US",
+  "city": "Auburn",
+  "website": "https://ehc.auburn.edu/",
+  "note": "Discord resolved to discord.com/invite/hYmnWPG, which already exists in existing_names.txt as 'AU Ethical Hacking Club' — skipped as duplicate, not a new candidate.",
+  "region_key": "us-southeast",
+  "found": {
+   "discord": [
+    "https://discord.com/invite/hYmnWPG"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "KU Information Security Club (KUISC / Jayhackers)",
+  "university": "University of Kansas",
+  "country": "US",
+  "city": "Lawrence",
+  "website": "https://kuisc.org/",
+  "note": "Site returned SSL handshake failure on fetch; also listed at rockchalkcentral.ku.edu/organization/KUISC. Discord confirmed to exist per club description but link not visible.",
+  "region_key": "us-midwest",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "Cyber Defense Club (K-State CDC)",
+  "university": "Kansas State University",
+  "country": "US",
+  "city": "Manhattan",
+  "website": "https://orgcentral.k-state.edu/cyber/home/",
+  "note": "Only email contact (ksucdc@ksu.edu) found on org page; no chat link visible.",
+  "region_key": "us-midwest",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "GopherHack",
+  "university": "University of Minnesota Twin Cities",
+  "country": "US",
+  "city": "Minneapolis",
+  "website": "https://cse.umn.edu/cs/student-groups",
+  "note": "Referenced as offensive-security CTF student org; specific club homepage/link not located within search budget.",
+  "region_key": "us-midwest",
+  "found": {
+   "discord": [
+    "https://discord.com/invite/EeVuh24q8E",
+    "https://discord.gg/QWcKxY72FA",
+    "https://discord.gg/uBEUYns"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Cybersecurity Club",
+  "university": "University of Missouri-St. Louis (UMSL)",
+  "country": "US",
+  "city": "St. Louis",
+  "website": "https://www.umsl.edu/cmpsci/resources/cyber-club.html",
+  "note": "Page lists only a faculty adviser contact, no community chat link.",
+  "region_key": "us-midwest",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "NDSU Cybersecurity Student Association",
+  "university": "North Dakota State University",
+  "country": "US",
+  "city": "Fargo",
+  "website": "https://ndhack.club/ (also myndsu.ndsu.edu/organization/csa)",
+  "note": "Runs student-led lessons and hacking-competition teams; site is JS-rendered and would not fetch as text, no link retrieved.",
+  "region_key": "us-midwest",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "cyberCWRU",
+  "university": "Case Western Reserve University",
+  "country": "US",
+  "city": "Cleveland",
+  "website": "https://community.case.edu/cybercwru/home/",
+  "note": "Page lists social media (Instagram, Facebook, Twitter, LinkedIn, YouTube) and a contact form but no chat invite link.",
+  "region_key": "us-midwest",
+  "found": {
+   "forum": [
+    "https://community.case.edu/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Cyber Eagles",
+  "university": "Marquette University",
+  "country": "US",
+  "city": "Milwaukee",
+  "website": "https://www.marquette.edu/cyber-security/student-organization.php",
+  "note": "Reported to coordinate via Microsoft Teams rather than a public Discord/Slack; no public join link exists.",
+  "region_key": "us-midwest",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Women in Cybersecurity (WiCyS) Student Chapter",
+  "university": "Wichita State University",
+  "country": "US",
+  "city": "Wichita",
+  "website": "https://wichita.campuslabs.com/engage/organization/wicys",
+  "note": "Listed on ShockerSync student-org platform; no chat link surfaced.",
+  "region_key": "us-midwest",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Cybersecurity Club",
+  "university": "Illinois State University",
+  "country": "US",
+  "city": "Normal",
+  "website": "https://redbirdlife.illinoisstate.edu/organization/security",
+  "note": "RedbirdLife org page did not render a chat/community link.",
+  "region_key": "us-midwest",
+  "found": {
+   "discord": [
+    "https://discord.gg/9ZgKubhJRX"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Texas A&M Cybersecurity Club",
+  "university": "Texas A&M University",
+  "country": "US",
+  "city": "College Station",
+  "website": "https://cybr.club/",
+  "note": "Club states it uses Discord but link not published on public pages checked (cybr.club, getinvolved.tamu.edu/org/cybr).",
+  "region_key": "us-south-west",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "TX/CSS (Texas Cybersecurity Society)",
+  "university": "University of Texas at Austin",
+  "country": "US",
+  "city": "Austin",
+  "website": "https://www.txcybersociety.com/about",
+  "note": "Policy-focused cyber org; no chat platform listed, only a membership form.",
+  "region_key": "us-south-west",
+  "found": {
+   "github": [
+    "https://github.com/google/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Cybersecurity Club at UTD",
+  "university": "University of Texas at Dallas",
+  "country": "US",
+  "city": "Richardson",
+  "website": "https://cs.utdallas.edu/community/organizations/",
+  "note": "References a Discord (\"@CSC-Discord\") but presence.io org page is unreachable and no invite URL found.",
+  "region_key": "us-south-west",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Console Cowboys",
+  "university": "University of Texas at San Antonio",
+  "country": "US",
+  "city": "San Antonio",
+  "website": "https://caicc.utsa.edu/information-systems-cybersecurity/student-resources/student-organizations.html",
+  "note": "Low-level security/reverse-engineering club; no chat link found, careercenter page 404.",
+  "region_key": "us-south-west",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Security Society at LSU",
+  "university": "Louisiana State University",
+  "country": "US",
+  "city": "Baton Rouge",
+  "website": "https://www.cyberclublsu.com/",
+  "note": "Site says \"join our discord group\" but no invite URL rendered/accessible (tigerlink page 403).",
+  "region_key": "us-south-west",
+  "found": {
+   "discord": [
+    "https://discord.com/invite/7GW2uaGZSR",
+    "https://discord.gg/7GW2uaGZSR"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "OSU Security Club (OSUSEC)",
+  "university": "Oregon State University",
+  "country": "US",
+  "city": "Corvallis",
+  "website": "https://osusec.org/",
+  "note": "Streams meetings to Discord but invite URL not shown on fetched page.",
+  "region_key": "us-south-west",
+  "found": {
+   "discord": [
+    "https://discord.gg/ayX8f5W"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "BYU Cyberia (Cybersecurity Students Academic Association)",
+  "university": "Brigham Young University",
+  "country": "US",
+  "city": "Provo",
+  "website": "https://cybersecurity.byu.edu/",
+  "note": "infosecmap.com page 403'd; no discord link surfaced elsewhere.",
+  "region_key": "us-south-west",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "UCO Cybersecurity Club",
+  "university": "University of Central Oklahoma",
+  "country": "US",
+  "city": "Edmond",
+  "website": "https://ucore.uco.edu/cyber/home/",
+  "note": "Only Facebook/Twitter and contact form listed.",
+  "region_key": "us-south-west",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Cyber Eagles",
+  "university": "Oklahoma Christian University",
+  "country": "US",
+  "city": "Oklahoma City",
+  "website": "https://www.oc.edu/student-life/clubs-organizations/cybereagles",
+  "note": "Email-only contact, no chat platform listed.",
+  "region_key": "us-south-west",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "OSU Information Security and Assurance Club",
+  "university": "Oklahoma State University",
+  "country": "US",
+  "city": "Stillwater",
+  "website": "https://campuslink.okstate.edu/organization/osu-information-security-and-assurance-club",
+  "note": "CampusLink page returned 403, could not verify chat link.",
+  "region_key": "us-south-west",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "OUCSS (Open University Cyber Security Society)",
+  "university": "University of Oklahoma",
+  "country": "US",
+  "city": "Norman",
+  "website": "https://oucss.org/about",
+  "note": "Domain unreachable during this pass.",
+  "region_key": "us-south-west",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "Nevada Cyber Club",
+  "university": "University of Nevada, Reno",
+  "country": "US",
+  "city": "Reno",
+  "website": "https://www.nevadacyberclub.com/",
+  "note": "Page references a Discord but invite must be requested via email.",
+  "region_key": "us-south-west",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Layer Zero",
+  "university": "University of Nevada, Las Vegas",
+  "country": "US",
+  "city": "Las Vegas",
+  "website": "https://www.layer-zero.org/",
+  "note": "Site returned 403 during fetch; no link captured.",
+  "region_key": "us-south-west",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "UCalgary CyberSecurity Club",
+  "university": "University of Calgary",
+  "country": "CA",
+  "city": "Calgary",
+  "website": "https://cybersec-ucalgary.club/",
+  "note": "Active club with Instagram, YouTube, GitHub org (infosec-ucalgary), and LinkedIn presence; club's own website (cybersec-ucalgary.club/about) had no visible Discord/Slack link when fetched.",
+  "region_key": "canada",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Hexploit Alliance",
+  "university": "Concordia University",
+  "country": "CA",
+  "city": "Montreal",
+  "website": "https://hexploit-alliance.com/",
+  "note": "Graduate-student-led cybersecurity group at Concordia's Gina Cody School; runs the annual AtHack CTF (athackctf.com). Official site links only Instagram, LinkedIn, GitHub — no Discord/Slack link found. AtHack event site (athackctf.com) may carry a participant Discord worth checking in a crawl pass.",
+  "region_key": "canada",
+  "found": {
+   "github": [
+    "https://github.com/hexploit-alliance"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "McMaster Cyber Society",
+  "university": "McMaster University",
+  "country": "CA",
+  "city": "Hamilton",
+  "website": "https://msumcmaster.ca/initiative/mcmaster-cyber-society/",
+  "note": "MSU-recognized club (email cybersoc@mcmaster.ca); news coverage says it began as a Discord channel and the club has Instagram/Discord, but no invite link was found on the MSU page or in search snippets — needs a direct crawl of the club's own site/socials.",
+  "region_key": "canada",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "CyberGryph",
+  "university": "University of Guelph",
+  "country": "CA",
+  "city": "Guelph",
+  "website": null,
+  "note": "University of Guelph's WiCyS chapter, announced Feb 2023 via news.uoguelph.ca; as of that article the club's website was still \"under way\" with no link yet published. Worth a fresh search for a current site/socials.",
+  "region_key": "canada",
+  "crawl": "no-site"
+ },
+ {
+  "name": "Cardiff CyberSoc",
+  "university": "Cardiff University",
+  "country": "GB",
+  "city": "Cardiff",
+  "website": "https://cardiffcybersoc.com",
+  "note": "Domain did not resolve on fetch (DNS failure); an ACE-CSE gold-award university, likely has an active society worth a later crawl attempt or fresh domain lookup.",
+  "region_key": "uk-ireland",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "SIGINT - Cyber Security Society",
+  "university": "University of Edinburgh",
+  "country": "GB",
+  "city": "Edinburgh",
+  "website": "https://sigint.mx",
+  "note": "Already listed in existing_names.txt (discord.gg/WynY7FD3HP) - noted here only for completeness, not a new find.",
+  "region_key": "uk-ireland",
+  "found": {
+   "discord": [
+    "https://discord.gg/WynY7FD3HP"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Sheffield Ethical Student Hackers (ShefESH)",
+  "university": "University of Sheffield",
+  "country": "GB",
+  "city": "Sheffield",
+  "website": "https://shefesh.com",
+  "note": "Site mentions a Discord for members but the invite URL is not exposed in fetchable page text (site returned 403 on contact page); check shefesh.com/contact or Discord widget.",
+  "region_key": "uk-ireland",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "Glasgow University Hacking Society (GUHacksoc)",
+  "university": "University of Glasgow",
+  "country": "GB",
+  "city": "Glasgow",
+  "website": "https://guhacksoc.com",
+  "note": "Site is a placeholder ('real content coming soon'); Instagram @guhacksoc and SRC org page found but no Discord link surfaced yet.",
+  "region_key": "uk-ireland",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Bournemouth Computer & Security Society",
+  "university": "Bournemouth University",
+  "country": "GB",
+  "city": "Bournemouth",
+  "website": "https://subu.org.uk",
+  "note": "Listed in the ENUSEC directory with SU website but exact activity page URL 404'd; needs a fresh SU search.",
+  "region_key": "uk-ireland",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Cardiff Met Cyber Society",
+  "university": "Cardiff Metropolitan University",
+  "country": "GB",
+  "city": "Cardiff",
+  "website": "https://cardiffmetsu.co.uk",
+  "note": "Listed in ENUSEC directory; exact SU activity page URL guessed and 404'd.",
+  "region_key": "uk-ireland",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Cyber Security Society (University of South Wales)",
+  "university": "University of South Wales",
+  "country": "GB",
+  "city": "Pontypridd",
+  "website": "https://uswsu.com",
+  "note": "Listed in ENUSEC directory; exact SU activity page URL guessed and 404'd.",
+  "region_key": "uk-ireland",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Ethical Hackers",
+  "university": "University of Greenwich",
+  "country": "GB",
+  "city": "London",
+  "website": "https://greenwichsu.co.uk",
+  "note": "SU page states this society is 'no longer active' - likely defunct, confirm before crawling further.",
+  "region_key": "uk-ireland",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "QUB Cyber Sec",
+  "university": "Queen's University Belfast",
+  "country": "GB",
+  "city": "Belfast",
+  "website": "https://q-su.org",
+  "note": "SU page (q-su.org/clubssocieties/cybersecuritysociety) returned 403 to automated fetch.",
+  "region_key": "uk-ireland",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Leeds Hacking Society",
+  "university": "Leeds Beckett University",
+  "country": "GB",
+  "city": "Leeds",
+  "website": "https://leedsbeckettsu.co.uk",
+  "note": "Listed in ENUSEC directory; exact SU activity page URL guessed and 404'd.",
+  "region_key": "uk-ireland",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Teeside Net Society",
+  "university": "Teesside University",
+  "country": "GB",
+  "city": "Middlesbrough",
+  "website": "https://tees-su.org.uk",
+  "note": "Listed in ENUSEC directory (also has a Facebook group); exact SU activity page URL guessed and 404'd.",
+  "region_key": "uk-ireland",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "University of Gloucestershire Ethical Hacking",
+  "university": "University of Gloucestershire",
+  "country": "GB",
+  "city": "Cheltenham",
+  "website": "https://uogsu.com",
+  "note": "Listed in ENUSEC directory; exact SU activity page URL guessed and 404'd.",
+  "region_key": "uk-ireland",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "SHU Computer Forensics Society",
+  "university": "Sheffield Hallam University",
+  "country": "GB",
+  "city": "Sheffield",
+  "website": "https://hallamstudentsunion.com",
+  "note": "Listed in ENUSEC directory; exact SU activity page URL guessed and 404'd.",
+  "region_key": "uk-ireland",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "University of Galway Cyber Security Society",
+  "university": "University of Galway",
+  "country": "IE",
+  "city": "Galway",
+  "website": "https://socs.universityofgalway.ie/societies/cybersecurity",
+  "note": "Own page fetched successfully; lists email and Instagram (@ug_cybersecsoc) but no Discord link visible in page text.",
+  "region_key": "uk-ireland",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Durham CompSoc / GeekSoc",
+  "university": "Durham University",
+  "country": "GB",
+  "city": "Durham",
+  "website": "https://compsoc.tech",
+  "note": "Page confirms an active Discord (icon in footer) but the invite URL isn't in the fetched text; covers computing broadly, cybersecurity-adjacent.",
+  "region_key": "uk-ireland",
+  "found": {
+   "github": [
+    "https://github.com/ducompsoc/"
+   ],
+   "discord": [
+    "https://discord.com/invite/QDtMw5a2Ck"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "King's College London Cyber Security Society",
+  "university": "King's College London",
+  "country": "GB",
+  "city": "London",
+  "website": "https://www.kclsu.org/groups/activities/join/kcss18750/",
+  "note": "KCLSU page returned 403 to automated fetch; found via search only, not in the original UK/Ireland list but a plausible strong candidate for a later crawl.",
+  "region_key": "uk-ireland",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "Liverpool Cyber Security Society",
+  "university": "University of Liverpool",
+  "country": "GB",
+  "city": "Liverpool",
+  "website": "https://cybersocuol.github.io",
+  "note": "Note only: its Discord (discordapp.com/invite/p6qGd3D) already exists in existing_names.txt under generic name 'CyberSoc' - flagging the university match for the record, not a new find.",
+  "region_key": "uk-ireland",
+  "found": {
+   "discord": [
+    "https://discord.com/invite/p6qGd3D",
+    "https://discordapp.com/invite/p6qGd3D"
+   ],
+   "github": [
+    "https://github.com/mmistakes/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "AFNOM (A Finite Number Of Monkeys)",
+  "university": "University of Birmingham",
+  "country": "GB",
+  "city": "Birmingham",
+  "website": "https://afnom.net",
+  "note": "Already listed in existing_names.txt (discord.gg/EkcRZc4) - confirmed match, not a new find, noted for completeness.",
+  "region_key": "uk-ireland",
+  "found": {
+   "discord": [
+    "https://discord.com/invite/EkcRZc4",
+    "https://discord.gg/EkcRZc4"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "KITCTF",
+  "university": "Karlsruhe Institute of Technology (KIT)",
+  "country": "DE",
+  "city": "Karlsruhe",
+  "website": "https://kitctf.de/",
+  "note": "No Discord found; team communicates via Mattermost, joins by emailing team@kitctf.de.",
+  "region_key": "europe",
+  "found": {
+   "mastodon": [
+    "https://infosec.exchange/@KITCTF"
+   ],
+   "github": [
+    "https://github.com/galkn/",
+    "https://github.com/kitctf"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "saarsec",
+  "university": "Saarland University / CISPA Helmholtz Center",
+  "country": "DE",
+  "city": "Saarbrücken",
+  "website": "https://saarsec.rocks",
+  "note": "No public chat link found on homepage; has Mastodon (infosec.exchange/@saarsec).",
+  "region_key": "europe",
+  "found": {
+   "mastodon": [
+    "https://infosec.exchange/@saarsec"
+   ],
+   "github": [
+    "https://github.com/mathjax/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "ALLES! CTF Team",
+  "university": "Ruhr-Universität Bochum area / German academic collective",
+  "country": "DE",
+  "city": "Bochum",
+  "website": "https://github.com/allesctf",
+  "note": "No dedicated public chat link found; may share community with FluxFingers.",
+  "region_key": "europe",
+  "found": {
+   "github": [
+    "https://github.com/allesctf",
+    "https://github.com/collections",
+    "https://github.com/customer-stories",
+    "https://github.com/enterprise",
+    "https://github.com/enterprise/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "flagbot",
+  "university": "ETH Zürich",
+  "country": "CH",
+  "city": "Zurich",
+  "website": "https://flagbot.ch/",
+  "note": "About page lists only weekly in-person meetings and email contact for the president; no Discord/Matrix link found on the pages fetched.",
+  "region_key": "europe",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Sauercloud",
+  "university": "German-speaking academic CTF collective",
+  "country": "DE",
+  "city": null,
+  "website": "https://ctftime.org/team/54748/",
+  "note": "Cooperation of several German-speaking academic teams (incl. KITCTF); no dedicated public chat link found.",
+  "region_key": "europe",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Tower of Hanoi",
+  "university": "Politecnico di Milano",
+  "country": "IT",
+  "city": "Milan",
+  "website": "https://ctftime.org/team/300/",
+  "note": "Academic CTF team; towerofhanoi.it not directly checked for chat link, no link found via search.",
+  "region_key": "europe",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "pwnthem0le",
+  "university": "Politecnico di Torino",
+  "country": "IT",
+  "city": "Turin",
+  "website": "https://pwnthem0le.polito.it/",
+  "note": "Fetched page shows social links (Twitter, Instagram, YouTube, email, CTFtime) but no Discord invite.",
+  "region_key": "europe",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "TheRomanXpl0it / mHACKeroni-affiliated (Sapienza area)",
+  "university": "Sapienza University of Rome",
+  "country": "IT",
+  "city": "Rome",
+  "website": "https://theromanxpl0.it/",
+  "note": "Fetched homepage lists GitHub, LinkedIn, Instagram, X, Telegram, CTFtime, email but no Discord/Matrix invite visible.",
+  "region_key": "europe",
+  "found": {
+   "github": [
+    "https://github.com/TheRomanXpl0it"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "p4 team",
+  "university": "Warsaw-area Polish academic/pro CTF team",
+  "country": "PL",
+  "city": "Warsaw",
+  "website": "https://p4.team/",
+  "note": "One of the strongest Polish CTF teams; no public Discord invite located via search.",
+  "region_key": "europe",
+  "found": {
+   "mastodon": [
+    "https://social.treehouse.systems/@ptrc"
+   ],
+   "github": [
+    "https://github.com/p4-team/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "dcua / Information Security Club (Igor Sikorsky Kyiv Polytechnic Institute)",
+  "university": "Igor Sikorsky Kyiv Polytechnic Institute",
+  "country": "UA",
+  "city": "Kyiv",
+  "website": "https://kpi.ua/en/taxonomy/term/2625",
+  "note": "Faculty of Physics and Technology infosec club/CTF team (dcua); no public chat link found via search, needs site crawl.",
+  "region_key": "europe",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "İGÜ Cyber Security Applications Club (İGÜCTF organizer)",
+  "university": "Istanbul Gelişim University",
+  "country": "TR",
+  "city": "Istanbul",
+  "website": "https://ctftime.org/event/2394/",
+  "note": "Organizes İGÜCTF events; no public chat link found via search.",
+  "region_key": "europe",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "CTF Tech (Nordic-Baltic student CTF program)",
+  "university": "Not a single university - Estonia-based org running Nordic-Baltic student CTF program",
+  "country": "EE",
+  "city": "Tallinn",
+  "website": "https://ctftech.com/",
+  "note": "Runs 'Cyber Battle of Nordic-Baltics' for students across TalTech, Vilnius University Kaunas Faculty, and others; reported to have a Discord but exact invite link not confirmed within budget.",
+  "region_key": "europe",
+  "found": {
+   "discord": [
+    "https://discord.com/invite/cboe",
+    "https://discord.gg/cboe"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Team bi0s",
+  "university": "Amrita Vishwa Vidyapeetham",
+  "country": "IN",
+  "city": "Coimbatore/Amritapuri",
+  "website": "https://bi0s.in/",
+  "note": "No Discord/Slack link found on bi0s.in, join.bi0s.in, or blog; contact is via Instagram/Twitter/email only. India's top-ranked CTF team, runs InCTF/InCTF Jr with a Discord mentioned but no invite URL exposed (site has a /discord redirect button, target not resolvable via fetch).",
+  "region_key": "india",
+  "found": {
+   "github": [
+    "https://github.com/teambi0s"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "InfoSecIITR",
+  "university": "Indian Institute of Technology Roorkee",
+  "country": "IN",
+  "city": "Roorkee",
+  "website": "https://infoseciitr.in/",
+  "note": "No Discord/Slack/Matrix link found on their site; only GitHub, X/Twitter, and Facebook links present.",
+  "region_key": "india",
+  "found": {
+   "github": [
+    "https://github.com/InfoSecIITR"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "IIT Bombay CTF team / IITBreachers (CSEA)",
+  "university": "Indian Institute of Technology Bombay",
+  "country": "IN",
+  "city": "Mumbai",
+  "website": "https://csea-iitb.github.io/IITBreachers-wiki/about.html",
+  "note": "Likely the same community as CSeC (see candidate above) but under CSEA branding with a different invite code; flagged for a crawler to verify which server is current.",
+  "region_key": "india",
+  "found": {
+   "discord": [
+    "https://discord.com/invite/eHGwP6CGSy",
+    "https://discord.gg/eHGwP6CGSy"
+   ],
+   "github": [
+    "https://github.com/CSEA-IITB",
+    "https://github.com/deut-erium/",
+    "https://github.com/kitian616/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Cryptonite",
+  "university": "Manipal Institute of Technology (MAHE)",
+  "country": "IN",
+  "city": "Manipal",
+  "website": "https://cryptonitemit.in/",
+  "note": "Runs niteCTF/Cryptober; site itself shows no Discord link (only Instagram/LinkedIn/GitHub/email), though unrelated search snippets referenced possible invite codes (Wc8XK53J, RmXTQnV) that could not be verified on the club's own pages.",
+  "region_key": "india",
+  "found": {
+   "slack": [
+    "https://cors-anywhere.herokuapp.com"
+   ],
+   "github": [
+    "https://github.com/Cryptonite-MIT"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "DefenseLab Cybersecurity Club",
+  "university": "National Institute of Technology Calicut",
+  "country": "IN",
+  "city": "Calicut",
+  "website": "https://defenselabnitc.github.io/",
+  "note": "No Discord/Slack link visible on the club site.",
+  "region_key": "india",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "PESU C-ISFCR / Cybersecurity Community",
+  "university": "PES University",
+  "country": "IN",
+  "city": "Bengaluru",
+  "website": "https://www.isfcr.pes.edu/",
+  "note": "No Discord/Slack link found; only email and Instagram/LinkedIn given.",
+  "region_key": "india",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Cybersecurity Club, IIT Madras (exploiitm)",
+  "university": "Indian Institute of Technology Madras",
+  "country": "IN",
+  "city": "Chennai",
+  "website": "https://exploiitm.github.io/",
+  "note": "No Discord/Slack link found on the club's GitHub Pages site or cfi.iitm.ac.in listing page.",
+  "region_key": "india",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "BITSkrieg",
+  "university": "BITS Pilani, Goa Campus",
+  "country": "IN",
+  "city": "Goa",
+  "website": "https://github.com/bitskriegofficial",
+  "note": "Cybersecurity club running BITSCTF; no Discord/Slack link on their GitHub org page (only event-specific CTF Discord codes found in search snippets, not confirmed as the club's persistent community server).",
+  "region_key": "india",
+  "found": {
+   "github": [
+    "https://github.com/bitskriegofficial",
+    "https://github.com/collections",
+    "https://github.com/customer-stories",
+    "https://github.com/enterprise",
+    "https://github.com/enterprise/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "CYSCOM",
+  "university": "VIT Chennai",
+  "country": "IN",
+  "city": "Chennai",
+  "website": "https://cyscomvit.com/",
+  "note": "Dedicated cybersecurity club site; fetch returned only the page title with no visible links in the excerpt, needs a fuller crawl.",
+  "region_key": "india",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "0x1337: The Hacking Club",
+  "university": "IIIT Hyderabad",
+  "country": "IN",
+  "city": "Hyderabad",
+  "website": "https://clubs.iiit.ac.in/clubs/hacking.club",
+  "note": "Runs TheDeccanCTF (0x1337iiit.github.io/ctf); no Discord/Slack link surfaced from the club page excerpt fetched.",
+  "region_key": "india",
+  "found": {
+   "discord": [
+    "https://discord.gg/xhDnu6Rnfh"
+   ],
+   "github": [
+    "https://github.com/Clubs-Council-IIITH/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Coding Club RVCE (Cyber Security vertical)",
+  "university": "R.V. College of Engineering",
+  "country": "IN",
+  "city": "Bengaluru",
+  "website": "https://rvce.edu.in/innovative_teams/coding_club/",
+  "note": "Runs tryhackme.codingclubrvce.com weekly CTF platform; no persistent Discord/Slack link found on the club's own domains, only a one-off event-collaboration invite code.",
+  "region_key": "india",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "IIIT Delhi student clubs (security-focused, unidentified)",
+  "university": "IIIT Delhi",
+  "country": "IN",
+  "city": "New Delhi",
+  "website": "https://studentcouncil.iiitd.edu.in/clubs.html",
+  "note": "Clubs listing page did not render enough detail via fetch to identify a specific security/CTF club or its links; needs a JS-rendered crawl.",
+  "region_key": "india",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "DevClub CTF community",
+  "university": "Indian Institute of Technology Delhi",
+  "country": "IN",
+  "city": "New Delhi",
+  "website": "https://linkedin.com/company/devclub-iit-delhi",
+  "note": "DevClub IIT Delhi has organized CTF events with an event-specific Discord (discord.gg/wEKuy3s7cK, 2022) but no evidence of a persistent official security-club server; needs verification.",
+  "region_key": "india",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Jadavpur University cybersecurity/CTF club",
+  "university": "Jadavpur University",
+  "country": "IN",
+  "city": "Kolkata",
+  "website": null,
+  "note": "Could not locate a dedicated student cybersecurity/CTF club site or social page in search results; needs a directory crawl of the university's official student-organizations portal.",
+  "region_key": "india",
+  "crawl": "no-site"
+ },
+ {
+  "name": "NUS Greyhats",
+  "university": "National University of Singapore",
+  "country": "SG",
+  "city": "Singapore",
+  "website": "https://nusgreyhats.org/",
+  "note": "Site checked; only Twitter/Telegram/YouTube/GitHub/email listed, no Discord/Slack found on homepage.",
+  "region_key": "asia-pacific",
+  "found": {
+   "github": [
+    "https://github.com/NUSGreyhats",
+    "https://github.com/adityatelange/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "SMU Whitehat Society",
+  "university": "Singapore Management University",
+  "country": "SG",
+  "city": "Singapore",
+  "website": "https://whitehats.computing.smu.edu.sg/",
+  "note": "Site unreachable (connection refused) during this pass; needs re-crawl.",
+  "region_key": "asia-pacific",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "HKUST Firebird",
+  "university": "Hong Kong University of Science and Technology",
+  "country": "HK",
+  "city": "Hong Kong",
+  "website": "https://ctf.firebird.sh/",
+  "note": "CTF competition site had no invite listed yet (2026 page under construction); team is reported to use Discord internally.",
+  "region_key": "asia-pacific",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "KAIST GoN (KaisHack GoN)",
+  "university": "KAIST",
+  "country": "KR",
+  "city": "Daejeon",
+  "website": "https://gon.kaist.ac.kr/",
+  "note": "Domain did not resolve during this pass.",
+  "region_key": "asia-pacific",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "POSTECH PLUS",
+  "university": "POSTECH",
+  "country": "KR",
+  "city": "Pohang",
+  "website": null,
+  "note": "Could not locate an official club website; only mentioned as part of the K-Students CTF coalition.",
+  "region_key": "asia-pacific",
+  "crawl": "no-site"
+ },
+ {
+  "name": "Korea University CyKor",
+  "university": "Korea University",
+  "country": "KR",
+  "city": "Seoul",
+  "website": "https://cykor.kr/",
+  "note": "Site loaded almost blank (JS-rendered app); no link visible in fetched content.",
+  "region_key": "asia-pacific",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "TSG (University of Tokyo)",
+  "university": "University of Tokyo",
+  "country": "JP",
+  "city": "Tokyo",
+  "website": "https://tsg.ne.jp/",
+  "note": "Site fetched; only membership application info, no chat platform link visible.",
+  "region_key": "asia-pacific",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Balsn (National Taiwan University)",
+  "university": "National Taiwan University",
+  "country": "TW",
+  "city": "Taipei",
+  "website": "https://balsn.tw/",
+  "note": "Only email/GitHub/Twitter listed; no Discord/Slack link found.",
+  "region_key": "asia-pacific",
+  "found": {
+   "github": [
+    "https://github.com/balsn/",
+    "https://github.com/ctfs/",
+    "https://github.com/eee4017",
+    "https://github.com/p4-team/",
+    "https://github.com/st424204/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Bamboofox (NYCU)",
+  "university": "National Yang Ming Chiao Tung University",
+  "country": "TW",
+  "city": "Hsinchu",
+  "website": "https://github.com/bamboofox",
+  "note": "Primary domain (bamboofox.tw) did not resolve; GitHub org has no chat link visible.",
+  "region_key": "asia-pacific",
+  "found": {
+   "github": [
+    "https://github.com/bamboofox",
+    "https://github.com/collections",
+    "https://github.com/customer-stories",
+    "https://github.com/enterprise",
+    "https://github.com/enterprise/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "BKSEC (Bach Khoa Security Club)",
+  "university": "Hanoi University of Science and Technology",
+  "country": "VN",
+  "city": "Hanoi",
+  "website": "https://bksec.vn/",
+  "note": "Site returned 403 to fetch; needs a different crawl method.",
+  "region_key": "asia-pacific",
+  "found": {
+   "github": [
+    "https://github.com/SoICT-BKSEC"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "KMITL Cybersecurity Club",
+  "university": "King Mongkut's Institute of Technology Ladkrabang",
+  "country": "TH",
+  "city": "Bangkok",
+  "website": "https://kcsc.in.th/",
+  "note": "Domain did not resolve; site reported to be under construction.",
+  "region_key": "asia-pacific",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "Sunway Cybersecurity Club (CSC)",
+  "university": "Sunway University",
+  "country": "MY",
+  "city": "Petaling Jaya",
+  "website": "https://www.sunwaycybersecurityclub.org/",
+  "note": "Site listed Instagram/TikTok/LinkedIn/Luma/Google Form only; club is reported elsewhere to have a Discord but no invite link surfaced.",
+  "region_key": "asia-pacific",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "BINUS Cyber Security Community (CSC)",
+  "university": "Bina Nusantara University",
+  "country": "ID",
+  "city": "Jakarta",
+  "website": "https://student-activity.binus.ac.id/csc/",
+  "note": "Only Instagram/YouTube/LinkedIn listed on fetched page.",
+  "region_key": "asia-pacific",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "UTM Cyber X",
+  "university": "Universiti Teknologi Malaysia",
+  "country": "MY",
+  "city": "Johor Bahru",
+  "website": null,
+  "note": "Only known via CTFtime team page (id 58474), which returned 403 on fetch; no separate club site found.",
+  "region_key": "asia-pacific",
+  "crawl": "no-site"
+ },
+ {
+  "name": "GDGoC APU CTF / FSEC-SS",
+  "university": "Asia Pacific University (APU)",
+  "country": "MY",
+  "city": "Kuala Lumpur",
+  "website": "https://apu-ctf.web.app/",
+  "note": "Page only showed a title, no links visible in fetched content.",
+  "region_key": "asia-pacific",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "University of Melbourne Information Security Club (MISC)",
+  "university": "University of Melbourne",
+  "country": "AU",
+  "city": "Melbourne",
+  "website": "https://www.umisc.info/",
+  "note": "Primary site returned 403; Facebook page/about section also inaccessible via fetch.",
+  "region_key": "asia-pacific",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "UTS Cyber Security Society (CSEC)",
+  "university": "University of Technology Sydney",
+  "country": "AU",
+  "city": "Sydney",
+  "website": "https://utscyber.org/",
+  "note": "Site returned 403; Instagram bio had no visible link text in fetched image-only content.",
+  "region_key": "asia-pacific",
+  "found": {
+   "discord": [
+    "https://discord.com/invite/5mk6hND",
+    "https://discord.gg/5mk6hND"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Macquarie Association of Computing Students (MACS)",
+  "university": "Macquarie University",
+  "country": "AU",
+  "city": "Sydney",
+  "website": "https://macs.codes/",
+  "note": "Domain did not resolve during this pass.",
+  "region_key": "asia-pacific",
+  "found": {
+   "discord": [
+    "https://discord.com/invite/macs",
+    "https://discord.gg/macs"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Computing and Security Student Association (CASSA)",
+  "university": "Edith Cowan University",
+  "country": "AU",
+  "city": "Perth",
+  "website": "https://cassa.org.au/",
+  "note": "Domain did not resolve during this pass.",
+  "region_key": "asia-pacific",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "Swinburne Cyber Security Club (SCSC)",
+  "university": "Swinburne University of Technology",
+  "country": "AU",
+  "city": "Melbourne",
+  "website": "http://scsc.wtf",
+  "note": "Domain did not resolve during this pass.",
+  "region_key": "asia-pacific",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "Deadbeef Society",
+  "university": "University of Queensland",
+  "country": "AU",
+  "city": "Brisbane",
+  "website": "https://www.deadbeefsociety.com/",
+  "note": "Site redirects to what appears to be an expired/parked domain landing page (Porkbun).",
+  "region_key": "asia-pacific",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Latrobe University ISACA Student Group",
+  "university": "La Trobe University",
+  "country": "AU",
+  "city": "Melbourne",
+  "website": "https://www.latrobesu.org.au/Clubs/Cybersecurity/Pages/ISG",
+  "note": "Page returned 404 during this pass.",
+  "region_key": "asia-pacific",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "MonSec (Monash Cyber Security Club)",
+  "university": "Monash University",
+  "country": "AU",
+  "city": "Melbourne",
+  "website": "https://monsec.io",
+  "note": "Homepage returned 403; /join page also 403; linktr.ee/monsec was for an unrelated 'MonSec Consultoria' profile, not this club.",
+  "region_key": "asia-pacific",
+  "found": {
+   "github": [
+    "https://github.com/monsec"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "GISSIC (Grupo de Investigación en Seguridad de Sistemas de Información y Ciberseguridad)",
+  "university": "Universidad Tecnológica Nacional (UTN), Facultad Regional Córdoba",
+  "country": "AR",
+  "city": "Córdoba",
+  "website": "https://gissic.frc.utn.edu.ar/",
+  "note": "Runs annual HackLab CTF event for UTN students; no community chat link found on site.",
+  "region_key": "rest-of-world",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Security UC Club (\"Hack.ING\" CTF)",
+  "university": "Pontificia Universidad Católica de Chile (PUC)",
+  "country": "CL",
+  "city": "Santiago",
+  "website": null,
+  "note": "Ran the Hack.ING CTF drawing ~160 students from multiple Chilean universities; only covered via blog.nivel4.com, own site not located.",
+  "region_key": "rest-of-world",
+  "crawl": "no-site"
+ },
+ {
+  "name": "Club de Ethical Hacking (Centro de Investigación en Ciberseguridad)",
+  "university": "Universidad Mayor",
+  "country": "CL",
+  "city": "Santiago",
+  "website": "https://www.diariomayor.cl/",
+  "note": "36 members, runs annual multi-university CTF; only an email contact listed, no chat link found.",
+  "region_key": "rest-of-world",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Centro Cultural de Ciberseguridad (CCC)",
+  "university": "unaffiliated / cross-university",
+  "country": "CL",
+  "city": null,
+  "website": "https://capacitacion-ccc.vercel.app/",
+  "note": "Student-oriented cybersecurity community reported to run a Discord server, but the site returned a 503 and the link could not be confirmed directly.",
+  "region_key": "rest-of-world",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "HXPLOIT UPC",
+  "university": "Universidad Peruana de Ciencias Aplicadas (UPC)",
+  "country": "PE",
+  "city": "Lima",
+  "website": null,
+  "note": "Ethical hacking study group founded by Gianpaul Custodio; found via Instagram/LinkedIn only, no site with chat link located.",
+  "region_key": "rest-of-world",
+  "crawl": "no-site"
+ },
+ {
+  "name": "C Cúbico",
+  "university": "Universidad Nacional de Ingeniería (UNI)",
+  "country": "PE",
+  "city": "Lima",
+  "website": null,
+  "note": "University cybersecurity ambassador community alongside CiberSecUNI; no dedicated site found.",
+  "region_key": "rest-of-world",
+  "crawl": "no-site"
+ },
+ {
+  "name": "CiberSec Unasam",
+  "university": "Universidad Nacional Santiago Antúnez de Mayolo (UNASAM)",
+  "country": "PE",
+  "city": "Huaraz",
+  "website": "https://www.linkedin.com/company/cibersec-unasam",
+  "note": "Only a LinkedIn presence found.",
+  "region_key": "rest-of-world",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "FAST Society of Cybersecurity",
+  "university": "FAST-National University of Computer and Emerging Sciences (NUCES)",
+  "country": "PK",
+  "city": null,
+  "website": "https://github.com/FAST-Society-of-Cybersecurity",
+  "note": "Active GitHub org; contact is email/Instagram/LinkedIn only, no Discord/Slack found.",
+  "region_key": "rest-of-world",
+  "found": {
+   "github": [
+    "https://github.com/FAST-Society-of-Cybersecurity",
+    "https://github.com/collections",
+    "https://github.com/customer-stories",
+    "https://github.com/enterprise",
+    "https://github.com/enterprise/"
+   ]
+  },
+  "crawl": "ok"
+ },
+ {
+  "name": "Cyber Security Club, Dhaka International University",
+  "university": "Dhaka International University",
+  "country": "BD",
+  "city": "Dhaka",
+  "website": "https://www.facebook.com/cscdiucse/",
+  "note": "Runs a '0 to Root CTF' course; only Facebook page found.",
+  "region_key": "rest-of-world",
+  "crawl": "unreachable"
+ },
+ {
+  "name": "DIU Cyber Security Club",
+  "university": "Daffodil International University",
+  "country": "BD",
+  "city": "Dhaka",
+  "website": "https://studentshub.daffodilvarsity.edu.bd/club/30/home",
+  "note": "466+ members; only Facebook/YouTube links found, no Discord on the club portal page.",
+  "region_key": "rest-of-world",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "ctf_enjoyers",
+  "university": "Kazakh-British Technical University (KBTU)",
+  "country": "KZ",
+  "city": "Almaty",
+  "website": "https://kbtu.edu.kz/en/",
+  "note": "Student club that ran CTF KBTU 2026; no dedicated community chat link located.",
+  "region_key": "rest-of-world",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "EUI Cyber Security Club",
+  "university": "Egypt University of Informatics (EUI)",
+  "country": "EG",
+  "city": "Cairo",
+  "website": "https://www.linkedin.com/company/euicsc",
+  "note": "Open to students from other institutions; only LinkedIn/X found.",
+  "region_key": "rest-of-world",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Cyber Security Club (CSC_IAU)",
+  "university": "Imam Abdulrahman Bin Faisal University",
+  "country": "SA",
+  "city": "Dammam",
+  "website": "https://x.com/csc_iau",
+  "note": "Runs CTF competitions (e.g. Ransomware CTF); only X/Twitter presence found.",
+  "region_key": "rest-of-world",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Cyber Security Laboratory, ACE",
+  "university": "Obafemi Awolowo University (OAU)",
+  "country": "NG",
+  "city": "Ile-Ife",
+  "website": "http://cslab.oauife.edu.ng/",
+  "note": "African Center of Excellence cybersecurity lab/club; no chat community link found.",
+  "region_key": "rest-of-world",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "Technion CTF Group",
+  "university": "Technion – Israel Institute of Technology",
+  "country": "IL",
+  "city": "Haifa",
+  "website": "https://cyber.technion.ac.il/",
+  "note": "University CTF group referenced on Technion cyber center site; no public invite link found.",
+  "region_key": "rest-of-world",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "UCT Cybersecurity Student Society (via C3SA)",
+  "university": "University of Cape Town (UCT)",
+  "country": "ZA",
+  "city": "Cape Town",
+  "website": "https://c3sa.uct.ac.za/",
+  "note": "Non-profit student society bridging academia/industry mentorships; no chat link found on C3SA hub page.",
+  "region_key": "rest-of-world",
+  "found": {},
+  "crawl": "ok"
+ },
+ {
+  "name": "PumaHat",
+  "university": "Universidad Nacional Autónoma de México (UNAM)",
+  "country": "MX",
+  "city": "Mexico City",
+  "website": null,
+  "note": "3rd place, HackDef 2021 student category; appears to be a competition CTF team without a standing public site/community found.",
+  "region_key": "rest-of-world",
+  "crawl": "no-site"
+ }
+]

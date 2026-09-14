@@ -1,0 +1,122 @@
+[
+ {
+  "id": "raumzeitlabor",
+  "name": "RaumZeitLabor",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23raumzeitlabor:franzi.business",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Mannheim, Baden-Württemberg, Germany; ~120 members; founded 2009/10/10. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  [[Image:RZL_Hauptraum.jpg|thumb|left]] First hack*space in the area. Plenty of nerds and cool projects. Guests very welcome! Mannheim is the biggest city in the Rhein/Neckar area. Close to Heidelberg",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://raumzeitlabor.de/",
+  "sources": [
+   "https://raumzeitlabor.de/"
+  ]
+ },
+ {
+  "id": "tarlab",
+  "name": "Tarlab",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#tarlab-public:hacklab.fi",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Oulu, Finland; ~45 members, 10 keyholders members; founded 2011/09/15. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Hackerspace in Oulu, Finland. Internet, basic elelab equipment. And good times! <!-- Checked by mapall.space bot on 2020-04-28 02:31. --> <!--- Checked by mappall.space bot. ** Space Tarlab Last modi",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://tarlab.fi",
+  "sources": [
+   "https://tarlab.fi"
+  ]
+ },
+ {
+  "id": "brixel",
+  "name": "Brixel",
+  "platform": "slack",
+  "invite_url": "https://join.slack.com/t/brixel/shared_invite/zt-2xdgxf1k2-lFrJmpvv0x2HqSXyxmS1Qw",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Hasselt, Limburg, Belgium; ~25 members; founded 2012/11/19. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Open every tuesday and friday evening from 19.00. 2 main rooms with lots of table space, electronics corner and a seperate workshop with woodworking tools and workbenches. Spacious parking available ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://www.brixel.be",
+  "sources": [
+   "http://www.brixel.be"
+  ]
+ },
+ {
+  "id": "ccc-berlin",
+  "name": "CCC Berlin",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#cccbw-public:catgirl.cloud",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Berlin, Berlin, Germany; ~> 100 members. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  [[Image:CCCB-Eingang.jpg|thumb|left|200px|Entrance of Club Discordia]] '''Chaos Computer Club Berlin''' (CCCB) is part of the german [[Chaos Computer Club]] (CCC). We are centered around our Berlin h",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://berlin.ccc.de/",
+  "sources": [
+   "https://berlin.ccc.de/"
+  ]
+ },
+ {
+  "id": "maschinenraum",
+  "name": "Maschinenraum",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23maschinenraum:bau-ha.us",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Weimar, Thuringia, Germany; ~~10 members; founded 1998. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  == ./info --german == * ist ein offener queerfeministscher hackspace für menschen die kreativ mit ihrer umwelt interagieren. unsere philosophie vom 'hacken' reicht von soft- & hardware, netzwerken üb",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://maschinenraum.tk/",
+  "sources": [
+   "https://maschinenraum.tk/"
+  ]
+ },
+ {
+  "id": "brmlab-2",
+  "name": "Brmlab",
+  "platform": "irc",
+  "invite_url": "irc://irc.libera.chat/#brmlab",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Prague, Czech Republic; ~~ 50 members; founded 2010/06/22. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  '''Attention! People of Earth!''' This hackerspace primary wiki is at https://brmlab.cz/. We are a non-profit, community run, community funded and oldest hackerspace in a Prague. Our members are invo",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://brmlab.cz/",
+  "sources": [
+   "https://brmlab.cz/"
+  ]
+ }
+]

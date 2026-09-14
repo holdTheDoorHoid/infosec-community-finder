@@ -1,0 +1,122 @@
+[
+ {
+  "name": "University of Gloucestershire Ethical Hacking",
+  "university": "University of Gloucestershire",
+  "country": "GB",
+  "city": "Cheltenham",
+  "website": "https://uogsu.com",
+  "crawl": "ok",
+  "note": "Listed in ENUSEC directory; exact SU activity page URL guessed and 404'd.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "SHU Computer Forensics Society",
+  "university": "Sheffield Hallam University",
+  "country": "GB",
+  "city": "Sheffield",
+  "website": "https://hallamstudentsunion.com",
+  "crawl": "ok",
+  "note": "Listed in ENUSEC directory; exact SU activity page URL guessed and 404'd.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "University of Galway Cyber Security Society",
+  "university": "University of Galway",
+  "country": "IE",
+  "city": "Galway",
+  "website": "https://socs.universityofgalway.ie/societies/cybersecurity",
+  "crawl": "ok",
+  "note": "Own page fetched successfully; lists email and Instagram (@ug_cybersecsoc) but no Discord link visible in page text.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "King's College London Cyber Security Society",
+  "university": "King's College London",
+  "country": "GB",
+  "city": "London",
+  "website": "https://www.kclsu.org/groups/activities/join/kcss18750/",
+  "crawl": "unreachable",
+  "note": "KCLSU page returned 403 to automated fetch; found via search only, not in the original UK/Ireland list but a plausible strong candidate for a later crawl.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "KITCTF",
+  "university": "Karlsruhe Institute of Technology (KIT)",
+  "country": "DE",
+  "city": "Karlsruhe",
+  "website": "https://kitctf.de/",
+  "crawl": "ok",
+  "note": "No Discord found; team communicates via Mattermost, joins by emailing team@kitctf.de.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "saarsec",
+  "university": "Saarland University / CISPA Helmholtz Center",
+  "country": "DE",
+  "city": "Saarbrücken",
+  "website": "https://saarsec.rocks",
+  "crawl": "ok",
+  "note": "No public chat link found on homepage; has Mastodon (infosec.exchange/@saarsec).",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "ALLES! CTF Team",
+  "university": "Ruhr-Universität Bochum area / German academic collective",
+  "country": "DE",
+  "city": "Bochum",
+  "website": "https://github.com/allesctf",
+  "crawl": "ok",
+  "note": "No dedicated public chat link found; may share community with FluxFingers.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "flagbot",
+  "university": "ETH Zürich",
+  "country": "CH",
+  "city": "Zurich",
+  "website": "https://flagbot.ch/",
+  "crawl": "ok",
+  "note": "About page lists only weekly in-person meetings and email contact for the president; no Discord/Matrix link found on the pages fetched.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Sauercloud",
+  "university": "German-speaking academic CTF collective",
+  "country": "DE",
+  "city": null,
+  "website": "https://ctftime.org/team/54748/",
+  "crawl": "ok",
+  "note": "Cooperation of several German-speaking academic teams (incl. KITCTF); no dedicated public chat link found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Tower of Hanoi",
+  "university": "Politecnico di Milano",
+  "country": "IT",
+  "city": "Milan",
+  "website": "https://ctftime.org/team/300/",
+  "crawl": "ok",
+  "note": "Academic CTF team; towerofhanoi.it not directly checked for chat link, no link found via search.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "pwnthem0le",
+  "university": "Politecnico di Torino",
+  "country": "IT",
+  "city": "Turin",
+  "website": "https://pwnthem0le.polito.it/",
+  "crawl": "ok",
+  "note": "Fetched page shows social links (Twitter, Instagram, YouTube, email, CTFtime) but no Discord invite.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "TheRomanXpl0it / mHACKeroni-affiliated (Sapienza area)",
+  "university": "Sapienza University of Rome",
+  "country": "IT",
+  "city": "Rome",
+  "website": "https://theromanxpl0.it/",
+  "crawl": "ok",
+  "note": "Fetched homepage lists GitHub, LinkedIn, Instagram, X, Telegram, CTFtime, email but no Discord/Matrix invite visible.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ }
+]

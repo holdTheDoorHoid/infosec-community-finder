@@ -1,0 +1,122 @@
+[
+ {
+  "id": "usr-space",
+  "name": "Usr/space",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#usrspace:matrix.usrspace.at",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Leobersdorf, Lower Austria, Austria; ~17 members; founded 2017/05/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Correct name: /usr/space But sadly a name starting with <pre>/</pre> doesn't play nice with the Wiki software. <del>Finally moved to the correct name ''without'' breaking the Wiki (hopefully…)</del> ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.usrspace.at",
+  "sources": [
+   "https://www.usrspace.at"
+  ]
+ },
+ {
+  "id": "hackeriet",
+  "name": "Hackeriet",
+  "platform": "irc",
+  "invite_url": "irc://irc.libera.chat/#oslohackerspace",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Oslo, Norway; ~20 members; founded 2009/12/17. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  Hackeriet is a hackerspace in Oslo. We reside on the first floor of Hausmania Culture House, Hausmannsgate 34, Oslo. We're open to the public Tuesdays and Saturdays. Events announced on our [http://m",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://hackeriet.no/index.en.html",
+  "sources": [
+   "https://hackeriet.no/index.en.html"
+  ]
+ },
+ {
+  "id": "so-make-it-southampton-uk",
+  "name": "So Make It (Southampton, UK)",
+  "platform": "slack",
+  "invite_url": "https://join.slack.com/t/somakeit/shared_invite/zt-1l65hxppg-LxPLAgIQDy6ki0beeTWr1g",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Southampton, Hampshire, United Kingdom; ~89 members; founded 2013/03/13. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  So Make It is a not-for-profit makerspace in Southampton, Hampshire, UK, and hosts a number of groups including the [[Southackton|SoutHACKton]] hackers and the So RepRap printers. We hope to welcome ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://www.somakeit.org.uk/",
+  "sources": [
+   "http://www.somakeit.org.uk/"
+  ]
+ },
+ {
+  "id": "dezentrale",
+  "name": "Dezentrale",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#Eingangsbereich:chat.dezentrale.space",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Leipzig, Saxony, Germany; ~55 members; founded 2017/06/11. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  [[Category:CCC]] [[Category:Erfa]] [[Category:Hackerspace]] [[Category:Hackspace]] [[Category:Software Engineering‏‎]] [[Category:Electrical Engineering‏]] [[Category:Workshop]] <!--- Checked by mapp",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://dezentrale.space",
+  "sources": [
+   "https://dezentrale.space"
+  ]
+ },
+ {
+  "id": "space-bi",
+  "name": "Space.bi",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23public:matrix.space.bi",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Bielefeld, Nordrhein-Westfalen, Germany; ~50 members; founded 2011/06/09. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  = location = We are located in the Blomestraße 27 in Bielefeld. It is very central and easily reached by bike, car, tram, or bus per pedes (@see: map) = events = We have [http://wiki.hackerspace-biel",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://space.bi",
+  "sources": [
+   "https://space.bi"
+  ]
+ },
+ {
+  "id": "hacknology",
+  "name": "HacKNology",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23garage:hacknology.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Konstanz, Baden-Württemberg, Germany; ~30 members; founded 2016/02/09. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  hacKNology is the first and (so far) only hackerspace in Constance. Home of the https://bewegungsappar.at/ project and many more. [[Image:HacKNology_Logo_small.png|250px]] <!--- Checked by mapp.space",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://hacknology.de/",
+  "sources": [
+   "http://hacknology.de/"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "ents",
+  "name": "ENTS",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23ents:tang.ents.ca",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Edmonton, Alberta, Canada; ~65 members; founded 2009/05/10. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  == About ENTS == The Edmonton New Technology Society (ENTS) is a non-profit, member-driven organization of technology and hobby enthusiasts. ENTS offers members a place to create, build, repair and o",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://ents.ca",
+  "sources": [
+   "https://ents.ca"
+  ]
+ },
+ {
+  "id": "das-labor",
+  "name": "Das Labor",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#das-labor:das-labor.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Bochum, Nordrhein-Westfalen, Germany; ~85 members; founded 2005/01/25. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  About the Hackerspace \"Das Labor\" Consuming Habits and Discount Credits.<br /> No one understand, that you don't like disclosing your consuming habits for a few discount credits? No one wonders, why ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://das-labor.org",
+  "sources": [
+   "https://das-labor.org"
+  ]
+ },
+ {
+  "id": "datenburg",
+  "name": "Datenburg",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23lobby:datenburg.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Bonn, Nordrhein-Westfalen, Germany; ~43 members; founded 2019/05/20. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  Der Datenburg e.V. ist der Bonner Chaostreff. Wir treffen uns mindestens jeden Dienstag ab 19 Uhr in der Bornheimer Straße 25.",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.datenburg.org/",
+  "sources": [
+   "https://www.datenburg.org/"
+  ]
+ },
+ {
+  "id": "hacker-embassy",
+  "name": "Hacker Embassy",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23hacker-embassy:matrix.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Yerevan, Armenia; ~18 members; founded 2022/05/10. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  We came from various countries and cities and opened a hackspace in Yerevan. We work together on projects, share ideas and knowledge, and socialize. Our goal is to develop a community in which each p",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://hackem.cc/",
+  "sources": [
+   "https://hackem.cc/"
+  ]
+ },
+ {
+  "id": "hack42",
+  "name": "Hack42",
+  "platform": "irc",
+  "invite_url": "irc://irc.oftc.net/#hack42",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Arnhem, Gelderland, Netherlands; ~>60 members; founded 2009/11/20. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  We've got tools and we're not afraid to use them! And we've got a library full of tech books, a pleasant lounge to hang out in, and a computer museum full of cool old stuff to tinker with. Drop by if",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://hack42.nl",
+  "sources": [
+   "http://hack42.nl"
+  ]
+ },
+ {
+  "id": "hack-hro",
+  "name": "Hack HRO",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#hackspace:hack-hro.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Rostock, Mecklenburg-Vorpommern, Germany. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  <!--- Checked manual by zeno4ever on 10 nov 2022 --> <!--- Checked by mappall.space bot on 2023-12-11 22:21:05. Updated manual on 10:20:54pm via http://mapall.space/hswikilist.php --> <!--- Checked b",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://hack-hro.de",
+  "sources": [
+   "https://hack-hro.de"
+  ]
+ }
+]

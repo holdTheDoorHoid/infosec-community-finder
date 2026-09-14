@@ -1,0 +1,122 @@
+[
+ {
+  "id": "hackerspace-wroc-aw",
+  "name": "Hackerspace Wrocław",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#public:hswro.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Wroclaw, Lower Silesia, Poland; ~30 members; founded 2012/11/24. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  <!--- Checked by mapp.space bot. ** Space Hackerspace Wrocław Last modified on wiki 2019-05-10 - days 446 ago ** https://wiki.hackerspaces.org/Hackerspace_Wroc%C5%82aw Url = http://www.hswro.org Site",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://hswro.org",
+  "sources": [
+   "http://hswro.org"
+  ]
+ },
+ {
+  "id": "muccc",
+  "name": "MuCCC",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23muccc:hackint.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Munich, Bavaria, Germany; ~about 130 members; founded 2008/06/01. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  [[Image:muc3.png]] The µc3 HQ is a Hackerspace in Munich, which has been started in June 2008. It serves as Room for Munich's Chaos Computer Club and other intergalactic lifeforms. [[Category:DN42]] ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://muc.ccc.de/",
+  "sources": [
+   "http://muc.ccc.de/"
+  ]
+ },
+ {
+  "id": "kiberpipa",
+  "name": "Kiberpipa",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#kiberpipa:kompot.si",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Ljubljana, Slovenia; founded 2001/10/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Kiberpipa (Cyberpipe) is a newly revived Slovenian meta-hackerspace in Ljubljana with [[kiberpipa/history|rich history since 2001]]. It's an open and public community for cultivating computer and com",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://kiberpipa.org",
+  "sources": [
+   "https://kiberpipa.org"
+  ]
+ },
+ {
+  "id": "cccac",
+  "name": "CCCAC",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23cccac:ccc.ac",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Aachen, Nordrhein-Westfalen, Germany; ~50 members; founded 2009/10/15. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  The regional Erfa of the CCC e.V. (Erfakreis Aachen). [[Category:CCC]] [[Category:CCC Erfa]] <!--- Checked by mappall.space bot. ** Space CCCAC Last modified on wiki 2020-03-09 - days 418 ago ** http",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://aachen.ccc.de/",
+  "sources": [
+   "https://aachen.ccc.de/"
+  ]
+ },
+ {
+  "id": "chaosstuff",
+  "name": "ChaosStuff",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23c3l:matrix.c3l.lu",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Luxembourg City, Luxembourg, Luxembourg; ~~30 members; founded 2015/06/11. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  ChaosStuff is run by the [http://c3l.lu/ Chaos Computer Club Lëtzeberg ] NGO. We focus on IT-Security, data integrity, privacy, (h)acktivism, educating the coming generations to critical hackers and ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://chaosstuff.lu",
+  "sources": [
+   "http://chaosstuff.lu"
+  ]
+ },
+ {
+  "id": "pixelbar-hackerspace",
+  "name": "Pixelbar - Hackerspace",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/b4Dcx8f",
+  "discord_description": null,
+  "members": 432,
+  "online": 65,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Pixelbar",
+  "candidate_notes": "Hackerspace in Rotterdam, Zuid-Holland, Netherlands; ~30 members; founded 2015/08/26. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  == History == The name Pixelbar was founded around 2013 when 4 of our earliest members were joined together in one of the famous “Hacking Weekends”. These weekends existed for the sole purpose of hav",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.pixelbar.nl"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "electrolab",
+  "name": "Electrolab",
+  "platform": "forum",
+  "invite_url": "https://forum.electrolab.fr/",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Nanterre, Île-de-France, France; ~>100 members; founded 2010/07/26. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  The Electrolab is a built from scratch hackerspace willing to provide a nice place to work on any electronic / mechanic project. Our space is located in an industrial area, close to the public transp",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://www.electrolab.fr",
+  "sources": [
+   "http://www.electrolab.fr"
+  ]
+ },
+ {
+  "id": "hackerspace-budapest",
+  "name": "Hackerspace Budapest",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23hsbp:matrix.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Budapest, Hungary; ~30 members; founded 2009/02/01. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  == About us == H.A.C.K. is the first hackerspace in Hungary, operating since February 2009. In December 2009 we moved into a flat on the first floor of [https://hsbp.org/Fogashaz-en Fogasház], and in",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://hsbp.org/",
+  "sources": [
+   "https://hsbp.org/"
+  ]
+ },
+ {
+  "id": "c4",
+  "name": "C4",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#cccc:hackint.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Cologne, North Rhine-Westphalia, Germany; ~101 members; founded 1998/07/29. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  The '''''Chaos Computer Club Cologne''''', or '''C4''' in short, is a hackerspace located at the western end of Germany. The current incarnation of the '''C4-Labor''', which is the correct designatio",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://koeln.ccc.de/",
+  "sources": [
+   "https://koeln.ccc.de/"
+  ]
+ },
+ {
+  "id": "h3o-fablab",
+  "name": "H3O FABLAB",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/2TRmGNqM7t",
+  "discord_description": "Serveur Discord du FabLab H3O. Venez à la rencontre de nos membres afin de partager des projets innovants.",
+  "members": 97,
+  "online": 10,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "H3O",
+  "candidate_notes": "Hackerspace in Bras Panon, Réunion, France; ~50 members; founded 2013/01/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  <!--- Checked by mappall.space bot on 2024-08-03 19:56:58. Updated manual on 07:56:50pm via http://mapall.space/hswikilist.php -->",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.fablab-h3o.re"
+  ]
+ },
+ {
+  "id": "london-hackspace",
+  "name": "London Hackspace",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/VPqdVsqFX5",
+  "discord_description": "A non-profit volunteer-run community workshop covering all manners of hobbies and interests.",
+  "members": 1925,
+  "online": 136,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "London Hackspace",
+  "candidate_notes": "Hackerspace in London, London, United Kingdom; ~>650 members; founded 2009/02/02. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  __NOTOC__ {|width=\"750\" |valign=\"top\"| The '''London Hackspace''' is a non-profit hackerspace in central London: a&nbsp;community-run workshop where people come to share tools and knowledge. We're a ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://london.hackspace.org.uk"
+  ]
+ },
+ {
+  "id": "openlab-augsburg",
+  "name": "OpenLab Augsburg",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23alle:matrix.openlab-augsburg.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Augsburg, Bavaria, Germany; ~70 members; founded 2013/03/26. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl).  == Hi there == We're this bunch of hackers from Augsburg. Find us on IRC: libera.chat #augsburg. == Ein Raum für Deine Ideen == Das OpenLab Augsburg bietet freien Raum für die Umsetzung von Ideen und",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.openlab-augsburg.de/",
+  "sources": [
+   "https://www.openlab-augsburg.de/"
+  ]
+ }
+]

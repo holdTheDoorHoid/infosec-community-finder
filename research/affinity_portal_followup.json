@@ -1,0 +1,30 @@
+[
+ {
+  "name": "hackHER Network (Bugcrowd)",
+  "invite_url": "https://www.surveymonkey.com/r/hackHER-network-bc",
+  "platform": "portal",
+  "source_url": "https://www.bugcrowd.com/blog/announcing-the-new-women-only-hacking-community-hackerher-network/",
+  "category_hint": "affinity",
+  "notes": "Affinity: women; org: Bugcrowd; join: request-form (eligibility form, then a Discord invite is emailed). Women-only hacking/bug-bounty community run by Bugcrowd.",
+  "confidence": "official"
+ },
+ {
+  "name": "Out in Tech",
+  "invite_url": "https://outintech.com/join",
+  "platform": "portal",
+  "source_url": "https://outintech.com/join",
+  "category_hint": "affinity",
+  "notes": "Affinity: lgbtq; org: Out in Tech; join: free-signup (signup flow leads to their Discord, 37,000+ members, migrated 2026); scope: tech-with-security-channel. Broad queer-in-tech career community with chapters in 32+ cities.",
+  "confidence": "listing"
+ },
+ {
+  "name": "TechVets",
+  "invite_url": "https://www.techvets.co/community/",
+  "platform": "portal",
+  "source_url": "https://www.techvets.co/community/",
+  "category_hint": "affinity",
+  "country": "GB",
+  "notes": "Affinity: veterans; org: TechVets (Forces Employment Charity, UK); join: free-signup via the community page (Discord behind it). UK veterans, service leavers, reservists and military spouses into IT and cyber careers; 12 local UK chapters.",
+  "confidence": "listing"
+ }
+]

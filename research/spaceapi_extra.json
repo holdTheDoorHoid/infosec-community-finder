@@ -1,0 +1,587 @@
+[
+ {
+  "name": "/dev/hack",
+  "endpoint": "https://devhack.net/spaceapi.json",
+  "url": "https://devhack.net",
+  "address": "4534 1/2 University Way NE, Seattle, WA 98105, US",
+  "lat": 47.6623262,
+  "lon": -122.3129183,
+  "contact": {},
+  "raw_contact_keys": [
+   "email"
+  ]
+ },
+ {
+  "name": "Amman Valley MakerSpace",
+  "endpoint": "https://raw.githubusercontent.com/AmmanVMS/space.api/main/api.json",
+  "url": "https://cwmaman.org.uk/makerspace/",
+  "address": "Youth Resource Center/MakerSpace, Station Road, Glanamman, SA18 1LQ, Wales, United Kingdom",
+  "lat": 51.80626,
+  "lon": -3.92288,
+  "contact": {
+   "issue_mail": "niccokunzmann@rambler.ru"
+  },
+  "raw_contact_keys": [
+   "phone",
+   "email",
+   "issue_mail"
+  ]
+ },
+ {
+  "name": "Apollo-NG",
+  "endpoint": "https://apollo.open-resource.org/status.php",
+  "url": "https://apollo.open-resource.org",
+  "address": null,
+  "lat": null,
+  "lon": null,
+  "contact": {
+   "ml": "talk@apollo.open-resource.org",
+   "irc": "irc://irc.freenode.net/apollo"
+  },
+  "raw_contact_keys": [
+   "ml",
+   "irc"
+  ]
+ },
+ {
+  "name": "Bastli",
+  "endpoint": "https://bastli.ethz.ch/spaceapi.json",
+  "url": "https://bastli.ethz.ch/",
+  "address": "AMIV Bastli, CAB E38, Universitätstrasse 6, 8006 Zürich, Switzerland",
+  "lat": 47.37861,
+  "lon": 8.54924,
+  "contact": {},
+  "raw_contact_keys": [
+   "phone",
+   "email"
+  ]
+ },
+ {
+  "name": "Chaos Computer Club Wien (C3W)",
+  "endpoint": "https://api.space.c3w.at/status.json",
+  "url": "https://c3w.at/",
+  "address": "Rathausstrasse 6, 1010 Wien, Austria",
+  "lat": 48.2093723,
+  "lon": 16.356099,
+  "contact": {
+   "issue_mail": "macheinticket@c3w.at",
+   "mastodon": "@c3wien@chaos.social"
+  },
+  "raw_contact_keys": [
+   "email",
+   "issue_mail",
+   "mastodon"
+  ]
+ },
+ {
+  "name": "ChaosZone",
+  "endpoint": "https://spaceapi.eigenbaukombinat.de/status_chaoszone.json",
+  "url": "https://chaoszone.cz",
+  "address": "Space",
+  "lat": 36.5516,
+  "lon": -159.6696,
+  "contact": {},
+  "raw_contact_keys": [
+   "email"
+  ]
+ },
+ {
+  "name": "Chaos Computer Club Flensburg",
+  "endpoint": "https://api.chaostreff-flensburg.de/",
+  "url": "https://c3fl.de",
+  "address": "Apenrader Str. 49, 24939 Flensburg",
+  "lat": 54.8045778,
+  "lon": 9.4224836,
+  "contact": {
+   "mastodon": "https://chaos.social/@chaos_fl",
+   "matrix": "#chaos-fl-public:fairydust.space"
+  },
+  "raw_contact_keys": [
+   "email",
+   "mastodon",
+   "matrix",
+   "signal"
+  ]
+ },
+ {
+  "name": "Créalab - FabLab B3",
+  "endpoint": "https://spaceapi.lghs.be/b3/",
+  "url": "https://b3.provincedeliege.be/exploratoiredespossibles/fablab",
+  "address": "Place des arts 1, 4020 Liège, Belgique",
+  "lat": 50.643874,
+  "lon": 5.589759,
+  "contact": {},
+  "raw_contact_keys": [
+   "email"
+  ]
+ },
+ {
+  "name": "FabLab Allgäu",
+  "endpoint": "https://fablab-allgaeu.de/assets/files/spaceapi.json",
+  "url": "https://fablab-allgaeu.de",
+  "address": "Landwehrstraße 2, 87439 Kempten (Allgäu), Germany",
+  "lat": 47.7295155,
+  "lon": 10.312528,
+  "contact": {
+   "ml": "http://lists.fablab-allgaeu.de/cgi-bin/mailman/listinfo"
+  },
+  "raw_contact_keys": [
+   "email",
+   "ml",
+   "facebook"
+  ]
+ },
+ {
+  "name": "FabLab Karlsruhe e.V.",
+  "endpoint": "https://spaceapi.fablab-karlsruhe.de",
+  "url": "https://fablab-karlsruhe.de/",
+  "address": "Alter Schlachthof 25a, 76131 Karlsruhe, Germany",
+  "lat": 49.004452253610175,
+  "lon": 8.429180916835117,
+  "contact": {},
+  "raw_contact_keys": [
+   "phone",
+   "email"
+  ]
+ },
+ {
+  "name": "FabLab Lübeck e.V.",
+  "endpoint": "https://hass.fablab-luebeck.de/api/spaceapi",
+  "url": "https://fablab-luebeck.de/",
+  "address": "Maria-Goeppert-Straße 9a, 23562 Lübeck",
+  "lat": 53.833840487232074,
+  "lon": 10.693854689598085,
+  "contact": {
+   "twitter": "@FablabLuebeck"
+  },
+  "raw_contact_keys": [
+   "email",
+   "twitter",
+   "facebook"
+  ]
+ },
+ {
+  "name": "Gold Coast TechSpace Inc.",
+  "endpoint": "https://raw.githubusercontent.com/gctechspace/spaceapi-endpoint/master/spaceapi.json",
+  "url": "https://gctechspace.org/",
+  "address": "57A Railway St, Mudgeeraba QLD 4213, Australia",
+  "lat": 153.36456032145182,
+  "lon": -28.07861211995512,
+  "contact": {
+   "twitter": "@gctechspace"
+  },
+  "raw_contact_keys": [
+   "email",
+   "facebook",
+   "twitter"
+  ]
+ },
+ {
+  "name": "HTU Graz - E-Lab",
+  "endpoint": "https://doorothy.htu.tugraz.at/doorothy/elab/status.spaceapi",
+  "url": "https://elab.htu.tugraz.at",
+  "address": "Inffeldgasse 10, 8010 Graz, Austria",
+  "lat": 47.05834,
+  "lon": 15.459288,
+  "contact": {},
+  "raw_contact_keys": [
+   "email",
+   "phone"
+  ]
+ },
+ {
+  "name": "Hackerspace Bielefeld e.V.",
+  "endpoint": "https://status.space.bi/status.json",
+  "url": "https://hackerspace-bielefeld.de",
+  "address": "Blomestrasse 27, 33609 Bielefeld, Germany",
+  "lat": 52.036938093117,
+  "lon": 8.569233958072,
+  "contact": {
+   "matrix": "matrix.space.bi",
+   "ml": "public@hackerspace-bielefeld.de",
+   "issue_mail": "info@hackerspace-bielefeld.de"
+  },
+  "raw_contact_keys": [
+   "phone",
+   "matrix",
+   "webchat",
+   "ml",
+   "email",
+   "issue_mail"
+  ]
+ },
+ {
+  "name": "HaSzcze",
+  "endpoint": "https://haszcze.eu/spaceapi/status.json",
+  "url": "https://haszcze.eu",
+  "address": "Ofiar Grudnia 1970r. 19, 71-610 Szczecin, Poland",
+  "lat": 53.43854593636282,
+  "lon": 14.58068972185927,
+  "contact": {},
+  "raw_contact_keys": [
+   "email"
+  ]
+ },
+ {
+  "name": "Hakierspejs Łódź",
+  "endpoint": "https://spaceapi.hs-ldz.pl/",
+  "url": "https://lodz.hackerspace.pl",
+  "address": "Zielona 30 l.u. 3, Łódź, Poland",
+  "lat": 51.76924,
+  "lon": 19.4452769,
+  "contact": {
+   "irc": "irc://irc.libera.chat/hakierspejs",
+   "matrix": "#hs-ldz:hackerspace.pl",
+   "mastodon": "@hslodz@mas.to"
+  },
+  "raw_contact_keys": [
+   "email",
+   "irc",
+   "matrix",
+   "mastodon",
+   "facebook"
+  ]
+ },
+ {
+  "name": "LakeLab",
+  "endpoint": "https://api.lakelab.space/spaceapi.json",
+  "url": "https://lakelab.space/",
+  "address": "Schlyffistrasse 8, 8806 Bäch SZ, Schweiz",
+  "lat": 47.2009253,
+  "lon": 8.7289757,
+  "contact": {},
+  "raw_contact_keys": [
+   "email"
+  ]
+ },
+ {
+  "name": "Linux User Group Saar e.V.",
+  "endpoint": "https://lugsaar.de/spaceapi/api.json",
+  "url": "https://lugsaar.de/",
+  "address": "Luxemburger Ring 8, 66740 Saarlouis, Germany",
+  "lat": 49.31327,
+  "lon": 6.7469,
+  "contact": {
+   "issue_mail": "info@lug-saar.de"
+  },
+  "raw_contact_keys": [
+   "phone",
+   "email",
+   "issue_mail"
+  ]
+ },
+ {
+  "name": "LuXeria",
+  "endpoint": "https://luxeria.ch/spaceapi.json",
+  "url": "https://luxeria.ch/",
+  "address": "LABOR Luzern, Degenstrasse 3, 6010 Kriens",
+  "lat": 47.03599,
+  "lon": 8.277263,
+  "contact": {
+   "irc": "irc://irc.libera.chat/luxeria",
+   "twitter": "@LuXeria_Luzern"
+  },
+  "raw_contact_keys": [
+   "email",
+   "irc",
+   "telegram",
+   "twitter"
+  ]
+ },
+ {
+  "name": "Maker Space",
+  "endpoint": "https://spaceapi.makerspace.org.uk",
+  "url": "https://www.makerspace.org.uk/",
+  "address": "Maker Space, c/o Orbis Community, Ground Floor, 65 High Street, Gateshead, NE8 2AP",
+  "lat": 54.9652,
+  "lon": -1.60233,
+  "contact": {
+   "twitter": "@maker_space",
+   "ml": "north-east-makers@googlegroups.com",
+   "matrix": "#makerspace-ncl:matrix.org"
+  },
+  "raw_contact_keys": [
+   "twitter",
+   "ml",
+   "matrix"
+  ]
+ },
+ {
+  "name": "Makerspace im Jugendzentrum Crailsheim (0xBA5E)",
+  "endpoint": "https://spaceapi.juze-cr.de/",
+  "url": "https://juze-cr.de/makerspace/",
+  "address": "Jugendzentrum Crailsheim e.V., Makerspace, Schönebürgstraße 33, 74564 Crailsheim, Germany",
+  "lat": 49.13939,
+  "lon": 10.07822,
+  "contact": {
+   "mastodon": "@juzecrailsheim@hofra.rocks",
+   "xmpp": "cad@jabber.juze-cr.de"
+  },
+  "raw_contact_keys": [
+   "email",
+   "mastodon",
+   "phone",
+   "xmpp"
+  ]
+ },
+ {
+  "name": "Makerspace Erfurt",
+  "endpoint": "https://status.makerspace-erfurt.de/status.json",
+  "url": "https://makerspace-erfurt.de",
+  "address": "Buessleber Gasse 1, 99084 Erfurt, Germany",
+  "lat": 50.973251,
+  "lon": 11.036885,
+  "contact": {
+   "matrix": "https://erfurt.chat/#/room/#msef:erfurt.chat",
+   "twitter": "@makerspace_ef"
+  },
+  "raw_contact_keys": [
+   "email",
+   "facebook",
+   "matrix",
+   "phone",
+   "twitter"
+  ]
+ },
+ {
+  "name": "makerspace-gt",
+  "endpoint": "https://makerspace-gt.de/space-api/space-api.json",
+  "url": "https://makerspace-gt.de",
+  "address": "Bogenstrasse 1-8, 33330 Guetersloh, Germany",
+  "lat": 51.9021432,
+  "lon": 8.3750429,
+  "contact": {},
+  "raw_contact_keys": [
+   "email"
+  ]
+ },
+ {
+  "name": "Metro Olografix L'Aquila",
+  "endpoint": "https://sede.olografix.org/s/laquila/spaceapi.json",
+  "url": "https://olografix.org",
+  "address": "Via Rustici 4, L'Aquila, Italy",
+  "lat": 42.353572,
+  "lon": 13.397364,
+  "contact": {},
+  "raw_contact_keys": [
+   "email"
+  ]
+ },
+ {
+  "name": "Metro Olografix Pescara",
+  "endpoint": "https://sede.olografix.org/s/pescara/spaceapi.json",
+  "url": "https://olografix.org",
+  "address": "Viale Marconi 278/1, 65126 Pescara, Italy",
+  "lat": 42.454657,
+  "lon": 14.224055,
+  "contact": {},
+  "raw_contact_keys": [
+   "email"
+  ]
+ },
+ {
+  "name": "MozTW Space / Mozilla Community Space Taipei",
+  "endpoint": "https://moztw.space/api",
+  "url": "https://moztw.space",
+  "address": "Rm. 1105, 11F, 99 Chongqing S. Rd. Sec I, Zhongzheng Dist., Taipei City 100, Taiwan",
+  "lat": 25.0429807,
+  "lon": 121.5129848,
+  "contact": {},
+  "raw_contact_keys": [
+   "email",
+   "facebook",
+   "foursquare",
+   "telegram"
+  ]
+ },
+ {
+  "name": "P'yŏngyang Hackerspace",
+  "endpoint": "http://status.pyongyanghackerspace.org/jiwi.json",
+  "url": "http://status.pyongyanghackerspace.org",
+  "address": "Kim Il-sung University, 1001 P'yŏngyang, Democratic People's Republic of Korea",
+  "lat": 39.058056,
+  "lon": 125.768333,
+  "contact": {
+   "issue_mail": "Z3JlYXRsZWFkZXJAcHlvbmd5YW5naGFja2Vyc3BhY2Uub3Jn"
+  },
+  "raw_contact_keys": [
+   "issue_mail"
+  ]
+ },
+ {
+  "name": "Pangloss Labs #1",
+  "endpoint": "https://spaceapi.panglosslabs.org/spaceapi.json",
+  "url": "https://panglosslabs.org",
+  "address": "12bis rue de Gex, 01210 Ferney-Voltaire, France",
+  "lat": 46.25947,
+  "lon": 6.107725,
+  "contact": {
+   "twitter": "@panglosslabs1"
+  },
+  "raw_contact_keys": [
+   "twitter",
+   "email",
+   "phone"
+  ]
+ },
+ {
+  "name": "Polytechnischer Werkraum Zittau",
+  "endpoint": "https://www.werkraum.space/spaceapi/current/",
+  "url": "https://www.werkraum.space/",
+  "address": "Wächterhaus, Innere Weberstraße 16, 02763 Zittau, Germany",
+  "lat": 50.8975,
+  "lon": 14.8044,
+  "contact": {
+   "mastodon": "@werkraum@chaos.social",
+   "matrix": "#werkraum-zittau:fairydust.space",
+   "ml": "https://lists.freiraumzittau.de/mailman/listinfo/hackerspace",
+   "issue_mail": "ag-it@freiraumzittau.de"
+  },
+  "raw_contact_keys": [
+   "phone",
+   "mastodon",
+   "matrix",
+   "email",
+   "ml",
+   "issue_mail"
+  ]
+ },
+ {
+  "name": "TAMI",
+  "endpoint": "https://nodered.telavivmakers.space/spaceapi.json",
+  "url": "https://telavivmakers.org",
+  "address": "Shoken 19, Tel Aviv, Israel",
+  "lat": 32.0525266,
+  "lon": 34.77233206,
+  "contact": {
+   "matrix": "#tami:telavivmakers.space",
+   "keymasters": [
+    {
+     "name": "Astra",
+     "email": "me@astrra.space",
+     "matrix": "@astrr:astrra.space",
+     "mastodon": "@astrr@masto.astrra.space"
+    }
+   ]
+  },
+  "raw_contact_keys": [
+   "email",
+   "phone",
+   "matrix",
+   "keymasters"
+  ]
+ },
+ {
+  "name": "TechTonik Labs",
+  "endpoint": "https://raw.github.com/sbhackerspace/sbhx-spaceapi/master/spaceapi.json",
+  "url": "http://sbhackerspace.com",
+  "address": "158 Aero Camino, Suite D Santa Barbara, CA 93117",
+  "lat": 34.43237,
+  "lon": -119.84842,
+  "contact": {
+   "twitter": "@sbhackerspace"
+  },
+  "raw_contact_keys": [
+   "twitter"
+  ]
+ },
+ {
+  "name": "Zeus WPI",
+  "endpoint": "https://mattermore.zeus.gent/spaceapi.json",
+  "url": "https://zeus.ugent.be",
+  "address": "Zeuskelder, gebouw S9, Krijgslaan 281, Ghent, Belgium",
+  "lat": 51.0231119,
+  "lon": 3.7102741,
+  "contact": {},
+  "raw_contact_keys": [
+   "email"
+  ]
+ },
+ {
+  "name": "chaostreff.ch",
+  "endpoint": "https://chaostreff.ch/spaceapi.json",
+  "url": "https://chaostreff.ch",
+  "address": null,
+  "lat": null,
+  "lon": null,
+  "contact": {
+   "ml": "swiss-chaos@chaostreff.ch",
+   "matrix": "#ccc-ch:kabelsalat.ch",
+   "issue_mail": "infra@ccc-basel.ch"
+  },
+  "raw_contact_keys": [
+   "ml",
+   "matrix",
+   "issue_mail"
+  ]
+ },
+ {
+  "name": "mag.lab",
+  "endpoint": "https://state.maglab.space/spaceapi.json",
+  "url": "https://maglab.space",
+  "address": "LindenstraÃe 14, 36037 Fulda, Germany",
+  "lat": 50.55239,
+  "lon": 9.68076,
+  "contact": {
+   "ml": "mag.lab@lists.open-mail.net",
+   "mastodon": "@maglab@chaos.social",
+   "irc": "irc://irc.hackint.org/#mag.lab",
+   "matrix": "https://matrix.to/#/#mag.lab:hackint.org"
+  },
+  "raw_contact_keys": [
+   "ml",
+   "mastodon",
+   "irc",
+   "matrix"
+  ]
+ },
+ {
+  "name": "see-base",
+  "endpoint": "https://bodensee.space/spaceapi/see-base.json",
+  "url": "https://see-base.de",
+  "address": "Rengoldshauserstr., 88662 Ueberlingen, Germany",
+  "lat": 47.77252,
+  "lon": 9.19997,
+  "contact": {
+   "twitter": "@see_base"
+  },
+  "raw_contact_keys": [
+   "twitter",
+   "email"
+  ]
+ },
+ {
+  "name": "turmlabor",
+  "endpoint": "http://www.turmlabor.de/spaces.api",
+  "url": "http://www.turmlabor.de",
+  "address": "Hochschulgruppe Turmlabor, c/o Fachschaftsrat Elektrotechnik, Helmholzstr. 18, Technische UniversitÃ¤t Dresden, 01062 Dresden, Germany",
+  "lat": 51.02709,
+  "lon": 13.72358,
+  "contact": {
+   "twitter": "@turmlabor"
+  },
+  "raw_contact_keys": [
+   "phone",
+   "twitter",
+   "email",
+   "facebook"
+  ]
+ },
+ {
+  "name": "økoyono",
+  "endpoint": "https://spaceapi.okoyono.de/",
+  "url": "https://okoyono.de/",
+  "address": "ANX84, netcup colocation in the NorthC RZ, Nürnberg, Germany",
+  "lat": 49.3895261,
+  "lon": 11.1764104,
+  "contact": {
+   "mastodon": "@f@social.okoyono.de",
+   "matrix": "#public:matrix.okoyono.de"
+  },
+  "raw_contact_keys": [
+   "email",
+   "mastodon",
+   "matrix"
+  ]
+ }
+]

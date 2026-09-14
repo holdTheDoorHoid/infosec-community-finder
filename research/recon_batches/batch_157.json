@@ -1,0 +1,123 @@
+[
+ {
+  "id": "mechartlab",
+  "name": "MechArtLab",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23bw-general:chab.is",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Zürich, Zürich, Switzerland; ~25 members; founded 2009/04/01. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  We promote creatives in electronic technology, mechanics, IT and other related areas. We understand this to be a creative expression of the human mind, which is not primarily utilitarian, but disting",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.mechatronicart.ch",
+  "sources": [
+   "https://www.mechatronicart.ch"
+  ]
+ },
+ {
+  "id": "ccczh",
+  "name": "CCCZH",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23ccczh:kabelsalat.ch",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Zürich, Zürich, Switzerland; ~42 members. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  The Chaos Computer Club Zurich is regional chapter of the CCC (\"Erfakreis\") and part of the [https://www.ccc-ch.ch Chaos Computer Club Switzerland (CCC-CH)] Every Wednesday evening starting from 19:0",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://www.ccczh.ch",
+  "sources": [
+   "https://www.ccczh.ch"
+  ]
+ },
+ {
+  "id": "rabbithole",
+  "name": "Rabbithole",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23hub:chaostreff-osnabrueck.de",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Osnabrück, Lower-Saxony, Germany; ~30 members; founded 2023/02/11. Chat link found via spaceapi (hackerspaces.org wiki / SpaceAPI / site crawl). ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://chaostreff-osnabrueck.de/en/hackspace/",
+  "sources": [
+   "https://chaostreff-osnabrueck.de/en/hackspace/"
+  ]
+ },
+ {
+  "id": "ko-lab",
+  "name": "Ko-Lab",
+  "platform": "mattermost",
+  "invite_url": "https://mattermost.ko-lab.space/signup_user_complete/?id=nk7dg5o8tjdqpxdu16i5ic3i5o",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Mechelen, Belgium; ~15 members; founded 2015/09/02. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Ko-Lab Our Kollaborative Laboratory provides a space to explore, create and share. Located in the city centre of Mechelen Open on friday's starting at 7pm. Adress is \"Hovenierstraat 14, 2800 Mechelen",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://ko-lab.space",
+  "sources": [
+   "https://ko-lab.space"
+  ]
+ },
+ {
+  "id": "milton-keynes-makerspace",
+  "name": "Milton Keynes Makerspace",
+  "platform": "slack",
+  "invite_url": "https://join.slack.com/t/mkmakerspace/shared_invite/zt-qssu0peb-v~r6EWKck~kx7um0U7JsyA",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Milton Keynes, Buckinghamshire, United Kingdom; ~20 members; founded 2015/03/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  Currently working as a sub/interest group of Men in Sheds MK. We gain an amazing base to work from and a supportive group of like minded people. They gain the benefits of our skill sets and enthusias",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://www.mkmakerspace.co.uk",
+  "sources": [
+   "http://www.mkmakerspace.co.uk"
+  ]
+ },
+ {
+  "id": "micropython",
+  "name": "micropython",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/RB8HZSAExQ",
+  "discord_description": "Community discussion for all things MicroPython",
+  "members": 4763,
+  "online": 391,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Connected Community",
+  "candidate_notes": "Hackerspace in Melbourne, Victoria, Australia; ~50 members; founded 2009/03/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  There is an incredible pool of talented people living in Melbourne and working on extraordinary projects. Many of these projects are firmly grounded in open-source and true collaboration. Many projec",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.hackmelbourne.org/",
+   "http://www.hackmelbourne.org/"
+  ]
+ }
+]

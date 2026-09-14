@@ -1,0 +1,122 @@
+[
+ {
+  "name": "TX/CSS (Texas Cybersecurity Society)",
+  "university": "University of Texas at Austin",
+  "country": "US",
+  "city": "Austin",
+  "website": "https://www.txcybersociety.com/about",
+  "crawl": "ok",
+  "note": "Policy-focused cyber org; no chat platform listed, only a membership form.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Cybersecurity Club at UTD",
+  "university": "University of Texas at Dallas",
+  "country": "US",
+  "city": "Richardson",
+  "website": "https://cs.utdallas.edu/community/organizations/",
+  "crawl": "ok",
+  "note": "References a Discord (\"@CSC-Discord\") but presence.io org page is unreachable and no invite URL found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Console Cowboys",
+  "university": "University of Texas at San Antonio",
+  "country": "US",
+  "city": "San Antonio",
+  "website": "https://caicc.utsa.edu/information-systems-cybersecurity/student-resources/student-organizations.html",
+  "crawl": "ok",
+  "note": "Low-level security/reverse-engineering club; no chat link found, careercenter page 404.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "BYU Cyberia (Cybersecurity Students Academic Association)",
+  "university": "Brigham Young University",
+  "country": "US",
+  "city": "Provo",
+  "website": "https://cybersecurity.byu.edu/",
+  "crawl": "ok",
+  "note": "infosecmap.com page 403'd; no discord link surfaced elsewhere.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "UCO Cybersecurity Club",
+  "university": "University of Central Oklahoma",
+  "country": "US",
+  "city": "Edmond",
+  "website": "https://ucore.uco.edu/cyber/home/",
+  "crawl": "ok",
+  "note": "Only Facebook/Twitter and contact form listed.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Cyber Eagles",
+  "university": "Oklahoma Christian University",
+  "country": "US",
+  "city": "Oklahoma City",
+  "website": "https://www.oc.edu/student-life/clubs-organizations/cybereagles",
+  "crawl": "ok",
+  "note": "Email-only contact, no chat platform listed.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "OSU Information Security and Assurance Club",
+  "university": "Oklahoma State University",
+  "country": "US",
+  "city": "Stillwater",
+  "website": "https://campuslink.okstate.edu/organization/osu-information-security-and-assurance-club",
+  "crawl": "unreachable",
+  "note": "CampusLink page returned 403, could not verify chat link.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "OUCSS (Open University Cyber Security Society)",
+  "university": "University of Oklahoma",
+  "country": "US",
+  "city": "Norman",
+  "website": "https://oucss.org/about",
+  "crawl": "unreachable",
+  "note": "Domain unreachable during this pass.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Nevada Cyber Club",
+  "university": "University of Nevada, Reno",
+  "country": "US",
+  "city": "Reno",
+  "website": "https://www.nevadacyberclub.com/",
+  "crawl": "ok",
+  "note": "Page references a Discord but invite must be requested via email.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Layer Zero",
+  "university": "University of Nevada, Las Vegas",
+  "country": "US",
+  "city": "Las Vegas",
+  "website": "https://www.layer-zero.org/",
+  "crawl": "unreachable",
+  "note": "Site returned 403 during fetch; no link captured.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "UCalgary CyberSecurity Club",
+  "university": "University of Calgary",
+  "country": "CA",
+  "city": "Calgary",
+  "website": "https://cybersec-ucalgary.club/",
+  "crawl": "ok",
+  "note": "Active club with Instagram, YouTube, GitHub org (infosec-ucalgary), and LinkedIn presence; club's own website (cybersec-ucalgary.club/about) had no visible Discord/Slack link when fetched.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Hexploit Alliance",
+  "university": "Concordia University",
+  "country": "CA",
+  "city": "Montreal",
+  "website": "https://hexploit-alliance.com/",
+  "crawl": "ok",
+  "note": "Graduate-student-led cybersecurity group at Concordia's Gina Cody School; runs the annual AtHack CTF (athackctf.com). Official site links only Instagram, LinkedIn, GitHub — no Discord/Slack link found",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ }
+]

@@ -6,12 +6,13 @@ const ICF = (() => {
   const SUBDIV = {AL:'Alabama',AK:'Alaska',AZ:'Arizona',AR:'Arkansas',CA:'California',CO:'Colorado',CT:'Connecticut',DE:'Delaware',DC:'Washington, DC',FL:'Florida',GA:'Georgia',HI:'Hawaii',ID:'Idaho',IL:'Illinois',IN:'Indiana',IA:'Iowa',KS:'Kansas',KY:'Kentucky',LA:'Louisiana',ME:'Maine',MD:'Maryland',MA:'Massachusetts',MI:'Michigan',MN:'Minnesota',MS:'Mississippi',MO:'Missouri',MT:'Montana',NE:'Nebraska',NV:'Nevada',NH:'New Hampshire',NJ:'New Jersey',NM:'New Mexico',NY:'New York',NC:'North Carolina',ND:'North Dakota',OH:'Ohio',OK:'Oklahoma',OR:'Oregon',PA:'Pennsylvania',RI:'Rhode Island',SC:'South Carolina',SD:'South Dakota',TN:'Tennessee',TX:'Texas',UT:'Utah',VT:'Vermont',VA:'Virginia',WA:'Washington',WV:'West Virginia',WI:'Wisconsin',WY:'Wyoming',AB:'Alberta',BC:'British Columbia',MB:'Manitoba',NB:'New Brunswick',NL:'Newfoundland and Labrador',NS:'Nova Scotia',ON:'Ontario',PE:'Prince Edward Island',QC:'Quebec',SK:'Saskatchewan'};
   const countryName = code => { try { return new Intl.DisplayNames(['en'], {type:'region'}).of(code) || code; } catch (e) { return code; } };
   // locality key for an entry: state/province code where we have one, else country code
-  const localityOf = c => c.subdivision || c.country || null;
-  const localityLabel = k => k.startsWith('city:') ? k.slice(5) : (SUBDIV[k] || countryName(k));
+  const localityOf = c => ((c.country === 'US' || c.country === 'CA') && c.subdivision) ? `${c.country}-${c.subdivision}` : (c.country || null);   // 'US-PA' / 'CA-ON' for states and provinces, plain ISO code for countries (so DE is Germany, not Delaware)
+  const localityLabel = k => k.startsWith('city:') ? k.slice(5) : (k.includes('-') ? (SUBDIV[k.split('-')[1]] || k) : countryName(k));
+  const localityLabelIn = (k, region) => (!k.startsWith('city:') && !k.includes('-') && (US.has(region) || region === 'canada')) ? (region === 'canada' ? 'Province not listed' : 'State not listed') : localityLabel(k);
   const isLocal = c => !!c.country && c.region !== 'global';   // anything with a physical home base: local groups, conferences, campus clubs
   const matchesLocality = (c, key) => !key ? false : key.startsWith('city:') ? (c.city || '').toLowerCase() === key.slice(5).toLowerCase() : localityOf(c) === key;
-  const PLATFORM_LABEL = {discord:'Discord', slack:'Slack', matrix:'Matrix', forum:'Forum', reddit:'Reddit', mastodon:'Mastodon', irc:'IRC', mattermost:'Mattermost', discourse:'Forum'};
-  const JOIN_VERB = {discord:'Join on Discord', slack:'Join on Slack', matrix:'Join on Matrix', forum:'Visit the forum', reddit:'Open on Reddit', mastodon:'Join the instance', irc:'Join on IRC', mattermost:'Join on Mattermost', discourse:'Visit the forum'};
+  const PLATFORM_LABEL = {discord:'Discord', slack:'Slack', matrix:'Matrix', forum:'Forum', reddit:'Reddit', mastodon:'Mastodon', irc:'IRC', mattermost:'Mattermost', discourse:'Forum', portal:'Member portal', web:'Website'};
+  const JOIN_VERB = {discord:'Join on Discord', slack:'Join on Slack', matrix:'Join on Matrix', forum:'Visit the forum', reddit:'Open on Reddit', mastodon:'Join the instance', irc:'Join on IRC', mattermost:'Join on Mattermost', discourse:'Visit the forum', portal:'Sign up on their site', web:'Visit the site'};
   let DB = null;
 
   async function load() {
@@ -29,7 +30,7 @@ const ICF = (() => {
       if (!c.country && c.region !== 'global' && (c.tags.includes('students') || c.category === 'regional' || c.category === 'conference')) {
         c.country = ({canada:'CA','uk-ireland':'GB',india:'IN','australia-nz':'AU'})[c.region] || (c.region.startsWith('us') ? 'US' : null);
       }
-      c.locality = c.subdivision || c.country || null;
+      c.locality = localityOf(c);
     }
     return DB;
   }
@@ -75,7 +76,7 @@ const ICF = (() => {
         <dt>Size</dt><dd>${esc(SIZE_LABEL[c.size_tier] || c.size_tier)}</dd>
         ${c.beginner_friendly ? `<dt>Beginner friendly</dt><dd><span class="stars">${stars(c.beginner_friendly)}</span> ${c.beginner_friendly}/5${c.audience.length ? ' · for ' + esc(c.audience.join(', ')) : ''}</dd>` : ''}
         ${c.activities.length ? `<dt>What happens there</dt><dd>${esc(c.activities.join(', '))}</dd>` : ''}
-        ${c.region && c.region !== 'global' ? `<dt>Where</dt><dd>${esc([c.city, c.subdivision ? SUBDIV[c.subdivision] : null, c.country ? countryName(c.country) : null].filter(Boolean).join(', ') || REGION_LABEL[c.region] || c.region)}</dd>` : ''}
+        ${c.region && c.region !== 'global' ? `<dt>Where</dt><dd>${esc([c.city, (c.subdivision && (c.country === 'US' || c.country === 'CA')) ? SUBDIV[c.subdivision] : null, c.country ? countryName(c.country) : null].filter(Boolean).join(', ') || REGION_LABEL[c.region] || c.region)}</dd>` : ''}
         ${c.language && c.language !== 'en' ? `<dt>Language</dt><dd>${esc(c.language)}</dd>` : ''}
         ${c.event ? `<dt>Event</dt><dd>${esc(c.event)}${c.year_round === false ? ' (active mainly around the event)' : c.year_round ? ' (active year-round)' : ''}</dd>` : ''}
         ${c.rules_note ? `<dt>Good to know</dt><dd>${esc(c.rules_note)}</dd>` : ''}
@@ -97,7 +98,7 @@ const ICF = (() => {
   }
   function closeModal() { const bg = document.querySelector('.modal-bg'); if (bg) bg.classList.remove('open'); document.body.style.overflow = ''; if (location.hash) history.replaceState(null, '', location.pathname + location.search); }
 
-  return {load, cardHTML, detailHTML, openModal, closeModal, fmt, esc, CAT_LABEL, SIZE_LABEL, REGION_LABEL, PLATFORM_LABEL, stars, localityOf, localityLabel, isLocal, matchesLocality};
+  return {load, cardHTML, detailHTML, openModal, closeModal, fmt, esc, CAT_LABEL, SIZE_LABEL, REGION_LABEL, PLATFORM_LABEL, stars, localityOf, localityLabel, localityLabelIn, isLocal, matchesLocality};
 })();
 
 /* ---------- Browse page ---------- */
@@ -229,8 +230,22 @@ async function initQuiz() {
   const LOCAL_CATS = new Set(['regional','conference','village']);
   const regionSection = form.querySelector('[data-q=region]');
   const refine = document.createElement('section'); refine.className = 'q'; refine.hidden = true; regionSection.after(refine);
+  const refine2 = document.createElement('section'); refine2.className = 'q'; refine2.hidden = true; refine.after(refine2);
+  // Third step: when the chosen state/country still has many groups, offer its busiest cities
+  form.addEventListener('change', e => {
+    if (e.target.name !== 'locality') return;
+    const k = e.target.value; refine2.hidden = true; refine2.innerHTML = '';
+    if (!k || k.startsWith('city:')) return;
+    const pool = db.communities.filter(c => !c.hidden && ICF.isLocal(c) && ICF.matchesLocality(c, k));
+    const counts = {}; for (const c of pool) { if (c.city) { const ck = 'city:' + c.city; counts[ck] = (counts[ck]||0) + 1; } }
+    const keys = Object.keys(counts).filter(ck => counts[ck] >= 2).sort((a,b) => counts[b]-counts[a] || a.localeCompare(b));
+    if (pool.length < 12 || keys.length < 2) return;
+    refine2.innerHTML = `<h2>Which city?</h2><p class="help">${ICF.localityLabel(k)} has ${pool.length} groups. Pick a city to rank those first, or keep the whole area.</p><div class="opts"><label class="opt"><input type="radio" name="locality2" value="" checked><span>Anywhere in ${ICF.esc(ICF.localityLabel(k))}</span></label>${keys.map(ck => `<label class="opt"><input type="radio" name="locality2" value="${ICF.esc(ck)}"><span>${ICF.esc(ck.slice(5))}<small>${counts[ck]} groups</small></span></label>`).join('')}</div>`;
+    refine2.hidden = false;
+  });
   form.addEventListener('change', e => {
     if (e.target.name !== 'region') return;
+    refine2.hidden = true; refine2.innerHTML = '';
     const r = e.target.value;
     const pool = db.communities.filter(c => !c.hidden && ICF.isLocal(c) && c.region === r);
     let counts = {};
@@ -244,12 +259,12 @@ async function initQuiz() {
     keys.sort((a,b) => counts[b]-counts[a] || ICF.localityLabel(a).localeCompare(ICF.localityLabel(b)));
     const total = pool.length;
     if (r === 'global' || keys.length < 2 || total < 4) { refine.hidden = true; refine.innerHTML = ''; return; }
-    refine.innerHTML = `<h2>${label}</h2><p class="help">We have ${total} local groups, campus clubs and conferences in that region. Narrow it down if you like.</p><div class="opts"><label class="opt"><input type="radio" name="locality" value="" checked><span>Anywhere in the region</span></label>${keys.map(k => `<label class="opt"><input type="radio" name="locality" value="${ICF.esc(k)}"><span>${ICF.esc(ICF.localityLabel(k))}<small>${counts[k]} group${counts[k]>1?'s':''}</small></span></label>`).join('')}</div>`;
+    refine.innerHTML = `<h2>${label}</h2><p class="help">We have ${total} local groups, campus clubs and conferences in that region. Narrow it down if you like.</p><div class="opts"><label class="opt"><input type="radio" name="locality" value="" checked><span>Anywhere in the region</span></label>${keys.map(k => `<label class="opt"><input type="radio" name="locality" value="${ICF.esc(k)}"><span>${ICF.esc(ICF.localityLabelIn(k, r))}<small>${counts[k]} group${counts[k]>1?'s':''}</small></span></label>`).join('')}</div>`;
     refine.hidden = false;
   });
   form.addEventListener('submit', e => {
     e.preventDefault();
-    const a = {locality: form.querySelector('input[name=locality]:checked')?.value || null}; for (const q of QUIZ) { const v = [...form.querySelectorAll(`input[name=${q.id}]:checked`)].map(i => i.value); a[q.id] = q.type === 'single' ? (v[0] || (q.id==='region'?'global':q.id==='size'?'any':'basics')) : v; }
+    const a = {locality: form.querySelector('input[name=locality2]:checked')?.value || form.querySelector('input[name=locality]:checked')?.value || null}; for (const q of QUIZ) { const v = [...form.querySelectorAll(`input[name=${q.id}]:checked`)].map(i => i.value); a[q.id] = q.type === 'single' ? (v[0] || (q.id==='region'?'global':q.id==='size'?'any':'basics')) : v; }
     const alive = db.communities.filter(c => c.invite_status !== 'dead' && !ICF.isLocal(c) && c.category !== 'conference' && c.category !== 'village' && c.category !== 'regional');
     const scored = alive.map(c => ({c, ...scoreCommunity(c, a)})).sort((x,y) => y.s - x.s);
     // diversify: avoid 5 servers of the same category

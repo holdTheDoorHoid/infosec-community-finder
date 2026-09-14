@@ -1,0 +1,517 @@
+[
+ {
+  "id": "hackher-network-bugcrowd",
+  "include": true,
+  "exclude_reason": null,
+  "category": "affinity",
+  "tags": [
+   "affinity-women",
+   "careers",
+   "mentorship",
+   "general-infosec",
+   "bug-bounty"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "mentorship",
+   "chat",
+   "workshops",
+   "challenges",
+   "job-board"
+  ],
+  "summary": "Bugcrowd runs this women-only (including trans and nonbinary women) hacking community, offering mentorship from experienced bug bounty hunters, skill-building workshops, sponsored hands-on challenges, and speaking or recognition opportunities. You apply through a short eligibility form and get emailed a Discord invite. It explicitly welcomes people just starting out alongside established hackers.",
+  "run_by": "Bugcrowd",
+  "website": "https://www.bugcrowd.com/hackher-network/",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Join by filling out an eligibility form; a Discord invite is emailed afterward, not instant.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "out-in-tech",
+  "include": true,
+  "exclude_reason": null,
+  "category": "affinity",
+  "tags": [
+   "affinity-lgbtq",
+   "careers",
+   "general-infosec",
+   "mentorship"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "mentorship",
+   "local-meetups",
+   "job-board",
+   "workshops"
+  ],
+  "summary": "Out in Tech is a nonprofit connecting LGBTQ+ people working in or entering the tech industry, with chapters in over 30 cities running meetups, mentorship, a coding-education scholarship program (Digital Corps), and career events. It is a broad tech community rather than a security-specific one, though its large Discord (37,000+ members) has a security-interest channel; a free signup flow leads to the Discord invite.",
+  "run_by": "Out in Tech",
+  "website": "https://outintech.com",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Not a dedicated security community; sign up on the site to receive the Discord invite.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "techvets",
+  "include": true,
+  "exclude_reason": null,
+  "category": "affinity",
+  "tags": [
+   "affinity-veterans",
+   "careers",
+   "general-infosec",
+   "regional"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "mentorship",
+   "job-board",
+   "local-meetups",
+   "chat",
+   "workshops"
+  ],
+  "summary": "TechVets is a UK Forces Employment Charity program supporting military veterans, service leavers, reservists and military spouses moving into IT and cyber careers, with training pathways, mentorship, and 12 local UK chapters. Joining the community page leads to their Discord/community platform for free. It is a broad tech-careers community with a cyber security training track rather than a security-only space.",
+  "run_by": "TechVets (Forces Employment Charity)",
+  "website": "https://www.techvets.co",
+  "github": null,
+  "youtube": null,
+  "region": "uk-ireland",
+  "country": "GB",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Aimed at UK veterans, reservists, service leavers and military spouses; join via the community page's free signup.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "techqueria",
+  "include": true,
+  "exclude_reason": "Broad Latinx tech professional community, not a dedicated security space; included as an affinity community with general tech chat rather than a security focus.",
+  "category": "affinity",
+  "tags": [
+   "affinity-bipoc",
+   "careers",
+   "general-infosec",
+   "mentorship"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "mentorship",
+   "job-board",
+   "local-meetups"
+  ],
+  "summary": "Techqueria is a 501(c)(3) nonprofit serving the largest community of Latinx professionals in tech, with a Slack workspace where members, allies and partner companies network, share job opportunities and support each other. Access requires applying through a membership form on their site (collecting professional background) before being approved into the Slack; a Slack Newbie Guide and onboarding help first-timers. It is not security-specific but functions as a broad professional and career community.",
+  "run_by": "Techqueria",
+  "website": "https://techqueria.org",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Apply for membership at techqueria.org/join first; Slack access is granted after approval, not instant.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "vetsec-veterans-in-security",
+  "include": true,
+  "exclude_reason": null,
+  "category": "affinity",
+  "tags": [
+   "affinity-veterans",
+   "careers",
+   "mentorship",
+   "general-infosec",
+   "certifications"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "mentorship",
+   "job-board",
+   "chat",
+   "study-groups",
+   "workshops"
+  ],
+  "summary": "VetSec is a nonprofit connecting active duty, reserve, National Guard, retired and veteran service members of the US and Allied NATO/14 Eyes forces who are in or entering cybersecurity, offering free mentorship, training resources, certification support and networking. Membership requires submitting an application on their site; approved members are invited into VetSec's Slack, where program applications also happen. It suits veterans at any career stage, from those new to cyber to established professionals.",
+  "run_by": "VetSec",
+  "website": "https://vetsec.org",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Membership limited to service members/veterans of the US and Allied NATO/14 Eyes countries; apply via the Join Us form to receive a Slack invite.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "blacks-in-cybersecurity-bic",
+  "include": true,
+  "exclude_reason": null,
+  "category": "affinity",
+  "tags": [
+   "affinity-bipoc",
+   "general-infosec",
+   "ctf",
+   "careers",
+   "mentorship",
+   "conference"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "ctf-events",
+   "job-board",
+   "mentorship",
+   "local-meetups"
+  ],
+  "summary": "Blacks In Cybersecurity is a community and annual conference (BIC Con) built to increase representation of Black professionals in cybersecurity, running networking, CTF competitions, a security village (ALAAFIA), mentorship and career support. Anyone can join the online community by filling out a public application form, or be vouched for by an existing member; the exact chat platform is not fixed since BIC says it migrates over time. It fits people at various experience levels given its mix of conference, CTF and mentorship programming.",
+  "run_by": "Blacks In Cybersecurity",
+  "website": "https://www.blacksincyberconf.com",
+  "github": null,
+  "youtube": "https://www.youtube.com/@BlacksInCybersecurity",
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": true,
+  "event": null,
+  "rules_note": "Join via the online-community application form; platform (Discord/Slack) is not fixed and can migrate.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "elhacker-net-foro",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "hacker-culture",
+   "programming",
+   "networking"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "A long-running Spanish-language forum covering hacking, information security, programming, and general computing, run by the elhacker.net community since the early 2000s. Members post in dedicated sections for security/malware analysis, programming languages, operating systems, and hardware, with free open registration via SMF forum software. It suits Spanish-speaking beginners through advanced users looking for a broad, old-school forum-style community rather than a narrow specialty.",
+  "run_by": "community-run",
+  "website": "https://www.elhacker.net",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "es",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free self-service registration on the forum (SMF-based); very large userbase so response quality varies by section.",
+  "red_flags": null,
+  "confidence": "high"
+ },
+ {
+  "id": "kanxue-security-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "redteam",
+  "tags": [
+   "reverse-engineering",
+   "binary-exploitation",
+   "malware-analysis",
+   "ctf",
+   "mobile-security",
+   "web-appsec"
+  ],
+  "audience": [
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "ctf-events",
+   "job-board"
+  ],
+  "summary": "看雪 (Kanxue) is a major Chinese-language security research forum founded in 2000, focused heavily on reverse engineering, binary vulnerabilities, packing/unpacking, Android/iOS security, and CTF, alongside a security job board. It is community-run under the Kanxue/pediy brand and has grown into one of the largest Chinese infosec forums with nearly a million registered members. It best suits Chinese-speaking intermediate-to-advanced practitioners interested in reverse engineering and binary security rather than newcomers looking for beginner hand-holding.",
+  "run_by": "community-run",
+  "website": "https://www.kanxue.com",
+  "github": null,
+  "youtube": null,
+  "region": "asia",
+  "country": "CN",
+  "subdivision": null,
+  "city": null,
+  "language": "zh",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Forum uses a temporary-to-formal member progression system for full posting/download privileges; site returned 403 to direct fetch so details are based on search results.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "hackplayers-foro",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "pentesting",
+   "malware-analysis",
+   "hacker-culture",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "chat",
+   "q-and-a",
+   "news-feed"
+  ],
+  "summary": "Hackplayers is a Spanish-language ethical hacking and information security community founded in Madrid in 2009, running its own volunteer-staffed forum with sections for pentesting, malware analysis, system administration, and training alongside general Q&A. It is run altruistically by a small group of volunteer moderators and also maintains a Tor mirror for privacy-conscious access. It suits Spanish-speaking beginners through advanced practitioners wanting a general-purpose hacking/security discussion forum.",
+  "run_by": "community-run",
+  "website": "https://www.hackplayers.com",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "ES",
+  "subdivision": null,
+  "city": "Madrid",
+  "language": "es",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free forum registration required to post; also reachable via a .onion Tor mirror for privacy.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "women-s-society-of-cyberjutsu",
+  "include": true,
+  "exclude_reason": null,
+  "category": "affinity",
+  "tags": [
+   "affinity-women",
+   "careers",
+   "mentorship",
+   "general-infosec",
+   "certifications"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 5,
+  "activities": [
+   "mentorship",
+   "job-board",
+   "study-groups",
+   "local-meetups",
+   "chat"
+  ],
+  "summary": "Women's Society of Cyberjutsu (WSC) is a nonprofit dedicated to advancing women in cybersecurity through free training, mentorship, scholarships, and networking. Their Slack connects members for career advice, study groups, and local chapter meetups, and is explicitly built to welcome newcomers regardless of experience level. It suits women (and allies) at any stage, from those exploring the field to working professionals.",
+  "run_by": "Women's Society of Cyberjutsu (nonprofit)",
+  "website": "https://womenscyberjutsu.org",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Join via the free signup page linked from womenscyberjutsu.org; some WSC programs (training, scholarships) require separate membership registration.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "colorstack",
+  "include": true,
+  "exclude_reason": null,
+  "category": "affinity",
+  "tags": [
+   "affinity-bipoc",
+   "careers",
+   "students",
+   "mentorship",
+   "programming"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "mentorship",
+   "job-board",
+   "study-groups",
+   "chat"
+  ],
+  "summary": "ColorStack is a nonprofit community of thousands of Black and Latinx computer science students supporting each other with academic help, technical interview prep, and career connections. It's a general CS/tech career community rather than security-specific, but it maintains a dedicated career-cybersecurity channel for members interested in the field. Best suited for students who want broader tech community and mentorship with a side channel for security career questions.",
+  "run_by": "ColorStack (nonprofit, founded by Jehron Petty)",
+  "website": "https://www.colorstack.org",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": null,
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Membership/signup required via colorstack.org (student verification typically expected); Slack invite is a share-link, not a public self-serve page.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "operation-code",
+  "include": true,
+  "exclude_reason": null,
+  "category": "affinity",
+  "tags": [
+   "affinity-veterans",
+   "careers",
+   "mentorship",
+   "programming",
+   "study-group"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate"
+  ],
+  "beginner_friendly": 4,
+  "activities": [
+   "mentorship",
+   "job-board",
+   "study-groups",
+   "chat"
+  ],
+  "summary": "Operation Code is a nonprofit serving military veterans, active-duty service members, and military spouses who are learning to code and building tech careers, offering mentorship, scholarships, and a Slack community. It's a general software-development and tech-career community rather than security-focused, though some members pursue cybersecurity tracks and can find peers there. Best suited for veterans/military-affiliated people early in a tech career transition.",
+  "run_by": "Operation Code (nonprofit)",
+  "website": "https://www.operationcode.org",
+  "github": null,
+  "youtube": null,
+  "region": "global",
+  "country": "US",
+  "subdivision": null,
+  "city": null,
+  "language": "en",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free signup via operationcode.org/join; open to veterans, active duty, spouses, and allied SIV refugees learning to code.",
+  "red_flags": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "inforge-forum",
+  "include": true,
+  "exclude_reason": null,
+  "category": "general",
+  "tags": [
+   "general-infosec",
+   "ctf",
+   "programming",
+   "hacker-culture"
+  ],
+  "audience": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "beginner_friendly": 3,
+  "activities": [
+   "q-and-a",
+   "chat",
+   "news-feed",
+   "writeups"
+  ],
+  "summary": "Inforge is Italy's largest general tech forum, founded in 2007, with a dedicated Sicurezza Informatica (cybersecurity/ethical hacking) section covering topics from beginner questions to more advanced discussion. It's community-run and free to register, with most content browsable without an account. Best suited for Italian-speaking users looking for a broad tech forum with an active security subforum rather than a security-only community.",
+  "run_by": "community-run",
+  "website": "https://www.inforge.net",
+  "github": null,
+  "youtube": null,
+  "region": "europe",
+  "country": "IT",
+  "subdivision": null,
+  "city": null,
+  "language": "it",
+  "year_round": null,
+  "event": null,
+  "rules_note": "Free registration on inforge.net; most forum content is readable without an account.",
+  "red_flags": null,
+  "confidence": "medium"
+ }
+]

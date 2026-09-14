@@ -1,0 +1,122 @@
+[
+ {
+  "id": "lgbtq-in-technology-slack",
+  "name": "LGBTQ in Technology Slack",
+  "platform": "slack",
+  "invite_url": "https://lgbtq.technology/",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: lgbtq; org: LGBTQ in Technology; join: request-form; scope: tech-with-security-channel. General LGBTQ+ tech professional Slack (welcomes newcomers, career-focused, hundreds of channels including presumably infosec topic channels, though a dedicated security channel could not be directly confirmed from the homepage). Join by filling out a signup form on the site; a moderator sends the Sla",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://lgbtq.technology/"
+  ]
+ },
+ {
+  "id": "veteransec",
+  "name": "VeteranSec",
+  "platform": "slack",
+  "invite_url": "https://veteransec.com/slack/",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Affinity: veterans; org: VeteranSec; join: request-form; scope: security. Small private Slack of cybersecurity veterans at all career stages; you must fill out a contact form (name, email, military branch, LinkedIn, background) and they send a Slack invite. Open to current/former military of any country working in cybersecurity. Distinct organization from VetSec (vetsec.org) despite the similar na",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://veteransec.com/slack/"
+  ]
+ },
+ {
+  "id": "neurodiversehackers",
+  "name": "NeurodiverseHackers",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/juCqnF6q9S",
+  "discord_description": "Dedicated to strengthening the cybersecurity community by embracing and empowering neurodiverse professionals.",
+  "members": 106,
+  "online": 16,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Neurodiverse Hackers",
+  "candidate_notes": "Affinity: neurodivergent; org: Neurodiverse Hackers (ndhack.org); join: free-signup; scope: security. 501(c)(3) nonprofit centering neurodivergent practitioners in cybersecurity; site confirms an always-on Discord ('read the rules, drop an introduction, you're in') and annual DEF CON meetup, but the exact discord.gg invite link is not exposed on the page (site returns 403 to automated fetch; text-",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://ndhack.org/community"
+  ]
+ },
+ {
+  "id": "sober-in-cyber",
+  "name": "Sober in Cyber",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/muaaTbWyvC",
+  "discord_description": "A community of sober people working in the cybersecurity industry. Exchange resources & find sober friends at events.",
+  "members": 182,
+  "online": 17,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Sober in Cyber",
+  "candidate_notes": "Affinity: other; org: Sober in Cyber; join: open-link; scope: security. Community of sober/alcohol-free cybersecurity professionals; not on the original affinity list (neurodivergent/disability/mental-health) but adjacent mental-health/recovery focus in security, flagging as 'other'. Discord reserved for sober/alcohol-free people working in infosec; monthly 'Happiest Hour' virtual meetup.",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://www.soberincyber.org/"
+  ]
+ },
+ {
+  "id": "cyberpatriot",
+  "name": "CyberPatriot",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/cyberpatriot-301768361136750592",
+  "discord_description": "The unofficial server for AFA CyberPatriot, the National Youth Cyber Defense Competition, and it's affiliates around the world.",
+  "members": 6733,
+  "online": 672,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "CyberPatriot Discord",
+  "candidate_notes": "Affinity: youth; org: CyberPatriot (Air & Space Forces Association); join: open-link; scope: security. Official community for the CyberPatriot National Youth Cyber Defense Competition (competitors, coaches, mentors); ~6,900 members. There is also a large unofficial competitor-run server ('Cypat Community', top.gg/discord/servers/711017888541081600) but I could not confirm its exact discord.gg invi",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://discord.com/invite/cyberpatriot-301768361136750592"
+  ]
+ },
+ {
+  "id": "cyber-discovery-2-electric-boogaloo",
+  "name": "Cyber Discovery 2: Electric Boogaloo",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/ekaD7rk",
+  "discord_description": null,
+  "members": 3158,
+  "online": 132,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Cyber Discovery Community",
+  "candidate_notes": "Affinity: youth; org: Alumni of NCSC/HMG's Cyber Discovery programme (unofficial, alumni-run); join: open-link; scope: security. ~4,000 members who took part in the UK's Cyber Discovery programme (2017-2021, the precursor to today's Cyber Explorers). Now skews ages 18-26 (alumni), but is the closest active public community tied to a UK youth cyber pipeline program; open to the public via the site'",
+  "category_hints": [
+   "affinity"
+  ],
+  "website": null,
+  "sources": [
+   "https://cyberdiscoverycommunity.uk/"
+  ]
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "swansea-hackspace",
+  "name": "Swansea Hackspace",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/rSyTWUA",
+  "discord_description": "Swansea Hackspace is a community-run space in Swansea where enthusiasts in electronics, textiles, science, digital art, crafting and just hacking on stuff can meet, share, learn, and work.",
+  "members": 248,
+  "online": 30,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Swansea Hackspace",
+  "candidate_notes": "Hackerspace in Swansea, Wales, United Kingdom; ~40 members; founded 2013/11/15. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  We provide a community-operated space in Swansea where people with interested in digital art, electronics, science, and general making, crafting, and hacking together technology can meet, share, lear",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "http://swansea.hackspace.org.uk"
+  ]
+ },
+ {
+  "id": "make-riga",
+  "name": "MAKE RIGA",
+  "platform": "irc",
+  "invite_url": "https://kiwiirc.com/nextclient/#irc://irc.libera.chat/hspace.lv",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Riga, Latvia; ~10 members; founded 2012/09/18. Chat link found via wiki/website (hackerspaces.org wiki / SpaceAPI / site crawl).  Come & visit us @ the institute of electronics & computer science, DZERBENES 14, RIGA, LV-1006, LATVIA <!--- Checked by mappall.space bot. Updated manual via http://mapall.space/hswikilist.php --> <!",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "http://makeriga.org",
+  "sources": [
+   "http://makeriga.org"
+  ]
+ },
+ {
+  "id": "krautspace",
+  "name": "Krautspace",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/#krautchan:matrix.kraut.space",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Jena, Thuringia, Germany; ~45 members; founded 2011/09/01. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl).  == [https://www.krautspace.de/ Hackspace-Jena] is the Hackerspace located in Jena, Germany == [[Category:DN42]] <!-- Checked by mapall.space bot on 2020-04-28 02:08. --> <!--- Checked by mappall.spac",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://kraut.space/",
+  "sources": [
+   "https://kraut.space/"
+  ]
+ },
+ {
+  "id": "tampere-hacklab",
+  "name": "Tampere Hacklab",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23tampere:hacklab.fi",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Tampere, Pirkanmaa, Finland; ~250 members; founded 2009/08/17. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  <div style=\"background-color:#444444;\"> <br> <div style=\"width:60%;height:107px;padding: 0px 0px; margin: 0px 0px 10px 10px; border: solid #f9fb1e 2px; background-color:transparent;font-size:1.6em; f",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://tampere.hacklab.fi",
+  "sources": [
+   "https://tampere.hacklab.fi"
+  ]
+ },
+ {
+  "id": "devlol",
+  "name": "DevLoL",
+  "platform": "matrix",
+  "invite_url": "https://matrix.to/#/%23devlol:devlol.org",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "Hackerspace in Linz, Upper Austria, Austria; ~>30 members; founded 2012/10/18. Chat link found via wiki (hackerspaces.org wiki / SpaceAPI / site crawl).  The name '''DevLoL''' stands for \"Developer Lab of Linz\" with intentional reference to /dev/lol (hardware devices) and \"lol\" (the fun part). Started as a loose group in may 2012 and it's the third or",
+  "category_hints": [
+   "regional"
+  ],
+  "website": "https://devlol.org",
+  "sources": [
+   "https://devlol.org"
+  ]
+ },
+ {
+  "id": "makerspace-wacken",
+  "name": "Makerspace Wacken",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/cZbmmgtNHE",
+  "discord_description": null,
+  "members": 21,
+  "online": 2,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Makerspace Wacken",
+  "candidate_notes": "Hackerspace in Wacken, Schleswig-Holstein, Germany; ~5 members; founded 2024/06/26. Chat link found via website (hackerspaces.org wiki / SpaceAPI / site crawl). ",
+  "category_hints": [
+   "regional"
+  ],
+  "website": null,
+  "sources": [
+   "https://makerspace-wacken.de"
+  ]
+ }
+]

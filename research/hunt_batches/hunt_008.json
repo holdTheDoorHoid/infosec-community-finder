@@ -1,0 +1,122 @@
+[
+ {
+  "name": "Security UC Club (\"Hack.ING\" CTF)",
+  "university": "Pontificia Universidad Católica de Chile (PUC)",
+  "country": "CL",
+  "city": "Santiago",
+  "website": null,
+  "crawl": "no-site",
+  "note": "Ran the Hack.ING CTF drawing ~160 students from multiple Chilean universities; only covered via blog.nivel4.com, own site not located.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Club de Ethical Hacking (Centro de Investigación en Ciberseguridad)",
+  "university": "Universidad Mayor",
+  "country": "CL",
+  "city": "Santiago",
+  "website": "https://www.diariomayor.cl/",
+  "crawl": "ok",
+  "note": "36 members, runs annual multi-university CTF; only an email contact listed, no chat link found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Centro Cultural de Ciberseguridad (CCC)",
+  "university": "unaffiliated / cross-university",
+  "country": "CL",
+  "city": null,
+  "website": "https://capacitacion-ccc.vercel.app/",
+  "crawl": "unreachable",
+  "note": "Student-oriented cybersecurity community reported to run a Discord server, but the site returned a 503 and the link could not be confirmed directly.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "HXPLOIT UPC",
+  "university": "Universidad Peruana de Ciencias Aplicadas (UPC)",
+  "country": "PE",
+  "city": "Lima",
+  "website": null,
+  "crawl": "no-site",
+  "note": "Ethical hacking study group founded by Gianpaul Custodio; found via Instagram/LinkedIn only, no site with chat link located.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "C Cúbico",
+  "university": "Universidad Nacional de Ingeniería (UNI)",
+  "country": "PE",
+  "city": "Lima",
+  "website": null,
+  "crawl": "no-site",
+  "note": "University cybersecurity ambassador community alongside CiberSecUNI; no dedicated site found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "CiberSec Unasam",
+  "university": "Universidad Nacional Santiago Antúnez de Mayolo (UNASAM)",
+  "country": "PE",
+  "city": "Huaraz",
+  "website": "https://www.linkedin.com/company/cibersec-unasam",
+  "crawl": "ok",
+  "note": "Only a LinkedIn presence found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "FAST Society of Cybersecurity",
+  "university": "FAST-National University of Computer and Emerging Sciences (NUCES)",
+  "country": "PK",
+  "city": null,
+  "website": "https://github.com/FAST-Society-of-Cybersecurity",
+  "crawl": "ok",
+  "note": "Active GitHub org; contact is email/Instagram/LinkedIn only, no Discord/Slack found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Cyber Security Club, Dhaka International University",
+  "university": "Dhaka International University",
+  "country": "BD",
+  "city": "Dhaka",
+  "website": "https://www.facebook.com/cscdiucse/",
+  "crawl": "unreachable",
+  "note": "Runs a '0 to Root CTF' course; only Facebook page found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "DIU Cyber Security Club",
+  "university": "Daffodil International University",
+  "country": "BD",
+  "city": "Dhaka",
+  "website": "https://studentshub.daffodilvarsity.edu.bd/club/30/home",
+  "crawl": "ok",
+  "note": "466+ members; only Facebook/YouTube links found, no Discord on the club portal page.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "ctf_enjoyers",
+  "university": "Kazakh-British Technical University (KBTU)",
+  "country": "KZ",
+  "city": "Almaty",
+  "website": "https://kbtu.edu.kz/en/",
+  "crawl": "ok",
+  "note": "Student club that ran CTF KBTU 2026; no dedicated community chat link located.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "EUI Cyber Security Club",
+  "university": "Egypt University of Informatics (EUI)",
+  "country": "EG",
+  "city": "Cairo",
+  "website": "https://www.linkedin.com/company/euicsc",
+  "crawl": "ok",
+  "note": "Open to students from other institutions; only LinkedIn/X found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ },
+ {
+  "name": "Cyber Security Club (CSC_IAU)",
+  "university": "Imam Abdulrahman Bin Faisal University",
+  "country": "SA",
+  "city": "Dammam",
+  "website": "https://x.com/csc_iau",
+  "crawl": "ok",
+  "note": "Runs CTF competitions (e.g. Ransomware CTF); only X/Twitter presence found.",
+  "task": "find the club's public Discord/Slack/Matrix link"
+ }
+]

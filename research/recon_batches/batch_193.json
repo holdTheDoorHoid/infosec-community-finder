@@ -1,0 +1,122 @@
+[
+ {
+  "id": "damsec-security-club-at-osu",
+  "name": "DAMSEC (Security Club at OSU)",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/ayX8f5W",
+  "discord_description": "The Security Club at Oregon State University!",
+  "members": 1755,
+  "online": 118,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "OSU Security Club (OSUSEC)",
+  "candidate_notes": "University club at Oregon State University (Corvallis, US); link found by crawling the club site. Streams meetings to Discord but invite URL not shown on fetched page.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://osusec.org/"
+  ]
+ },
+ {
+  "id": "durham-compsoc",
+  "name": "Durham CompSoc",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/QDtMw5a2Ck",
+  "discord_description": null,
+  "members": 693,
+  "online": 63,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Durham CompSoc / GeekSoc",
+  "candidate_notes": "University club at Durham University (Durham, GB); link found by crawling the club site. Page confirms an active Discord (icon in footer) but the invite URL isn't in the fetched text; covers computing broadly, cybersecurity-adjacent.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://compsoc.tech"
+  ]
+ },
+ {
+  "id": "cryptonite",
+  "name": "Cryptonite",
+  "platform": "slack",
+  "invite_url": "https://cors-anywhere.herokuapp.com",
+  "discord_description": null,
+  "members": null,
+  "online": null,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": null,
+  "candidate_notes": "University club at Manipal Institute of Technology (MAHE) (Manipal, IN); link found by crawling the club site. Runs niteCTF/Cryptober; site itself shows no Discord link (only Instagram/LinkedIn/GitHub/email), though unrelated search snippets referenced possible invite codes (Wc8XK53J, RmXTQnV) that could not be verified on the club's own pages.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": "https://cryptonitemit.in/",
+  "sources": [
+   "https://cryptonitemit.in/"
+  ]
+ },
+ {
+  "id": "0x1337-iiith",
+  "name": "0x1337 IIITH",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/xhDnu6Rnfh",
+  "discord_description": null,
+  "members": 788,
+  "online": 26,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "0x1337: The Hacking Club",
+  "candidate_notes": "University club at IIIT Hyderabad (Hyderabad, IN); link found by crawling the club site. Runs TheDeccanCTF (0x1337iiit.github.io/ctf); no Discord/Slack link surfaced from the club page excerpt fetched.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://clubs.iiit.ac.in/clubs/hacking.club"
+  ]
+ },
+ {
+  "id": "uts-csec",
+  "name": "UTS:CSEC",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/5mk6hND",
+  "discord_description": null,
+  "members": 1731,
+  "online": 264,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "UTS Cyber Security Society (CSEC)",
+  "candidate_notes": "University club at University of Technology Sydney (Sydney, AU); link found by crawling the club site. Site returned 403; Instagram bio had no visible link text in fetched image-only content.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://utscyber.org/"
+  ]
+ },
+ {
+  "id": "macs",
+  "name": "MACS",
+  "platform": "discord",
+  "invite_url": "https://discord.gg/macs",
+  "discord_description": "Macquarie University Association of Computing Students",
+  "members": 7148,
+  "online": 1130,
+  "verified": false,
+  "partnered": false,
+  "candidate_name": "Macquarie Association of Computing Students (MACS)",
+  "candidate_notes": "University club at Macquarie University (Sydney, AU); link found by crawling the club site. Domain did not resolve during this pass.",
+  "category_hints": [
+   "ctf"
+  ],
+  "website": null,
+  "sources": [
+   "https://macs.codes/"
+  ]
+ }
+]
