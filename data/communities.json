@@ -549,9 +549,9 @@
    "guild_id": "1144279744871923842",
    "discord_name": "Nyan Devices",
    "discord_description": "Nyan Devices creates educational security tools with simple menu-driven interfaces, making wireless research accessible to everyone. Home of the nyanBOX device.",
-   "members": 2954,
-   "online": 317,
-   "size_tier": "small",
+   "members": 3001,
+   "online": 281,
+   "size_tier": "medium",
    "verified": false,
    "partnered": false,
    "discoverable": true,
@@ -563,7 +563,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "user-seed-file",
     "https://nyandevices.com/"
@@ -606,6 +606,11 @@
      "date": "2026-09-28",
      "members": 2954,
      "online": 317
+    },
+    {
+     "date": "2026-10-03",
+     "members": 3001,
+     "online": 281
     }
    ],
    "category": "tool",
@@ -986,8 +991,8 @@
    "guild_id": "1317183521734918184",
    "discord_name": "Offensive Appliances",
    "discord_description": null,
-   "members": 275,
-   "online": 46,
+   "members": 276,
+   "online": 34,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -1000,7 +1005,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "user-seed-file"
    ],
@@ -1042,6 +1047,11 @@
      "date": "2026-09-28",
      "members": 275,
      "online": 46
+    },
+    {
+     "date": "2026-10-03",
+     "members": 276,
+     "online": 34
     }
    ],
    "category": "hardware",
@@ -1086,7 +1096,7 @@
    "discord_name": "Netgotchi",
    "discord_description": null,
    "members": 176,
-   "online": 28,
+   "online": 26,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -1099,7 +1109,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "user-seed-file"
    ],
@@ -1141,6 +1151,11 @@
      "date": "2026-09-28",
      "members": 176,
      "online": 28
+    },
+    {
+     "date": "2026-10-03",
+     "members": 176,
+     "online": 26
     }
    ],
    "category": "tool",
@@ -4274,8 +4289,8 @@
    "guild_id": "1134668414808494230",
    "discord_name": "JawnCon",
    "discord_description": null,
-   "members": 363,
-   "online": 82,
+   "members": 364,
+   "online": 64,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -4288,7 +4303,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "lsoh-con-tracker"
    ],
@@ -4330,6 +4345,11 @@
      "date": "2026-09-28",
      "members": 363,
      "online": 82
+    },
+    {
+     "date": "2026-10-03",
+     "members": 364,
+     "online": 64
     }
    ],
    "category": "conference",
@@ -4382,8 +4402,8 @@
    "guild_id": "799348589305528350",
    "discord_name": "LayerOne Conference",
    "discord_description": null,
-   "members": 1057,
-   "online": 155,
+   "members": 1056,
+   "online": 150,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -4396,7 +4416,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "lsoh-con-tracker"
    ],
@@ -4438,6 +4458,11 @@
      "date": "2026-09-28",
      "members": 1057,
      "online": 155
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1056,
+     "online": 150
     }
    ],
    "category": "conference",
@@ -4602,8 +4627,8 @@
    "guild_id": "454775222713974785",
    "discord_name": "Make:",
    "discord_description": null,
-   "members": 3024,
-   "online": 263,
+   "members": 3022,
+   "online": 227,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -4616,7 +4641,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "lsoh-con-tracker"
    ],
@@ -4658,6 +4683,11 @@
      "date": "2026-09-28",
      "members": 3024,
      "online": 263
+    },
+    {
+     "date": "2026-10-03",
+     "members": 3022,
+     "online": 227
     }
    ],
    "category": "adjacent",
@@ -4699,8 +4729,8 @@
    "guild_id": "1160992362684764211",
    "discord_name": "MFOC",
    "discord_description": "Maker Faire Orange County is a vibrant, family-friendly showcase of invention, creativity, and resourcefulness—bringing together makers of all ages and backgrounds to share their projects and spark inspiration. From tech enthusiasts and artists to crafters and DIY hobbyists",
-   "members": 360,
-   "online": 48,
+   "members": 361,
+   "online": 42,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -4713,7 +4743,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "lsoh-con-tracker"
    ],
@@ -4755,6 +4785,11 @@
      "date": "2026-09-28",
      "members": 360,
      "online": 48
+    },
+    {
+     "date": "2026-10-03",
+     "members": 361,
+     "online": 42
     }
    ],
    "category": "adjacent",
@@ -4796,8 +4831,8 @@
    "guild_id": "444285101476544515",
    "discord_name": "NorthSec",
    "discord_description": null,
-   "members": 3148,
-   "online": 592,
+   "members": 3143,
+   "online": 356,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -4810,7 +4845,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "lsoh-con-tracker",
     "https://nsec.io/"
@@ -4853,6 +4888,11 @@
      "date": "2026-09-28",
      "members": 3148,
      "online": 592
+    },
+    {
+     "date": "2026-10-03",
+     "members": 3143,
+     "online": 356
     }
    ],
    "category": "conference",
@@ -4910,8 +4950,8 @@
    "guild_id": "1077330444011446302",
    "discord_name": "OPEN SAUCE",
    "discord_description": null,
-   "members": 3145,
-   "online": 665,
+   "members": 3144,
+   "online": 635,
    "size_tier": "medium",
    "verified": true,
    "partnered": false,
@@ -4924,7 +4964,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "lsoh-con-tracker"
    ],
@@ -4966,6 +5006,11 @@
      "date": "2026-09-28",
      "members": 3145,
      "online": 665
+    },
+    {
+     "date": "2026-10-03",
+     "members": 3144,
+     "online": 635
     }
    ],
    "category": "creator",
@@ -6202,8 +6247,8 @@
    "guild_id": "687040227272818724",
    "discord_name": "Open Source Hardware Association",
    "discord_description": null,
-   "members": 2133,
-   "online": 233,
+   "members": 2134,
+   "online": 188,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -6216,7 +6261,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://2026.oshwa.org/attend/"
    ],
@@ -6260,6 +6305,11 @@
      "date": "2026-09-28",
      "members": 2133,
      "online": 233
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2134,
+     "online": 188
     }
    ],
    "category": "adjacent",
@@ -7741,8 +7791,8 @@
    "guild_id": "470253814235136040",
    "discord_name": "JH Discord",
    "discord_description": "\"Free cybersecurity education, without the fluff.\" Come hang out, play CTFs, and learn!",
-   "members": 30278,
-   "online": 3595,
+   "members": 30292,
+   "online": 3240,
    "size_tier": "large",
    "verified": false,
    "partnered": false,
@@ -7755,7 +7805,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.linkedin.com/posts/jordansnapper_17-cybersecurity-discord-servers-you-must-activity-7289533871006584832-IV-2/",
     "https://flare.io/learn/resources/blog/cybersecurity-discord-servers"
@@ -7800,6 +7850,11 @@
      "date": "2026-09-28",
      "members": 30278,
      "online": 3595
+    },
+    {
+     "date": "2026-10-03",
+     "members": 30292,
+     "online": 3240
     }
    ],
    "category": "creator",
@@ -8062,8 +8117,8 @@
    "guild_id": "780824470113615893",
    "discord_name": "OffSec",
    "discord_description": "The OffSec Discord allows members to learn, share, and to connect with others from OffSec Community.",
-   "members": 96944,
-   "online": 12911,
+   "members": 97075,
+   "online": 11096,
    "size_tier": "huge",
    "verified": true,
    "partnered": false,
@@ -8076,7 +8131,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.linkedin.com/posts/jordansnapper_17-cybersecurity-discord-servers-you-must-activity-7289533871006584832-IV-2/",
     "https://discord.com/servers/offsec-780824470113615893",
@@ -8124,6 +8179,11 @@
      "date": "2026-09-28",
      "members": 96944,
      "online": 12911
+    },
+    {
+     "date": "2026-10-03",
+     "members": 97075,
+     "online": 11096
     }
    ],
    "category": "learning",
@@ -8289,8 +8349,8 @@
    "guild_id": "190055783680049153",
    "discord_name": "MSPs Я Us",
    "discord_description": null,
-   "members": 6886,
-   "online": 1330,
+   "members": 6890,
+   "online": 1187,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -8303,7 +8363,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.linkedin.com/posts/jordansnapper_17-cybersecurity-discord-servers-you-must-activity-7289533871006584832-IV-2/",
     "https://www.linkedin.com/posts/jordansnapper_17-cybersecurity-discord-servers-you-must-activity-7289533871006584832-IV-2"
@@ -8348,6 +8408,11 @@
      "date": "2026-09-28",
      "members": 6886,
      "online": 1330
+    },
+    {
+     "date": "2026-10-03",
+     "members": 6890,
+     "online": 1187
     }
    ],
    "category": "adjacent",
@@ -10863,8 +10928,8 @@
    "guild_id": "448237321708503041",
    "discord_name": "MalwareTech",
    "discord_description": "A community for cybersecurity enthusiasts interested in learning about reverse engineering & malware.",
-   "members": 5709,
-   "online": 836,
+   "members": 5748,
+   "online": 794,
    "size_tier": "medium",
    "verified": true,
    "partnered": false,
@@ -10877,7 +10942,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/malwaretech-448237321708503041",
     "https://accesscyber.co/blog/infosec-cybersecurity-discord-servers"
@@ -10922,6 +10987,11 @@
      "date": "2026-09-28",
      "members": 5709,
      "online": 836
+    },
+    {
+     "date": "2026-10-03",
+     "members": 5748,
+     "online": 794
     }
    ],
    "category": "learning",
@@ -11183,8 +11253,8 @@
    "guild_id": "598608711186907146",
    "discord_name": "Nahamsec",
    "discord_description": "Nahamsec's Official Community server",
-   "members": 41760,
-   "online": 4507,
+   "members": 41755,
+   "online": 3801,
    "size_tier": "large",
    "verified": false,
    "partnered": false,
@@ -11197,7 +11267,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/nahamsec-598608711186907146",
     "https://flare.io/learn/resources/blog/cybersecurity-discord-servers",
@@ -11248,6 +11318,11 @@
      "date": "2026-09-28",
      "members": 41760,
      "online": 4507
+    },
+    {
+     "date": "2026-10-03",
+     "members": 41755,
+     "online": 3801
     }
    ],
    "category": "creator",
@@ -12068,8 +12143,8 @@
    "guild_id": "1275409729493139466",
    "discord_name": "OmniCTF | Public",
    "discord_description": "OmniCTF started as a community-driven cybersecurity competition created by a group of young security enthusiasts from Romania. What began as an idea to build a fun and challenging CTF has grown into an international community of players, challenge authors, organizers, and partners.",
-   "members": 1172,
-   "online": 166,
+   "members": 1168,
+   "online": 163,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -12082,7 +12157,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/omnictf-public-1275409729493139466"
    ],
@@ -12126,6 +12201,11 @@
      "date": "2026-09-28",
      "members": 1172,
      "online": 166
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1168,
+     "online": 163
     }
    ],
    "category": "ctf",
@@ -12725,8 +12805,8 @@
    "guild_id": "1235103752369995796",
    "discord_name": "Labyrinth",
    "discord_description": "Hackers enter. Legends remain.",
-   "members": 5778,
-   "online": 792,
+   "members": 5780,
+   "online": 659,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -12739,7 +12819,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/labyrinth-1235103752369995796"
    ],
@@ -12783,6 +12863,11 @@
      "date": "2026-09-28",
      "members": 5778,
      "online": 792
+    },
+    {
+     "date": "2026-10-03",
+     "members": 5780,
+     "online": 659
     }
    ],
    "category": "general",
@@ -13352,8 +13437,8 @@
    "guild_id": "1423117879209103403",
    "discord_name": "MissesVirus Family",
    "discord_description": "Join our server to hang out and chat with the MissesVirus community! New uploads are announced in this server. Stay updated on MissesVirus' latest content, suggest video ideas, partake in events and more!!",
-   "members": 2664,
-   "online": 315,
+   "members": 2685,
+   "online": 344,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -13366,7 +13451,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/missesvirus-family-1423117879209103403"
    ],
@@ -13410,6 +13495,11 @@
      "date": "2026-09-28",
      "members": 2664,
      "online": 315
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2685,
+     "online": 344
     }
    ],
    "category": "creator",
@@ -13451,8 +13541,8 @@
    "guild_id": "885624530071085097",
    "discord_name": "OALABS",
    "discord_description": "Reverse Engineering and Chill 🍹👾",
-   "members": 6004,
-   "online": 1481,
+   "members": 6020,
+   "online": 1349,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -13465,7 +13555,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/oalabs-885624530071085097",
     "http://www.openanalysis.net/"
@@ -13510,6 +13600,11 @@
      "date": "2026-09-28",
      "members": 6004,
      "online": 1481
+    },
+    {
+     "date": "2026-10-03",
+     "members": 6020,
+     "online": 1349
     }
    ],
    "category": "creator",
@@ -13980,10 +14075,10 @@
    "invite_url": "https://discord.gg/monokuma",
    "invite_code": "monokuma",
    "guild_id": "1470133750196338801",
-   "discord_name": "/ MONOKUMA",
+   "discord_name": "/ MONOKUMA 🎃",
    "discord_description": "we got that HOPE!! / were more known as /kuma",
-   "members": 2205,
-   "online": 294,
+   "members": 2228,
+   "online": 315,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -13991,12 +14086,12 @@
    "community_features": true,
    "verification_level": 2,
    "vanity": "monokuma",
-   "icon_url": "https://cdn.discordapp.com/icons/1470133750196338801/a_d2b738979207673dc6dffc6dccd55e50.gif?size=128",
+   "icon_url": "https://cdn.discordapp.com/icons/1470133750196338801/e27c93a0ab3aacac48d76774206ad0ac.png?size=128",
    "invite_expires_at": null,
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/monokuma-1470133750196338801"
    ],
@@ -14040,6 +14135,11 @@
      "date": "2026-09-28",
      "members": 2205,
      "online": 294
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2228,
+     "online": 315
     }
    ],
    "category": "general",
@@ -15022,8 +15122,8 @@
    "guild_id": "1252904927588515871",
    "discord_name": "Misono Mika's Tea Party",
    "discord_description": "Sensei! I have arrived! Come hang out with me when you have time! ☆",
-   "members": 4045,
-   "online": 1456,
+   "members": 4066,
+   "online": 1323,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -15036,7 +15136,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/misono-mika-s-tea-party-1252904927588515871"
    ],
@@ -15080,6 +15180,11 @@
      "date": "2026-09-28",
      "members": 4045,
      "online": 1456
+    },
+    {
+     "date": "2026-10-03",
+     "members": 4066,
+     "online": 1323
     }
    ],
    "category": "general",
@@ -15733,8 +15838,8 @@
    "guild_id": "219114060325584897",
    "discord_name": "Mario Kart Modding Community",
    "discord_description": "This is a long-standing community dedicated to Mario Kart hacking and modding, mainly focused on Mario Kart Wii and Mario Kart 8/Deluxe, but open to all entries in the series.",
-   "members": 3722,
-   "online": 688,
+   "members": 3739,
+   "online": 625,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -15747,7 +15852,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/mario-kart-modding-community-219114060325584897"
    ],
@@ -15791,6 +15896,11 @@
      "date": "2026-09-28",
      "members": 3722,
      "online": 688
+    },
+    {
+     "date": "2026-10-03",
+     "members": 3739,
+     "online": 625
     }
    ],
    "category": "general",
@@ -16039,8 +16149,8 @@
    "guild_id": "989535240882114581",
    "discord_name": "ISLM",
    "discord_description": "Islamic Coin is a native currency of HAQQnetwork, dedicated to empowering a Shariah-compliant financial ecosystem.",
-   "members": 172046,
-   "online": 825,
+   "members": 171970,
+   "online": 637,
    "size_tier": "huge",
    "verified": false,
    "partnered": false,
@@ -16053,7 +16163,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/islm-989535240882114581"
    ],
@@ -16097,6 +16207,11 @@
      "date": "2026-09-28",
      "members": 172046,
      "online": 825
+    },
+    {
+     "date": "2026-10-03",
+     "members": 171970,
+     "online": 637
     }
    ],
    "category": "general",
@@ -16529,8 +16644,8 @@
    "guild_id": "1103378727750078524",
    "discord_name": "Old School Boosting",
    "discord_description": "Jagex-compliant Old School Runescape boosting server for CAs, Kits, Megascales, BA, Pet boosting and many more!",
-   "members": 18612,
-   "online": 6231,
+   "members": 18621,
+   "online": 5882,
    "size_tier": "large",
    "verified": false,
    "partnered": false,
@@ -16543,7 +16658,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/old-school-boosting-1103378727750078524"
    ],
@@ -16587,6 +16702,11 @@
      "date": "2026-09-28",
      "members": 18612,
      "online": 6231
+    },
+    {
+     "date": "2026-10-03",
+     "members": 18621,
+     "online": 5882
     }
    ],
    "category": "general",
@@ -17049,7 +17169,7 @@
    "nsfw": false,
    "invite_status": "dead",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/meta4sec-941942387813539850"
    ],
@@ -17250,8 +17370,8 @@
    "guild_id": "1262881915262730292",
    "discord_name": "KPCG",
    "discord_description": "Krunker Police Civilian Group. Get KR for reporting hackers, scammers & more. Officially partnered with Krunker.",
-   "members": 1395,
-   "online": 238,
+   "members": 1401,
+   "online": 233,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -17264,7 +17384,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/kpcg-1262881915262730292"
    ],
@@ -17308,6 +17428,11 @@
      "date": "2026-09-28",
      "members": 1395,
      "online": 238
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1401,
+     "online": 233
     }
    ],
    "category": "general",
@@ -17574,8 +17699,8 @@
    "guild_id": "789881608517320756",
    "discord_name": "KVA FAM",
    "discord_description": "ᴋᴜᴋᴋᴜᴅᴜ ᴠᴀᴠᴀ ᴀᴅʜᴏʟᴏᴋᴀᴍ",
-   "members": 4188,
-   "online": 283,
+   "members": 4194,
+   "online": 296,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -17583,12 +17708,12 @@
    "community_features": true,
    "verification_level": 1,
    "vanity": "kva-fam-789881608517320756",
-   "icon_url": "https://cdn.discordapp.com/icons/789881608517320756/0ea27c5cff78ae30cffa043b448f4320.png?size=128",
+   "icon_url": "https://cdn.discordapp.com/icons/789881608517320756/a_ee4f3231e4eed0e813f66f9d1543c6b2.gif?size=128",
    "invite_expires_at": null,
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/kva-fam-789881608517320756"
    ],
@@ -17632,6 +17757,11 @@
      "date": "2026-09-28",
      "members": 4188,
      "online": 283
+    },
+    {
+     "date": "2026-10-03",
+     "members": 4194,
+     "online": 296
     }
    ],
    "category": "general",
@@ -17784,9 +17914,9 @@
    "invite_code": "nwr",
    "guild_id": "1153950961195290645",
    "discord_name": "[nwr] Clan & Reports | Roblox BedWars",
-   "discord_description": "A Roblox BedWars oriented server owned by nwr, here you can report cheaters and join our clan!",
-   "members": 7826,
-   "online": 1132,
+   "discord_description": "A Roblox BedWars oriented server owned by nwr, here you can report cheaters, enter plenty of giveaways and join our clan!",
+   "members": 7913,
+   "online": 1392,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -17799,7 +17929,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/nwr-clan-reports-roblox-bedwars-1153950961195290645"
    ],
@@ -17843,6 +17973,11 @@
      "date": "2026-09-28",
      "members": 7826,
      "online": 1132
+    },
+    {
+     "date": "2026-10-03",
+     "members": 7913,
+     "online": 1392
     }
    ],
    "category": "general",
@@ -18906,8 +19041,8 @@
    "guild_id": "633684198376472576",
    "discord_name": "Les Joies du Code",
    "discord_description": "Une communauté de développeurs passionnés rassemblés pour des échanges décontractés et de l'entraide.",
-   "members": 5526,
-   "online": 979,
+   "members": 5512,
+   "online": 874,
    "size_tier": "medium",
    "verified": false,
    "partnered": true,
@@ -18920,7 +19055,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/les-joies-du-code-633684198376472576"
    ],
@@ -18964,6 +19099,11 @@
      "date": "2026-09-28",
      "members": 5526,
      "online": 979
+    },
+    {
+     "date": "2026-10-03",
+     "members": 5512,
+     "online": 874
     }
    ],
    "category": "general",
@@ -19208,8 +19348,8 @@
    "guild_id": "1333575279012085853",
    "discord_name": "Lost Lectures | LL | CGT",
    "discord_description": "Hello! Our server is LL and we host daily tryouts for our team. We have many different positions and have many options besides being a player (referee, caster, etc). See you there.",
-   "members": 1705,
-   "online": 133,
+   "members": 1710,
+   "online": 159,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -19222,7 +19362,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/servers/lost-lectures-ll-cgt-1333575279012085853"
    ],
@@ -19266,6 +19406,11 @@
      "date": "2026-09-28",
      "members": 1705,
      "online": 133
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1710,
+     "online": 159
     }
    ],
    "category": "general",
@@ -20176,8 +20321,8 @@
    "guild_id": "756601039053914243",
    "discord_name": "Official HackMyVM",
    "discord_description": "This is the Official Community server for HackMyVM, an awesome CTF challenge platform.",
-   "members": 2629,
-   "online": 157,
+   "members": 2632,
+   "online": 131,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -20190,7 +20335,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://disboard.org/server/756601039053914243"
    ],
@@ -20234,6 +20379,11 @@
      "date": "2026-09-28",
      "members": 2629,
      "online": 157
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2632,
+     "online": 131
     }
    ],
    "category": "ctf",
@@ -20675,8 +20825,8 @@
    "guild_id": "560847285874065408",
    "discord_name": "LOCKE",
    "discord_description": "LOCKE is a server for people enthusiastic about technology of all kinds and of all skill levels!",
-   "members": 5334,
-   "online": 558,
+   "members": 5337,
+   "online": 515,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -20689,7 +20839,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/README.md"
    ],
@@ -20733,6 +20883,11 @@
      "date": "2026-09-28",
      "members": 5334,
      "online": 558
+    },
+    {
+     "date": "2026-10-03",
+     "members": 5337,
+     "online": 515
     }
    ],
    "category": "general",
@@ -22408,8 +22563,8 @@
    "guild_id": "397003890262016010",
    "discord_name": "offsec",
    "discord_description": null,
-   "members": 907,
-   "online": 66,
+   "members": 908,
+   "online": 56,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -22422,7 +22577,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://gist.github.com/johnnyxmas/7a2e78a1d46512c0b1d9c1f8b3a03ee9"
    ],
@@ -22466,6 +22621,11 @@
      "date": "2026-09-28",
      "members": 907,
      "online": 66
+    },
+    {
+     "date": "2026-10-03",
+     "members": 908,
+     "online": 56
     }
    ],
    "category": "learning",
@@ -23959,7 +24119,7 @@
    "discord_name": "Malware Village",
    "discord_description": "Welcome to Malware Village! Our website: https://malwarevillage.org/",
    "members": 744,
-   "online": 116,
+   "online": 92,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -23972,7 +24132,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://oliviagallucci.com/cybersecurity-discord-servers/"
    ],
@@ -24016,6 +24176,11 @@
      "date": "2026-09-28",
      "members": 744,
      "online": 116
+    },
+    {
+     "date": "2026-10-03",
+     "members": 744,
+     "online": 92
     }
    ],
    "category": "village",
@@ -27217,8 +27382,8 @@
    "guild_id": "1055234855878791298",
    "discord_name": "Joe Grand's Official Server",
    "discord_description": "A community gathering spot for electronics, hardware hacking, and the projects of Joe Grand aka Kingpin",
-   "members": 1975,
-   "online": 191,
+   "members": 1971,
+   "online": 168,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -27231,7 +27396,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/Blazenda/hacker_discords"
    ],
@@ -27275,6 +27440,11 @@
      "date": "2026-09-28",
      "members": 1975,
      "online": 191
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1971,
+     "online": 168
     }
    ],
    "category": "creator",
@@ -27321,8 +27491,8 @@
    "guild_id": "838895421291102289",
    "discord_name": "Kali Linux & Friends",
    "discord_description": null,
-   "members": 72524,
-   "online": 4569,
+   "members": 72589,
+   "online": 4128,
    "size_tier": "huge",
    "verified": false,
    "partnered": false,
@@ -27335,7 +27505,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/Blazenda/hacker_discords",
     "https://www.vulnhub.com/chat/",
@@ -27383,6 +27553,11 @@
      "date": "2026-09-28",
      "members": 72524,
      "online": 4569
+    },
+    {
+     "date": "2026-10-03",
+     "members": 72589,
+     "online": 4128
     }
    ],
    "category": "tool",
@@ -27433,8 +27608,8 @@
    "guild_id": "293216202359046146",
    "discord_name": "KismetWireless",
    "discord_description": null,
-   "members": 3227,
-   "online": 264,
+   "members": 3229,
+   "online": 255,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -27447,7 +27622,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/Blazenda/hacker_discords",
     "https://www.kismetwireless.net/"
@@ -27492,6 +27667,11 @@
      "date": "2026-09-28",
      "members": 3227,
      "online": 264
+    },
+    {
+     "date": "2026-10-03",
+     "members": 3229,
+     "online": 255
     }
    ],
    "category": "tool",
@@ -27540,8 +27720,8 @@
    "guild_id": "140129091796992000",
    "discord_name": "Lockpickers United",
    "discord_description": "Lockpickers United is a community-driven Discord server dedicated to the art and sport of lockpicking. Whether you're a hobbyist, beginner, or competitive picker, you'll find a place to learn, share techniques, take on challenges, and connect with fellow enthusiasts.",
-   "members": 12175,
-   "online": 2452,
+   "members": 12140,
+   "online": 2253,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -27554,7 +27734,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/Blazenda/hacker_discords"
    ],
@@ -27598,6 +27778,11 @@
      "date": "2026-09-28",
      "members": 12175,
      "online": 2452
+    },
+    {
+     "date": "2026-10-03",
+     "members": 12140,
+     "online": 2253
     }
    ],
    "category": "hardware",
@@ -27650,8 +27835,8 @@
    "guild_id": "420677154196553748",
    "discord_name": "netsecstudents",
    "discord_description": null,
-   "members": 2647,
-   "online": 204,
+   "members": 2648,
+   "online": 171,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -27664,7 +27849,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/Blazenda/hacker_discords"
    ],
@@ -27708,6 +27893,11 @@
      "date": "2026-09-28",
      "members": 2647,
      "online": 204
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2648,
+     "online": 171
     }
    ],
    "category": "general",
@@ -29162,8 +29352,8 @@
    "guild_id": "762959242989666324",
    "discord_name": "Low Level Exploitation (LLE) (closed)",
    "discord_description": null,
-   "members": 957,
-   "online": 86,
+   "members": 956,
+   "online": 75,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -29176,7 +29366,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://medium.com/@KillSwitchX7/cyber-security-discord-servers-7d9c0b7cd7cb"
    ],
@@ -29220,6 +29410,11 @@
      "date": "2026-09-28",
      "members": 957,
      "online": 86
+    },
+    {
+     "date": "2026-10-03",
+     "members": 956,
+     "online": 75
     }
    ],
    "category": "redteam",
@@ -29266,8 +29461,8 @@
    "guild_id": "440442961147199490",
    "discord_name": "Operating System Development",
    "discord_description": "A community of programmers with an interest in low level/OS development, bootloaders, hardware, and more!",
-   "members": 15056,
-   "online": 2645,
+   "members": 15092,
+   "online": 2523,
    "size_tier": "large",
    "verified": false,
    "partnered": false,
@@ -29280,7 +29475,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://medium.com/@KillSwitchX7/cyber-security-discord-servers-7d9c0b7cd7cb"
    ],
@@ -29324,6 +29519,11 @@
      "date": "2026-09-28",
      "members": 15056,
      "online": 2645
+    },
+    {
+     "date": "2026-10-03",
+     "members": 15092,
+     "online": 2523
     }
    ],
    "category": "adjacent",
@@ -29368,8 +29568,8 @@
    "guild_id": "1097702760411045989",
    "discord_name": "KC7",
    "discord_description": "KC7 gives everyone — students, professionals, and companies — hands-on experience with realistic cybersecurity data.",
-   "members": 7632,
-   "online": 532,
+   "members": 7644,
+   "online": 329,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -29382,7 +29582,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://communityone.io/servers/cybersecurity/"
    ],
@@ -29426,6 +29626,11 @@
      "date": "2026-09-28",
      "members": 7632,
      "online": 532
+    },
+    {
+     "date": "2026-10-03",
+     "members": 7644,
+     "online": 329
     }
    ],
    "category": "learning",
@@ -30559,8 +30764,8 @@
    "guild_id": "602614977806729216",
    "discord_name": "NetworkChuck",
    "discord_description": null,
-   "members": 98416,
-   "online": 8696,
+   "members": 98393,
+   "online": 8014,
    "size_tier": "huge",
    "verified": false,
    "partnered": false,
@@ -30573,7 +30778,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/invite/networkchuck"
    ],
@@ -30617,6 +30822,11 @@
      "date": "2026-09-28",
      "members": 98416,
      "online": 8696
+    },
+    {
+     "date": "2026-10-03",
+     "members": 98393,
+     "online": 8014
     }
    ],
    "category": "creator",
@@ -30664,8 +30874,8 @@
    "guild_id": "1498695062203273256",
    "discord_name": "NetworkChuck Academy",
    "discord_description": "The official Discord server for the NetworkChuck Academy",
-   "members": 11842,
-   "online": 1174,
+   "members": 11864,
+   "online": 1008,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -30678,7 +30888,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/invite/ntck-ac"
    ],
@@ -30722,6 +30932,11 @@
      "date": "2026-09-28",
      "members": 11842,
      "online": 1174
+    },
+    {
+     "date": "2026-10-03",
+     "members": 11864,
+     "online": 1008
     }
    ],
    "category": "learning",
@@ -31091,8 +31306,8 @@
    "guild_id": "773059182906572820",
    "discord_name": "Jeremy's IT Lab",
    "discord_description": "Welcome to Jeremy's IT Lab! Join us to talk all things networking and IT!",
-   "members": 26833,
-   "online": 1868,
+   "members": 26903,
+   "online": 1748,
    "size_tier": "large",
    "verified": false,
    "partnered": false,
@@ -31105,7 +31320,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/invite/pkBYDnqFD9"
    ],
@@ -31149,6 +31364,11 @@
      "date": "2026-09-28",
      "members": 26833,
      "online": 1868
+    },
+    {
+     "date": "2026-10-03",
+     "members": 26903,
+     "online": 1748
     }
    ],
    "category": "creator",
@@ -31414,8 +31634,8 @@
    "guild_id": "1211622338198765599",
    "discord_name": "Momentum Firmware",
    "discord_description": "Feature-rich, stable and customizable Flipper Zero Firmware. Join for support and to engage with the community!",
-   "members": 36060,
-   "online": 4472,
+   "members": 36063,
+   "online": 4246,
    "size_tier": "large",
    "verified": false,
    "partnered": false,
@@ -31428,7 +31648,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://momentum-fw.dev/",
     "https://github.com/Next-Flip/Momentum-Firmware"
@@ -31473,6 +31693,11 @@
      "date": "2026-09-28",
      "members": 36060,
      "online": 4472
+    },
+    {
+     "date": "2026-10-03",
+     "members": 36063,
+     "online": 4246
     }
    ],
    "category": "tool",
@@ -32470,8 +32695,8 @@
    "guild_id": "867578229534359593",
    "discord_name": "Meshtastic",
    "discord_description": "An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices",
-   "members": 53139,
-   "online": 8150,
+   "members": 53234,
+   "online": 7545,
    "size_tier": "huge",
    "verified": false,
    "partnered": false,
@@ -32484,7 +32709,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://meshtastic.org/docs/community/discord/",
     "https://meshtastic.discourse.group/t/new-discord-server/3673"
@@ -32529,6 +32754,11 @@
      "date": "2026-09-28",
      "members": 53139,
      "online": 8150
+    },
+    {
+     "date": "2026-10-03",
+     "members": 53234,
+     "online": 7545
     }
    ],
    "category": "adjacent",
@@ -33336,8 +33566,8 @@
    "guild_id": "822820855096147968",
    "discord_name": "LetsDefend",
    "discord_description": "Welcome to LetsDefend! Learn cybersecurity with hands-on labs!",
-   "members": 29968,
-   "online": 1619,
+   "members": 30008,
+   "online": 1375,
    "size_tier": "large",
    "verified": false,
    "partnered": false,
@@ -33350,7 +33580,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://letsdefend.io"
    ],
@@ -33394,6 +33624,11 @@
      "date": "2026-09-28",
      "members": 29968,
      "online": 1619
+    },
+    {
+     "date": "2026-10-03",
+     "members": 30008,
+     "online": 1375
     }
    ],
    "category": "blueteam",
@@ -33656,8 +33891,8 @@
    "guild_id": "720514857094348840",
    "discord_name": "Noisebridge",
    "discord_description": "Noisebridge is a space for: sharing/creation/collaboration/research/development/mentoring/learning. | https://www.noisebridge.net| NOTIFICATION OPT OUT: We @ everyone announcements. You can disable in 3 clicks: 1. Click Server icon. 2. Click Notifications. 3.  Enable \"Suppress @everyone\"",
-   "members": 7010,
-   "online": 662,
+   "members": 7064,
+   "online": 679,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -33670,7 +33905,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.noisebridge.net/"
    ],
@@ -33714,6 +33949,11 @@
      "date": "2026-09-28",
      "members": 7010,
      "online": 662
+    },
+    {
+     "date": "2026-10-03",
+     "members": 7064,
+     "online": 679
     }
    ],
    "category": "regional",
@@ -33878,8 +34118,8 @@
    "guild_id": "687388105531326510",
    "discord_name": "NYC Resistor",
    "discord_description": null,
-   "members": 2624,
-   "online": 297,
+   "members": 2642,
+   "online": 215,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -33892,7 +34132,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.nycresistor.com/"
    ],
@@ -33936,6 +34176,11 @@
      "date": "2026-09-28",
      "members": 2624,
      "online": 297
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2642,
+     "online": 215
     }
    ],
    "category": "adjacent",
@@ -34631,8 +34876,8 @@
    "guild_id": "1046228027434086460",
    "discord_name": "Learn Prompting/HackAPrompt",
    "discord_description": "Creators of the internet's first Prompt Engineering Guide. Learn Prompt Engineering, ChatGPT, AI Red Teaming, and GenAI via courses, labs, and certifications. Join HackAPrompt, the world's largest AI Red Teaming competition, where you can upskill, compete, win prizes, and help secure AI systems.",
-   "members": 51372,
-   "online": 2403,
+   "members": 51327,
+   "online": 1939,
    "size_tier": "huge",
    "verified": false,
    "partnered": false,
@@ -34645,7 +34890,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://learnprompting.org/"
    ],
@@ -34689,6 +34934,11 @@
      "date": "2026-09-28",
      "members": 51372,
      "online": 2403
+    },
+    {
+     "date": "2026-10-03",
+     "members": 51327,
+     "online": 1939
     }
    ],
    "category": "learning",
@@ -34842,8 +35092,8 @@
    "guild_id": "1343693475589263471",
    "discord_name": "MeshOS",
    "discord_description": null,
-   "members": 10208,
-   "online": 1418,
+   "members": 10210,
+   "online": 1276,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -34856,7 +35106,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://meshcore.co.uk"
    ],
@@ -34900,6 +35150,11 @@
      "date": "2026-09-28",
      "members": 10208,
      "online": 1418
+    },
+    {
+     "date": "2026-10-03",
+     "members": 10210,
+     "online": 1276
     }
    ],
    "category": "tool",
@@ -35259,8 +35514,8 @@
    "guild_id": "354974912613449730",
    "discord_name": "LinuxServer.io",
    "discord_description": "The official LinuxServer.io discord server for support with self-hosting our docker containers in the homelab.",
-   "members": 41148,
-   "online": 6737,
+   "members": 41134,
+   "online": 6192,
    "size_tier": "large",
    "verified": true,
    "partnered": false,
@@ -35273,7 +35528,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://linuxserver.io/"
    ],
@@ -35317,6 +35572,11 @@
      "date": "2026-09-28",
      "members": 41148,
      "online": 6737
+    },
+    {
+     "date": "2026-10-03",
+     "members": 41134,
+     "online": 6192
     }
    ],
    "category": "tool",
@@ -35577,8 +35837,8 @@
    "guild_id": "1038265105546219621",
    "discord_name": "Open Source Cartridge Reader",
    "discord_description": "Discord server for the Open Source Cartridge Reader (aka OSCR or Sanni Cart Reader) project.",
-   "members": 1148,
-   "online": 220,
+   "members": 1151,
+   "online": 203,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -35591,7 +35851,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://oscr.wiki",
     "https://www.cartreader.net/"
@@ -35636,6 +35896,11 @@
      "date": "2026-09-28",
      "members": 1148,
      "online": 220
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1151,
+     "online": 203
     }
    ],
    "category": "tool",
@@ -37222,8 +37487,8 @@
    "guild_id": "735708716128796763",
    "discord_name": "Kase",
    "discord_description": null,
-   "members": 9510,
-   "online": 724,
+   "members": 9504,
+   "online": 636,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -37236,7 +37501,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://kasescenarios.com/"
    ],
@@ -37280,6 +37545,11 @@
      "date": "2026-09-28",
      "members": 9510,
      "online": 724
+    },
+    {
+     "date": "2026-10-03",
+     "members": 9504,
+     "online": 636
     }
    ],
    "category": "osint",
@@ -37549,8 +37819,8 @@
    "guild_id": "691736704771686521",
    "discord_name": "NYUSEC",
    "discord_description": "The Cybersecurity community at NYU",
-   "members": 3022,
-   "online": 224,
+   "members": 3027,
+   "online": 165,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -37563,7 +37833,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://osiris.cyber.nyu.edu/",
     "https://osiris.cyber.nyu.edu"
@@ -37608,6 +37878,11 @@
      "date": "2026-09-28",
      "members": 3022,
      "online": 224
+    },
+    {
+     "date": "2026-10-03",
+     "members": 3027,
+     "online": 165
     }
    ],
    "category": "ctf",
@@ -38536,8 +38811,8 @@
    "guild_id": "1037175944781246565",
    "discord_name": "LAIC - Latinas In Cyber",
    "discord_description": null,
-   "members": 1278,
-   "online": 22,
+   "members": 1280,
+   "online": 18,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -38550,7 +38825,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://latinasincyber.com/"
    ],
@@ -38594,6 +38869,11 @@
      "date": "2026-09-28",
      "members": 1278,
      "online": 22
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1280,
+     "online": 18
     }
    ],
    "category": "affinity",
@@ -38758,8 +39038,8 @@
    "guild_id": "1010199032536236052",
    "discord_name": "NCL Community",
    "discord_description": null,
-   "members": 9717,
-   "online": 1285,
+   "members": 9713,
+   "online": 1016,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -38772,7 +39052,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://nationalcyberleague.org/about/community"
    ],
@@ -38816,6 +39096,11 @@
      "date": "2026-09-28",
      "members": 9717,
      "online": 1285
+    },
+    {
+     "date": "2026-10-03",
+     "members": 9713,
+     "online": 1016
     }
    ],
    "category": "ctf",
@@ -39302,8 +39587,8 @@
    "guild_id": "968770529634955305",
    "discord_name": "M5Stack",
    "discord_description": null,
-   "members": 4923,
-   "online": 809,
+   "members": 4936,
+   "online": 734,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -39316,7 +39601,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://x.com/M5Stack/status/1523984949493129217"
    ],
@@ -39360,6 +39645,11 @@
      "date": "2026-09-28",
      "members": 4923,
      "online": 809
+    },
+    {
+     "date": "2026-10-03",
+     "members": 4936,
+     "online": 734
     }
    ],
    "category": "tool",
@@ -39621,8 +39911,8 @@
    "guild_id": "807117914209386506",
    "discord_name": "Lockpicking101.com",
    "discord_description": null,
-   "members": 873,
-   "online": 92,
+   "members": 874,
+   "online": 88,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -39635,7 +39925,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.lockpicking101.com/viewtopic.php?f=4&t=66451"
    ],
@@ -39679,6 +39969,11 @@
      "date": "2026-09-28",
      "members": 873,
      "online": 92
+    },
+    {
+     "date": "2026-10-03",
+     "members": 874,
+     "online": 88
     }
    ],
    "category": "hardware",
@@ -40136,8 +40431,8 @@
    "guild_id": "1385183498721169519",
    "discord_name": "Maltego Community OSINT",
    "discord_description": null,
-   "members": 1575,
-   "online": 151,
+   "members": 1583,
+   "online": 127,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -40150,7 +40445,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.maltego.com/community-ctf/"
    ],
@@ -40194,6 +40489,11 @@
      "date": "2026-09-28",
      "members": 1575,
      "online": 151
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1583,
+     "online": 127
     }
    ],
    "category": "tool",
@@ -40889,8 +41189,8 @@
    "guild_id": "755445294052933632",
    "discord_name": "Level Effect",
    "discord_description": "Cybersecurity training built around YOU.",
-   "members": 2983,
-   "online": 219,
+   "members": 2980,
+   "online": 183,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -40903,7 +41203,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://leveleffect.com/"
    ],
@@ -40947,6 +41247,11 @@
      "date": "2026-09-28",
      "members": 2983,
      "online": 219
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2980,
+     "online": 183
     }
    ],
    "category": "creator",
@@ -41958,7 +42263,7 @@
    "discord_name": "MaineSec",
    "discord_description": "MaineSec is a server to bring together the Computer security community of Maine.",
    "members": 469,
-   "online": 83,
+   "online": 61,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -41971,7 +42276,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_USA.md"
    ],
@@ -42010,6 +42315,11 @@
      "date": "2026-09-28",
      "members": 469,
      "online": 83
+    },
+    {
+     "date": "2026-10-03",
+     "members": 469,
+     "online": 61
     }
    ],
    "category": "regional",
@@ -42946,7 +43256,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discordservers.com/server/971465926513938453"
    ],
@@ -42978,6 +43288,11 @@
     },
     {
      "date": "2026-09-28",
+     "members": 39,
+     "online": 9
+    },
+    {
+     "date": "2026-10-03",
      "members": 39,
      "online": 9
     }
@@ -43024,8 +43339,8 @@
    "guild_id": "1479811004157137049",
    "discord_name": "IronShield Studio",
    "discord_description": "IronShield schützt deinen Discord-Server mit AutoMod, Raid- und Spamabwehr sowie praktischen Moderations- und Community-Funktionen.",
-   "members": 634,
-   "online": 125,
+   "members": 646,
+   "online": 164,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -43038,7 +43353,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discordservers.com/server/1479811004157137049"
    ],
@@ -43072,6 +43387,11 @@
      "date": "2026-09-28",
      "members": 634,
      "online": 125
+    },
+    {
+     "date": "2026-10-03",
+     "members": 646,
+     "online": 164
     }
    ],
    "category": "general",
@@ -43609,7 +43929,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://macadmins.org/community/slack/"
    ],
@@ -43678,7 +43998,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://slack.k8s.io/"
    ],
@@ -44971,7 +45291,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://keepassxc.org/team/"
    ],
@@ -45036,7 +45356,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://keepassxc.org/team/"
    ],
@@ -45102,7 +45422,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://forum.openwrt.org/"
    ],
@@ -45171,7 +45491,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://openwrt.org/contact"
    ],
@@ -45239,7 +45559,7 @@
    "nsfw": false,
    "invite_status": "unknown",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://netsecfocus.com/"
    ],
@@ -45580,7 +45900,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://libera.chat/"
    ],
@@ -45928,7 +46248,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://forums.malwarebytes.com/"
    ],
@@ -45995,7 +46315,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://malwaretips.com/"
    ],
@@ -46463,7 +46783,7 @@
    "nsfw": false,
    "invite_status": "unknown",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://meshtastic.discourse.group/"
    ],
@@ -46531,7 +46851,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://forum.opnsense.org/"
    ],
@@ -46605,7 +46925,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://forum.netgate.com/"
    ],
@@ -46817,7 +47137,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://null-byte.wonderhowto.com/"
    ],
@@ -46886,7 +47206,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://lemmy.ml/c/cybersecurity"
    ],
@@ -47223,7 +47543,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.mentebinaria.com.br/forums/"
    ],
@@ -50684,7 +51004,7 @@
    "guild_id": null,
    "discord_name": null,
    "discord_description": "INDICATORS OF COMPROMISE (IOC)\r\nInfoSec Community within the Fediverse. Newbies, experts, gurus - Everyone is Welcome! Instance is supposed to be fast and secure.  ",
-   "members": 27857,
+   "members": 27867,
    "online": null,
    "size_tier": "large",
    "verified": false,
@@ -50698,7 +51018,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://ioc.exchange/api/v2/instance"
    ],
@@ -50731,6 +51051,11 @@
     {
      "date": "2026-09-28",
      "members": 27857,
+     "online": null
+    },
+    {
+     "date": "2026-10-03",
+     "members": 27867,
      "online": null
     }
    ],
@@ -51274,7 +51599,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://forums.kali.org/"
    ],
@@ -52152,8 +52477,8 @@
    "guild_id": "917532732551225414",
    "discord_name": "NJIT Cyber Security Network",
    "discord_description": null,
-   "members": 1194,
-   "online": 111,
+   "members": 1200,
+   "online": 63,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -52166,7 +52491,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/invite/SffNgYMprK"
    ],
@@ -52200,6 +52525,11 @@
      "date": "2026-09-28",
      "members": 1194,
      "online": 111
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1200,
+     "online": 63
     }
    ],
    "category": "learning",
@@ -52250,8 +52580,8 @@
    "guild_id": "1328191986397614112",
    "discord_name": "NU Security 2.0!",
    "discord_description": null,
-   "members": 234,
-   "online": 29,
+   "members": 236,
+   "online": 15,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -52264,7 +52594,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://linktr.ee/nusecurity"
    ],
@@ -52298,6 +52628,11 @@
      "date": "2026-09-28",
      "members": 234,
      "online": 29
+    },
+    {
+     "date": "2026-10-03",
+     "members": 236,
+     "online": 15
     }
    ],
    "category": "learning",
@@ -53828,8 +54163,8 @@
    "guild_id": "456249234950193152",
    "discord_name": "Liberty University Cybersecurity Club",
    "discord_description": null,
-   "members": 283,
-   "online": 43,
+   "members": 288,
+   "online": 20,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -53842,7 +54177,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://lucyber.club/"
    ],
@@ -53881,6 +54216,11 @@
      "date": "2026-09-28",
      "members": 283,
      "online": 43
+    },
+    {
+     "date": "2026-10-03",
+     "members": 288,
+     "online": 20
     }
    ],
    "category": "learning",
@@ -53928,8 +54268,8 @@
    "guild_id": "692111807565004811",
    "discord_name": "MasonCC",
    "discord_description": null,
-   "members": 1235,
-   "online": 105,
+   "members": 1250,
+   "online": 93,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -53942,7 +54282,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://competitivecyber.club/"
    ],
@@ -53981,6 +54321,11 @@
      "date": "2026-09-28",
      "members": 1235,
      "online": 105
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1250,
+     "online": 93
     }
    ],
    "category": "ctf",
@@ -54555,7 +54900,7 @@
    "discord_name": "KU Cyber Security Society",
    "discord_description": null,
    "members": 167,
-   "online": 19,
+   "online": 18,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -54568,7 +54913,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/invite/dTQaTyDAbn"
    ],
@@ -54607,6 +54952,11 @@
      "date": "2026-09-28",
      "members": 167,
      "online": 19
+    },
+    {
+     "date": "2026-10-03",
+     "members": 167,
+     "online": 18
     }
    ],
    "category": "learning",
@@ -54978,7 +55328,7 @@
    "discord_name": "Miami University Cybersecurity Club",
    "discord_description": null,
    "members": 654,
-   "online": 38,
+   "online": 20,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -54991,7 +55341,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://miamicyber.org/"
    ],
@@ -55030,6 +55380,11 @@
      "date": "2026-09-28",
      "members": 654,
      "online": 38
+    },
+    {
+     "date": "2026-10-03",
+     "members": 654,
+     "online": 20
     }
    ],
    "category": "learning",
@@ -55930,8 +56285,8 @@
    "guild_id": "570059089640554507",
    "discord_name": "ISSS",
    "discord_description": "We are ISSS.We're the security org of UTCS.We hack stuff. And teach you to do the same.",
-   "members": 1865,
-   "online": 168,
+   "members": 1869,
+   "online": 136,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -55944,7 +56299,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.isss.io/discord",
     "https://www.isss.io/"
@@ -55984,6 +56339,11 @@
      "date": "2026-09-28",
      "members": 1865,
      "online": 168
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1869,
+     "online": 136
     }
    ],
    "category": "ctf",
@@ -56035,8 +56395,8 @@
    "guild_id": "887914805711761408",
    "discord_name": "USC TACTICS (prev. USC CTF Team)",
    "discord_description": null,
-   "members": 583,
-   "online": 30,
+   "members": 585,
+   "online": 36,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -56049,7 +56409,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/invite/dZmcJWWnmW"
    ],
@@ -56083,6 +56443,11 @@
      "date": "2026-09-27",
      "members": 583,
      "online": 30
+    },
+    {
+     "date": "2026-10-03",
+     "members": 585,
+     "online": 36
     }
    ],
    "category": "ctf",
@@ -56681,7 +57046,7 @@
    "discord_name": "OreSec - Mines Cybersecurity Club",
    "discord_description": null,
    "members": 393,
-   "online": 20,
+   "online": 21,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -56694,7 +57059,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://oresec.mines.edu/discord.html"
    ],
@@ -56733,6 +57098,11 @@
      "date": "2026-09-28",
      "members": 393,
      "online": 20
+    },
+    {
+     "date": "2026-10-03",
+     "members": 393,
+     "online": 21
     }
    ],
    "category": "ctf",
@@ -56783,8 +57153,8 @@
    "guild_id": "1063631377972604938",
    "discord_name": "UtahSec",
    "discord_description": null,
-   "members": 690,
-   "online": 48,
+   "members": 687,
+   "online": 56,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -56797,7 +57167,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://utahsec.cs.utah.edu/"
    ],
@@ -56831,6 +57201,11 @@
      "date": "2026-09-27",
      "members": 690,
      "online": 48
+    },
+    {
+     "date": "2026-10-03",
+     "members": 687,
+     "online": 56
     }
    ],
    "category": "learning",
@@ -56879,8 +57254,8 @@
    "guild_id": "1301798772002525228",
    "discord_name": "LoboSec CTF Team",
    "discord_description": null,
-   "members": 64,
-   "online": 3,
+   "members": 65,
+   "online": 2,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -56893,7 +57268,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://lobosec.unm.edu/"
    ],
@@ -56932,6 +57307,11 @@
      "date": "2026-09-28",
      "members": 64,
      "online": 3
+    },
+    {
+     "date": "2026-10-03",
+     "members": 65,
+     "online": 2
     }
    ],
    "category": "ctf",
@@ -57089,8 +57469,8 @@
    "guild_id": "838194868341178378",
    "discord_name": "UOSEC (Security Club at UO)",
    "discord_description": null,
-   "members": 257,
-   "online": 27,
+   "members": 279,
+   "online": 29,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -57103,7 +57483,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://uosec.org/"
    ],
@@ -57137,6 +57517,11 @@
      "date": "2026-09-27",
      "members": 257,
      "online": 27
+    },
+    {
+     "date": "2026-10-03",
+     "members": 279,
+     "online": 29
     }
    ],
    "category": "learning",
@@ -58025,8 +58410,8 @@
    "guild_id": "658096276222640150",
    "discord_name": "Maple Bacon",
    "discord_description": null,
-   "members": 1013,
-   "online": 88,
+   "members": 1015,
+   "online": 109,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -58039,7 +58424,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://maplebacon.org/about/"
    ],
@@ -58078,6 +58463,11 @@
      "date": "2026-09-28",
      "members": 1013,
      "online": 88
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1015,
+     "online": 109
     }
    ],
    "category": "ctf",
@@ -58237,8 +58627,8 @@
    "guild_id": "1082164094490132611",
    "discord_name": "uOttawa Cybersecurity Club",
    "discord_description": null,
-   "members": 583,
-   "online": 39,
+   "members": 584,
+   "online": 34,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -58251,7 +58641,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://uocybersec.com/about"
    ],
@@ -58285,6 +58675,11 @@
      "date": "2026-09-27",
      "members": 583,
      "online": 39
+    },
+    {
+     "date": "2026-10-03",
+     "members": 584,
+     "online": 34
     }
    ],
    "category": "learning",
@@ -58539,8 +58934,8 @@
    "guild_id": "877977695223435274",
    "discord_name": "UofT Cybersecurity Student Association",
    "discord_description": "The University of Toronto Cybersecurity Student Association is a student-run organization for all things cybersecurity!",
-   "members": 372,
-   "online": 27,
+   "members": 371,
+   "online": 15,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -58553,7 +58948,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://cssa.sa.utoronto.ca/"
    ],
@@ -58587,6 +58982,11 @@
      "date": "2026-09-27",
      "members": 372,
      "online": 27
+    },
+    {
+     "date": "2026-10-03",
+     "members": 371,
+     "online": 15
     }
    ],
    "category": "learning",
@@ -59584,8 +59984,8 @@
    "guild_id": "626073898068344854",
    "discord_name": "Warwick Cyber Security Society",
    "discord_description": "Welcome to the Warwick Cyber Security Society! We're a friendly and inclusive community centred around cyber security.",
-   "members": 953,
-   "online": 92,
+   "members": 1033,
+   "online": 94,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -59598,7 +59998,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://warwickcybersoc.com/",
     "https://warwickcybersoc.com/events"
@@ -59633,6 +60033,11 @@
      "date": "2026-09-27",
      "members": 953,
      "online": 92
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1033,
+     "online": 94
     }
    ],
    "category": "learning",
@@ -60229,7 +60634,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://linktr.ee/micode"
    ],
@@ -60266,6 +60671,11 @@
     },
     {
      "date": "2026-09-28",
+     "members": 10,
+     "online": 2
+    },
+    {
+     "date": "2026-10-03",
      "members": 10,
      "online": 2
     }
@@ -60538,8 +60948,8 @@
    "guild_id": "1148685154601160794",
    "discord_name": "NetExec",
    "discord_description": "This is the server of the NetExec tool",
-   "members": 1559,
-   "online": 276,
+   "members": 1561,
+   "online": 220,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -60552,7 +60962,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/Pennyw0rth/NetExec"
    ],
@@ -60591,6 +61001,11 @@
      "date": "2026-09-28",
      "members": 1559,
      "online": 276
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1561,
+     "online": 220
     }
    ],
    "category": "tool",
@@ -61171,8 +61586,8 @@
    "guild_id": "360907625350692866",
    "discord_name": "x64dbg",
    "discord_description": "Official server for x64dbg.",
-   "members": 2846,
-   "online": 638,
+   "members": 2890,
+   "online": 657,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -61185,7 +61600,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/x64dbg/x64dbg"
    ],
@@ -61219,6 +61634,11 @@
      "date": "2026-09-27",
      "members": 2846,
      "online": 638
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2890,
+     "online": 657
     }
    ],
    "category": "tool",
@@ -61469,8 +61889,8 @@
    "guild_id": "970233006109380678",
    "discord_name": "Malcat",
    "discord_description": "Malcat - the ultimate binary file dissector.",
-   "members": 268,
-   "online": 50,
+   "members": 267,
+   "online": 47,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -61483,7 +61903,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://malcat.fr/"
    ],
@@ -61522,6 +61942,11 @@
      "date": "2026-09-28",
      "members": 268,
      "online": 50
+    },
+    {
+     "date": "2026-10-03",
+     "members": 267,
+     "online": 47
     }
    ],
    "category": "tool",
@@ -62478,7 +62903,7 @@
    "discord_name": "Wifipumpkin3",
    "discord_description": null,
    "members": 1534,
-   "online": 48,
+   "online": 47,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -62491,7 +62916,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/P0cL4bs/wifipumpkin3",
     "https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated"
@@ -62526,6 +62951,11 @@
      "date": "2026-09-27",
      "members": 1534,
      "online": 48
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1534,
+     "online": 47
     }
    ],
    "category": "tool",
@@ -62661,8 +63091,8 @@
    "guild_id": "1495203904898728149",
    "discord_name": "MeshCore.io",
    "discord_description": "The official Discord for the MeshCore project! https://meshcore.io",
-   "members": 13295,
-   "online": 2574,
+   "members": 13544,
+   "online": 2430,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -62675,7 +63105,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/meshcore-dev/MeshCore"
    ],
@@ -62714,6 +63144,11 @@
      "date": "2026-09-28",
      "members": 13295,
      "online": 2574
+    },
+    {
+     "date": "2026-10-03",
+     "members": 13544,
+     "online": 2430
     }
    ],
    "category": "hardware",
@@ -62853,7 +63288,7 @@
    "discord_name": "open5gs",
    "discord_description": null,
    "members": 1302,
-   "online": 89,
+   "online": 70,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -62866,7 +63301,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/open5gs/open5gs"
    ],
@@ -62905,6 +63340,11 @@
      "date": "2026-09-28",
      "members": 1302,
      "online": 89
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1302,
+     "online": 70
     }
    ],
    "category": null,
@@ -63559,8 +63999,8 @@
    "guild_id": "810144288926990367",
    "discord_name": "Malfrats Industries",
    "discord_description": null,
-   "members": 446,
-   "online": 33,
+   "members": 448,
+   "online": 30,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -63573,7 +64013,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/mxrch/GHunt"
    ],
@@ -63612,6 +64052,11 @@
      "date": "2026-09-28",
      "members": 446,
      "online": 33
+    },
+    {
+     "date": "2026-10-03",
+     "members": 448,
+     "online": 30
     }
    ],
    "category": "osint",
@@ -64183,8 +64628,8 @@
    "guild_id": "689898994498797578",
    "discord_name": "MontréHack",
    "discord_description": "Monthly cybersecurity workshops. Come solve CTF challenges with us! Fr/En",
-   "members": 1255,
-   "online": 172,
+   "members": 1252,
+   "online": 125,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -64197,7 +64642,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://montrehack.ca",
     "https://www.montrehack.ca/"
@@ -64237,6 +64682,11 @@
      "date": "2026-09-28",
      "members": 1255,
      "online": 172
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1252,
+     "online": 125
     }
    ],
    "category": "regional",
@@ -64706,8 +65156,8 @@
    "guild_id": "956152762498969650",
    "discord_name": "MUC:SEC - Munich Information Security",
    "discord_description": "Official Discord Server of the BSides Munich Conference",
-   "members": 428,
-   "online": 39,
+   "members": 431,
+   "online": 40,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -64720,7 +65170,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.bsidesmunich.org",
     "https://www.bsidesmunich.org/"
@@ -64760,6 +65210,11 @@
      "date": "2026-09-28",
      "members": 428,
      "online": 39
+    },
+    {
+     "date": "2026-10-03",
+     "members": 431,
+     "online": 40
     }
    ],
    "category": "conference",
@@ -65025,8 +65480,8 @@
    "guild_id": "1484182332586852392",
    "discord_name": "World Monitor",
    "discord_description": "Friends of WorldMonitor.appTrying to monitor the world, one insight at a time,",
-   "members": 11346,
-   "online": 732,
+   "members": 11328,
+   "online": 695,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -65039,7 +65494,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/koala73/worldmonitor"
    ],
@@ -65073,6 +65528,11 @@
      "date": "2026-09-27",
      "members": 11346,
      "online": 732
+    },
+    {
+     "date": "2026-10-03",
+     "members": 11328,
+     "online": 695
     }
    ],
    "category": "osint",
@@ -65421,8 +65881,8 @@
    "guild_id": "1423863500379525222",
    "discord_name": "Keygraph Community",
    "discord_description": "This is the official home for everything Keygraph: our open-source AI pentester Shannon, the Keygraph Community Program, and the growing group of security professionals, developers, and red teamers building alongside us.",
-   "members": 1321,
-   "online": 146,
+   "members": 1331,
+   "online": 122,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -65435,7 +65895,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/KeygraphHQ/shannon"
    ],
@@ -65474,6 +65934,11 @@
      "date": "2026-09-28",
      "members": 1321,
      "online": 146
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1331,
+     "online": 122
     }
    ],
    "category": "tool",
@@ -65698,7 +66163,7 @@
    "guild_id": "1441416992027574375",
    "discord_name": "LibrePods",
    "discord_description": "LibrePods is an open-source project dedicated to giving users full control of their AirPods (other manufacturers soon!) and reducing vendor lock-in. This server is the main place of discussion for reverse engineering, app features, etc..",
-   "members": 1014,
+   "members": 1051,
    "online": 146,
    "size_tier": "small",
    "verified": false,
@@ -65712,7 +66177,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/librepods-org/librepods"
    ],
@@ -65750,6 +66215,11 @@
     {
      "date": "2026-09-28",
      "members": 1014,
+     "online": 146
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1051,
      "online": 146
     }
    ],
@@ -66652,8 +67122,8 @@
    "guild_id": "936440128371589162",
    "discord_name": "Optimizer",
    "discord_description": null,
-   "members": 1097,
-   "online": 94,
+   "members": 1096,
+   "online": 75,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -66666,7 +67136,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/hellzerg/optimizer"
    ],
@@ -66705,6 +67175,11 @@
      "date": "2026-09-28",
      "members": 1097,
      "online": 94
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1096,
+     "online": 75
     }
    ],
    "category": null,
@@ -66734,8 +67209,8 @@
    "guild_id": "587078057634824222",
    "discord_name": "Leon AI",
    "discord_description": null,
-   "members": 2031,
-   "online": 176,
+   "members": 2024,
+   "online": 156,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -66748,7 +67223,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/leon-ai/leon"
    ],
@@ -66787,6 +67262,11 @@
      "date": "2026-09-28",
      "members": 2031,
      "online": 176
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2024,
+     "online": 156
     }
    ],
    "category": null,
@@ -66899,8 +67379,8 @@
    "guild_id": "974725285494784042",
    "discord_name": "winsiderss",
    "discord_description": "System Informer - A free, powerful, multi-purpose tool that helps you monitor system resources.",
-   "members": 960,
-   "online": 126,
+   "members": 959,
+   "online": 114,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -66913,7 +67393,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/winsiderss/systeminformer"
    ],
@@ -66947,6 +67427,11 @@
      "date": "2026-09-27",
      "members": 960,
      "online": 126
+    },
+    {
+     "date": "2026-10-03",
+     "members": 959,
+     "online": 114
     }
    ],
    "category": "tool",
@@ -67290,8 +67775,8 @@
    "guild_id": "796015620436787241",
    "discord_name": "Notesnook",
    "discord_description": "The official Notesnook server. Protecting your digital privacy.",
-   "members": 8024,
-   "online": 371,
+   "members": 8018,
+   "online": 321,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -67304,7 +67789,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/streetwriters/notesnook"
    ],
@@ -67343,6 +67828,11 @@
      "date": "2026-09-28",
      "members": 8024,
      "online": 371
+    },
+    {
+     "date": "2026-10-03",
+     "members": 8018,
+     "online": 321
     }
    ],
    "category": "tool",
@@ -67502,7 +67992,7 @@
    "guild_id": "1453469901972046079",
    "discord_name": "OpenNHP",
    "discord_description": "Official community for all OpenNHP projects: Zero Trust toolkit, StealthDNS, JS SDK, and IETF standardization.",
-   "members": 76,
+   "members": 77,
    "online": 7,
    "size_tier": "tiny",
    "verified": false,
@@ -67516,7 +68006,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/OpenNHP/opennhp"
    ],
@@ -67554,6 +68044,11 @@
     {
      "date": "2026-09-28",
      "members": 76,
+     "online": 7
+    },
+    {
+     "date": "2026-10-03",
+     "members": 77,
      "online": 7
     }
    ],
@@ -67807,8 +68302,8 @@
    "guild_id": "1262692128031772733",
    "discord_name": "LunaTranslator",
    "discord_description": null,
-   "members": 4719,
-   "online": 1146,
+   "members": 4768,
+   "online": 1073,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -67821,7 +68316,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/HIllya51/LunaTranslator"
    ],
@@ -67860,6 +68355,11 @@
      "date": "2026-09-28",
      "members": 4719,
      "online": 1146
+    },
+    {
+     "date": "2026-10-03",
+     "members": 4768,
+     "online": 1073
     }
    ],
    "category": "tool",
@@ -67905,8 +68405,8 @@
    "guild_id": "1173717737017716777",
    "discord_name": "zoicware",
    "discord_description": "secret tweaks https://github.com/zoicware",
-   "members": 1320,
-   "online": 215,
+   "members": 1324,
+   "online": 190,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -67919,7 +68419,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/zoicware/RemoveWindowsAI"
    ],
@@ -67953,6 +68453,11 @@
      "date": "2026-09-27",
      "members": 1320,
      "online": 215
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1324,
+     "online": 190
     }
    ],
    "category": null,
@@ -68087,8 +68592,8 @@
    "guild_id": "825071750290210916",
    "discord_name": "Netmaker",
    "discord_description": null,
-   "members": 1639,
-   "online": 162,
+   "members": 1637,
+   "online": 145,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -68101,7 +68606,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/gravitl/netmaker"
    ],
@@ -68140,6 +68645,11 @@
      "date": "2026-09-28",
      "members": 1639,
      "online": 162
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1637,
+     "online": 145
     }
    ],
    "category": "adjacent",
@@ -68703,7 +69213,7 @@
    "guild_id": "1168607797081022514",
    "discord_name": "Universal Android Debloater Next Generation",
    "discord_description": null,
-   "members": 648,
+   "members": 649,
    "online": 68,
    "size_tier": "small",
    "verified": false,
@@ -68717,7 +69227,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
    ],
@@ -68750,6 +69260,11 @@
     {
      "date": "2026-09-27",
      "members": 648,
+     "online": 68
+    },
+    {
+     "date": "2026-10-03",
+     "members": 649,
      "online": 68
     }
    ],
@@ -69515,7 +70030,7 @@
    "discord_name": "zizmor 🌈",
    "discord_description": "Development, discussion, and support server for zizmor!",
    "members": 49,
-   "online": 6,
+   "online": 5,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -69528,7 +70043,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/zizmorcore/zizmor"
    ],
@@ -69562,6 +70077,11 @@
      "date": "2026-09-27",
      "members": 49,
      "online": 6
+    },
+    {
+     "date": "2026-10-03",
+     "members": 49,
+     "online": 5
     }
    ],
    "category": null,
@@ -70208,8 +70728,8 @@
    "guild_id": "1356227995425308672",
    "discord_name": "Viper Platform",
    "discord_description": null,
-   "members": 106,
-   "online": 9,
+   "members": 105,
+   "online": 10,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -70222,7 +70742,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/FunnyWolf/Viper"
    ],
@@ -70256,6 +70776,11 @@
      "date": "2026-09-27",
      "members": 106,
      "online": 9
+    },
+    {
+     "date": "2026-10-03",
+     "members": 105,
+     "online": 10
     }
    ],
    "category": "tool",
@@ -70310,7 +70835,7 @@
    "discord_name": "Wigolo",
    "discord_description": null,
    "members": 12,
-   "online": 3,
+   "online": 1,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -70323,7 +70848,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/KnockOutEZ/wigolo"
    ],
@@ -70357,6 +70882,11 @@
      "date": "2026-09-27",
      "members": 12,
      "online": 3
+    },
+    {
+     "date": "2026-10-03",
+     "members": 12,
+     "online": 1
     }
    ],
    "category": null,
@@ -70487,8 +71017,8 @@
    "guild_id": "1526434725064081489",
    "discord_name": "User Scanner",
    "discord_description": "User Scanner is the most advanced open-source 2-in-1 Email and Username OSINT tool. Join to meet with OSINT and Cybersecurity enthusiasts",
-   "members": 387,
-   "online": 24,
+   "members": 427,
+   "online": 32,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -70501,7 +71031,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/kaifcodec/user-scanner"
    ],
@@ -70535,6 +71065,11 @@
      "date": "2026-09-27",
      "members": 387,
      "online": 24
+    },
+    {
+     "date": "2026-10-03",
+     "members": 427,
+     "online": 32
     }
    ],
    "category": "osint",
@@ -70864,8 +71399,8 @@
    "guild_id": "1334633399490711685",
    "discord_name": "Zen",
    "discord_description": "Community server dedicated to Irbis Zen, your open-source ad-blocker and privacy guard. Visit zenprivacy.net for more.",
-   "members": 321,
-   "online": 38,
+   "members": 324,
+   "online": 43,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -70878,7 +71413,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/irbis-sh/zen-desktop"
    ],
@@ -70912,6 +71447,11 @@
      "date": "2026-09-27",
      "members": 321,
      "online": 38
+    },
+    {
+     "date": "2026-10-03",
+     "members": 324,
+     "online": 43
     }
    ],
    "category": "tool",
@@ -71516,8 +72056,8 @@
    "guild_id": "756287461377703987",
    "discord_name": "OpenGOAL",
    "discord_description": "Reviving the Language that Brought us the Jak and Daxter Series. https://www.opengoal.dev",
-   "members": 8836,
-   "online": 2455,
+   "members": 8831,
+   "online": 2308,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -71530,7 +72070,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/open-goal/jak-project"
    ],
@@ -71569,6 +72109,11 @@
      "date": "2026-09-28",
      "members": 8836,
      "online": 2455
+    },
+    {
+     "date": "2026-10-03",
+     "members": 8831,
+     "online": 2308
     }
    ],
    "category": null,
@@ -71599,7 +72144,7 @@
    "discord_name": "OneCLI",
    "discord_description": "The official OneCLI community. Discuss features, get support, and stay updated on the open-source credential vault for AI agents.",
    "members": 115,
-   "online": 17,
+   "online": 15,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -71612,7 +72157,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/onecli/onecli"
    ],
@@ -71651,6 +72196,11 @@
      "date": "2026-09-28",
      "members": 115,
      "online": 17
+    },
+    {
+     "date": "2026-10-03",
+     "members": 115,
+     "online": 15
     }
    ],
    "category": "tool",
@@ -71969,8 +72519,8 @@
    "guild_id": "823816976312172554",
    "discord_name": "Windows Kernel Exploitation",
    "discord_description": null,
-   "members": 567,
-   "online": 58,
+   "members": 569,
+   "online": 57,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -71983,7 +72533,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver"
    ],
@@ -72017,6 +72567,11 @@
      "date": "2026-09-27",
      "members": 567,
      "online": 58
+    },
+    {
+     "date": "2026-10-03",
+     "members": 569,
+     "online": 57
     }
    ],
    "category": "redteam",
@@ -73138,7 +73693,7 @@
    "discord_name": "matano",
    "discord_description": "Matano - The open source security lake platform for AWS.",
    "members": 250,
-   "online": 10,
+   "online": 9,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -73151,7 +73706,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/matanolabs/matano"
    ],
@@ -73190,6 +73745,11 @@
      "date": "2026-09-28",
      "members": 250,
      "online": 10
+    },
+    {
+     "date": "2026-10-03",
+     "members": 250,
+     "online": 9
     }
    ],
    "category": "tool",
@@ -73236,8 +73796,8 @@
    "guild_id": "1037617289144569886",
    "discord_name": "OpenMMLab's server",
    "discord_description": null,
-   "members": 1148,
-   "online": 52,
+   "members": 1146,
+   "online": 48,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -73250,7 +73810,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/open-mmlab/mmrazor"
    ],
@@ -73289,6 +73849,11 @@
      "date": "2026-09-28",
      "members": 1148,
      "online": 52
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1146,
+     "online": 48
     }
    ],
    "category": null,
@@ -73836,8 +74401,8 @@
    "guild_id": "600152872767979523",
    "discord_name": "WGU Unofficial",
    "discord_description": "We are the largest community of WGU students around. Lots of resources and fun to be had - so pop in and say hi today!",
-   "members": 15323,
-   "online": 1885,
+   "members": 15294,
+   "online": 1827,
    "size_tier": "large",
    "verified": false,
    "partnered": false,
@@ -73850,7 +74415,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/Hacking-Notes/Hacker-Roadmap"
    ],
@@ -73884,6 +74449,11 @@
      "date": "2026-09-27",
      "members": 15323,
      "online": 1885
+    },
+    {
+     "date": "2026-10-03",
+     "members": 15294,
+     "online": 1827
     }
    ],
    "category": "general",
@@ -74137,8 +74707,8 @@
    "guild_id": "1147256486762913884",
    "discord_name": "Margelo Community",
    "discord_description": "Chat with the Margelo team and the community about React Native libraries!",
-   "members": 2635,
-   "online": 259,
+   "members": 2631,
+   "online": 205,
    "size_tier": "small",
    "verified": true,
    "partnered": false,
@@ -74151,7 +74721,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/margelo/react-native-fast-tflite"
    ],
@@ -74190,6 +74760,11 @@
      "date": "2026-09-28",
      "members": 2635,
      "online": 259
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2631,
+     "online": 205
     }
    ],
    "category": null,
@@ -74776,7 +75351,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/kunai-project/kunai"
    ],
@@ -74813,6 +75388,11 @@
     },
     {
      "date": "2026-09-28",
+     "members": 40,
+     "online": 4
+    },
+    {
+     "date": "2026-10-03",
      "members": 40,
      "online": 4
     }
@@ -74862,8 +75442,8 @@
    "guild_id": "1486567269134762048",
    "discord_name": "Vigolium",
    "discord_description": null,
-   "members": 119,
-   "online": 13,
+   "members": 120,
+   "online": 11,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -74876,7 +75456,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/vigolium/vigolium"
    ],
@@ -74910,6 +75490,11 @@
      "date": "2026-09-27",
      "members": 119,
      "online": 13
+    },
+    {
+     "date": "2026-10-03",
+     "members": 120,
+     "online": 11
     }
    ],
    "category": "tool",
@@ -74971,7 +75556,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/k3yomi/Wall-of-Flippers"
    ],
@@ -75003,6 +75588,11 @@
     },
     {
      "date": "2026-09-27",
+     "members": 16,
+     "online": 1
+    },
+    {
+     "date": "2026-10-03",
      "members": 16,
      "online": 1
     }
@@ -75528,7 +76118,7 @@
    "discord_name": "Yashab-cyber",
    "discord_description": null,
    "members": 399,
-   "online": 9,
+   "online": 6,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -75541,7 +76131,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/yashab-cyber/HackGpt"
    ],
@@ -75575,6 +76165,11 @@
      "date": "2026-09-27",
      "members": 399,
      "online": 9
+    },
+    {
+     "date": "2026-10-03",
+     "members": 399,
+     "online": 6
     }
    ],
    "category": "tool",
@@ -76015,8 +76610,8 @@
    "guild_id": "1298381115706576907",
    "discord_name": "OpenSpool Community",
    "discord_description": null,
-   "members": 252,
-   "online": 44,
+   "members": 253,
+   "online": 42,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -76029,7 +76624,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/spuder/OpenSpool"
    ],
@@ -76068,6 +76663,11 @@
      "date": "2026-09-28",
      "members": 252,
      "online": 44
+    },
+    {
+     "date": "2026-10-03",
+     "members": 253,
+     "online": 42
     }
    ],
    "category": "tool",
@@ -76632,8 +77232,8 @@
    "guild_id": "1169681522715000873",
    "discord_name": "Willy Firmware V2",
    "discord_description": null,
-   "members": 632,
-   "online": 43,
+   "members": 637,
+   "online": 41,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -76646,7 +77246,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/h-RAT/Willy_Firmware_V2_ESP32_Flipper_Zero_Alternative"
    ],
@@ -76680,6 +77280,11 @@
      "date": "2026-09-27",
      "members": 632,
      "online": 43
+    },
+    {
+     "date": "2026-10-03",
+     "members": 637,
+     "online": 41
     }
    ],
    "category": "hardware",
@@ -76734,8 +77339,8 @@
    "guild_id": "1332073501246619648",
    "discord_name": "WinterGate",
    "discord_description": null,
-   "members": 62,
-   "online": 7,
+   "members": 64,
+   "online": 8,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -76748,7 +77353,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/AnonCatalyst/Ominis-OSINT"
    ],
@@ -76782,6 +77387,11 @@
      "date": "2026-09-27",
      "members": 62,
      "online": 7
+    },
+    {
+     "date": "2026-10-03",
+     "members": 64,
+     "online": 8
     }
    ],
    "category": "osint",
@@ -77054,7 +77664,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/utmstack/UTMStack"
    ],
@@ -77086,6 +77696,11 @@
     },
     {
      "date": "2026-09-27",
+     "members": 65,
+     "online": 7
+    },
+    {
+     "date": "2026-10-03",
      "members": 65,
      "online": 7
     }
@@ -77220,8 +77835,8 @@
    "guild_id": "1499456013294764175",
    "discord_name": "Marine Biologist Lab",
    "discord_description": "Community run server focused around the Flipper! If you're looking for a focused and active experienced community to learn about the device and want to interact with experts that have been with the device for years, this is the place for you!",
-   "members": 1873,
-   "online": 394,
+   "members": 1877,
+   "online": 380,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -77234,7 +77849,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/Kuronons/FZ_graphics"
    ],
@@ -77273,6 +77888,11 @@
      "date": "2026-09-28",
      "members": 1873,
      "online": 394
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1877,
+     "online": 380
     }
    ],
    "category": "hardware",
@@ -77623,7 +78243,7 @@
    "discord_name": "Zen-Ai",
    "discord_description": "Red teaming Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting",
    "members": 26,
-   "online": 3,
+   "online": 2,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -77636,7 +78256,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/SHAdd0WTAka/Zen-Ai-Pentest"
    ],
@@ -77670,6 +78290,11 @@
      "date": "2026-09-27",
      "members": 26,
      "online": 3
+    },
+    {
+     "date": "2026-10-03",
+     "members": 26,
+     "online": 2
     }
    ],
    "category": "tool",
@@ -77821,7 +78446,7 @@
    "discord_name": "V0rT3x's Workshop",
    "discord_description": null,
    "members": 164,
-   "online": 23,
+   "online": 28,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -77834,7 +78459,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/V0r-T3x/Fancygotchi"
    ],
@@ -77868,6 +78493,11 @@
      "date": "2026-09-27",
      "members": 164,
      "online": 23
+    },
+    {
+     "date": "2026-10-03",
+     "members": 164,
+     "online": 28
     }
    ],
    "category": "hardware",
@@ -78020,8 +78650,8 @@
    "guild_id": "541574294656909312",
    "discord_name": "Jones Inc",
    "discord_description": "Jones' Chaotic Space is a community for tech enthusiasts and creators, where coding, design, and building impactful projects collide—powered by curiosity, creativity, and a love for all things cosmic.",
-   "members": 715,
-   "online": 125,
+   "members": 735,
+   "online": 126,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -78034,7 +78664,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/jjjonesjr33/petlibro"
    ],
@@ -78073,6 +78703,11 @@
      "date": "2026-09-28",
      "members": 715,
      "online": 125
+    },
+    {
+     "date": "2026-10-03",
+     "members": 735,
+     "online": 126
     }
    ],
    "category": "adjacent",
@@ -78118,7 +78753,7 @@
    "discord_name": "IQEngine",
    "discord_description": null,
    "members": 380,
-   "online": 30,
+   "online": 29,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -78131,7 +78766,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/IQEngine/IQEngine"
    ],
@@ -78170,6 +78805,11 @@
      "date": "2026-09-28",
      "members": 380,
      "online": 30
+    },
+    {
+     "date": "2026-10-03",
+     "members": 380,
+     "online": 29
     }
    ],
    "category": "tool",
@@ -78415,7 +79055,7 @@
    "nsfw": false,
    "invite_status": "dead",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/dj1ch/minigotchi-ESP32",
     "https://github.com/dj1ch/minigotchi"
@@ -79094,7 +79734,7 @@
    "discord_name": "JustHack IT",
    "discord_description": "\"JustHack IT\" is all about creating a community for individuals who are interested in cybersecurity.",
    "members": 125,
-   "online": 8,
+   "online": 6,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -79107,7 +79747,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/VirusZzHkP/The-Black-Tiger"
    ],
@@ -79146,6 +79786,11 @@
      "date": "2026-09-28",
      "members": 125,
      "online": 8
+    },
+    {
+     "date": "2026-10-03",
+     "members": 125,
+     "online": 6
     }
    ],
    "category": "general",
@@ -79292,8 +79937,8 @@
    "guild_id": "1246095840112803881",
    "discord_name": "LxveLabs",
    "discord_description": "LxveLabs is a community for builders in cybersecurity and custom firmware — ESP32s, cyberdecks, wardriving, and DIY hardware. We keep it responsible: detect and defend, on your own gear. Come build, break things ethically, and learn with us.",
-   "members": 187,
-   "online": 109,
+   "members": 105,
+   "online": 20,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -79306,7 +79951,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/LxveAce/cyber-controller",
     "https://github.com/LxveAce/Projects",
@@ -79347,6 +79992,11 @@
      "date": "2026-09-28",
      "members": 187,
      "online": 109
+    },
+    {
+     "date": "2026-10-03",
+     "members": 105,
+     "online": 20
     }
    ],
    "category": "hardware",
@@ -79395,8 +80045,8 @@
    "guild_id": "1381357243169243136",
    "discord_name": "Kiisu.io",
    "discord_description": "KIISU Development Board is a card-sized alternative to Flipper Zero. KIISU is a product of RainWalker OÜ.",
-   "members": 1024,
-   "online": 150,
+   "members": 1029,
+   "online": 137,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -79409,7 +80059,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/kiisu-io/kiisu4",
     "https://github.com/kiisu-io/kiisu4-companion-fw"
@@ -79449,6 +80099,11 @@
      "date": "2026-09-28",
      "members": 1024,
      "online": 150
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1029,
+     "online": 137
     }
    ],
    "category": "hardware",
@@ -79499,7 +80154,7 @@
    "discord_name": "NullCTF Support Server",
    "discord_description": null,
    "members": 51,
-   "online": 7,
+   "online": 8,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -79512,7 +80167,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/NullPxl/NullCTF"
    ],
@@ -79551,6 +80206,11 @@
      "date": "2026-09-28",
      "members": 51,
      "online": 7
+    },
+    {
+     "date": "2026-10-03",
+     "members": 51,
+     "online": 8
     }
    ],
    "category": "tool",
@@ -79899,7 +80559,7 @@
    "guild_id": "1502625636429070448",
    "discord_name": "Zypherion Technologies",
    "discord_description": null,
-   "members": 55,
+   "members": 57,
    "online": 18,
    "size_tier": "tiny",
    "verified": false,
@@ -79913,7 +80573,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/Zypherion-Technologies/HallWatch"
    ],
@@ -79946,6 +80606,11 @@
     {
      "date": "2026-09-27",
      "members": 55,
+     "online": 18
+    },
+    {
+     "date": "2026-10-03",
+     "members": 57,
      "online": 18
     }
    ],
@@ -80088,7 +80753,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/chaitin/mimicry"
    ],
@@ -80125,6 +80790,11 @@
     },
     {
      "date": "2026-09-28",
+     "members": 10,
+     "online": 1
+    },
+    {
+     "date": "2026-10-03",
      "members": 10,
      "online": 1
     }
@@ -80284,7 +80954,7 @@
    "discord_name": "openqore community",
    "discord_description": null,
    "members": 12,
-   "online": 2,
+   "online": 4,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -80297,7 +80967,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/nnonickreal/openqore"
    ],
@@ -80336,6 +81006,11 @@
      "date": "2026-09-28",
      "members": 12,
      "online": 2
+    },
+    {
+     "date": "2026-10-03",
+     "members": 12,
+     "online": 4
     }
    ],
    "category": null,
@@ -80365,8 +81040,8 @@
    "guild_id": "1139248965733339256",
    "discord_name": "weakpass & co",
    "discord_description": null,
-   "members": 397,
-   "online": 31,
+   "members": 396,
+   "online": 37,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -80379,7 +81054,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://github.com/zzzteph/lockpick.fun"
    ],
@@ -80413,6 +81088,11 @@
      "date": "2026-09-27",
      "members": 397,
      "online": 31
+    },
+    {
+     "date": "2026-10-03",
+     "members": 396,
+     "online": 37
     }
    ],
    "category": "tool",
@@ -82362,7 +83042,7 @@
    "guild_id": "1082704821414531183",
    "discord_name": "Lvl 1 - Louisville Hackerspace",
    "discord_description": null,
-   "members": 237,
+   "members": 239,
    "online": 33,
    "size_tier": "tiny",
    "verified": false,
@@ -82376,7 +83056,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://linktr.ee/lvl1hackerspace"
    ],
@@ -82414,6 +83094,11 @@
     {
      "date": "2026-09-28",
      "members": 237,
+     "online": 33
+    },
+    {
+     "date": "2026-10-03",
+     "members": 239,
      "online": 33
     }
    ],
@@ -83993,8 +84678,8 @@
    "guild_id": "696377181231644702",
    "discord_name": "UNSW Security Society (SecSoc)",
    "discord_description": null,
-   "members": 2533,
-   "online": 636,
+   "members": 2530,
+   "online": 568,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -84007,7 +84692,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://linktr.ee/secsoc"
    ],
@@ -84041,6 +84726,11 @@
      "date": "2026-09-27",
      "members": 2533,
      "online": 636
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2530,
+     "online": 568
     }
    ],
    "category": "regional",
@@ -84091,8 +84781,8 @@
    "guild_id": "678944693152645130",
    "discord_name": "UQ Cyber Squad",
    "discord_description": "The University of Queensland Cyber Squad Official Discord Server!",
-   "members": 1453,
-   "online": 227,
+   "members": 1455,
+   "online": 213,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -84105,7 +84795,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-27",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://squad.cyber.uq.edu.au/"
    ],
@@ -84139,6 +84829,11 @@
      "date": "2026-09-27",
      "members": 1453,
      "online": 227
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1455,
+     "online": 213
     }
    ],
    "category": "regional",
@@ -85565,8 +86260,8 @@
    "guild_id": "616401479078510632",
    "discord_name": "Open Hacker & Gaming Community",
    "discord_description": "We are a Cyber Security Community that enjoys creating bonds amongst our Students and Teachers through online gaming.",
-   "members": 2985,
-   "online": 188,
+   "members": 2991,
+   "online": 165,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -85579,7 +86274,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-13",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://reddapi.dev/subreddits/howtohack/insights"
    ],
@@ -85618,6 +86313,11 @@
      "date": "2026-09-28",
      "members": 2985,
      "online": 188
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2991,
+     "online": 165
     }
    ],
    "category": "learning",
@@ -86326,7 +87026,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.mincybsec.org/"
    ],
@@ -86396,7 +87096,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://lgbtq.technology/"
    ],
@@ -86533,7 +87233,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.operationcode.org/get_involved"
    ],
@@ -86590,7 +87290,7 @@
    "discord_name": "NeurodiverseHackers",
    "discord_description": "Dedicated to strengthening the cybersecurity community by embracing and empowering neurodiverse professionals.",
    "members": 114,
-   "online": 16,
+   "online": 20,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -86603,7 +87303,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://ndhack.org/community"
    ],
@@ -86632,6 +87332,11 @@
      "date": "2026-09-28",
      "members": 114,
      "online": 16
+    },
+    {
+     "date": "2026-10-03",
+     "members": 114,
+     "online": 20
     }
    ],
    "category": "affinity",
@@ -87904,7 +88609,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://bbs.kanxue.com/homepage"
    ],
@@ -88284,7 +88989,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://it-syndikat.org/"
    ],
@@ -88708,7 +89413,7 @@
    "discord_name": "node-K",
    "discord_description": null,
    "members": 79,
-   "online": 13,
+   "online": 10,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -88721,7 +89426,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://node-k.at"
    ],
@@ -88750,6 +89455,11 @@
      "date": "2026-09-28",
      "members": 79,
      "online": 13
+    },
+    {
+     "date": "2026-10-03",
+     "members": 79,
+     "online": 10
     }
    ],
    "category": "regional",
@@ -88796,8 +89506,8 @@
    "guild_id": "278600018271928320",
    "discord_name": "LUDD - Luleå Academic Computer Society",
    "discord_description": null,
-   "members": 316,
-   "online": 118,
+   "members": 317,
+   "online": 90,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -88810,7 +89520,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://ludd.ltu.se"
    ],
@@ -88839,6 +89549,11 @@
      "date": "2026-09-28",
      "members": 316,
      "online": 118
+    },
+    {
+     "date": "2026-10-03",
+     "members": 317,
+     "online": 90
     }
    ],
    "category": "regional",
@@ -89119,8 +89834,8 @@
    "guild_id": "1467948022250995967",
    "discord_name": "MakerSpace Bratislava",
    "discord_description": null,
-   "members": 55,
-   "online": 10,
+   "members": 56,
+   "online": 5,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -89133,7 +89848,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.msba.sk/"
    ],
@@ -89162,6 +89877,11 @@
      "date": "2026-09-28",
      "members": 55,
      "online": 10
+    },
+    {
+     "date": "2026-10-03",
+     "members": 56,
+     "online": 5
     }
    ],
    "category": "regional",
@@ -89381,8 +90101,8 @@
    "guild_id": "1279831505492901910",
    "discord_name": "Kyiv Hackerspace community",
    "discord_description": null,
-   "members": 763,
-   "online": 65,
+   "members": 762,
+   "online": 50,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -89395,7 +90115,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://nu31.space"
    ],
@@ -89424,6 +90144,11 @@
      "date": "2026-09-28",
      "members": 763,
      "online": 65
+    },
+    {
+     "date": "2026-10-03",
+     "members": 762,
+     "online": 50
     }
    ],
    "category": "regional",
@@ -89707,7 +90432,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://lhc.net.br/"
    ],
@@ -89777,7 +90502,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://labolyon.fr"
    ],
@@ -89847,7 +90572,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://majstrownia.space"
    ],
@@ -89914,7 +90639,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://makentnu.no/"
    ],
@@ -90462,8 +91187,8 @@
    "guild_id": "489518627767189544",
    "discord_name": "Maschinendeck",
    "discord_description": null,
-   "members": 203,
-   "online": 36,
+   "members": 205,
+   "online": 40,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -90476,7 +91201,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://www.maschinendeck.org"
    ],
@@ -90505,6 +91230,11 @@
      "date": "2026-09-28",
      "members": 203,
      "online": 36
+    },
+    {
+     "date": "2026-10-03",
+     "members": 205,
+     "online": 40
     }
    ],
    "category": "regional",
@@ -91587,7 +92317,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://hspoz.pl"
    ],
@@ -91971,7 +92701,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://nerdberg.de/"
    ],
@@ -92859,7 +93589,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://www.leedshackspace.org.uk"
    ],
@@ -92997,7 +93727,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://canberramaker.space/"
    ],
@@ -93331,7 +94061,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://www.nerd2nerd.org"
    ],
@@ -93536,7 +94266,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.mechatronicart.ch"
    ],
@@ -93751,7 +94481,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://ko-lab.space"
    ],
@@ -93818,7 +94548,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://www.mkmakerspace.co.uk"
    ],
@@ -93877,8 +94607,8 @@
    "guild_id": "574275045187125269",
    "discord_name": "micropython",
    "discord_description": "Community discussion for all things MicroPython",
-   "members": 4756,
-   "online": 415,
+   "members": 4751,
+   "online": 380,
    "size_tier": "medium",
    "verified": false,
    "partnered": false,
@@ -93891,7 +94621,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.hackmelbourne.org/",
     "http://www.hackmelbourne.org/"
@@ -93921,6 +94651,11 @@
      "date": "2026-09-28",
      "members": 4756,
      "online": 415
+    },
+    {
+     "date": "2026-10-03",
+     "members": 4751,
+     "online": 380
     }
    ],
    "category": "tool",
@@ -94054,7 +94789,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://muc.ccc.de/"
    ],
@@ -94121,7 +94856,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://kiberpipa.org"
    ],
@@ -94551,7 +95286,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://www.omegav.no"
    ],
@@ -95648,7 +96383,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.chaotikum.org/"
    ],
@@ -96385,7 +97120,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://kaouenn-noz.fr"
    ],
@@ -96516,8 +97251,8 @@
    "guild_id": "1519285325397098596",
    "discord_name": "Labaixbidouille",
    "discord_description": "Serveur discord dédié aux activités, permanences et soirées du fablab associatif et collaboratif L.A.B basé à Aix-en-Provence",
-   "members": 44,
-   "online": 7,
+   "members": 45,
+   "online": 4,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -96530,7 +97265,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://www.labaixbidouille.com/"
    ],
@@ -96559,6 +97294,11 @@
      "date": "2026-09-28",
      "members": 44,
      "online": 7
+    },
+    {
+     "date": "2026-10-03",
+     "members": 45,
+     "online": 4
     }
    ],
    "category": "regional",
@@ -96620,7 +97360,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://metalab.at/"
    ],
@@ -97331,7 +98071,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://labitat.dk/"
    ],
@@ -97490,7 +98230,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://labomedia.org"
    ],
@@ -97558,7 +98298,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://nurdspace.nl/"
    ],
@@ -97625,7 +98365,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://nottinghack.org.uk"
    ],
@@ -97929,7 +98669,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://hannover.ccc.de"
    ],
@@ -97996,7 +98736,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://odenwilusenz.ch"
    ],
@@ -98674,7 +99414,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://kangoulya.org"
    ],
@@ -98952,7 +99692,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.mittelab.org"
    ],
@@ -99008,8 +99748,8 @@
    "guild_id": "735788915436421120",
    "discord_name": "netz39",
    "discord_description": "Wir sind der Hackerspace Netz39 e.V. aus Magdeburg! Starte jetzt dein Abenteuer bei Netz39!",
-   "members": 210,
-   "online": 34,
+   "members": 213,
+   "online": 38,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -99022,7 +99762,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.netz39.de/"
    ],
@@ -99051,6 +99791,11 @@
      "date": "2026-09-28",
      "members": 210,
      "online": 34
+    },
+    {
+     "date": "2026-10-03",
+     "members": 213,
+     "online": 38
     }
    ],
    "category": "regional",
@@ -99693,7 +100438,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.leighhack.org/"
    ],
@@ -100320,7 +101065,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://maschinenraum.tk/"
    ],
@@ -101205,8 +101950,8 @@
    "guild_id": "943237246092447794",
    "discord_name": "London Hackspace",
    "discord_description": "A non-profit volunteer-run community workshop covering all manners of hobbies and interests.",
-   "members": 1943,
-   "online": 154,
+   "members": 1949,
+   "online": 135,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -101219,7 +101964,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://london.hackspace.org.uk"
    ],
@@ -101248,6 +101993,11 @@
      "date": "2026-09-28",
      "members": 1943,
      "online": 154
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1949,
+     "online": 135
     }
    ],
    "category": "regional",
@@ -101311,7 +102061,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.openlab-augsburg.de/"
    ],
@@ -101471,7 +102221,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://makeriga.org"
    ],
@@ -101540,7 +102290,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://kraut.space/"
    ],
@@ -101741,7 +102491,7 @@
    "discord_name": "Makerspace Wacken",
    "discord_description": null,
    "members": 21,
-   "online": 2,
+   "online": 4,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -101754,7 +102504,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://makerspace-wacken.de"
    ],
@@ -101783,6 +102533,11 @@
      "date": "2026-09-28",
      "members": 21,
      "online": 2
+    },
+    {
+     "date": "2026-10-03",
+     "members": 21,
+     "online": 4
     }
    ],
    "category": "regional",
@@ -101844,7 +102599,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://www.k4cg.org/"
    ],
@@ -102606,7 +103361,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://blog.spodeli.org/"
    ],
@@ -102810,7 +103565,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.laglab.org"
    ],
@@ -103372,7 +104127,7 @@
    "nsfw": false,
    "invite_status": "unknown",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.opennet-initiative.de/"
    ],
@@ -103710,8 +104465,8 @@
    "guild_id": "962042554096967711",
    "discord_name": "Machw3rk",
    "discord_description": null,
-   "members": 95,
-   "online": 3,
+   "members": 94,
+   "online": 7,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -103724,7 +104479,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.machwerk-hennef.de"
    ],
@@ -103753,6 +104508,11 @@
      "date": "2026-09-28",
      "members": 95,
      "online": 3
+    },
+    {
+     "date": "2026-10-03",
+     "members": 94,
+     "online": 7
     }
    ],
    "category": "regional",
@@ -103805,7 +104565,7 @@
    "discord_name": "Open Space Aarhus",
    "discord_description": null,
    "members": 202,
-   "online": 38,
+   "online": 39,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -103818,7 +104578,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://osaa.dk"
    ],
@@ -103847,6 +104607,11 @@
      "date": "2026-09-28",
      "members": 202,
      "online": 38
+    },
+    {
+     "date": "2026-10-03",
+     "members": 202,
+     "online": 39
     }
    ],
    "category": "regional",
@@ -103983,7 +104748,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://m-labs.hk"
    ],
@@ -104741,7 +105506,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://matehackers.org"
    ],
@@ -104807,7 +105572,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://buergernetz-gera-greiz.de/namespace"
    ],
@@ -104946,7 +105711,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://munichmakerlab.de/"
    ],
@@ -105221,7 +105986,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://www.nerdbridge.de"
    ],
@@ -105280,7 +106045,7 @@
    "guild_id": "774486929559257089",
    "discord_name": "MetaMakers",
    "discord_description": null,
-   "members": 107,
+   "members": 108,
    "online": 11,
    "size_tier": "tiny",
    "verified": false,
@@ -105294,7 +106059,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.metamakers.org"
    ],
@@ -105322,6 +106087,11 @@
     {
      "date": "2026-09-28",
      "members": 107,
+     "online": 11
+    },
+    {
+     "date": "2026-10-03",
+     "members": 108,
      "online": 11
     }
    ],
@@ -105389,7 +106159,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://italianhackerembassy.it/#not yet existing"
    ],
@@ -105529,7 +106299,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://luxeria.ch/"
    ],
@@ -105596,7 +106366,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.makerspace.org.uk/"
    ],
@@ -105869,7 +106639,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://maglab.space"
    ],
@@ -105938,7 +106708,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://okoyono.de/"
    ],
@@ -108282,8 +109052,8 @@
    "guild_id": "1080522083991293952",
    "discord_name": "KalmarCTF",
    "discord_description": null,
-   "members": 2742,
-   "online": 661,
+   "members": 2739,
+   "online": 615,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -108296,7 +109066,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://ctftime.org/team/114856/"
    ],
@@ -108325,6 +109095,11 @@
      "date": "2026-09-28",
      "members": 2742,
      "online": 661
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2739,
+     "online": 615
     }
    ],
    "category": "ctf",
@@ -108373,7 +109148,7 @@
    "discord_name": "Itemize NTNU",
    "discord_description": null,
    "members": 529,
-   "online": 78,
+   "online": 71,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -108386,7 +109161,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://itemize.no"
    ],
@@ -108415,6 +109190,11 @@
      "date": "2026-09-28",
      "members": 529,
      "online": 78
+    },
+    {
+     "date": "2026-10-03",
+     "members": 529,
+     "online": 71
     }
    ],
    "category": "ctf",
@@ -109460,7 +110240,7 @@
    "guild_id": "1290721893275402405",
    "discord_name": "ISUSec",
    "discord_description": null,
-   "members": 197,
+   "members": 199,
    "online": 9,
    "size_tier": "tiny",
    "verified": false,
@@ -109474,7 +110254,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://redbirdlife.illinoisstate.edu/organization/security"
    ],
@@ -109502,6 +110282,11 @@
     {
      "date": "2026-09-28",
      "members": 197,
+     "online": 9
+    },
+    {
+     "date": "2026-10-03",
+     "members": 199,
      "online": 9
     }
    ],
@@ -110102,9 +110887,9 @@
    "icon_url": "https://cdn.discordapp.com/icons/423894382769602570/a_d6f683080c17a74e4406d44c2b566fa2.gif?size=128",
    "invite_expires_at": null,
    "nsfw": false,
-   "invite_status": "ok",
+   "invite_status": "dead",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://macs.codes/"
    ],
@@ -110171,7 +110956,8 @@
    "rules_note": null,
    "red_flags": null,
    "recon_confidence": "medium",
-   "recon_date": "2026-09-14"
+   "recon_date": "2026-09-14",
+   "dead_since": "2026-10-03"
   },
   {
    "id": "fsr-informatik",
@@ -110462,8 +111248,8 @@
    "guild_id": "1064849968986337340",
    "discord_name": "Laboratoire Sys/Sécu Étudiants",
    "discord_description": null,
-   "members": 297,
-   "online": 69,
+   "members": 298,
+   "online": 50,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -110476,7 +111262,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://lse.re/"
    ],
@@ -110505,6 +111291,11 @@
      "date": "2026-09-28",
      "members": 297,
      "online": 69
+    },
+    {
+     "date": "2026-10-03",
+     "members": 298,
+     "online": 50
     }
    ],
    "category": "ctf",
@@ -110734,7 +111525,7 @@
    "discord_name": "Mntcrl",
    "discord_description": null,
    "members": 325,
-   "online": 27,
+   "online": 35,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -110747,7 +111538,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://mntcrl.it/"
    ],
@@ -110776,6 +111567,11 @@
      "date": "2026-09-28",
      "members": 325,
      "online": 27
+    },
+    {
+     "date": "2026-10-03",
+     "members": 325,
+     "online": 35
     }
    ],
    "category": "ctf",
@@ -110919,7 +111715,7 @@
    "discord_name": "OpenSage",
    "discord_description": null,
    "members": 21,
-   "online": 1,
+   "online": 3,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -110932,7 +111728,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.opensage-agent.ai/"
    ],
@@ -110961,6 +111757,11 @@
      "date": "2026-09-28",
      "members": 21,
      "online": 1
+    },
+    {
+     "date": "2026-10-03",
+     "members": 21,
+     "online": 3
     }
    ],
    "category": "tool",
@@ -111100,8 +111901,8 @@
    "guild_id": "738848412912451695",
    "discord_name": "LIT",
    "discord_description": null,
-   "members": 2926,
-   "online": 507,
+   "members": 2921,
+   "online": 316,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -111114,7 +111915,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://lit.lhsmathcs.org/"
    ],
@@ -111143,6 +111944,11 @@
      "date": "2026-09-28",
      "members": 2926,
      "online": 507
+    },
+    {
+     "date": "2026-10-03",
+     "members": 2921,
+     "online": 316
     }
    ],
    "category": "ctf",
@@ -111293,7 +112099,7 @@
    "nsfw": false,
    "invite_status": "unknown",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://wiki.hackerspaces.org/MakerSpaceLeiden"
    ],
@@ -111626,7 +112432,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://wiki.hackerspaces.org/Le_BIB"
    ],
@@ -111692,7 +112498,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://wiki.hackerspaces.org/La_Distorsion"
    ],
@@ -111822,7 +112628,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://wiki.hackerspaces.org/LeftClick"
    ],
@@ -112013,7 +112819,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://wiki.hackerspaces.org/Mainframe"
    ],
@@ -112278,7 +113084,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://wiki.hackerspaces.org/Laboratoire_Ouvert_Grenoblois"
    ],
@@ -112476,7 +113282,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://wiki.hackerspaces.org/Laboratoire_Ouvert_Villeurbannais"
    ],
@@ -112845,7 +113651,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://wiki.hackerspaces.org/Makers_im_Zigerschlitz"
    ],
@@ -112923,7 +113729,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://wiki.hackerspaces.org/Lodis"
    ],
@@ -113454,7 +114260,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://wiki.hackerspaces.org/Miss_Despoinas_Hackspace"
    ],
@@ -113656,7 +114462,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://wiki.hackerspaces.org/Lancaster_And_Morecambe_Makers_(LAMM)"
    ],
@@ -114141,7 +114947,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://wiki.hackerspaces.org/Logout"
    ],
@@ -114419,7 +115225,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://wiki.hackerspaces.org/Labka"
    ],
@@ -114764,8 +115570,8 @@
    "guild_id": "668892705832697875",
    "discord_name": "KUISC",
    "discord_description": null,
-   "members": 403,
-   "online": 32,
+   "members": 400,
+   "online": 29,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -114778,7 +115584,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://discord.com/api/v10/invites/zeuP3Hp"
    ],
@@ -114807,6 +115613,11 @@
      "date": "2026-09-28",
      "members": 403,
      "online": 32
+    },
+    {
+     "date": "2026-10-03",
+     "members": 400,
+     "online": 29
     }
    ],
    "category": "ctf",
@@ -115147,8 +115958,8 @@
    "guild_id": "757676923617804298",
    "discord_name": "Leeds Ethical Hack Soc",
    "discord_description": null,
-   "members": 249,
-   "online": 33,
+   "members": 254,
+   "online": 31,
    "size_tier": "tiny",
    "verified": false,
    "partnered": false,
@@ -115161,7 +115972,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.leedsbeckettsu.co.uk/society/ethical-hacking/"
    ],
@@ -115190,6 +116001,11 @@
      "date": "2026-09-28",
      "members": 249,
      "online": 33
+    },
+    {
+     "date": "2026-10-03",
+     "members": 254,
+     "online": 31
     }
    ],
    "category": "ctf",
@@ -115521,7 +116337,7 @@
    "discord_name": "MISC",
    "discord_description": null,
    "members": 884,
-   "online": 96,
+   "online": 111,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -115534,7 +116350,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://www.umisc.club/"
    ],
@@ -115563,6 +116379,11 @@
      "date": "2026-09-28",
      "members": 884,
      "online": 96
+    },
+    {
+     "date": "2026-10-03",
+     "members": 884,
+     "online": 111
     }
    ],
    "category": "ctf",
@@ -115705,8 +116526,8 @@
    "guild_id": "970859242628194345",
    "discord_name": "MQCyberSec",
    "discord_description": null,
-   "members": 1277,
-   "online": 170,
+   "members": 1275,
+   "online": 186,
    "size_tier": "small",
    "verified": false,
    "partnered": false,
@@ -115719,7 +116540,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://linktr.ee/mqcybersec"
    ],
@@ -115748,6 +116569,11 @@
      "date": "2026-09-28",
      "members": 1277,
      "online": 170
+    },
+    {
+     "date": "2026-10-03",
+     "members": 1275,
+     "online": 186
     }
    ],
    "category": "ctf",
@@ -116401,7 +117227,7 @@
    "nsfw": false,
    "invite_status": "ok",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "https://lghs.be"
    ],
@@ -116623,7 +117449,7 @@
    "nsfw": false,
    "invite_status": "unchecked",
    "first_seen": "2026-09-14",
-   "last_checked": "2026-09-28",
+   "last_checked": "2026-10-03",
    "sources": [
     "http://www.coagul.org"
    ],
@@ -121041,13 +121867,13 @@
   }
  ],
  "last_import": "2026-09-14",
- "last_refresh": "2026-10-02",
+ "last_refresh": "2026-10-03",
  "stats": {
   "total": 1281,
-  "ok": 224,
-  "dead": 2,
-  "errors": 3,
+  "ok": 220,
+  "dead": 3,
+  "errors": 5,
   "skipped": 0,
-  "seconds": 188
+  "seconds": 204
  }
 }
